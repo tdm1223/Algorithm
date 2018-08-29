@@ -1,18 +1,18 @@
-# ¾Ë°í¸®Áò ¹®Á¦Ç®ÀÌ
+ï»¿# ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œí’€ì´
 
-¹éÁØ ¿Â¶óÀÎÀúÁö(acmicpc.net)¿Í ÇÁ·Î±×·¡¸Ó½º(programmers.co.kr)ÀÇ ¾Ë°í¸®Áò ¹®Á¦ Ç®ÀÌÀÔ´Ï´Ù.
+ë°±ì¤€ ì˜¨ë¼ì¸ì €ì§€(acmicpc.net)ì™€ í”„ë¡œê·¸ë˜ë¨¸ìŠ¤(programmers.co.kr)ì˜ ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œ í’€ì´ì…ë‹ˆë‹¤.
 
-
-##¹éÁØ ¿Â¶óÀÎÀúÁö
-|¹øÈ£ | ¹®Á¦ | ÄÚµå |  
+###ë°±ì¤€ ì˜¨ë¼ì¸ì €ì§€
+|ë²ˆí˜¸ | ë¬¸ì œ | ì½”ë“œ |  
 | ---------- |-------------:|-----|  
 | 1000 |[A+B](https://www.acmicpc.net/problem/1000) | [cpp](acmicpc.net/1000.cpp) | 
 | 1001 |[A-B](https://www.acmicpc.net/problem/1001) | [cpp](acmicpc.net/1001.cpp) | 
-| 1002 |[ÅÍ·¿](https://www.acmicpc.net/problem/1002) | [cpp](acmicpc.net/1002.cpp) | 
-| 1003 |[ÇÇº¸³ªÄ¡ ÇÔ¼ö](https://www.acmicpc.net/problem/1003) | [cpp](acmicpc.net/1003.cpp) | 
-| 1009|[ºĞ»êÃ³¸®](https://www.acmicpc.net/problem/1009) | [cpp](acmicpc.net/1009.cpp) | 
-| 1010|[´Ù¸® ³õ±â](https://www.acmicpc.net/problem/1010) | [cpp](acmicpc.net/1010.cpp) | 
-| 1032|[¸í·É ÇÁ·ÒÇÁÆ®](https://www.acmicpc.net/problem/1032) | [cpp](acmicpc.net/1032.cpp) | 
-| 1037|[¾à¼ö](https://www.acmicpc.net/problem/1037) | [cpp](acmicpc.net/1037.cpp) | 
-| 1057|[Åä³Ê¸ÕÆ®](https://www.acmicpc.net/problem/1057) | [cpp](acmicpc.net/1057.cpp) | 
+| 1002 |[í„°ë ›](https://www.acmicpc.net/problem/1002) | [cpp](acmicpc.net/1002.cpp) | 
+| 1003 |[í”¼ë³´ë‚˜ì¹˜ í•¨ìˆ˜](https://www.acmicpc.net/problem/1003) | [cpp](acmicpc.net/1003.cpp) | 
+| 1009|[ë¶„ì‚°ì²˜ë¦¬](https://www.acmicpc.net/problem/1009) | [cpp](acmicpc.net/1009.cpp) | 
+| 1010|[ë‹¤ë¦¬ ë†“ê¸°](https://www.acmicpc.net/problem/1010) | [cpp](acmicpc.net/1010.cpp) | 
+| 1032|[ëª…ë ¹ í”„ë¡¬í”„íŠ¸](https://www.acmicpc.net/problem/1032) | [cpp](acmicpc.net/1032.cpp) | 
+| 1037|[ì•½ìˆ˜](https://www.acmicpc.net/problem/1037) | [cpp](acmicpc.net/1037.cpp) | 
+| 1057|[í† ë„ˆë¨¼íŠ¸](https://www.acmicpc.net/problem/1057) | [cpp](acmicpc.net/1057.cpp) | 
+
 
