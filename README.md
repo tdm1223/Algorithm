@@ -127,11 +127,22 @@
 프로그래머스
 ------------
 
-| 번호 | 문제                                                                                     | 코드                     |
-|:----:|:----------------------------------------------------------------------------------------:|:------------------------:|
-|  1   |          [2016년](https://www.welcomekakao.com/learn/courses/30/lessons/12901)           | [cpp](programmers/1.cpp) |
-|  2   |   [가운데 글자 가져오기](https://www.welcomekakao.com/learn/courses/30/lessons/12903)    | [cpp](programmers/2.cpp) |
-|  3   |     [같은 숫자는 싫어](https://www.welcomekakao.com/learn/courses/30/lessons/12906)      | [cpp](programmers/3.cpp) |
-|  4   | [나누어 떨어지는 숫자 배열](https://www.welcomekakao.com/learn/courses/30/lessons/12910) | [cpp](programmers/4.cpp) |
-|  5   |     [두 정수 사이의 합](https://www.welcomekakao.com/learn/courses/30/lessons/12912)     | [cpp](programmers/5.cpp) |
-|  6   |  [문자열 내 p와 y의 개수](https://www.welcomekakao.com/learn/courses/30/lessons/12916)   | [cpp](programmers/6.cpp) |
+| 번호 | 문제                                                                                        | 코드                      |
+|:----:|:-------------------------------------------------------------------------------------------:|:-------------------------:|
+|  1   |            [2016년](https://www.welcomekakao.com/learn/courses/30/lessons/12901)            | [cpp](programmers/1.cpp)  |
+|  2   |     [가운데 글자 가져오기](https://www.welcomekakao.com/learn/courses/30/lessons/12903)     | [cpp](programmers/2.cpp)  |
+|  3   |       [같은 숫자는 싫어](https://www.welcomekakao.com/learn/courses/30/lessons/12906)       | [cpp](programmers/3.cpp)  |
+|  4   |  [나누어 떨어지는 숫자 배열](https://www.welcomekakao.com/learn/courses/30/lessons/12910)   | [cpp](programmers/4.cpp)  |
+|  5   |      [두 정수 사이의 합](https://www.welcomekakao.com/learn/courses/30/lessons/12912)       | [cpp](programmers/5.cpp)  |
+|  6   |    [문자열 내 p와 y의 개수](https://www.welcomekakao.com/learn/courses/30/lessons/12916)    | [cpp](programmers/6.cpp)  |
+|  7   |     [서울에서 김서방 찾기](https://www.welcomekakao.com/learn/courses/30/lessons/12919)     | [cpp](programmers/7.cpp)  |
+|  8   |   [수박수박수박수박수박수?](https://www.welcomekakao.com/learn/courses/30/lessons/12922)    | [cpp](programmers/8.cpp)  |
+|  9   |         [평균 구하기](https://www.welcomekakao.com/learn/courses/30/lessons/12944)          | [cpp](programmers/9.cpp)  |
+|  10  |    [제일 작은 수 제거하기](https://www.welcomekakao.com/learn/courses/30/lessons/12935)     | [cpp](programmers/10.cpp) |
+|  11  |         [짝수와 홀수](https://www.welcomekakao.com/learn/courses/30/lessons/12937)          | [cpp](programmers/11.cpp) |
+|  12  |          [하샤드 수](https://www.welcomekakao.com/learn/courses/30/lessons/12947)           | [cpp](programmers/12.cpp) |
+|  13  |         [행렬의 덧셈](https://www.welcomekakao.com/learn/courses/30/lessons/12950)          | [cpp](programmers/13.cpp) |
+|  14  |         [콜라츠 추측](https://www.welcomekakao.com/learn/courses/30/lessons/12943)          | [cpp](programmers/14.cpp) |
+|  15  |        [자릿수 더하기](https://www.welcomekakao.com/learn/courses/30/lessons/12931)         | [cpp](programmers/15.cpp) |
+|  16  |      [핸드폰 번호 가리기](https://www.welcomekakao.com/learn/courses/30/lessons/12948)      | [cpp](programmers/16.cpp) |
+|  17  | [x만큼 간격이 있는 n개의 숫자](https://www.welcomekakao.com/learn/courses/30/lessons/12954) | [cpp](programmers/17.cpp) |

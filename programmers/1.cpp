@@ -17,4 +17,3 @@ string solution(int a, int b) {
     count%=7;
     answer = day[count];
     return answer;
-}
