@@ -1,4 +1,4 @@
-//ÀÌ»óÇÑ ¹®ÀÚ ¸¸µé±â
+//ì´ìƒí•œ ë¬¸ì ë§Œë“¤ê¸°
 #include <string>
 #include <vector>
 #include<iostream>
@@ -17,7 +17,7 @@ string solution(string s) {
             else s[i]=toupper(s[i]);
         }
         count++;
-   }        
+   }
     answer=s;
     return answer;
 }

@@ -1,4 +1,4 @@
-//¹®ÀÚ¿­ ´Ù·ç±â ±âº»
+//ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½Ù·ï¿½ï¿½ï¿½ ï¿½âº»
 #include <string>
 #include<iostream>
 #include <vector>

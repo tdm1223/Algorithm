@@ -1,4 +1,4 @@
-//���ڿ��� ������ �ٲٱ�
+// 문자열을 정수로 바꾸기
 // int answer=stoi(s); 한 줄로 해결 가능
 
 #include <string>
