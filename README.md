@@ -100,10 +100,13 @@ Level 1
 Level 2
 -------
 
-| 번호 | 문제                                                                                | 코드                       | 번호 | 문제                                                                        | 코드                       |
-|:----:|:-----------------------------------------------------------------------------------:|:--------------------------:|:----:|:---------------------------------------------------------------------------:|:--------------------------:|
-|  1   |       [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)       | [cpp](programmers/2-1.cpp) |  2   |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)   | [cpp](programmers/2-2.cpp) |
-|  3   | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [cpp](programmers/2-3.cpp) |  4   | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [cpp](programmers/2-4.cpp) |
+| 번호 | 문제                                                                                | 코드                       | 번호 | 문제                                                                         | 코드                        |
+|:----:|:-----------------------------------------------------------------------------------:|:--------------------------:|:----:|:----------------------------------------------------------------------------:|:---------------------------:|
+|  1   |       [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)       | [cpp](programmers/2-1.cpp) |  2   |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)    | [cpp](programmers/2-2.cpp)  |
+|  3   | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [cpp](programmers/2-3.cpp) |  4   | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)  | [cpp](programmers/2-4.cpp)  |
+|  5   |       [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)       | [cpp](programmers/2-5.cpp) |  6   | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)  | [cpp](programmers/2-6.cpp)  |
+|  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      | [cpp](programmers/2-7.cpp) |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
+|  9   |  [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)  | [cpp](programmers/2-9.cpp) |  8   |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
 
 Level 3
 -------
