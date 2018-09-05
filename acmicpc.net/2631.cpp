@@ -1,4 +1,4 @@
-// 11053. 가장 긴 증가하는 부분 수열
+//2631. 줄 세우기
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -23,6 +23,6 @@ int main()
 				d[i] = max(d[i], d[j] + 1);
 		ans = max(ans, d[i]);
 	}
-	cout << ans << endl;
+	cout << n - ans << endl;
 	return 0;
 }
