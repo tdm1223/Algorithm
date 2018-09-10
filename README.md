@@ -120,10 +120,11 @@ Greedy Algorithm
 스택, 큐
 --------
 
-| 번호 | 문제                                              | 코드                         | 번호 | 문제                                         | 코드                         |
-|:----:|:-------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------:|:----------------------------:|
-|  1   |   [스택](https://www.acmicpc.net/problem/10828)   | [cpp](acmicpc.net/10828.cpp) |  2   |  [큐](https://www.acmicpc.net/problem/1946)  | [cpp](acmicpc.net/10845.cpp) |
-|  3   | [쇠막대기](https://www.acmicpc.net/problem/10799) | [cpp](acmicpc.net/10799.cpp) |  4   | [괄호](https://www.acmicpc.net/problem/9012) | [cpp](acmicpc.net/9012.cpp)  |
+| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                         | 코드                         |
+|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------:|:----------------------------:|
+|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |  [큐](https://www.acmicpc.net/problem/1946)  | [cpp](acmicpc.net/10845.cpp) |
+|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   | [괄호](https://www.acmicpc.net/problem/9012) | [cpp](acmicpc.net/9012.cpp)  |
+|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |      |                                              |                              |
 
 #프로그래머스
 -------------
