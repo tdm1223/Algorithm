@@ -1,32 +1,35 @@
+//1032. 명령 프롬프트
 #include <iostream>
-#include <string.h>
 #include <string>
 using namespace std;
-char a[51][51];
-string k;
-int n, ind;
-bool c;
-int main() {
-	cin >> n;
-	for (int i = 0; i < n; i++)
-		cin >> a[i];
 
-	for (int j = 0; j < strlen(a[0]); j++)
+char s[51];
+char c[51];
+
+int main()
+{
+	int n;
+	cin >> n;
+
+	n--;
+	cin >> s;
+
+	while (n--)
 	{
-		c = 0;
-		for (int i = 0; i < n - 1; i++)
+		cin >> c;
+
+		for (int i = 0; i < 50; i++)
 		{
-			if (a[i][j] != a[i + 1][j])
+			if (s[i] == NULL) break;
+			else
 			{
-				c = 1;
-				break;
+				if (s[i] != c[i])
+					s[i] = '?';
 			}
-			ind = i;
 		}
-		if (c == 1)
-			k += '?';
-		else
-			k += a[ind][j];
 	}
-	cout << k;
+
+	cout << s << endl;
+
+	return 0;
 }

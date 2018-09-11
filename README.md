@@ -41,6 +41,7 @@
 |  51  |         [2007년](https://www.acmicpc.net/problem/1924)          | [cpp](acmicpc.net/1924.cpp)  |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         | [cpp](acmicpc.net/1159.cpp)  |
 |  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          | [cpp](acmicpc.net/1773.cpp)  |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         | [cpp](acmicpc.net/1009.cpp)  |
 |  55  |      [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](acmicpc.net/1748.cpp)  |  56  |           [한수](https://www.acmicpc.net/problem/1065)           | [cpp](acmicpc.net/1065.cpp)  |
+|  57  |          [벌집](https://www.acmicpc.net/problem/2292)           | [cpp](acmicpc.net/2292.cpp)  |      |                                                                  |                              |
 
 수학
 ----
@@ -78,6 +79,9 @@
 |  13  |   [아스키 코드](https://www.acmicpc.net/problem/11654)    | [cpp](acmicpc.net/11654.cpp) |  14  |      [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [cpp](acmicpc.net/2743.cpp)  |
 |  15  |   [모음의 개수](https://www.acmicpc.net/problem/10987)    | [cpp](acmicpc.net/10987.cpp) |  16  | [지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586) | [cpp](acmicpc.net/11586.cpp) |
 |  17  |  [좌표 정렬 하기](https://www.acmicpc.net/problem/11650)  | [cpp](acmicpc.net/11650.cpp) |  18  |      [그룹 단어 체커](https://www.acmicpc.net/problem/1316)      | [cpp](acmicpc.net/1316.cpp)  |
+|  19  |   [접미사 배열](https://www.acmicpc.net/problem/11656)    | [cpp](acmicpc.net/11656.cpp) |  20  |    [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)     | [cpp](acmicpc.net/9933.cpp)  |
+|  21  |   [알파벳 개수](https://www.acmicpc.net/problem/10808)    | [cpp](acmicpc.net/10808.cpp) |  22  |          [다이얼](https://www.acmicpc.net/problem/5622)          | [cpp](acmicpc.net/5622.cpp)  |
+|  23  |      [하얀 칸](https://www.acmicpc.net/problem/1100)      | [cpp](acmicpc.net/1100.cpp)  |  24  |    [KMP는 왜 KMP일까? ](https://www.acmicpc.net/problem/2902)    | [cpp](acmicpc.net/2902.cpp)  |
 
 다이나믹 프로그래밍
 -------------------
@@ -117,14 +121,14 @@ Greedy Algorithm
 |  1   | [신입 사원](https://www.acmicpc.net/problem/1946) | [cpp](acmicpc.net/1946.cpp)  |  2   | [거스름돈](https://www.acmicpc.net/problem/5585) | [cpp](acmicpc.net/5585.cpp) |
 |  3   |   [ATM](https://www.acmicpc.net/problem/11399)    | [cpp](acmicpc.net/11399.cpp) |      |                                                  |                             |
 
-스택, 큐
---------
+스택, 큐, 링크드 리스트
+-----------------------
 
-| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                         | 코드                         |
-|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------:|:----------------------------:|
-|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |  [큐](https://www.acmicpc.net/problem/1946)  | [cpp](acmicpc.net/10845.cpp) |
-|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   | [괄호](https://www.acmicpc.net/problem/9012) | [cpp](acmicpc.net/9012.cpp)  |
-|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |      |                                              |                              |
+| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                              | 코드                         |
+|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------:|:----------------------------:|
+|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |    [큐](https://www.acmicpc.net/problem/1946)     | [cpp](acmicpc.net/10845.cpp) |
+|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |   [괄호](https://www.acmicpc.net/problem/9012)    | [cpp](acmicpc.net/9012.cpp)  |
+|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   | [좋은 단어](https://www.acmicpc.net/problem/3986) | [cpp](acmicpc.net/3986.cpp)  |
 
 #프로그래머스
 -------------
@@ -168,6 +172,7 @@ Level 3
 | 번호 | 문제                                                                     | 코드                       | 번호 | 문제                                                                  | 코드                       |
 |:----:|:------------------------------------------------------------------------:|:--------------------------:|:----:|:---------------------------------------------------------------------:|:--------------------------:|
 |  1   | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](programmers/3-1.cpp) |  2   | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](programmers/3-2.cpp) |
+|  3   |  [거스름돈]](https://programmers.co.kr/learn/courses/30/lessons/12907\)  | [cpp](programmers/3-3.cpp) |      |                                                                       |                            |
 
 #HackerRank
 -----------
