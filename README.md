@@ -41,7 +41,8 @@
 |  51  |         [2007년](https://www.acmicpc.net/problem/1924)          | [cpp](acmicpc.net/1924.cpp)  |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         | [cpp](acmicpc.net/1159.cpp)  |
 |  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          | [cpp](acmicpc.net/1773.cpp)  |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         | [cpp](acmicpc.net/1009.cpp)  |
 |  55  |      [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](acmicpc.net/1748.cpp)  |  56  |           [한수](https://www.acmicpc.net/problem/1065)           | [cpp](acmicpc.net/1065.cpp)  |
-|  57  |          [벌집](https://www.acmicpc.net/problem/2292)           | [cpp](acmicpc.net/2292.cpp)  |      |                                                                  |                              |
+|  57  |          [벌집](https://www.acmicpc.net/problem/2292)           | [cpp](acmicpc.net/2292.cpp)  |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      | [cpp](acmicpc.net/10819.cpp) |
+|  59  |         [나머지](https://www.acmicpc.net/problem/3052)          | [cpp](acmicpc.net/3052.cpp)  |      |                                                                  |                              |
 
 수학
 ----
@@ -103,7 +104,7 @@
 |  25  |        [이동하기](https://www.acmicpc.net/problem/11048)        | [cpp](acmicpc.net/11048.cpp) |  26  |             [LCS](https://www.acmicpc.net/problem/9251)             | [cpp](acmicpc.net/9251.cpp)  |
 |  27  |        [줄세우기](https://www.acmicpc.net/problem/2631)         | [cpp](acmicpc.net/2631.cpp)  |  28  |         [만취한 상범](https://www.acmicpc.net/problem/6359)         | [cpp](acmicpc.net/6359.cpp)  |
 |  29  | [Generations of Tribbles](https://www.acmicpc.net/problem/9507) | [cpp](acmicpc.net/9507.cpp)  |  30  |           [01타일](https://www.acmicpc.net/problem/1904)            | [cpp](acmicpc.net/1904.cpp)  |
-|  31  | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [cpp](acmicpc.net/11055.cpp) |      |                                                                     |                              |
+|  31  | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [cpp](acmicpc.net/11055.cpp) |  32  |          [내리막 길](https://www.acmicpc.net/problem/1520)          | [cpp](acmicpc.net/1520.cpp)  |
 
 BFS, DFS, 길찾기
 ----------------
@@ -172,11 +173,18 @@ Level 3
 | 번호 | 문제                                                                     | 코드                       | 번호 | 문제                                                                  | 코드                       |
 |:----:|:------------------------------------------------------------------------:|:--------------------------:|:----:|:---------------------------------------------------------------------:|:--------------------------:|
 |  1   | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](programmers/3-1.cpp) |  2   | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](programmers/3-2.cpp) |
-|  3   |  [거스름돈]](https://programmers.co.kr/learn/courses/30/lessons/12907\)  | [cpp](programmers/3-3.cpp) |      |                                                                       |                            |
+|  3   |   [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)   | [cpp](programmers/3-3.cpp) |      |                                                                       |                            |
+
+kakao
+-----
+
+| 번호 | 문제                                                                  | 코드                           | 번호 | 문제 | 코드 |
+|:----:|:---------------------------------------------------------------------:|:------------------------------:|:----:|:----:|:----:|
+|  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |      |      |      |
 
 #HackerRank
 -----------
 
-| 번호 | 문제                                                                            | 코드                                     | 번호 | 문제 | 코드 |
-|:----:|:-------------------------------------------------------------------------------:|:----------------------------------------:|:----:|:----:|:----:|
-|  1   | [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [cpp](hackerrank.com/migratoryBirds.cpp) |      |      |      |
+| 번호 | 문제                                                                            | 코드                                     | 번호 | 문제                                                                                             | 코드                                      |
+|:----:|:-------------------------------------------------------------------------------:|:----------------------------------------:|:----:|:------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
+|  1   | [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [cpp](hackerrank.com/migratoryBirds.cpp) |  2   | [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [cpp](hackerrank.com/breakingRecords.cpp) |
