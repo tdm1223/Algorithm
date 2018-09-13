@@ -105,6 +105,7 @@
 |  27  |        [줄세우기](https://www.acmicpc.net/problem/2631)         | [cpp](acmicpc.net/2631.cpp)  |  28  |         [만취한 상범](https://www.acmicpc.net/problem/6359)         | [cpp](acmicpc.net/6359.cpp)  |
 |  29  | [Generations of Tribbles](https://www.acmicpc.net/problem/9507) | [cpp](acmicpc.net/9507.cpp)  |  30  |           [01타일](https://www.acmicpc.net/problem/1904)            | [cpp](acmicpc.net/1904.cpp)  |
 |  31  | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [cpp](acmicpc.net/11055.cpp) |  32  |          [내리막 길](https://www.acmicpc.net/problem/1520)          | [cpp](acmicpc.net/1520.cpp)  |
+|  33  |          [퇴사](https://www.acmicpc.net/problem/14501)          | [cpp](acmicpc.net/14501.cpp) |  34  |        [이항 계수 2](https://www.acmicpc.net/problem/11051)         | [cpp](acmicpc.net/11051.cpp) |
 
 BFS, DFS, 길찾기
 ----------------
@@ -117,19 +118,20 @@ BFS, DFS, 길찾기
 Greedy Algorithm
 ----------------
 
-| 번호 | 문제                                              | 코드                         | 번호 | 문제                                             | 코드                        |
-|:----:|:-------------------------------------------------:|:----------------------------:|:----:|:------------------------------------------------:|:---------------------------:|
-|  1   | [신입 사원](https://www.acmicpc.net/problem/1946) | [cpp](acmicpc.net/1946.cpp)  |  2   | [거스름돈](https://www.acmicpc.net/problem/5585) | [cpp](acmicpc.net/5585.cpp) |
-|  3   |   [ATM](https://www.acmicpc.net/problem/11399)    | [cpp](acmicpc.net/11399.cpp) |      |                                                  |                             |
+| 번호 | 문제                                              | 코드                         | 번호 | 문제                                               | 코드                        |
+|:----:|:-------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:---------------------------:|
+|  1   | [신입 사원](https://www.acmicpc.net/problem/1946) | [cpp](acmicpc.net/1946.cpp)  |  2   |  [거스름돈](https://www.acmicpc.net/problem/5585)  | [cpp](acmicpc.net/5585.cpp) |
+|  3   |   [ATM](https://www.acmicpc.net/problem/11399)    | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp) |
 
 스택, 큐, 링크드 리스트
 -----------------------
 
-| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                              | 코드                         |
-|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------:|:----------------------------:|
-|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |    [큐](https://www.acmicpc.net/problem/1946)     | [cpp](acmicpc.net/10845.cpp) |
-|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |   [괄호](https://www.acmicpc.net/problem/9012)    | [cpp](acmicpc.net/9012.cpp)  |
-|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   | [좋은 단어](https://www.acmicpc.net/problem/3986) | [cpp](acmicpc.net/3986.cpp)  |
+| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                | 코드                         |
+|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
+|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |     [큐](https://www.acmicpc.net/problem/1946)      | [cpp](acmicpc.net/10845.cpp) |
+|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |    [괄호](https://www.acmicpc.net/problem/9012)     | [cpp](acmicpc.net/9012.cpp)  |
+|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   |  [좋은 단어](https://www.acmicpc.net/problem/3986)  | [cpp](acmicpc.net/3986.cpp)  |
+|  7   |   [스택 수열](https://www.acmicpc.net/problem/1874)   | [cpp](acmicpc.net/1874.cpp)  |  8   | [후위 표기식](https://www.acmicpc.net/problem/1918) | [cpp](acmicpc.net/1918.cpp)  |
 
 #프로그래머스
 -------------
@@ -185,6 +187,7 @@ kakao
 #HackerRank
 -----------
 
-| 번호 | 문제                                                                            | 코드                                     | 번호 | 문제                                                                                             | 코드                                      |
-|:----:|:-------------------------------------------------------------------------------:|:----------------------------------------:|:----:|:------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
-|  1   | [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [cpp](hackerrank.com/migratoryBirds.cpp) |  2   | [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [cpp](hackerrank.com/breakingRecords.cpp) |
+| 번호 | 문제                                                                                | 코드                                        | 번호 | 문제                                                                                             | 코드                                        |
+|:----:|:-----------------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:------------------------------------------------------------------------------------------------:|:-------------------------------------------:|
+|  1   |   [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem)   |  [cpp](hackerrank.com/migratoryBirds.cpp)   |  2   | [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |  [cpp](hackerrank.com/breakingRecords.cpp)  |
+|  3   | [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [cpp](hackerrank.com/birthdayChocolate.cpp) |  4   |      [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)      | [cpp](hackerrank.com/divisibleSumPairs.cpp) |
