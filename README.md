@@ -118,10 +118,11 @@ BFS, DFS, 길찾기
 Greedy Algorithm
 ----------------
 
-| 번호 | 문제                                              | 코드                         | 번호 | 문제                                               | 코드                        |
-|:----:|:-------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:---------------------------:|
-|  1   | [신입 사원](https://www.acmicpc.net/problem/1946) | [cpp](acmicpc.net/1946.cpp)  |  2   |  [거스름돈](https://www.acmicpc.net/problem/5585)  | [cpp](acmicpc.net/5585.cpp) |
-|  3   |   [ATM](https://www.acmicpc.net/problem/11399)    | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp) |
+| 번호 | 문제                                                 | 코드                         | 번호 | 문제                                               | 코드                        |
+|:----:|:----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:---------------------------:|
+|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [cpp](acmicpc.net/1946.cpp)  |  2   |  [거스름돈](https://www.acmicpc.net/problem/5585)  | [cpp](acmicpc.net/5585.cpp) |
+|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp) |
+|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |      |                                                    |                             |
 
 스택, 큐, 링크드 리스트
 -----------------------
@@ -187,7 +188,8 @@ kakao
 #HackerRank
 -----------
 
-| 번호 | 문제                                                                                | 코드                                        | 번호 | 문제                                                                                             | 코드                                        |
-|:----:|:-----------------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:------------------------------------------------------------------------------------------------:|:-------------------------------------------:|
-|  1   |   [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem)   |  [cpp](hackerrank.com/migratoryBirds.cpp)   |  2   | [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |  [cpp](hackerrank.com/breakingRecords.cpp)  |
-|  3   | [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [cpp](hackerrank.com/birthdayChocolate.cpp) |  4   |      [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)      | [cpp](hackerrank.com/divisibleSumPairs.cpp) |
+| 번호 | 문제                                                                        | 코드                                        | 번호 | 문제                                                                                     | 코드                                        |
+|:----:|:---------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:----------------------------------------------------------------------------------------:|:-------------------------------------------:|
+|  1   |   [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds)   |  [cpp](hackerrank.com/migratoryBirds.cpp)   |  2   | [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) |  [cpp](hackerrank.com/breakingRecords.cpp)  |
+|  3   | [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | [cpp](hackerrank.com/birthdayChocolate.cpp) |  4   |      [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)      | [cpp](hackerrank.com/divisibleSumPairs.cpp) |
+|  5   |       [bonAppetit](https://www.hackerrank.com/challenges/bon-appetit)       |    [cpp](hackerrank.com/bonAppetit.cpp)     |      |                                                                                          |                                             |
