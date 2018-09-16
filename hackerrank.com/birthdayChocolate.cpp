@@ -1,5 +1,5 @@
-// Bhttps://www.hackerrank.com/challenges/the-birthday-bar/problem
-int birthday(vector<int> s, int d, int m) 
+// Bhttps://www.hackerrank.com/challenges/the-birthday-bar
+int birthday(vector<int> s, int d, int m)
 {
     int answer=0;
     for(int i=0;i<s.size();i++)

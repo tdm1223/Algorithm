@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+// https://www.hackerrank.com/challenges/breaking-best-and-worst-records
 vector<int> breakingRecords(vector<int> scores) 
 {
     int min,max;

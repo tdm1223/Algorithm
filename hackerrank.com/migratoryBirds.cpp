@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/migratory-birds/problem
+// https://www.hackerrank.com/challenges/migratory-birds
 int migratoryBirds(vector<int> arr) 
 {
     int ans[6]={0,0,0,0,0,0};
