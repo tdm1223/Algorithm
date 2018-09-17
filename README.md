@@ -5,8 +5,8 @@
 
 백준 온라인저지(acmicpc.net)와 프로그래머스(programmers.co.kr)의 알고리즘 문제 풀이입니다.
 
-#백준 온라인 저지
------------------
+백준 온라인 저지
+----------------
 
 구현, 기타
 ----------
@@ -111,10 +111,11 @@
 BFS, DFS, 길찾기
 ----------------
 
-| 번호 | 문제                                              | 코드                        | 번호 | 문제                                                     | 코드                         |
-|:----:|:-------------------------------------------------:|:---------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [cpp](acmicpc.net/1260.cpp) |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) | [cpp](acmicpc.net/2667.cpp)  |
-|  3   | [바이러스](https://www.acmicpc.net/problem/2606)  | [cpp](acmicpc.net/2606.cpp) |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)    | [cpp](acmicpc.net/11403.cpp) |
+| 번호 | 문제                                               | 코드                        | 번호 | 문제                                                     | 코드                         |
+|:----:|:--------------------------------------------------:|:---------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
+|  1   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [cpp](acmicpc.net/1260.cpp) |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) | [cpp](acmicpc.net/2667.cpp)  |
+|  3   |  [바이러스](https://www.acmicpc.net/problem/2606)  | [cpp](acmicpc.net/2606.cpp) |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)    | [cpp](acmicpc.net/11403.cpp) |
+|  5   | [스타트링크](https://www.acmicpc.net/problem/5014) | [cpp](acmicpc.net/5014.cpp) |      |                                                          |                              |
 
 Greedy Algorithm
 ----------------
@@ -134,9 +135,10 @@ Greedy Algorithm
 |  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |    [괄호](https://www.acmicpc.net/problem/9012)     | [cpp](acmicpc.net/9012.cpp)  |
 |  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   |  [좋은 단어](https://www.acmicpc.net/problem/3986)  | [cpp](acmicpc.net/3986.cpp)  |
 |  7   |   [스택 수열](https://www.acmicpc.net/problem/1874)   | [cpp](acmicpc.net/1874.cpp)  |  8   | [후위 표기식](https://www.acmicpc.net/problem/1918) | [cpp](acmicpc.net/1918.cpp)  |
+|  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |      |                                                     |                              |
 
-#프로그래머스
--------------
+프로그래머스
+------------
 
 Level 1
 -------
@@ -158,6 +160,7 @@ Level 1
 |  25  |    [문자열을 정수로 바꾸기](https://www.welcomekakao.com/learn/courses/30/lessons/12925)    | [cpp](programmers/1-25.cpp) |  26  |     [문자열 다루기 기본](https://www.welcomekakao.com/learn/courses/30/lessons/12918)      | [cpp](programmers/1-26.cpp) |
 |  27  | [문자열 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12917) | [cpp](programmers/1-27.cpp) |  28  |     [이상한 문자 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12930)      | [cpp](programmers/1-28.cpp) |
 |  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
+|  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |      |                                                                                            |                             |
 
 Level 2
 -------
@@ -169,7 +172,7 @@ Level 2
 |  5   |       [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)       |  [cpp](programmers/2-5.cpp)  |  6   | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)  | [cpp](programmers/2-6.cpp)  |
 |  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      |  [cpp](programmers/2-7.cpp)  |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
 |  9   |  [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)  |  [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
-|  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-119.cpp) |  12  |   [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)   |                             |
+|  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-119.cpp) |  12  |     [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)      | [cpp](programmers/2-12.cpp) |
 
 Level 3
 -------
@@ -186,8 +189,8 @@ kakao
 |:----:|:---------------------------------------------------------------------:|:------------------------------:|:----:|:----:|:----:|
 |  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |      |      |      |
 
-#HackerRank
------------
+HackerRank
+----------
 
 | 번호 | 문제                                                                        | 코드                                        | 번호 | 문제                                                                                     | 코드                                        |
 |:----:|:---------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:----------------------------------------------------------------------------------------:|:-------------------------------------------:|
