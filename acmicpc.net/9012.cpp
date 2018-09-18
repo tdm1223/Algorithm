@@ -1,3 +1,4 @@
+// 9012. 愿꾪샇
 #include <iostream>
 #include<stack>
 #include<string>
@@ -27,7 +28,7 @@ int main()
 			if (tmp == '(')
 			{
 				first++;
-				if (first > second) break; // 거꾸로 pop하는 과정에서 '('가 더 많으면 NO
+				if (first > second) break; 
 			}
 			else
 			{

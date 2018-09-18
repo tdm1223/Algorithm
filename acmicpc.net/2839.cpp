@@ -1,3 +1,4 @@
+// 2839. ì„¤íƒ• ë°°ë‹¬
 #include <iostream>
 
 using namespace std;
@@ -12,7 +13,7 @@ int main()
 
 	while (1)
 	{
-		if (n % 5 == 0)//5·Î ³ª´©¾î ¶³¾îÁö¸é
+		if (n % 5 == 0)//5ë¡œ ë‚˜ëˆ„ì–´ ë–¨ì–´ì§€ë©´
 		{
 			count2 = n / 5;
 			ans = count1 + count2;

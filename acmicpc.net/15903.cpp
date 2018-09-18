@@ -1,3 +1,4 @@
+//15903. 카드 합체 놀이
 #include <iostream>
 #include<algorithm>
 #include<deque>
@@ -28,7 +29,7 @@ int main() {
 		long long sum = first + second;
 		dq.push_back(sum);
 		dq.push_back(sum);
-		
+
 	}
 
 	long long ans = 0;

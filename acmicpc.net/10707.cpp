@@ -1,6 +1,7 @@
+// 10707. 수도요금
 #include <iostream>
 using namespace std;
-int min(int a, int b) 
+int min(int a, int b)
 {
 	return a > b ? b : a;
 }

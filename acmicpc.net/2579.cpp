@@ -1,32 +1,30 @@
+// 2579. ê³„ë‹¨ ì˜¤ë¥´ê¸°
 #include <iostream>
-#include<math.h>
+#include<vector>
 using namespace std;
 
 int max(int a, int b)
 {
 	return a > b ? a : b;
 }
+int d[301];
 int main()
 {
 	int n;
 	cin >> n;
-	int * a = new int[n];
+	vector<int> v(n);
 
 	for (int i = 0; i < n; i++)
-		cin >> a[i];
-	//d[n] : n¹øÂ° °è´Ü ±îÁö Á¡¼öÀÇ ÃÖ´ë°ª
-	int * d = new int[n];
-	d[0] = a[0];
-	d[1] = max(a[0] + a[1], a[1]);
-	d[2] = max(a[0] + a[2], a[1] + a[2]);
+		cin >> v[i];
+	//d[n] : nê¹Œì§€ ì˜¬ëì„ë•Œ ì´ ì ìˆ˜ì˜ ìµœëŒ“ ê°’
+	d[0] = v[0];
+	d[1] = max(v[0] + v[1], v[1]);
+	d[2] = max(v[0] + v[2], v[1] + v[2]);
 
 	for (int i = 3; i < n; i++)
 	{
-		d[i] = max(d[i - 2] + a[i], d[i - 3] + a[i - 1] + a[i]);
+		d[i] = max(d[i - 2] + v[i], d[i - 3] + v[i - 1] + v[i]);
 	}
 	cout << d[n - 1] << endl;
-
-	delete a;
-	delete d;
 	return 0;
 }

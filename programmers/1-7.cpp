@@ -1,10 +1,10 @@
-//¼­¿ï¿¡¼­ ±è¼­¹æ Ã£±â
+//ì„œìš¸ì—ì„œ ê¹€ì„œë°© ì°¾ê¸°
 #include <string>
 #include <vector>
 
 using namespace std;
 
-string solution(vector<string> seoul) 
+string solution(vector<string> seoul)
 {
     string answer="";
     int tmp=0;
@@ -15,6 +15,6 @@ string solution(vector<string> seoul)
             break;
         }
     }
-    answer=string("±è¼­¹æÀº ").append(to_string(tmp)).append("¿¡ ÀÖ´Ù");
+    answer=string("ï¿½è¼­ï¿½ï¿½ï¿½ï¿½ ").append(to_string(tmp)).append("ï¿½ï¿½ ï¿½Ö´ï¿½");
     return answer;
 }

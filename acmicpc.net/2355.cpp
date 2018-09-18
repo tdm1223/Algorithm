@@ -1,3 +1,4 @@
+//2355. ì‹œê·¸ë§ˆ
 #include <iostream>
 
 using namespace std;
@@ -7,7 +8,6 @@ int main()
 {
 	long long a, b;
 	cin >> a >> b;
-	//1ºÎÅÍ Å«¼ö±îÁöÀÇ ÇÕ - 1ºÎÅÍ (ÀÛÀº¼ö-1)±îÁöÀÇ ÇÕ
 	if (a >= b)
 	{
 		cout << a * (a + 1) / 2 - b * (b - 1) / 2 << endl;
@@ -18,4 +18,3 @@ int main()
 	}
 
 }
-

@@ -1,6 +1,6 @@
+// 2789. ìœ í•™ ê¸ˆì§€
 #include <iostream>
 #include<string>
-
 using namespace std;
 
 
@@ -15,7 +15,7 @@ int main()
 		for (int j = 0; j < 9; j++)
 		{
 			if (s[i] == cam[j]) break;
-			if (j == 8)  ans += s[i]; //³¡±îÁö °£´Ù¸é CAMBRIDGEÁß¿¡ ¾øÀ¸¹Ç·Î ans¿¡ Ãß°¡
+			if (j == 8)  ans += s[i]; //ëê¹Œì§€ ê°„ë‹¤ë©´ CAMBRIDGEì¤‘ì— ì—†ìœ¼ë¯€ë¡œ ansì— ì¶”ê°€
 		}
 	}
 	cout << ans << endl;

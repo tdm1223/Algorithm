@@ -1,3 +1,4 @@
+// 10871. X보다 작은 수
 #include <iostream>
 
 using namespace std;
@@ -17,6 +18,6 @@ int main()
 	}
 	cout << endl;
 	delete a;
-	
+
 	return 0;
 }

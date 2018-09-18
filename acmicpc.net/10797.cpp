@@ -1,4 +1,4 @@
-//10ºÎÁ¦
+// 10797. 10ë¶€ì œ
 #include <iostream>
 
 using namespace std;

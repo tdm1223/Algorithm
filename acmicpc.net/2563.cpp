@@ -1,3 +1,4 @@
+// 2563. 색종이
 #include <iostream>
 using namespace std;
 

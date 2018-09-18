@@ -1,3 +1,4 @@
+// 2822. Л═░Л┬≤ ЙЁ└Л┌╟
 #include <iostream>
 #include <algorithm>
 
@@ -5,12 +6,12 @@ using namespace std;
 
 int ans[5], score[8], sum = 0;
 
-int main() 
+int main()
 {
 	for (int i = 0; i < 8; i++)
 		cin >> score[i];
 
-	//е╚╟е╦╕ гоЁ╙╬© цёю╦╦И╪╜ юн╣╕╫╨╦╕ ╠Б╬Ого╟М -1╥н ╧ы╡ш╢ы.
+	//е╚О©╫е╦О©╫ О©╫оЁО©╫О©╫О©╫ цёО©╫О©╫О©╫И╪╜ О©╫н╣О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫о╟О©╫ -1О©╫О©╫ О©╫ы╡ш╢О©╫.
 	for (int i = 0; i < 5; i++)
 	{
 		int big = -1;

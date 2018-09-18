@@ -1,3 +1,4 @@
+// 9465. ìŠ¤í‹°ì»¤
 #include <iostream>
 
 using namespace std;
@@ -9,7 +10,7 @@ int max(int a, int b)
 
 int d[2][100001];
 int a[2][100001];
-int main() 
+int main()
 {
 	int t;
 	cin >> t;
@@ -26,12 +27,6 @@ int main()
 
 		for (int i = 0; i < n; i++)
 		{
-			//1 2 3 4
-			//5 6 7 8
-			//4ÀÇ °æ¿ì 
-			//1. 7°ú 4ÀÇ ÇÕ 
-			//2. 3
-			//3. 6°ú 4ÀÇ ÇÕÁß ÃÖ´ëÀÎ°Í
 			d[0][i] = max(max(d[0][i - 1], d[1][i - 1] + a[0][i]), d[1][i - 2] + a[0][i]);
 			d[1][i] = max(max(d[1][i - 1], d[0][i - 1] + a[1][i]), d[0][i - 2] + a[1][i]);
 		}

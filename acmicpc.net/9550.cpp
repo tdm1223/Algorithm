@@ -1,3 +1,4 @@
+// 9550. ์•์ด๋“ค์€ ์ฌํ•์ ์ข์•ํ•ด
 #include <iostream>
 
 using namespace std;
@@ -5,8 +6,6 @@ using namespace std;
 int main() {
 
 	int t, n, k;
-	//n : ป็ลมภว มพท๙ภว ผ๖ 
-	//k : kฐณ ภฬป๓ ธิพ๎พ฿ วเบน
 	cin >> t;
 	while (t > 0)
 	{
@@ -22,6 +21,6 @@ int main() {
 		}
 		cout << count << endl;
 	}
-	
+
 	return 0;
 }

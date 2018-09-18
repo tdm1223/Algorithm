@@ -1,9 +1,9 @@
-//ÇÏ»þµå ¼ö
+// í•˜ìƒ¤ë“œ ìˆ˜
 #include <string>
 #include <vector>
 using namespace std;
 
-bool solution(int x) 
+bool solution(int x)
 {
     bool answer = true;
     int tmp=x;

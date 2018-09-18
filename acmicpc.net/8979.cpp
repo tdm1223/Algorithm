@@ -1,3 +1,4 @@
+// 8979. 올림픽
 #include <cstdio>
 #include <queue>
 #include <algorithm>
@@ -33,7 +34,7 @@ int main() {
 	medal medal;
 
 	cin >> n >> k;
-	for (int i = 0; i<n; i++) 
+	for (int i = 0; i<n; i++)
 	{
 		cin >> medal.total >> medal.gold >> medal.silver >> medal.bronze;
 		v.push_back(medal);
@@ -41,7 +42,7 @@ int main() {
 
 	sort(v.begin(), v.end(), comp);
 
-	for (int i = 0; i<n; i++) 
+	for (int i = 0; i<n; i++)
 	{
 		if (v[i].total == k)
 		{

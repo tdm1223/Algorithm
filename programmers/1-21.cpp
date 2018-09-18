@@ -1,8 +1,8 @@
-//Á¤¼ö Á¦°ö±Ù ÆÇº°
+//ì •ìˆ˜ ì œê³±ê·¼ íŒë³„
 
 using namespace std;
 
-long long solution(long long n) 
+long long solution(long long n)
 {
     long long answer = -1;
     for(long long i=1;i*i<=n;i++)

@@ -1,3 +1,4 @@
+// 5543. ìƒê·¼ë‚ ë“œ
 #include <iostream>
 
 using namespace std;
@@ -8,7 +9,7 @@ int min(int a, int b)
 }
 int main()
 {
-	//a,b,c´Â ¹ö°Å , d,e´Â À½·á
+	//a,b,cëŠ” ë²„ê±° , d,eëŠ” ìŒë£Œ
 	int a, b, c, d, e;
 	cin >> a >> b >> c >> d >> e;
 

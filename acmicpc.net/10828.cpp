@@ -16,14 +16,14 @@ int main(void) {
 		n--;
 		cin >> str;
 
-		if (str == "push") { //push 명령어 일때. 
+		if (str == "push") { //push
 
 			int num;
 			cin >> num;
 			arr[++cnt] = num;
 
 		}
-		else if (str == "pop") {    //pop 명령어 일때. 
+		else if (str == "pop") {    //pop
 
 			if (cnt!=0) {
 				cout << arr[cnt] << endl;
@@ -34,12 +34,12 @@ int main(void) {
 			}
 
 		}
-		else if (str == "size") {        //size 명령어 일때. 
+		else if (str == "size") {        //size
 
 			cout << cnt << endl;
 
 		}
-		else if (str == "empty") {    //empty 명령어 일때,
+		else if (str == "empty") {    //empty
 			if (cnt==0)
 			{
 				cout << "1" << endl;
@@ -50,7 +50,7 @@ int main(void) {
 			}
 
 		}
-		else if (str == "top") {        //top 명령어 일때. 
+		else if (str == "top") {        //top 
 			if (cnt!=0) {
 				cout << arr[cnt] << endl;
 			}

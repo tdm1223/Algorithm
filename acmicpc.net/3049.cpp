@@ -1,3 +1,4 @@
+// 3049. ë‹¤ê°í˜•ì˜ ëŒ€ê°ì„ 
 #include <iostream>
 
 using namespace std;
@@ -5,7 +6,7 @@ using namespace std;
 int main() {
 
 	int n;
-	//º¼·Ï N°¢ÇüÀÇ ±³Â÷Á¡ÀÇ °³¼ö´Â nC4ÀÌ´Ù.
+	//ë³¼ë¡ Nê°í˜•ì˜ êµì°¨ì ì˜ ê°œìˆ˜ëŠ” nC4ì´ë‹¤.
 	cin >> n;
 	int ans = 0;
 	if (n < 4) ans = 0;

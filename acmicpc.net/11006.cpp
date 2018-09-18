@@ -1,3 +1,4 @@
+// 11006. 남욱이의 닭장
 #include <iostream>
 
 using namespace std;
@@ -13,6 +14,6 @@ int main() {
 		int a = n - m;
 		cout << m - a <<" "<< a << endl;
 	}
-	
+
 	return 0;
 }

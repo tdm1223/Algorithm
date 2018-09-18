@@ -1,3 +1,4 @@
+// 9251. LCS
 #include <iostream>
 #include <vector>
 #include<string>
@@ -19,9 +20,9 @@ int main()
 	{
 		for (int j = 1; j < b.size() + 1; j++)
 		{
-			if (a[i - 1] == b[j - 1])//°°´Ù¸é +1
+			if (a[i - 1] == b[j - 1])//ëŒ€ê°ì„  +1
 				d[i][j] = d[i - 1][j - 1] + 1;
-			else//´Ù¸£¸é Çà°ú ¿­ÀÇ -1°ªÁß Å«°ª
+			else//ìœ„ ì™¼ìª½ ê°’ì¤‘ ìµœëŒ“ê°’
 				d[i][j] = max(d[i - 1][j], d[i][j - 1]);
 		}
 	}

@@ -1,3 +1,4 @@
+// 3053. íƒì‹œ ê¸°í•˜í•™
 #include <iostream>
 
 using namespace std;
@@ -11,8 +12,8 @@ int main()
 	cout << fixed;
 	cout.precision(6);
 
-	cout << r * r * PI << endl; //À¯Å¬¸®µå ±âÇÏÇĞ
-	cout << r * r * 2.0f << endl; //ÅÃ½Ã ±âÇÏÇĞ
+	cout << r * r * PI << endl;
+	cout << r * r * 2.0f << endl;
 	return 0;
 
 }

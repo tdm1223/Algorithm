@@ -1,4 +1,4 @@
-//���ڿ� �ٷ��� �⺻
+//문자열 다루기 기본
 #include <string>
 #include<iostream>
 #include <vector>

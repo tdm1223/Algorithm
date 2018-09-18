@@ -1,4 +1,4 @@
-//¼ö¹Ú¼ö¹Ú¼ö¹Ú¼ö¹Ú¼ö¹Ú¼ö?
+//ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ë°•ìˆ˜?
 #include <string>
 #include <vector>
 
@@ -7,10 +7,10 @@ using namespace std;
 string solution(int n) {
     string answer = "";
     for(int i=0;i<n/2;i++)
-        answer+="¼ö¹Ú";
+        answer+="ï¿½ï¿½ï¿½ï¿½";
     if(n%2==1)
     {
-        answer+="¼ö";
+        answer+="ï¿½ï¿½";
     }
     return answer;
 }

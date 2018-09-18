@@ -1,4 +1,4 @@
-// CTP 공국으로 이민 가자
+// 12778. CTP 공국으로 이민 가자
 #include <iostream>
 #include<vector>
 using namespace std;

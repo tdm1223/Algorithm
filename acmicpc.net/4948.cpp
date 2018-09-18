@@ -1,3 +1,4 @@
+// 4948. 베르트랑 공준
 #include <iostream>
 
 using namespace std;

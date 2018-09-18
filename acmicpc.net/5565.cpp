@@ -1,3 +1,4 @@
+// 5565. 영수증
 #include <iostream>
 
 using namespace std;

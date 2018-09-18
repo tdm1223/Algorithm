@@ -1,9 +1,9 @@
+// 13241. ìµœì†Œê³µë°°ìˆ˜
 #include<iostream>
 #include<string>
 #include<algorithm>
 using namespace std;
 
-//ÃÖ´ë°ø¾à¼ö¸¦ ±¸ÇÏ´Â ÇÔ¼ö
 long long GCD(long long n, long long k)
 {
 	if (k == 0) return n;

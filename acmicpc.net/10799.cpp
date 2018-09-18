@@ -1,3 +1,4 @@
+// 10799. ì‡ ë§‰ëŒ€ê¸°
 #include <iostream>
 #include<stack>
 #include<string>
@@ -11,18 +12,18 @@ int main()
 	int ans = 0;
 	for (int i = 0; i < s.size(); i++)
 	{
-		if (s[i] == '(') //¿©´Â °ýÈ£¸é ½ºÅÃ¿¡ Ãß°¡
+		if (s[i] == '(')
 			a.push(s[i]);
-		else if(s[i]==')') //´Ý´Â °ýÈ£ÀÏ‹š
+		else if(s[i]==')')
 		{
 			a.pop();
-			if (s[i - 1] == '(') //¾ÕÀÌ ¿©´Â°ýÈ£ Áï ·¹ÀÌÀú¶ó¸é
+			if (s[i - 1] == '(')
 			{
-				ans += a.size(); //Àß¸° °¹¼ö Ãß°¡
+				ans += a.size();
 			}
-			else if (s[i - 1] == ')') //¾Õµµ ´Ý´Â°ýÈ£ÀÌ¸é
+			else if (s[i - 1] == ')')
 			{
-				ans++; // ´ÝÇô¼­ Àß·ÁÁø °¹¼ö Ãß°¡
+				ans++; 
 			}
 		}
 	}

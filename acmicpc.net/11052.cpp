@@ -1,3 +1,4 @@
+// 11052. ì¹´ë“œ êµ¬ë§¤í•˜ê¸°
 #include <iostream>
 using namespace std;
 
@@ -7,10 +8,10 @@ int max(int a, int b)
 	return a > b ? a : b;
 }
 
-int d[1001] = { 0 }; //d[i] : ºØ¾î»§ÀÌ i°³ ÀÖÀ»¶§ ÃÖ´ë ¼öÀÍ
-int a[1001]; //a[i] : i°³ ÆÈ ¶§ÀÇ °¡°Ý
+int d[1001] = { 0 };
+int a[1001];
 
-int main() 
+int main()
 {
 	int n;
 	cin >> n;
@@ -26,6 +27,6 @@ int main()
 			d[i] = max(d[i], d[i - j] + a[j]);
 		}
 	}
-	
+
 	cout << d[n] << endl;
 }

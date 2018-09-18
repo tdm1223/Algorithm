@@ -1,4 +1,4 @@
-// 2667. 
+// 2667. 단지번호 붙이기
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -20,7 +20,7 @@ void dfs(int x, int y, int n)
 		int yy = y + dy[i];
 		if (0 <= xx && xx < n && 0 <= yy && yy < n)
 		{
-			if (!visit[xx][yy] && arr[xx][yy]) 
+			if (!visit[xx][yy] && arr[xx][yy])
 				dfs(xx, yy,n);
 		}
 	}

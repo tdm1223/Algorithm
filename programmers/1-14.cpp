@@ -1,4 +1,4 @@
-//Äİ¶óÃ÷ ÃßÃø
+//ì½œë¼ì¸  ì¶”ì¸¡
 #include <string>
 #include <vector>
 
@@ -8,7 +8,7 @@ int solution(int num)
 {
     int answer = 0;
     long long val = num;
-    while(val != 1) 
+    while(val != 1)
     {
         answer++;
         if(val%2==0)

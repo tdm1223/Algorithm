@@ -1,3 +1,4 @@
+// 3040. ë°±ì„¤ ê³µì£¼ì™€ ì¼ê³± ë‚œìŸì´ 
 #include <iostream>
 
 using namespace std;
@@ -10,7 +11,6 @@ int main()
 		cin >> a[i];
 		sum += a[i];
 	}
-	//¸ðµÎ ´õÇÑ´ÙÀ½ 2°³¾¿ »©¸é¼­ 100ÀÏ °æ¿ì¸¦ Ã£´Â´Ù.
 	for (int i = 0; i < 8; i++)
 	{
 		for (int j = i + 1; j < 9; j++)

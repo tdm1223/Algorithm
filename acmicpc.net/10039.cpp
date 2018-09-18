@@ -1,3 +1,4 @@
+// 10039. 평균 점수
 #include <iostream>
 
 using namespace std;

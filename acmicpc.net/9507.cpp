@@ -1,3 +1,4 @@
+// 9507. Generations of Tribbles
 #include <iostream>
 
 using namespace std;
@@ -11,7 +12,7 @@ int main()
 	d[0] = d[1] = 1;
 	d[2] = 2;
 	d[3] = 4;
-	while (t--) 
+	while (t--)
 	{
 		cin >> n;
 		if (d[n] == 0)

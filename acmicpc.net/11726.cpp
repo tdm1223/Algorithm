@@ -1,3 +1,4 @@
+// 12726. 2Ã—n íƒ€ì¼ë§
 #include <iostream>
 #include<math.h>
 using namespace std;
@@ -7,7 +8,7 @@ int main()
 {
 	int n;
 	cin >> n;
-	//d[n] : 2xn Å©±âÀÇ Á÷»ç°¢ÇüÀ» 1x2, 2x1Å¸ÀÏ·Î Ã¤¿ì´Â ¹æ¹ýÀÇ ¼ö¸¦ 10007·Î ³ª´« ³ª¸ÓÁö
+	//d[n] : 2xn Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ç°¢ï¿½ï¿½ï¿½ï¿½ 1x2, 2x1Å¸ï¿½Ï·ï¿½ Ã¤ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 10007ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	d[1] = 1;
 	d[2] = 2;
 	for (int i = 3; i <= n; i++)

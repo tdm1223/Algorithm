@@ -1,25 +1,26 @@
+// 2167. 2ì°¨ì› ë°°ì—´ì˜ í•©
 #include<iostream>
 
 using namespace std;
 
 int d[301][301];
-int sum[301][301]; //sum[i][j] : 1,1ºÎÅÍ i,j±îÁöÀÇ ÇÕ
+int sum[301][301]; //sum[i][j] : 1,1ë¶€í„° i,jê¹Œì§€ì˜ í•©
 
 int main()
 {
 	int n, m;
 	cin >> n >> m;
-	for (int i = 1; i <= n; i++)//Çà
+	for (int i = 1; i <= n; i++)//í–‰
 	{
-		for (int j = 1; j <= m; j++)//¿­
+		for (int j = 1; j <= m; j++)//ì—´
 		{
 			cin >> d[i][j];
 		}
 	}
 
-	for (int i = 1; i <= n; i++)//Çà
+	for (int i = 1; i <= n; i++)//í–‰
 	{
-		for (int j = 1; j <= m; j++)//¿­
+		for (int j = 1; j <= m; j++)//ì—´
 		{
 			sum[i][j] = sum[i][j - 1] + d[i][j];
 		}
@@ -35,7 +36,7 @@ int main()
 		cin >> i >> j >> x >> y;
 		for (int a = i; a <= x; a++)
 		{
-			ans += (sum[a][y] - sum[a][j - 1]); //°¢ Çàº°·ÎÇÕÀ» ±¸ÇÔ
+			ans += (sum[a][y] - sum[a][j - 1]); //ê° í–‰ë³„ë¡œí•©ì„ êµ¬í•¨
 		}
 		cout << ans << endl;
 	}

@@ -1,4 +1,4 @@
-//Á¦ÀÏ ÀÛÀº ¼ö Á¦°ÅÇÏ±â
+//ì œì¼ ì‘ì€ ìˆ˜ ì œê±°í•˜ê¸°
 #include <string>
 #include <vector>
 using namespace std;

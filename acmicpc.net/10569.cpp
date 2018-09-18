@@ -1,3 +1,4 @@
+// 10569. 다면체
 #include <iostream>
 #include<algorithm>
 #include<deque>
@@ -13,6 +14,6 @@ int main() {
 		cin >> v >> e;
 		cout << e - v + 2<< endl;
 	}
-	
+
 	return 0;
 }

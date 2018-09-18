@@ -1,8 +1,9 @@
+// 6359. ë§Œì·¨í•œ ìƒë²”
 #include <iostream>
 
 using namespace std;
 
-int d[101]; //0 : ´İÈû 1 : ¿­¸²
+int d[101]; //0 : ë‹«í˜ 1 : ì—´ë¦¼
 int main()
 {
 	int t;

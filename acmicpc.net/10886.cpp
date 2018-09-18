@@ -1,3 +1,4 @@
+// 10886. 0 = not cute / 1 = cute 
 #include <iostream>
 #include<string>
 using namespace std;

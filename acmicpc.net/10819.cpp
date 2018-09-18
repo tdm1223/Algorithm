@@ -1,4 +1,4 @@
-// 10819.
+// 10819. 차이를 최대로
 #include <algorithm>
 #include <iostream>
 #include <vector>

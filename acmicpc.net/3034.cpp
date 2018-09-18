@@ -1,3 +1,4 @@
+// 3034. 앵그리 창영
 #include <iostream>
 #include<math.h>
 using namespace std;
@@ -11,7 +12,7 @@ int main(void)
 	for (int i = 0; i < n; i++)
 	{
 		cin >> len;
-		//�Է¹��� ������ ���̰� �ڽ��� �밢���� ���̿� �۰ų� ������ �� �� �ִ�.
+		//입력받은 성냥의 길이가 박스의 대각선의 길이와 작거나 같으면 들어갈 수 있다.
 		if (len <= sqrt((w*w) + (h*h)))
 		{
 			cout << "DA" << endl;

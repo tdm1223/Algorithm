@@ -1,3 +1,4 @@
+// 5585. Í±∞Ïä§Î¶ÑÎèà
 #include <iostream>
 using namespace std;
 
@@ -8,34 +9,34 @@ int main() {
 	int exchange = 1000 - n;
 	int count = 0;
 
-	while (exchange > 0) 
+	while (exchange > 0)
 	{
-		if (exchange >= 500) //500ø£
+		if (exchange >= 500) //500Ïóî
 		{
 			exchange -= 500;
 			count++;
 		}
-		else if (exchange >= 100) //100ø£
+		else if (exchange >= 100) //100Ïóî
 		{
 			exchange -= 100;
 			count++;
 		}
-		else if (exchange >= 50 && exchange<100) //50ø£
+		else if (exchange >= 50 && exchange<100) //50Ïóî
 		{
 			exchange -= 50;
 			count++;
 		}
-		else if (exchange >= 10 && exchange<50) //10ø£
+		else if (exchange >= 10 && exchange<50) //10Ïóî
 		{
 			exchange -= 10;
 			count++;
 		}
-		else if (exchange >= 5 && exchange<10) //5ø£
+		else if (exchange >= 5 && exchange<10) //5Ïóî
 		{
 			exchange -= 5;
 			count++;
 		}
-		else if (exchange >= 1 && exchange<5) //1ø£
+		else if (exchange >= 1 && exchange<5) //1Ïóî
 		{
 			exchange -= 1;
 			count++;

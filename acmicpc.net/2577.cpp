@@ -1,3 +1,4 @@
+// 2577. 숫자의 개수
 #include <iostream>
 
 using namespace std;
@@ -17,7 +18,7 @@ int main()
 		result /= 10;
 		if (result == 0) break;
 	}
-	
+
 	for (int i = 0; i < 10; i++)
 		cout << ans[i] << endl;
 	return 0;

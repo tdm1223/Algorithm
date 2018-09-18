@@ -1,3 +1,4 @@
+// 10798. 세로 읽기
 #include <iostream>
 #include<string>
 using namespace std;
