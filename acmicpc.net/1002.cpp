@@ -1,3 +1,4 @@
+// 1002. ÌÑ∞Î†õ
 #include<iostream>
 #include<string>
 #include<cmath>
@@ -10,16 +11,17 @@ int main() {
 	{
 		t--;
 		cin >> x1 >> y1 >> r1 >> x2 >> y2 >> r2;
-		//µŒ ¡ﬂΩ…ªÁ¿Ã¿« ∞≈∏Æ ∞ËªÍ
+		//Îëê Ï§ëÏã¨ÏÇ¨Ïù¥Ïùò Í±∞Î¶¨ Í≥ÑÏÇ∞
 		double i = sqrt(pow(x1 - x2, 2.0) + pow(y1 - y2, 2.0));
 		if(i==0)
+		//if (x1 == x2&&y1 == y2)
 		{
 			if (r1 == r2)
 				cout << -1 << endl;
 			else
 				cout << 0 << endl;
 		}
-		else 
+		else
 		{
 			if ((r1 + r2) > i&&abs(r1 - r2) < i)
 				cout << 2 << endl;

@@ -1,3 +1,4 @@
+// 1912. 연속합
 #include <iostream>
 
 using namespace std;
@@ -20,14 +21,6 @@ int main()
 	for (int i = 1; i < n; i++)
 	{
 		d[i] = d[i - 1] + num[i] > num[i] ? d[i - 1] + num[i] : num[i];
-		//if (d[i - 1] + num[i] > num[i]) 
-		//{
-		//	d[i] = d[i - 1] + num[i];
-		//}
-		//else
-		//{
-		//	d[i] = num[i];
-		//}
 	}
 	max = d[0];
 	for (int i = 1; i < n; i++)

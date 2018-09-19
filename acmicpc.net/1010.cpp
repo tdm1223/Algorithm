@@ -1,8 +1,9 @@
+// 1010. ë‹¤ë¦¬ ë†“ê¸°
 #include <iostream>
 
 using namespace std;
 
-int d[1000][1000]; //d[i][j] : ¿ŞÂÊ¿¡ i°³ ¿À¸¥ÂÊ¿¡ j°³ ÀÖÀ»¶§ ´Ù¸®¸¦ ÁöÀ» ¼ö ÀÖ´Â °æ¿ìÀÇ ¼ö
+int d[1000][1000];
 
 int main()
 {
@@ -11,14 +12,14 @@ int main()
 
 	for (int i = 0; i < 31; i++)
 	{
-		d[1][i] = i; //¿ŞÂÊÀÌ 1°³¸é °æ¿ìÀÇ ¼ö´Â j°³
+		d[1][i] = i;
 	}
 
 	for (int i = 2; i < 31; i++)
 	{
 		for (int j = i; j < 31; j++)
 		{
-			for (int k = j - 1; k >= i - 1; k--) 
+			for (int k = j - 1; k >= i - 1; k--)
 			{
 				d[i][j] += d[i - 1][k];
 			}
@@ -34,5 +35,3 @@ int main()
 	}
 
 }
-
-

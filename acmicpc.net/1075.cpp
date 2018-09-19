@@ -1,4 +1,4 @@
-// 1075. ³ª´©±â
+// 1075. ë‚˜ëˆ„ê¸°
 #include<iostream>
 using namespace std;
 int main(void)

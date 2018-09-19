@@ -1,11 +1,12 @@
+// 1159. К├█Й╣╛ Й╡╫Й╦╟
 #include <iostream>
-
 using namespace std;
+
 
 char ch[30];
 int arr[26];
 
-int main() 
+int main()
 {
 	int n, cnt=0;
 	cin >> n;
@@ -13,17 +14,18 @@ int main()
 	while (n--)
 	{
 		cin >> ch;
-		arr[ch[0] - 97]++; //a=0 ╨нем z=25╠НаЖ
+		arr[ch[0] - 97]++; //a=0 К╤─М└╟ z=25Й╧▄Л╖─
 	}
 
 	for (int i = 0; i < 26; i++)
 	{
 		if (arr[i] >= 5)
 		{
-			cout << char(97 + i); //a=97╨нем z=122╠НаЖ
+			cout << char(97 + i); //a=97К╤─М└╟ z=122Й╧▄Л╖─
 			cnt++;
 		}
 	}
+
 
 	if (cnt == 0)
 		cout << "PREDAJA";

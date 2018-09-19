@@ -1,3 +1,4 @@
+// 1149. RGB거리
 #include <iostream>
 
 using namespace std;
@@ -15,9 +16,9 @@ int main()
 	int n, r, g, b;
 	cin >> n;
 	/*
-	RGB[i][R] : i��° ���� R�� ĥ�Ҷ� ��� �ּڰ�
-	RGB[i][G] : i��° ���� G�� ĥ�Ҷ� ��� �ּڰ�
-	RGB[i][B] : i��° ���� B�� ĥ�Ҷ� ��� �ּڰ�
+	RGB[i][R] : i번째 집을 R로 칠할때 비용 최솟값
+	RGB[i][G] : i번째 집을 G로 칠할때 비용 최솟값
+	RGB[i][B] : i번째 집을 B로 칠할때 비용 최솟값
 	*/
 	for (int i = 0; i < n; i++)
 	{
@@ -29,4 +30,3 @@ int main()
 	cout << min(RGB[n-1][R], min(RGB[n-1][G], RGB[n-1][B])) << endl;
 	return 0;
 }
-

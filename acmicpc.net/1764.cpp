@@ -1,11 +1,12 @@
+// 1764. 듣보잡
 #include <iostream>
 #include <algorithm>
 #include <vector>
 #include <string>
 using namespace std;
 
-int main(int argc, const char * argv[]) {
-
+int main()
+{
 	vector<string> v;
 	vector<string> ans;
 	int n, m;

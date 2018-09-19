@@ -1,3 +1,4 @@
+// 1978. ì†Œìˆ˜ ì°¾ê¸°
 #include <iostream>
 
 using namespace std;
@@ -8,8 +9,6 @@ int main()
 	int count = 0;
 	int n;
 	cin >> n;
-
-	//1~1000±îÁöÀÇ ¼Ò¼ö¸¦ Ã£´Â °úÁ¤ arr[i]==0ÀÌ¸é i´Â ¼Ò¼öÀÌ´Ù.
 	arr[1] = 1;
 	for (int i = 2; i <= 1000; i++)
 	{
@@ -33,7 +32,7 @@ int main()
 	for (int i = 0; i < n; i++)
 	{
 		cin >> k;
-		if (arr[k] == 0) 
+		if (arr[k] == 0)
 		{
 			count++;
 		}

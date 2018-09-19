@@ -1,3 +1,4 @@
+// 1965. 상자넣기
 #include <iostream>
 using namespace std;
 
@@ -17,7 +18,7 @@ int main()
 		{
 			if (a[j] < a[i])
 			{
-				if (d[i] <= d[j]) 
+				if (d[i] <= d[j])
 				{
 					d[i] = d[j] + 1;
 					max = d[i] > max ? d[i] : max;

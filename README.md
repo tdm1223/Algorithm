@@ -42,7 +42,7 @@
 |  55  |      [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](acmicpc.net/1748.cpp)  |  56  |           [한수](https://www.acmicpc.net/problem/1065)           | [cpp](acmicpc.net/1065.cpp)  |
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           | [cpp](acmicpc.net/2292.cpp)  |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      | [cpp](acmicpc.net/10819.cpp) |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          | [cpp](acmicpc.net/3052.cpp)  |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          | [cpp](acmicpc.net/2810.cpp)  |
-|  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       | [cpp](acmicpc.net/9324.cpp)  |      |                                                                  |                              |
+|  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       | [cpp](acmicpc.net/9324.cpp)  |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    | [cpp](acmicpc.net/2847.cpp)  |
 
 수학
 ----
@@ -126,16 +126,18 @@ Greedy Algorithm
 |  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp) |
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |      |                                                    |                             |
 
-스택, 큐, 링크드 리스트
------------------------
+스택, 큐, 링크드 리스트, 힙
+---------------------------
 
-| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                | 코드                         |
-|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
-|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |     [큐](https://www.acmicpc.net/problem/1946)      | [cpp](acmicpc.net/10845.cpp) |
-|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |    [괄호](https://www.acmicpc.net/problem/9012)     | [cpp](acmicpc.net/9012.cpp)  |
-|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   |  [좋은 단어](https://www.acmicpc.net/problem/3986)  | [cpp](acmicpc.net/3986.cpp)  |
-|  7   |   [스택 수열](https://www.acmicpc.net/problem/1874)   | [cpp](acmicpc.net/1874.cpp)  |  8   | [후위 표기식](https://www.acmicpc.net/problem/1918) | [cpp](acmicpc.net/1918.cpp)  |
-|  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |      |                                                     |                              |
+| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
+|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
+|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |        [큐](https://www.acmicpc.net/problem/1946)        | [cpp](acmicpc.net/10845.cpp) |
+|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |       [괄호](https://www.acmicpc.net/problem/9012)       | [cpp](acmicpc.net/9012.cpp)  |
+|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](acmicpc.net/3986.cpp)  |
+|  7   |   [스택 수열](https://www.acmicpc.net/problem/1874)   | [cpp](acmicpc.net/1874.cpp)  |  8   |   [후위 표기식](https://www.acmicpc.net/problem/1918)    | [cpp](acmicpc.net/1918.cpp)  |
+|  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |  10  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [cpp](acmicpc.net/7662.cpp)  |
+|  11  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | [cpp](acmicpc.net/1966.cpp)  |  12  |     [최대 힙](https://www.acmicpc.net/problem/11279)     | [cpp](acmicpc.net/11279.cpp) |
+|  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |      |                                                          |                              |
 
 #프로그래머스
 

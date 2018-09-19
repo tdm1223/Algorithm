@@ -1,8 +1,9 @@
+// 1076. 저항
 #include <iostream>
 #include <string>
 using namespace std;
 
-int main() 
+int main()
 {
 	int i, j;
 	long long sum;
@@ -11,7 +12,7 @@ int main()
 
 	cin >> a >> b >> c;
 
-	for (i = 0; i < 10; i++) 
+	for (i = 0; i < 10; i++)
 	{
 		if (a == s[i])
 		{
@@ -26,7 +27,7 @@ int main()
 	{
 		if (c == s[i])
 		{
-			for (j = 0; j < i; j++) 
+			for (j = 0; j < i; j++)
 			{
 				sum *= 10;
 			}

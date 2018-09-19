@@ -1,3 +1,4 @@
+// 1773. 폭죽쇼
 #include <iostream>
 
 using namespace std;

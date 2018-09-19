@@ -1,3 +1,4 @@
+// 1003. 피보나치 함수
 #include<iostream>
 #include<algorithm>
 
@@ -7,7 +8,7 @@ int fibonacci(int n)
 {
 	d[0] = 1, d[1] = 1;
 	if (n <= 1) return d[n];
-	else {	
+	else {
 		if (d[n] > 0) return d[n];
 	}
 	return d[n] = fibonacci(n - 1) + fibonacci(n - 2);

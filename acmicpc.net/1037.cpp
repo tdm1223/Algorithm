@@ -1,7 +1,10 @@
+// 1037. 약수
 #include <iostream>
 #include <string>
 using namespace std;
-	int arr[26];
+
+int arr[26];
+
 int main() {
 
 	int cnt = 0, big = 0, index;

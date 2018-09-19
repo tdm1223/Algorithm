@@ -1,3 +1,4 @@
+// 1652. ëˆ„ìš¸ ìë¦¬ë¥¼ ì°¾ì•„ë¼
 #include <iostream>
 #include<string>
 using namespace std;
@@ -15,7 +16,7 @@ int main()
 	}
 
 	int horizontal = 0;
-	//°¡·Î·Î ´©¿ï ¼ö ÀÖ´Â ÀÚ¸®
+	//ê°€ë¡œë¡œ ëˆ„ìš¸ ìˆ˜ ìˆëŠ” ìë¦¬
 	for (int i = 0; i < n; i++)
 	{
 		int cnt = 0;
@@ -36,7 +37,7 @@ int main()
 	}
 
 	int vertical = 0;
-	//¼¼·Î·Î ´©¿ï ¼ö ÀÖ´Â ÀÚ¸®
+	//ì„¸ë¡œë¡œ ëˆ„ìš¸ ìˆ˜ ìˆëŠ” ìë¦¬
 	for (int i = 0; i < n; i++)
 	{
 		int cnt = 0;

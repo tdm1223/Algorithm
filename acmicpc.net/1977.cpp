@@ -1,3 +1,4 @@
+// 1977. 완전제곱수
 #include <iostream>
 
 using namespace std;

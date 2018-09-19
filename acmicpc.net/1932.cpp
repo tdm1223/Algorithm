@@ -1,3 +1,4 @@
+// 1932. ì •ìˆ˜ ì‚¼ê°í˜•
 #include <iostream>
 
 using namespace std;
@@ -18,13 +19,13 @@ int main()
 		for (int j = 1; j <= i; j++)
 		{
 			cin >> d[i][j];
-			if (j == 1) //°¡Àå ¿ŞÂÊ
+			if (j == 1) //ê°€ì¥ ì™¼ìª½
 				d[i][j] = d[i - 1][j] + d[i][j];
-			else if(j == i) //°¡Àå ¿À¸¥ÂÊ
+			else if(j == i) //ê°€ì¥ ì˜¤ë¥¸ìª½
 				d[i][j] = d[i - 1][j - 1] + d[i][j];
-			else //³ª¸ÓÁö
+			else //ë‚˜ë¨¸ì§€
 				d[i][j] = max(d[i - 1][j - 1], d[i - 1][j]) + d[i][j];
-			if (ans < d[i][j]) //ÃÖ´ñ°ª °»½Å
+			if (ans < d[i][j]) //ìµœëŒ“ê°’ ê°±ì‹ 
 				ans = d[i][j];
 		}
 	}

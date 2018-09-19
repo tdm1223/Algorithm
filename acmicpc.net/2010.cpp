@@ -1,3 +1,4 @@
+// 2010. 플러그
 #include <iostream>
 #include<string>
 using namespace std;

@@ -1,5 +1,6 @@
+// 1065. í•œìˆ˜
 #include <iostream>
-
+#include<string>
 using namespace std;
 
 int main()
@@ -10,8 +11,8 @@ int main()
 	int a[3];
 	for (int i = 1; i <= n; i++)
 	{
-		if (i < 100) ans = i; //µÎÀÚ¸® ¼ö´Â ¸ðµÎ ÇÑ¼ö
-		else if (i == 1000) break;
+		if (i < 100) ans = i; //ë‘ìžë¦¬ ìˆ˜ëŠ” ëª¨ë‘ í•œìˆ˜
+        else if(i==1000) break;
 		else //100~999
 		{
 			int k = 0;

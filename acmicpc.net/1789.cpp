@@ -1,10 +1,10 @@
+// 1789. ìˆ˜ë“¤ì˜ í•©
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-//ÀÚ·áÇü ÁÖÀÇ
 	long long n;
 	cin >> n;
 	long long count = 1;
@@ -17,6 +17,6 @@ int main()
 		if (n - count < 0) break;
 	}
 	cout << count-1 << endl;
-	
+
 	return 0;
 }

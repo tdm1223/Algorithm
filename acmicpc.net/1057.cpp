@@ -1,3 +1,4 @@
+// 1057. 토너먼트
 #include <iostream>
 using namespace std;
 
@@ -7,7 +8,7 @@ int main() {
 	int count = 0;
 
 	cin >> n >> a >> b;
-	
+
 	if (n < b || n < a) {
 		count = -1;
 	}
