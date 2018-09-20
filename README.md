@@ -108,14 +108,15 @@
 |  31  | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [cpp](acmicpc.net/11055.cpp) |  32  |          [내리막 길](https://www.acmicpc.net/problem/1520)          | [cpp](acmicpc.net/1520.cpp)  |
 |  33  |          [퇴사](https://www.acmicpc.net/problem/14501)          | [cpp](acmicpc.net/14501.cpp) |  34  |        [이항 계수 2](https://www.acmicpc.net/problem/11051)         | [cpp](acmicpc.net/11051.cpp) |
 
-BFS, DFS, 길찾기
-----------------
+BFS, DFS
+--------
 
-| 번호 | 문제                                               | 코드                        | 번호 | 문제                                                     | 코드                         |
-|:----:|:--------------------------------------------------:|:---------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [cpp](acmicpc.net/1260.cpp) |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) | [cpp](acmicpc.net/2667.cpp)  |
-|  3   |  [바이러스](https://www.acmicpc.net/problem/2606)  | [cpp](acmicpc.net/2606.cpp) |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)    | [cpp](acmicpc.net/11403.cpp) |
-|  5   | [스타트링크](https://www.acmicpc.net/problem/5014) | [cpp](acmicpc.net/5014.cpp) |      |                                                          |                              |
+| 번호 | 문제                                                | 코드                        | 번호 | 문제                                                      | 코드                         |
+|:----:|:---------------------------------------------------:|:---------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
+|  1   |  [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [cpp](acmicpc.net/1260.cpp) |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [cpp](acmicpc.net/2667.cpp)  |
+|  3   |  [바이러스](https://www.acmicpc.net/problem/2606)   | [cpp](acmicpc.net/2606.cpp) |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
+|  5   | [스타트링크](https://www.acmicpc.net/problem/5014)  | [cpp](acmicpc.net/5014.cpp) |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
+|  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp) |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
 
 Greedy Algorithm
 ----------------
@@ -126,8 +127,8 @@ Greedy Algorithm
 |  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp) |
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |      |                                                    |                             |
 
-스택, 큐, 링크드 리스트, 힙
----------------------------
+자료구조
+--------
 
 | 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
 |:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
