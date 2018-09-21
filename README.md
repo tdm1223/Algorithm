@@ -3,7 +3,7 @@
 알고리즘 문제풀이
 =================
 
-백준 온라인저지(acmicpc.net), 프로그래머스(programmers.co.kr), HackerRank(https://www.hackerrank.com/)의 알고리즘 문제 풀이입니다.
+백준 온라인저지(acmicpc.net), 프로그래머스(programmers.co.kr), HackerRank(hackerrank.com)의 알고리즘 문제 풀이입니다.
 
 #백준 온라인 저지
 
@@ -107,6 +107,7 @@
 |  29  | [Generations of Tribbles](https://www.acmicpc.net/problem/9507) | [cpp](acmicpc.net/9507.cpp)  |  30  |           [01타일](https://www.acmicpc.net/problem/1904)            | [cpp](acmicpc.net/1904.cpp)  |
 |  31  | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [cpp](acmicpc.net/11055.cpp) |  32  |          [내리막 길](https://www.acmicpc.net/problem/1520)          | [cpp](acmicpc.net/1520.cpp)  |
 |  33  |          [퇴사](https://www.acmicpc.net/problem/14501)          | [cpp](acmicpc.net/14501.cpp) |  34  |        [이항 계수 2](https://www.acmicpc.net/problem/11051)         | [cpp](acmicpc.net/11051.cpp) |
+|  35  |          [점프](https://www.acmicpc.net/problem/1890)           | [cpp](acmicpc.net/1890.cpp)  |  36  |           [합분해](https://www.acmicpc.net/problem/2225)            | [cpp](acmicpc.net/2225.cpp)  |
 
 BFS, DFS
 --------
