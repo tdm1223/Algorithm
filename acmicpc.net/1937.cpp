@@ -1,0 +1,58 @@
+// 1937. 욕심쟁이 판다
+#include <iostream>
+using namespace std;
+
+int d[500][500] = { 0 };
+int a[500][500] = { 0 };
+int dy[4] = { 1,-1,0,0 };
+int dx[4] = { 0,0,1,-1 };
+int n;
+
+int max(int a, int b)
+{
+	return a > b ? a : b;
+}
+
+int dfs(int x, int y)
+{
+	if (d[x][y])
+		return d[x][y];
+
+	d[x][y] = 1;
+	for (int i = 0; i < 4; i++)
+	{
+		int xx = x + dx[i];
+		int yy = y + dy[i];
+
+		if (xx < 0 || xx >= n || yy < 0 || yy >= n)
+			continue;
+
+		if(a[x][y]<a[xx][yy])
+			d[x][y] = max(d[x][y], dfs(xx, yy) + 1);
+	}
+
+	return d[x][y];
+}
+
+int main()
+{
+	cin >> n;
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = 0; j < n; j++)
+		{
+			cin >> a[i][j];
+		}
+	}
+
+	int ans = 0;
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = 0; j < n; j++)
+		{
+			ans = max(ans, dfs(i, j));
+		}
+	}
+	cout << ans << endl;
+	return 0;
+}
