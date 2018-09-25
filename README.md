@@ -65,6 +65,7 @@
 |  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  28  |       [막대기](https://www.acmicpc.net/problem/1094)       | [cpp](acmicpc.net/1094.cpp)  |
 |  29  |        [토너먼트](https://www.acmicpc.net/problem/1057)        | [cpp](acmicpc.net/1057.cpp)  |  30  |        [약수](https://www.acmicpc.net/problem/1037)        | [cpp](acmicpc.net/1037.cpp)  |
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  | [피보나치수의 확장](https://www.acmicpc.net/problem/1788)  | [cpp](acmicpc.net/1788.cpp)  |
+|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |      |                                                            |                              |
 
 문자열 처리, 정렬, 이분탐색, 해싱
 ---------------------------------
@@ -84,6 +85,7 @@
 |  21  |   [알파벳 개수](https://www.acmicpc.net/problem/10808)    | [cpp](acmicpc.net/10808.cpp) |  22  |          [다이얼](https://www.acmicpc.net/problem/5622)          | [cpp](acmicpc.net/5622.cpp)  |
 |  23  |      [하얀 칸](https://www.acmicpc.net/problem/1100)      | [cpp](acmicpc.net/1100.cpp)  |  24  |    [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)     | [cpp](acmicpc.net/2902.cpp)  |
 |  25  |   [전화번호 목록](https://www.acmicpc.net/problem/5052)   | [cpp](acmicpc.net/5052.cpp)  |  26  |         [수 찾기](https://www.acmicpc.net/problem/1920)          | [cpp](acmicpc.net/1920.cpp)  |
+|  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [cpp](acmicpc.net/2805.cpp)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [cpp](acmicpc.net/10814.cpp) |
 
 다이나믹 프로그래밍
 -------------------
@@ -120,6 +122,7 @@ BFS, DFS
 |  3   |  [바이러스](https://www.acmicpc.net/problem/2606)   | [cpp](acmicpc.net/2606.cpp) |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
 |  5   | [스타트링크](https://www.acmicpc.net/problem/5014)  | [cpp](acmicpc.net/5014.cpp) |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
 |  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp) |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
+|  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp) |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
@@ -141,7 +144,7 @@ Greedy Algorithm
 |  7   |   [스택 수열](https://www.acmicpc.net/problem/1874)   | [cpp](acmicpc.net/1874.cpp)  |  8   |   [후위 표기식](https://www.acmicpc.net/problem/1918)    | [cpp](acmicpc.net/1918.cpp)  |
 |  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |  10  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [cpp](acmicpc.net/7662.cpp)  |
 |  11  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | [cpp](acmicpc.net/1966.cpp)  |  12  |     [최대 힙](https://www.acmicpc.net/problem/11279)     | [cpp](acmicpc.net/11279.cpp) |
-|  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |      |                                                          |                              |
+|  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |  14  |    [오르막 길](https://www.acmicpc.net/problem/2846)     | [cpp](acmicpc.net/2846.cpp)  |
 
 #프로그래머스
 
