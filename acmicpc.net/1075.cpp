@@ -1,10 +1,13 @@
 // 1075. 나누기
 #include<iostream>
+
 using namespace std;
+
 int main(void)
 {
 	int n, f;
 	cin >> n >> f;
+	//뒤의 두자리 수를 지워줌
 	n /= 100;
 	n *= 100;
 

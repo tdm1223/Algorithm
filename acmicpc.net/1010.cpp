@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int d[1000][1000];
+int d[31][31]; // d[n][m] : 왼쪽에 n 오른쪽에 m개의 사이트가 있을때 다리를 지을 수 있는 경우의 수
 
 int main()
 {

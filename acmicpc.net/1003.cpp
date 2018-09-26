@@ -1,9 +1,8 @@
 // 1003. 피보나치 함수
 #include<iostream>
-#include<algorithm>
 
 using namespace std;
-int d[40];
+int d[40]; // d[n] : 피보나치 n
 int fibonacci(int n)
 {
 	d[0] = 1, d[1] = 1;

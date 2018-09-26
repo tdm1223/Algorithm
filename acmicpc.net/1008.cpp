@@ -1,8 +1,8 @@
 // 1008. A/B
 #include <iostream>
-#include <string>
 using namespace std;
-int main() {
+int main()
+{
 	double a, b;
 	cin >> a >> b;
 	cout << fixed;

@@ -1,6 +1,6 @@
 // 1065. 한수
 #include <iostream>
-#include<string>
+
 using namespace std;
 
 int main()
@@ -11,20 +11,27 @@ int main()
 	int a[3];
 	for (int i = 1; i <= n; i++)
 	{
-		if (i < 100) ans = i; //두자리 수는 모두 한수
-        else if(i==1000) break;
+		if (i < 100) //두자리 수이하는 모두 한수
+		{
+			ans = i;
+		}
+		else if (i == 1000)
+		{
+			break;
+		}
 		else //100~999
 		{
 			int k = 0;
 			int tmp = i;
 			while (tmp > 0)
 			{
-				a[k] = tmp % 10;
+				a[k++] = tmp % 10;
 				tmp /= 10;
-				k++;
 			}
-			if (a[0] - a[1] == a[1] - a[2])
+			if (a[0] - a[1] == a[1] - a[2]) //등차수열 판별
+			{
 				ans++;
+			}
 		}
 	}
 

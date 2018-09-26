@@ -5,14 +5,13 @@ using namespace std;
 
 int main()
 {
-	int i, j;
-	long long sum;
+	long long sum = 0;
 	string a, b, c;
-	string s[] = { "black","brown","red","orange","yellow","green","blue","violet","grey","white" };
+	string s[10] = { "black","brown","red","orange","yellow","green","blue","violet","grey","white" };
 
 	cin >> a >> b >> c;
 
-	for (i = 0; i < 10; i++)
+	for (int i = 0; i < 10; i++)
 	{
 		if (a == s[i])
 		{
@@ -23,11 +22,12 @@ int main()
 			sum += i;
 		}
 	}
-	for (i = 0; i < 10; i++)
+
+	for (int i = 0; i < 10; i++)
 	{
 		if (c == s[i])
 		{
-			for (j = 0; j < i; j++)
+			for (int j = 0; j < i; j++)
 			{
 				sum *= 10;
 			}
