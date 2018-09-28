@@ -1,5 +1,5 @@
 // 1181. 단어 정렬
-#include <iostream>
+#include<iostream>
 #include<string>
 #include<vector>
 #include<algorithm>
@@ -12,6 +12,7 @@ bool compare(string a, string b)
 	else
 		return a.size() < b.size();
 }
+
 int main()
 {
 	int n;
@@ -22,9 +23,10 @@ int main()
 
 	sort(v.begin(), v.end(),compare);
 
-	v.erase(unique(v.begin(), v.end()), v.end()); //�ߺ� ����
+	v.erase(unique(v.begin(), v.end()), v.end()); // 중복 제거
 
 	for (int i = 0; i < v.size(); i++)
 		cout << v[i] << endl;
+
 	return 0;
 }

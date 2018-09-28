@@ -1,5 +1,6 @@
 // 1110. 더하기 사이클
 #include <iostream>
+
 using namespace std;
 
 int main()
@@ -8,6 +9,7 @@ int main()
 	cin >> n;
 	int tmp = n;
 	int count = 0;
+
 	while (1)
 	{
 		count++;
@@ -20,5 +22,6 @@ int main()
 		if (tmp == n)
 			break;
 	}
+	
 	cout << count << endl;
 }

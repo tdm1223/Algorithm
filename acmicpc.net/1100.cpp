@@ -1,7 +1,6 @@
 // 1100. 하얀 칸
 #include <iostream>
-#include <string>
-#include<algorithm>
+
 using namespace std;
 
 int main()
@@ -11,6 +10,7 @@ int main()
 		cin >> arr[i];
 	int cnt = 0;
 
+	//짝수 루틴
 	for (int i = 0; i < 8; i += 2)
 	{
 		for (int j = 0; j < 8; j++)
@@ -21,6 +21,8 @@ int main()
 			}
 		}
 	}
+
+	//홀수 루틴
 	for (int i = 1; i < 9; i += 2)
 	{
 		for (int j = 0; j < 8; j++)

@@ -1,7 +1,7 @@
 // 1159. 농구 경기
 #include <iostream>
-using namespace std;
 
+using namespace std;
 
 char ch[30];
 int arr[26];
@@ -25,7 +25,6 @@ int main()
 			cnt++;
 		}
 	}
-
 
 	if (cnt == 0)
 		cout << "PREDAJA";

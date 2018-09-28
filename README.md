@@ -201,4 +201,11 @@ Easy
 |  3   |      [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar)      |   [cpp](hackerrank.com/birthdayChocolate.cpp)   |  4   |      [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)      | [cpp](hackerrank.com/divisibleSumPairs.cpp) |
 |  5   |            [bonAppetit](https://www.hackerrank.com/challenges/bon-appetit)            |      [cpp](hackerrank.com/bonAppetit.cpp)       |  6   |             [twoStrings](https://www.hackerrank.com/challenges/two-strings)              |    [cpp](hackerrank.com/twoStrings.cpp)     |
 |  7   | [alternatingCharacters](https://www.hackerrank.com/challenges/alternating-characters) | [cpp](hackerrank.com/alternatingCharacters.cpp) |  8   |            [markAndToys](https://www.hackerrank.com/challenges/mark-and-toys)            |    [cpp](hackerrank.com/markAndToys.cpp)    |
-|  7   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)        |    [cpp](hackerrank.com/makingAnagrams.cpp)     |      |                                                                                          |                                             |
+|  7   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)        |    [cpp](hackerrank.com/makingAnagrams.cpp)     |  10  |           [ransomNote](https://www.hackerrank.com/challenges/ctci-ransom-note)           |    [cpp](hackerrank.com/ransomNote.cpp)     |
+
+Medium
+------
+
+| 번호 | 문제                                                                          | 코드                                     | 번호 | 문제 | 코드 |
+|:----:|:-----------------------------------------------------------------------------:|:----------------------------------------:|:----:|:----:|:----:|
+|  1   | [migratoryBirds](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) | [cpp](hackerrank.com/iceCreamParlor.cpp) |      |      |      |

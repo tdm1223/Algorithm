@@ -11,15 +11,17 @@ int main()
 
 	for (int i = 0; i < s.size(); i++)
 	{
-		if (s[i] >= 65 && s[i] <= 90)
+		if (s[i] >= 65 && s[i] <= 90) //소문자
 		{
 			arr[s[i] - 65]++;
 		}
-		else if (s[i] >= 97 && s[i] <= 122)
+		else if (s[i] >= 97 && s[i] <= 122) //대문자
 		{
 			arr[s[i] - 97]++;
 		}
 	}
+
+	//가장 많이 사용된 알파벳을 구하기
 	for (int i = 0; i < 26; i++)
 	{
 		if (arr[i] > big)
@@ -27,8 +29,9 @@ int main()
 			big = arr[i];
 			index = i;
 		}
-
 	}
+
+	//가장 많이 사용된 알파벳이 여러개 인지 확인하기
 	for (int i = 0; i < 26; i++)
 	{
 		if (arr[i] == big)

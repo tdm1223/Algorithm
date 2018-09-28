@@ -1,7 +1,5 @@
 //1260. DFS와 BFS
 #include<iostream>
-#include<stack>
-#include<string>
 #include<queue>
 using namespace std;
 
@@ -41,7 +39,9 @@ void BFS(int v,int n)
 		}
 	}
 }
-int main(void) {
+
+int main(void)
+ {
 	int n, m, v;
 	cin >> n >> m >> v;
 

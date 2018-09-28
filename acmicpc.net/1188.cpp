@@ -15,6 +15,7 @@ int main(void)
 {
 	int n, m;
 	cin >> n >> m;
+	//평론가의 수에서 소시지 수와 평론가 수의 최대공약수를 뺀다.
 	cout << m - Gcd(n, m) << endl;
 
 	return 0;

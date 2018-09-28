@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//숫자를 뒤집는 함수
 int Rev(int x)
 {
 	int result = 0;
@@ -14,9 +15,9 @@ int Rev(int x)
 		if (x == 0) break;
 		result *= 10;
 	}
-
 	return result;
 }
+
 int main(void)
 {
 	int x, y;

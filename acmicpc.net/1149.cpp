@@ -28,5 +28,6 @@ int main()
 		RGB[i][B] = b + min(RGB[i - 1][R], RGB[i - 1][G]);
 	}
 	cout << min(RGB[n-1][R], min(RGB[n-1][G], RGB[n-1][B])) << endl;
+	
 	return 0;
 }
