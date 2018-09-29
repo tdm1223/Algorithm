@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int time[2000001];
+int time[2000001]; //time[i] : i시간에 폭죽이 터지면 1로 표시.
 int main()
 {
 	int n, c;
@@ -14,7 +14,7 @@ int main()
 		n--;
 		int k;
 		cin >> k;
-		for (int i = k; i <= c; i += k)
+		for (int i = k; i <= c; i += k) //c보다 작을때와 k의 배수일때 폭죽이 터짐.
 		{
 			time[i] = 1;
 		}

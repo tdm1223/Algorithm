@@ -1,7 +1,5 @@
 // 1890. 점프
-#include <string>
 #include<iostream>
-#include<queue>
 using namespace std;
 
 int arr[101][101];

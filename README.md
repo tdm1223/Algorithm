@@ -5,7 +5,8 @@
 
 백준 온라인저지(acmicpc.net), 프로그래머스(programmers.co.kr), HackerRank(hackerrank.com)의 알고리즘 문제 풀이입니다.
 
-#백준 온라인 저지
+백준 온라인 저지
+================
 
 구현, 기타
 ----------
@@ -111,7 +112,7 @@
 |  33  |            [퇴사](https://www.acmicpc.net/problem/14501)             | [cpp](acmicpc.net/14501.cpp) |  34  |        [이항 계수 2](https://www.acmicpc.net/problem/11051)         | [cpp](acmicpc.net/11051.cpp) |
 |  35  |             [점프](https://www.acmicpc.net/problem/1890)             | [cpp](acmicpc.net/1890.cpp)  |  36  |           [합분해](https://www.acmicpc.net/problem/2225)            | [cpp](acmicpc.net/2225.cpp)  |
 |  37  | [가장 긴 바이토닉 부분 수열 ](https://www.acmicpc.net/problem/11054) | [cpp](acmicpc.net/11054.cpp) |  38  |      [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)       | [cpp](acmicpc.net/1915.cpp)  |
-|  39  |        [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)         | [cpp](acmicpc.net/1937.cpp)  |      |                                                                     |                              |
+|  39  |        [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)         | [cpp](acmicpc.net/1937.cpp)  |  40  |         [제곱수의 합](https://www.acmicpc.net/problem/1699)         | [cpp](acmicpc.net/1699.cpp)  |
 
 BFS, DFS
 --------
@@ -146,7 +147,8 @@ Greedy Algorithm
 |  11  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | [cpp](acmicpc.net/1966.cpp)  |  12  |     [최대 힙](https://www.acmicpc.net/problem/11279)     | [cpp](acmicpc.net/11279.cpp) |
 |  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |  14  |    [오르막 길](https://www.acmicpc.net/problem/2846)     | [cpp](acmicpc.net/2846.cpp)  |
 
-#프로그래머스
+프로그래머스
+============
 
 Level 1
 -------
@@ -190,7 +192,8 @@ Level 2
 |  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |  2   | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](programmers/3-2.cpp) |
 |  3   | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)  |   [cpp](programmers/3-3.cpp)   |      |                                                                       |                            |
 
-#HackerRank
+HackerRank
+==========
 
 Easy
 ----
@@ -201,11 +204,20 @@ Easy
 |  3   |      [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar)      |   [cpp](hackerrank.com/birthdayChocolate.cpp)   |  4   |      [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)      | [cpp](hackerrank.com/divisibleSumPairs.cpp) |
 |  5   |            [bonAppetit](https://www.hackerrank.com/challenges/bon-appetit)            |      [cpp](hackerrank.com/bonAppetit.cpp)       |  6   |             [twoStrings](https://www.hackerrank.com/challenges/two-strings)              |    [cpp](hackerrank.com/twoStrings.cpp)     |
 |  7   | [alternatingCharacters](https://www.hackerrank.com/challenges/alternating-characters) | [cpp](hackerrank.com/alternatingCharacters.cpp) |  8   |            [markAndToys](https://www.hackerrank.com/challenges/mark-and-toys)            |    [cpp](hackerrank.com/markAndToys.cpp)    |
-|  7   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)        |    [cpp](hackerrank.com/makingAnagrams.cpp)     |  10  |           [ransomNote](https://www.hackerrank.com/challenges/ctci-ransom-note)           |    [cpp](hackerrank.com/ransomNote.cpp)     |
+|  9   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)        |    [cpp](hackerrank.com/makingAnagrams.cpp)     |  10  |           [ransomNote](https://www.hackerrank.com/challenges/ctci-ransom-note)           |    [cpp](hackerrank.com/ransomNote.cpp)     |
+|  11  |    [leftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)     |     [cpp](hackerrank.com/leftRotation.cpp)      |      |                                                                                          |                                             |
 
 Medium
 ------
 
-| 번호 | 문제                                                                          | 코드                                     | 번호 | 문제 | 코드 |
-|:----:|:-----------------------------------------------------------------------------:|:----------------------------------------:|:----:|:----:|:----:|
-|  1   | [migratoryBirds](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) | [cpp](hackerrank.com/iceCreamParlor.cpp) |      |      |      |
+| 번호 | 문제                                                                          | 코드                                     | 번호 | 문제                                                                                         | 코드                                                 |
+|:----:|:-----------------------------------------------------------------------------:|:----------------------------------------:|:----:|:--------------------------------------------------------------------------------------------:|:----------------------------------------------------:|
+|  1   | [iceCreamParlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) | [cpp](hackerrank.com/iceCreamParlor.cpp) |  2   |            [minimumSwaps2](https://www.hackerrank.com/challenges/minimum-swaps-2)            |       [cpp](hackerrank.com/minimumSwaps2.cpp)        |
+|  3   |     [newYearChaos](https://www.hackerrank.com/challenges/new-year-chaos)      |  [cpp](hackerrank.com/newYearChaos.cpp)  |  4   | [sherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [cpp](hackerrank.com/sherlockAndTheValidString .cpp) |
+
+Hard
+----
+
+| 번호 | 문제                                                             | 코드                                        | 번호 | 문제 | 코드 |
+|:----:|:----------------------------------------------------------------:|:-------------------------------------------:|:----:|:----:|:----:|
+|  1   | [arrayManipulation](https://www.hackerrank.com/challenges/crush) | [cpp](hackerrank.com/arrayManipulation.cpp) |      |      |      |

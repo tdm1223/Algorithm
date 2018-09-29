@@ -24,6 +24,7 @@ int main()
 
 	for (int i = 1; i < n + m; i++)
 	{
+		//현재 값이 이전값과 같다면 듣보잡에 해당.
 		if (v[i] == v[i - 1])
 		{
 			ans.push_back(v[i]);

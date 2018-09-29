@@ -1,12 +1,10 @@
 // 1520. 내리막 길
 #include <iostream>
-#include <algorithm>
-#include<vector>
-#include<string>
+
 using namespace std;
 
 int a[501][501];
-int d[501][501] = { -1, };
+int d[501][501]; // d[i][j] : i,j에 도달하는 경로의 개수
 int dx[4] = { 0,0,1,-1 };
 int dy[4] = { -1,1,0,0 };
 int n, m;

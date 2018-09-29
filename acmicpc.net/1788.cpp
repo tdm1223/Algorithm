@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int d[1000001];
+int d[1000001]; // d[i] : i번쨰 피보나치수
 int main()
 {
 	int n;
