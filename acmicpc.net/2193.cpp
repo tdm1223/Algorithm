@@ -1,6 +1,6 @@
 //2193. 이친수
 #include <iostream>
-#include<string>
+
 using namespace std;
 
 long long d[90]; //d[n] : n자리 이친수의 개수

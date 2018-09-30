@@ -1,9 +1,10 @@
 // 1937. 욕심쟁이 판다
 #include <iostream>
+
 using namespace std;
 
-int d[500][500] = { 0 };
-int a[500][500] = { 0 };
+int d[500][500]; //d[i][j] : i,j에 판다의 최대 이동횟수 저장
+int a[500][500]; // a[i][j] : i,j에 있는 대나무의 양
 int dy[4] = { 1,-1,0,0 };
 int dx[4] = { 0,0,1,-1 };
 int n;

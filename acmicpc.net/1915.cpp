@@ -9,6 +9,7 @@ int min(int a, int b)
 {
 	return a > b ? b : a;
 }
+
 int main()
 {
 	int n, m;
@@ -30,12 +31,13 @@ int main()
 		{
 			if (a[i][j] == 1)
 			{
+				//d[i-1][j-1], d[i][j-1], d[i-1][j]의 최솟값 + 1 로 갱신
 				d[i][j] = min(min(d[i - 1][j - 1], d[i - 1][j]), d[i][j - 1]) + 1;
 				max = max > d[i][j] ? max : d[i][j];
 			}
 		}
 	}
 
-	cout << max * max << endl;
+	cout << max * max << endl; //넓이 출력
 	return 0;
 }

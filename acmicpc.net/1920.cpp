@@ -10,6 +10,7 @@ int main()
 	int n;
 	cin >> n;
 	vector<int> v(n);
+
 	for (int i = 0; i < n; i++)
 		cin >> v[i];
 
@@ -20,13 +21,14 @@ int main()
 	{
 		int tmp;
 		cin >> tmp;
-
 		if (binary_search(v.begin(), v.end(), tmp))
 		{
 			printf("1\n");
 		}
 		else
+		{
 			printf("0\n");
+		}
 	}
 	return 0;
 }

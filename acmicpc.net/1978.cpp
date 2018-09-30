@@ -10,6 +10,7 @@ int main()
 	int n;
 	cin >> n;
 	arr[1] = 1;
+	//1부터 1000까지 수 중 소수를 0으로 표시
 	for (int i = 2; i <= 1000; i++)
 	{
 		for (int j = i; j <= 1000; j += i)
@@ -37,5 +38,6 @@ int main()
 			count++;
 		}
 	}
+	
 	cout << count << endl;
 }

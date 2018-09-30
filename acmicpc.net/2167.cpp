@@ -10,6 +10,7 @@ int main()
 {
 	int n, m;
 	cin >> n >> m;
+
 	for (int i = 1; i <= n; i++)//행
 	{
 		for (int j = 1; j <= m; j++)//열
@@ -40,5 +41,6 @@ int main()
 		}
 		cout << ans << endl;
 	}
+	
 	return 0;
 }

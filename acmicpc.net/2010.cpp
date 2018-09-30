@@ -1,26 +1,27 @@
 // 2010. 플러그
 #include <iostream>
-#include<string>
+#include <vector>
 using namespace std;
 
 int main()
 {
 	int n;
 	cin >> n;
-	int *arr = new int[n];
+	vector<int> v(n);
 	for (int i = 0; i < n; i++)
 	{
-		cin >> arr[i];
+		cin >> v[i];
 	}
 
 	int sum = 0;
 	for (int i = 0; i < n; i++)
 	{
-		sum += arr[i];
+		//전체 연결 할 수 있는 플로그를 계산한다.
+		sum += v[i];
 	}
+	//멀티탭이 차지하는 플로그의 갯수를 뺀다.
 	sum -= (n - 1);
 
 	cout << sum << endl;
-	delete arr;
 	return 0;
 }

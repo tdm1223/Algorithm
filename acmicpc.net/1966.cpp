@@ -14,7 +14,7 @@ int main()
 		int n, m, answer = 0;
 		cin >> n >> m;
 		queue <pair<int, int>> q;
-		priority_queue <int> pq;
+		priority_queue <int> pq; //우선순위 큐 선언
 
 		for (int i = 0; i < n; i++)
 		{

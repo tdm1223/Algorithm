@@ -1,6 +1,5 @@
 //1874. 스택 수열
 #include <iostream>
-#include <algorithm>
 #include<string>
 #include<stack>
 #include<vector>
