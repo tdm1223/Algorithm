@@ -1,4 +1,4 @@
-// 2557. Hello World 
+// 2557. Hello World
 #include <iostream>
 
 using namespace std;
@@ -6,6 +6,5 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!" << endl;
-
 	return 0;
 }

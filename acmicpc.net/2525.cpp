@@ -1,6 +1,5 @@
 //2525. 인공지능 시계
 #include <iostream>
-
 using namespace std;
 
 int main()

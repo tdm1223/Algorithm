@@ -1,8 +1,11 @@
 // 2864. 5와 6의 차이
 #include <iostream>
 #include <string>
+
 using namespace std;
-int main() {
+
+int main()
+{
 	int min, max;
 	string A, B;
 	cin >> A >> B;

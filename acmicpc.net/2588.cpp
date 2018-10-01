@@ -10,7 +10,7 @@ int main()
 	int c = a * b;
 	while (b > 0)
 	{
-		int tmp = b % 10;
+		int tmp = b % 10; //b의 자릿수
 		cout << a * tmp << endl;
 		b /= 10;
 	}

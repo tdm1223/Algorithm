@@ -11,7 +11,9 @@ int main()
 
 	int count = 0;
 
-	for (int i = 0; i < s.size(); i++) {
+	//문제에서 모든 크로아티아 알파벳에 대해 체크를 한다.
+	for (int i = 0; i < s.size(); i++)
+	{
 		if (s[i] == 'c')
 		{
 			if (s[i + 1] == '=' || s[i + 1] == '-')
@@ -63,5 +65,7 @@ int main()
 		}
 		count++;
 	}
+
 	cout << count << endl;
+	return 0;
 }

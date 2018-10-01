@@ -11,12 +11,13 @@ int main()
 	int result = 1;
 	result = a * b * c;
 
-	while (1)
+	while (1)//일의 자릿수를 추출하여 해당하는 값의 배열값 +1
 	{
 		int res = result % 10;
 		ans[res]++;
 		result /= 10;
-		if (result == 0) break;
+		if (result == 0)
+			break;
 	}
 
 	for (int i = 0; i < 10; i++)

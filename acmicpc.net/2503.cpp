@@ -1,7 +1,5 @@
 // 2503. 숫자 야구
-#include <string>
 #include <vector>
-#include<map>
 #include<iostream>
 using namespace std;
 
@@ -24,6 +22,7 @@ int main()
 		}
 		baseball.push_back(tmp);
 	}
+
 	int answer = 0;
 	for (int i = 123; i <= 987; i++)
 	{
@@ -31,7 +30,8 @@ int main()
 		que[0] = i / 100;
 		que[1] = i / 10 % 10;
 		que[2] = i % 10;
-		if (!que[1] || !que[2] || que[0] == que[1] || que[1] == que[2] || que[2] == que[0]) continue;
+		if (!que[1] || !que[2] || que[0] == que[1] || que[1] == que[2] || que[2] == que[0])
+			continue;
 		for (int j = 0; j<baseball.size(); j++)
 		{
 			int strike = 0;
@@ -42,14 +42,18 @@ int main()
 			ans[2] = num % 10;
 			for (int k = 0; k<3; k++)
 			{
-				if (que[k] == ans[k]) strike++;
-				if (que[k] == ans[(k + 1) % 3] || que[k] == ans[(k + 2) % 3]) ball++;
+				if (que[k] == ans[k])
+					strike++;
+				if (que[k] == ans[(k + 1) % 3] || que[k] == ans[(k + 2) % 3])
+					ball++;
 			}
-			if (strike == baseball[j][1] && ball == baseball[j][2]) count++;
+			if (strike == baseball[j][1] && ball == baseball[j][2])
+				count++;
 		}
 		if (count == baseball.size())
 			answer++;
 	}
+
 	cout << answer << endl;
 	return 0;
 }

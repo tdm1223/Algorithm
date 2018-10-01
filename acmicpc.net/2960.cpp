@@ -12,16 +12,21 @@ int main()
 	{
 		for (int j = i; j <= n; j += i)
 		{
-			if (arr[j] == 0) {
+			if (arr[j] == 0)
+			{
 				count++;
 				arr[j] = 1;
 			}
-			if (count == k) {
+			if (count == k)
+			{
 				ans = j;
 				break;
 			}
 		}
-		if (count == k)break;
+		if (count == k)
+			break;
 	}
-	cout << ans << '\n';
+
+	cout << ans << endl;
+	return 0;
 }

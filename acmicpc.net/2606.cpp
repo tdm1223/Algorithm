@@ -4,7 +4,7 @@
 using namespace std;
 
 int com[101][101];
-int check[101];
+int check[101]; //1이면 바이러스에 걸린 컴퓨터
 int main()
 {
 	int n, k;
@@ -32,9 +32,12 @@ int main()
 			}
 		}
 	}
+
 	int count = 0;
 	for (int i = 2; i <= n; i++)
-		if (check[i] == 1) count++;
+		if (check[i] == 1)
+			count++;
+
 	cout << count << endl;
 	return 0;
 }

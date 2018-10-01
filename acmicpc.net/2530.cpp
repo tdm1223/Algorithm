@@ -13,6 +13,5 @@ int main()
 	A += B / 60;
 
 	cout << A % 24 << " " << B % 60 << " " << C % 60 << endl;
-
 	return 0;
 }

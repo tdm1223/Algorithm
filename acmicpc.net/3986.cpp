@@ -2,9 +2,9 @@
 #include <iostream>
 #include <string>
 #include<stack>
+
 using namespace std;
 
-int arr[26];
 int main()
 {
 	int n;
@@ -27,6 +27,7 @@ int main()
 				s.push(a[i]);
 		}
 
+		//스택이 비어있다면 좋은 단어
 		if (s.empty())
 			count++;
 

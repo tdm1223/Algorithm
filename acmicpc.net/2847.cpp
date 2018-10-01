@@ -1,12 +1,13 @@
 // 2847. 게임을 만든 동준이
 #include <iostream>
-#include <algorithm>
 #include<vector>
+
 using namespace std;
 
 int main()
 {
-	int n, cnt = 0;
+	int n;
+	int cnt = 0; //출력할 답을 저장하는 변수
 	cin >> n;
 	vector<int> v(n);
 	for (int i = 0; i < n; i++)
@@ -21,7 +22,8 @@ int main()
 				v[i - 1]--;
 				cnt++;
 			}
-			else break;
+			else
+				break;
 		}
 	}
 	cout << cnt << endl;

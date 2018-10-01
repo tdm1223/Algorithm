@@ -1,5 +1,6 @@
 // 2225. 합분해
 #include<iostream>
+
 using namespace std;
 
 int d[201][201]; // d[i][j] : 정수 i개를 더해서 그 합이 j가 되는 경우의 수

@@ -1,35 +1,32 @@
 // 2822. 점수 계산
 #include <iostream>
 #include <algorithm>
+#include <vector>
 
 using namespace std;
 
-int ans[5], score[8], sum = 0;
-
 int main()
 {
+	vector<pair<int, int>> score(8);
 	for (int i = 0; i < 8; i++)
-		cin >> score[i];
-
-	//ū�Ÿ� �ϳ��� ã���鼭 �ε����� �����ϰ� -1�� �ٲ۴�.
-	for (int i = 0; i < 5; i++)
 	{
-		int big = -1;
-		int index = 0;
-		for (int j = 0; j < 8; j++)
-		{
-			if (score[j] > big)
-			{
-				big = score[j];
-				index = j;
-			}
-		}
-		sum += big;
-		score[index] = -1;
-		ans[i] = index + 1;
+		int a;
+		cin >> a;
+		score[i].first = a;
+		score[i].second = i + 1;
 	}
-	sort(&ans[0], &ans[4]);
+
+	sort(score.begin(), score.end());
+
+	vector<int> ans;
+	int sum = 0;
+	for (int i = 3; i < 8; i++)
+	{
+		sum += score[i].first;
+		ans.push_back(score[i].second);
+	}
+	sort(ans.begin(), ans.end());
 	cout << sum << endl;
-	for (int i = 0; i < 5; i++)
-		cout << ans[i] << ' ';
+	for (int i = 0; i < ans.size(); i++)
+		cout << ans[i]<< " ";
 }

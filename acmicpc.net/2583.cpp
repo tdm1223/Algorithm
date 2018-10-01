@@ -1,17 +1,18 @@
 // 2583. 영역 구하기
+// 2667과 유사
 #include <iostream>
 #include <algorithm>
 #include <vector>
-#include<string>
 using namespace std;
 
-int arr[101][101];
-bool visit[101][101];
+int arr[101][101]; // 영역
+bool visit[101][101]; //방문 여부
+
+//상하좌우
 int dx[4] = { 0,0,-1,1 };
 int dy[4] = { 1,-1,0,0 };
 int n, m, k;
 
-vector<int> area;
 int dfs(int x, int y)
 {
 	int cnt = 1;
@@ -51,6 +52,7 @@ int main()
 			}
 		}
 	}
+
 	vector<int> area;
 	for (int i = 0; i < n; i++)
 	{

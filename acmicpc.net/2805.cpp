@@ -1,6 +1,5 @@
 // 2805. 나무 자르기
 #include <iostream>
-#include <algorithm>
 #include <vector>
 
 using namespace std;

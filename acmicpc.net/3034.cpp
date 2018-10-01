@@ -1,6 +1,6 @@
 // 3034. 앵그리 창영
-#include <iostream>
-#include<math.h>
+#include<iostream>
+#include<cmath>
 using namespace std;
 
 int main(void)
@@ -22,5 +22,6 @@ int main(void)
 			cout << "NE" << endl;
 		}
 	}
+	
 	return 0;
 }

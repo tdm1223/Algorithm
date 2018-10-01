@@ -10,7 +10,7 @@ int main()
 	cin >> s;
 	stack<char> stack;
 	int sum = 0;
-	int mul = 1;
+	int mul = 1;//가중치
 	for (int i = 0; i < s.size(); i++)
 	{
 		if (s[i] == '(')

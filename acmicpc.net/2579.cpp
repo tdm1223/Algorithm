@@ -1,6 +1,7 @@
 // 2579. 계단 오르기
 #include <iostream>
 #include<vector>
+
 using namespace std;
 
 int max(int a, int b)
@@ -23,8 +24,10 @@ int main()
 
 	for (int i = 3; i < n; i++)
 	{
+		//현재칸과 2번째 전의 칸의 합 과 현재칸 + 바로 전칸 + 3번째 전칸의 합중 최댓값
 		d[i] = max(d[i - 2] + v[i], d[i - 3] + v[i - 1] + v[i]);
 	}
+
 	cout << d[n - 1] << endl;
 	return 0;
 }

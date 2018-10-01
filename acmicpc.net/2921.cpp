@@ -1,6 +1,6 @@
 // 2921. 도미노
 #include <iostream>
-#include<math.h>
+
 using namespace std;
 
 int d[1001];
@@ -20,6 +20,7 @@ int main()
 		}
 		d[i] = d[i - 1] + sum;
 	}
+
 	cout << d[n] << endl;
 	return 0;
 }

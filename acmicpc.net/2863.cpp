@@ -1,12 +1,13 @@
 // 2863. 이게 분수?
 #include <iostream>
-#include<vector>
+
 using namespace std;
 
 float max(float a, float b)
 {
 	return a > b ? a : b;
 }
+
 float arr[4];
 int main()
 {

@@ -16,6 +16,7 @@ int main()
 		cin >> v[i];
 	}
 
+	// 모든 경우의 수에 대해 따져본다.
 	for (int i = 0; i < n - 2; i++)
 	{
 		for (int j = i + 1; j < n - 1; j++)

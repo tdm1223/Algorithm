@@ -3,12 +3,14 @@
 #include <string>
 
 using namespace std;
+
 int main()
 {
 	string s;
 	string ans;
 	cin >> s;
 
+	//맨 처음 문자와 -뒤의 문자들을 추가한 답을 출력하면된다.
 	ans += s[0];
 	for (int i = 0; i < s.size(); i++)
 	{

@@ -8,8 +8,8 @@
 백준 온라인 저지
 ================
 
-구현, 기타
-----------
+구현, 시뮬레이션, 출력
+----------------------
 
 | 번호 | 문제                                                            | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
@@ -44,6 +44,7 @@
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           | [cpp](acmicpc.net/2292.cpp)  |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      | [cpp](acmicpc.net/10819.cpp) |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          | [cpp](acmicpc.net/3052.cpp)  |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          | [cpp](acmicpc.net/2810.cpp)  |
 |  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       | [cpp](acmicpc.net/9324.cpp)  |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    | [cpp](acmicpc.net/2847.cpp)  |
+|  63  |       [지능형 기차](https://www.acmicpc.net/problem/2455)       | [cpp](acmicpc.net/2455.cpp)  |      |                                                                  |                              |
 
 수학
 ----
@@ -215,6 +216,7 @@ Medium
 |:----:|:-----------------------------------------------------------------------------:|:----------------------------------------:|:----:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
 |  1   | [iceCreamParlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) | [cpp](hackerrank.com/iceCreamParlor.cpp) |  2   |            [minimumSwaps2](https://www.hackerrank.com/challenges/minimum-swaps-2)            |       [cpp](hackerrank.com/minimumSwaps2.cpp)       |
 |  3   |     [newYearChaos](https://www.hackerrank.com/challenges/new-year-chaos)      |  [cpp](hackerrank.com/newYearChaos.cpp)  |  4   | [sherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [cpp](hackerrank.com/sherlockAndTheValidString.cpp) |
+|  5   |      [maxArraySum](https://www.hackerrank.com/challenges/max-array-sum)       |  [cpp](hackerrank.com/maxArraySum.cpp)   |  6   |                   [candies](https://www.hackerrank.com/challenges/candies)                   |          [cpp](hackerrank.com/candies.cpp)          |
 
 Hard
 ----

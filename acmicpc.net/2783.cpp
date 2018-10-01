@@ -1,5 +1,5 @@
 // 2783. 삼각 김밥
-#include <iostream>
+#include<iostream>
 #include<algorithm>
 #include<vector>
 using namespace std;
@@ -19,6 +19,5 @@ int main()
 	}
 
 	sort(v.begin(), v.end());
-
 	printf("%.2f\n", v[0] * 1000);
 }

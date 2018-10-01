@@ -24,8 +24,12 @@ int main()
 		{
 			tmp = 0;
 		}
-		if (tmp > max) max = tmp;
+		if (tmp > max)
+		{
+			max = tmp;
+		}
 	}
+
 	cout << max << endl;
 	return 0;
 }

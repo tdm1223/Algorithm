@@ -1,16 +1,19 @@
-// 3040. 백설 공주와 일곱 난쟁이 
+// 3040. 백설 공주와 일곱 난쟁이
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-	int a[9], sum = 0;
+	int a[9];
+	int sum = 0;
 	for (int i = 0; i < 9; i++)
 	{
 		cin >> a[i];
 		sum += a[i];
 	}
+
+	//두개르 뺏을때 100이 되도록 모든 경우 계산
 	for (int i = 0; i < 8; i++)
 	{
 		for (int j = i + 1; j < 9; j++)
@@ -27,5 +30,6 @@ int main()
 			}
 		}
 	}
+
 	return 0;
 }

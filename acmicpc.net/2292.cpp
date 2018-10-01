@@ -3,7 +3,6 @@
 
 using namespace std;
 
-string d[251];
 int main()
 {
 	long long n;
@@ -12,11 +11,13 @@ int main()
 	long long k=1;
 	cin >> n;
 
+	// 1,6,12,18 . . . 6의 배수로 만큼 둘러 쌓여지게 된다.
 	while (maxNum<n)
 	{
 		k = 6 * (count++);
 		maxNum += k;
 	}
+
 	cout << count << endl;
 	return 0;
 }
