@@ -1,9 +1,8 @@
 // 8979. 올림픽
-#include <cstdio>
-#include <queue>
-#include <algorithm>
-#include <cstring>
+#include<algorithm>
 #include<iostream>
+#include<vector>
+
 using namespace std;
 
 class medal
@@ -30,9 +29,9 @@ bool comp(medal a, medal b)
 		return a.total == k;
 }
 
-int main() {
+int main()
+{
 	medal medal;
-
 	cin >> n >> k;
 	for (int i = 0; i<n; i++)
 	{
@@ -47,7 +46,6 @@ int main() {
 		if (v[i].total == k)
 		{
 			cout << i + 1 << endl;
-
 		}
 	}
 	return 0;

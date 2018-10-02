@@ -1,12 +1,14 @@
 // 5063. TGN
 #include <iostream>
+
 using namespace std;
 
-int main() {
+int main()
+{
 	int t;
 	cin >> t;
-
-	while (t > 0) {
+	while (t > 0)
+	{
 		t--;
 		long long r, e, c;
 		cin >> r >> e >> c;
@@ -25,5 +27,4 @@ int main() {
 	}
 
 	return 0;
-
 }

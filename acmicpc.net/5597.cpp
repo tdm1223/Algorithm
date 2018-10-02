@@ -1,8 +1,9 @@
 // 5597. 과제 안 내신 분..?
 #include <iostream>
+
 using namespace std;
 
-int main(void)
+int main()
 {
 	int num[31] = { 0 };
 	int arr[28];
@@ -11,6 +12,7 @@ int main(void)
 		cin >> arr[i];
 		num[arr[i]] = 1;
 	}
+
 	for (int i = 1; i < 31; i++)
 	{
 		if (num[i] != 1)
@@ -18,7 +20,5 @@ int main(void)
 			cout << i << endl;
 		}
 	}
-
-
 	return 0;
 }

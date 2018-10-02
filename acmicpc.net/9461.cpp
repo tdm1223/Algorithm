@@ -1,20 +1,11 @@
 // 9461. 파도반 수열
 #include <iostream>
+
 using namespace std;
 
-
-int min(int a, int b)
+long long d[101]; //d[i] : i에 대한 나선에 있는 정삼각형의 변의 길이
+int main()
 {
-	return a > b ? b : a;
-}
-
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
-
-int d[101];
-int main() {
 	int t;
 	cin >> t;
 	d[0] = 1;
@@ -34,4 +25,5 @@ int main() {
 		}
 		cout << d[n] << endl;
 	}
+	return 0;
 }

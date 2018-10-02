@@ -1,8 +1,8 @@
 // 9012. 괄호
-#include <iostream>
+#include<iostream>
 #include<stack>
 #include<string>
-#include<math.h>
+
 using namespace std;
 
 int main()
@@ -19,8 +19,8 @@ int main()
 		{
 			stack.push(a[i]);
 		}
-		int first = 0;
-		int second = 0;
+		int first = 0; //여는괄호 갯수
+		int second = 0;//닫는괄호 갯수
 		for (int i = 0; i < a.size(); i++)
 		{
 			int tmp = stack.top();
@@ -28,15 +28,24 @@ int main()
 			if (tmp == '(')
 			{
 				first++;
-				if (first > second) break; 
+				if (first > second)
+				{
+					break;
+				}
 			}
 			else
 			{
 				second++;
 			}
 		}
-		if (first == second) cout << "YES" << endl;
-		else cout << "NO" << endl;
+		if (first == second)
+		{
+			cout << "YES" << endl;
+		}
+		else
+		{
+			cout << "NO" << endl;
+		}
 	}
 	return 0;
 }

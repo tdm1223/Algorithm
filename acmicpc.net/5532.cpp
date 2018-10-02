@@ -1,10 +1,15 @@
 // 5532. 방학 숙제
 #include <iostream>
+
 using namespace std;
 
-int main(void)
+int main()
 {
-	// l : 총 방학 일 수 / a : 풀어야 하는 국어 페이지 / b : 풀어야 하는 수학 페이지 / c : 하루 최대 국어 / d : 하루 최대 수학
+	// l : 총 방학 일 수
+	// a : 풀어야 하는 국어 페이지
+	// b : 풀어야 하는 수학 페이지
+	// c : 하루 최대 국어
+	// d : 하루 최대 수학
 	int l, a, b, c, d;
 	cin >> l >> a >> b >> c >> d;
 

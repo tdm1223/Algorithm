@@ -3,6 +3,7 @@
 #include<string>
 #include<vector>
 #include<algorithm>
+
 using namespace std;
 
 int main()
@@ -16,12 +17,15 @@ int main()
 		cin >> n;
 		vector<string> v(n);
 		for (int i = 0; i < n; i++)
+		{
 			cin >> v[i];
+		}
 		string answer = "YES";
 		sort(v.begin(), v.end());
 
 		for (int i = 0; i < v.size()-1; i++)
 		{
+			// 현재 값이 다음 값의 부분 문자열에 포함된다면 일관성이 없는 목록
 			if (v[i] == v[i + 1].substr(0, v[i].size()))
 			{
 				answer = "NO";

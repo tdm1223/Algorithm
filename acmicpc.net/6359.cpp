@@ -11,12 +11,14 @@ int main()
 	while (t > 0)
 	{
 		t--;
-		int n, count = 0;
+		int n;
 		cin >> n;
+		int count = 0; //탈출할 수 있는 학생의 수
 		for (int i = 0; i <= 101; i++)
 		{
 			d[i] = 0;
 		}
+
 		for (int i = 1; i <= n; i++)
 		{
 			for (int j = i; j <= n; j+=i)
@@ -32,12 +34,8 @@ int main()
 					count--;
 				}
 			}
-
 		}
-
 		cout << count << endl;
 	}
-
-
 	return 0;
 }

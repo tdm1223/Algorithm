@@ -3,7 +3,7 @@
 #include<iostream>
 
 int check[1000001];
-int dist[1000001];
+int dist[1000001];//d[i] : i층을 가기 위해 눌러야 하는 버튼의 수의 최솟값
 
 using namespace std;
 
@@ -15,7 +15,7 @@ int main()
 	q.push(S);
 	check[S] = 1;
 	dist[S] = 0;
-	int flag = 0;
+	int flag = 0; //이동할 수 있는지 없는지를 나타내는 플래그. 이동할 수 있다면 1
 	while (!q.empty())
 	{
 		int now = q.front();
@@ -38,8 +38,8 @@ int main()
 				dist[next] = dist[now] + 1;
 			}
 		}
-
 	}
+  
 	if (flag)
 		cout << dist[G] << endl;
 	else

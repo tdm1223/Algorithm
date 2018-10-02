@@ -6,6 +6,7 @@ using namespace std;
 int arr[246913];
 int main()
 {
+	//소수 검출 arr[i]=0이면 i는 소수
 	for (int i = 2; i <= 246912; i++)
 	{
 		for (int j = i + i; j <= 246912; j += i)
@@ -21,7 +22,8 @@ int main()
 	while (1)
 	{
 		cin >> n;
-		if (n == 0) break;
+		if (n == 0)
+			break;
 		int count = 0;
 		for (int i = n+1; i <= 2 * n; i++)
 		{
@@ -32,4 +34,5 @@ int main()
 		}
 		cout << count << endl;
 	}
+	return 0;
 }

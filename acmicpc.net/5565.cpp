@@ -12,5 +12,7 @@ int main()
 		cin >> b;
 		a -= b;
 	}
+	
 	cout << a << endl;
+	return 0;
 }

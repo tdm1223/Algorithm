@@ -3,8 +3,9 @@
 
 using namespace std;
 
-int main() {
-
+int main()
+{
+	//n : 사탕 종류의 수 , k : 아이들이 최소로 먹는 사탕의 수
 	int t, n, k;
 	cin >> t;
 	while (t > 0)
@@ -21,6 +22,5 @@ int main() {
 		}
 		cout << count << endl;
 	}
-
 	return 0;
 }

@@ -2,6 +2,7 @@
 #include <algorithm>
 #include<iostream>
 #include<string>
+
 using namespace std;
 
 bool isOK(string m)
@@ -9,8 +10,8 @@ bool isOK(string m)
 	int arr[26] = { 0 };
 	for (int i = 0; i < m.size(); i++)
 	{
-		arr[m[i]-'A']++;
-		if (arr[m[i] - 'A'] % 3 == 0)//3�� �����϶�
+		arr[m[i] - 'A']++;
+		if (arr[m[i] - 'A'] % 3 == 0)//3의 배수일때
 		{
 			if (m[i + 1] != m[i])
 				return false;
@@ -21,19 +22,25 @@ bool isOK(string m)
 	}
 	return true;
 }
+
 int main()
 {
 	int k;
 	cin >> k;
-	while (k > 0) {
+	while (k > 0)
+	{
 		string message;
 		cin >> message;
 
 		if (isOK(message))
+		{
 			cout << "OK" << endl;
+		}
 		else
+		{
 			cout << "FAKE" << endl;
+		}
 		k--;
 	}
-
+	return 0;
 }

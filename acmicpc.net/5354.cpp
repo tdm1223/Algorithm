@@ -16,6 +16,7 @@ int main()
 		{
 			for (int j = 0; j < n; j++)
 			{
+				//모서리는 #로 출력
 				if (i == 0 || j == 0 || i == (n - 1) || j == (n - 1))
 					cout << "#";
 				else

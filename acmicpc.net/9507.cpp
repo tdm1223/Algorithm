@@ -3,13 +3,14 @@
 
 using namespace std;
 
-long long d[68];
+long long d[68]; // d[i] : i번째 꿍 피보나치
 int main()
 {
 	int t, n;
 	cin >> t;
 
-	d[0] = d[1] = 1;
+	d[0] = 1;
+	d[1] = 1;
 	d[2] = 2;
 	d[3] = 4;
 	while (t--)
@@ -24,8 +25,5 @@ int main()
 		}
 		cout << d[n] << endl;
 	}
-
-
-
 	return 0;
 }
