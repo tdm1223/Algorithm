@@ -1,10 +1,11 @@
 // 10815. 숫자카드
-#include <algorithm>
+#include<algorithm>
 #include<iostream>
 #include<vector>
+
 using namespace std;
 
-int main(void)
+int main()
 {
 	int n, m;
 	cin >> n;
@@ -19,15 +20,20 @@ int main(void)
 
 	sort(v.begin(), v.end());
 
+	//m개의 숫자에 대해 탐색
 	for (int i = 0; i < m; i++)
 	{
 		int k = b[i];
 		if (binary_search(v.begin(), v.end(), k))
+		{
 			cout << "1 ";
+		}
 		else
+		{
 			cout << "0 ";
+		}
 	}
-	cout << endl;
 
+	cout << endl;
 	return 0;
 }

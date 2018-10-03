@@ -1,13 +1,15 @@
 // 10808. 알파벳 개수
-#include <iostream>
-#include <string>
-#include<algorithm>
-using namespace std;
-int arr[26];
+#include<iostream>
+#include<string>
 
-int main() {
+using namespace std;
+
+int arr[26];//a~z를 담는 배열
+
+int main()
+{
 	string word;
-	getline(cin, word);
+	cin >> word;
 
 	for (int i = 0; i < word.size(); i++)
 	{
@@ -15,7 +17,9 @@ int main() {
 	}
 
 	for (int i = 0; i < 26; i++)
-		cout << arr[i] <<" ";
+	{
+		cout << arr[i] << " ";
+	}
 
 	return 0;
 }

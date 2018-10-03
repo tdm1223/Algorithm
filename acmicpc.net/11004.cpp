@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main(void)
+int main()
 {
     int n, k;
     scanf("%d %d", &n, &k);
@@ -12,7 +12,8 @@ int main(void)
     int * arr = new int[n];
     int num;
 
-    for(int i=0; i<n; i++){
+    for(int i=0; i<n; i++)
+    {
         scanf("%d", &num);
         arr[i] = num;
     }
@@ -20,7 +21,6 @@ int main(void)
     sort(&arr[0], &arr[n]);
 
     printf("%d", arr[k-1]);
-
     delete []arr;
 
     return 0;

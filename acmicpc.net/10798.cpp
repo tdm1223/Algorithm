@@ -1,6 +1,7 @@
 // 10798. 세로 읽기
-#include <iostream>
+#include<iostream>
 #include<string>
+
 using namespace std;
 
 string s[5];
@@ -13,9 +14,12 @@ int main()
 	{
 		for (int j = 0; j < 5; j++)
 		{
-			if(s[j].size()>i)
+			if (s[j].size() > i)
+			{
 				cout << s[j][i];
+			}
 		}
 	}
 	cout << endl;
+	return 0;
 }

@@ -12,8 +12,12 @@ int main()
 	for (int i = 0; i < 5; i++)
 	{
 		cin >> a[i];
-		if (a[i] == n) count++;
+		if (a[i] == n)
+		{
+			count++;
+		}
 	}
 
 	cout << count << endl;
+	return 0;
 }

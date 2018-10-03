@@ -44,7 +44,7 @@
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           | [cpp](acmicpc.net/2292.cpp)  |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      | [cpp](acmicpc.net/10819.cpp) |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          | [cpp](acmicpc.net/3052.cpp)  |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          | [cpp](acmicpc.net/2810.cpp)  |
 |  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       | [cpp](acmicpc.net/9324.cpp)  |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    | [cpp](acmicpc.net/2847.cpp)  |
-|  63  |       [지능형 기차](https://www.acmicpc.net/problem/2455)       | [cpp](acmicpc.net/2455.cpp)  |      |                                                                  |                              |
+|  63  |       [지능형 기차](https://www.acmicpc.net/problem/2455)       | [cpp](acmicpc.net/2455.cpp)  |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        | [cpp](acmicpc.net/2501.cpp)  |
 
 수학
 ----
@@ -208,6 +208,7 @@ Easy
 |  9   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)        |    [cpp](hackerrank.com/makingAnagrams.cpp)     |  10  |                  [ransomNote](https://www.hackerrank.com/challenges/ctci-ransom-note)                  |             [cpp](hackerrank.com/ransomNote.cpp)             |
 |  11  |    [leftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)     |     [cpp](hackerrank.com/leftRotation.cpp)      |  12  | [minAbsoluteDifference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [cpp](hackerrank.com/minimumAbsoluteDifferenceInAnArray.cpp) |
 |  13  |     [luckBalance](https://www.hackerrank.com/challenges/ctci-array-left-rotation)     |     [cpp](hackerrank.com/leftRotation.cpp)      |  14  |                   [luckBalance](https://www.hackerrank.com/challenges/luck-balance)                    |            [cpp](hackerrank.com/luckBalance.cpp)             |
+|  15  |           [utopianTree](https://www.hackerrank.com/challenges/utopian-tree)           |      [cpp](hackerrank.com/utopianTree.cpp)      |      |                                                                                                        |                                                              |
 
 Medium
 ------

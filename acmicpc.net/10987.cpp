@@ -3,6 +3,7 @@
 #include <string>
 
 using namespace std;
+
 int main()
 {
 	string s;
@@ -15,5 +16,7 @@ int main()
 			count++;
 		}
 	}
+
 	cout << count << endl;
+	return 0;
 }

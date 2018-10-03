@@ -14,6 +14,7 @@ int main()
 	{
 		cin >> cost[i];
 	}
+
 	while (m > 0)
 	{
 		m--;
@@ -40,6 +41,7 @@ int main()
 			index = i;
 		}
 	}
+	
 	cout << index << endl;
 	return 0;
 }

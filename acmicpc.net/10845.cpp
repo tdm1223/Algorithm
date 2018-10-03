@@ -1,11 +1,10 @@
 // 10845. 큐
 #include<iostream>
-#include<stack>
-#include<string>
 
 using namespace std;
 
-int main(void) {
+int main()
+{
 	int n;
 	cin >> n;
 	int front = 0;
@@ -26,9 +25,13 @@ int main(void) {
 		else if (s == "pop")
 		{
 			if (front == rear)
+			{
 				cout << "-1" << endl;
+			}
 			else
+			{
 				cout << arr[rear++] << endl;
+			}
 		}
 		else if (s == "size")
 		{
@@ -36,13 +39,21 @@ int main(void) {
 		}
 		else if (s == "empty")
 		{
-			if (front == rear) cout << "1" << endl;
-			else cout << "0" << endl;
+			if (front == rear)
+			{
+				cout << "1" << endl;
+			}
+			else
+			{
+				cout << "0" << endl;
+			}
 		}
 		else if (s == "front")
 		{
 			if (front == rear)
+			{
 				cout << "-1" << endl;
+			}
 			else
 			{
 				cout << arr[rear] << endl;
@@ -51,12 +62,15 @@ int main(void) {
 		else if (s == "back")
 		{
 			if (front == rear)
+			{
 				cout << "-1" << endl;
+			}
 			else
 			{
 				cout << arr[front - 1] << endl;
 			}
 		}
 	}
+
 	return 0;
 }

@@ -4,6 +4,7 @@
 using namespace std;
 
 int student[5];
+
 int main()
 {
 	int result = 0;
@@ -18,6 +19,5 @@ int main()
 	}
 
 	cout << result / 5 << endl;
-
 	return 0;
 }

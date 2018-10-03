@@ -1,5 +1,6 @@
 // 10871. X보다 작은 수
-#include <iostream>
+#include<iostream>
+#include<vector>
 
 using namespace std;
 
@@ -7,17 +8,20 @@ int main()
 {
 	int n, x;
 	cin >> n >> x;
-	int * a = new int[n];
+	vector<int> v(n);
 	for (int i = 0; i < n; i++)
-		cin >> a[i];
+	{
+		cin >> v[i];
+	}
 
 	for (int i = 0; i < n; i++)
 	{
-		if (a[i] < x)
-			cout << a[i] << " ";
+		if (v[i] < x)
+		{
+			cout << v[i] << " ";
+		}
 	}
-	cout << endl;
-	delete a;
 
+	cout << endl;
 	return 0;
 }
