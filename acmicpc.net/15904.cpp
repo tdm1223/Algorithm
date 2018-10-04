@@ -1,5 +1,5 @@
 // 15904. UCPC는 무엇의 약자일까?
-#include <iostream>
+#include<iostream>
 #include<string>
 
 using namespace std;
@@ -15,14 +15,20 @@ int main()
 		if (s[i] == ucpc[cnt])
 		{
 			cnt++;
-			if (cnt == 4) break;
+			if (cnt == 4)
+			{
+				break;
+			}
 		}
 	}
 	if (cnt == 4)
+	{
 		cout << "I love UCPC" << endl;
+	}
 	else
+	{
 		cout << "I hate UCPC" << endl;
-
+	}
 
 	return 0;
 }

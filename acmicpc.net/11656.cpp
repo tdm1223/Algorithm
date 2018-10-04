@@ -1,8 +1,9 @@
 // 11656. 접미사 배열
-#include <iostream>
+#include<iostream>
 #include<vector>
-#include <string>
+#include<string>
 #include<algorithm>
+
 using namespace std;
 
 int main()
@@ -18,6 +19,8 @@ int main()
 	sort(ans.begin(), ans.end());
 
 	for (int i = 0; i < ans.size(); i++)
+	{
 		cout << ans[i] << endl;
+	}
 	return 0;
 }

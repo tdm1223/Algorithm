@@ -1,11 +1,12 @@
 //15903. 카드 합체 놀이
-#include <iostream>
+#include<iostream>
 #include<algorithm>
 #include<deque>
+
 using namespace std;
 
-int main() {
-
+int main()
+{
 	int n, m;
 	cin >> n >> m;
 	deque<long long> dq;

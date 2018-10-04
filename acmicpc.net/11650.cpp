@@ -1,10 +1,9 @@
 // 11650. 좌표 정렬하기
 #include <iostream>
-#include<queue>
 #include<vector>
 #include<algorithm>
-using namespace std;
 
+using namespace std;
 
 int main()
 {
@@ -24,5 +23,6 @@ int main()
 	{
 		cout << v[i].first << " " << v[i].second << "\n";
 	}
+
 	return 0;
 }

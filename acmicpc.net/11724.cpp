@@ -1,10 +1,10 @@
 // 11724. 연결 요소의 개수
 #include<iostream>
+
 using namespace std;
 
 int arr[1001][1001];
 int visit[1001];
-
 int n, m;
 
 void dfs(int x)
@@ -18,6 +18,7 @@ void dfs(int x)
 		}
 	}
 }
+
 int main()
 {
 	cin >> n >> m;

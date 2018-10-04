@@ -1,9 +1,11 @@
 // 11586. 지영 공주님의 마법 거울
-#include <iostream>
-#include <string>
+#include<iostream>
+#include<string>
 #include<vector>
 #include<algorithm>
+
 using namespace std;
+
 int main()
 {
 	int n;
@@ -22,7 +24,9 @@ int main()
 	{
 	case 1:
 		for (int i = 0; i < n; i++)
+		{
 			ans.push_back(v[i]);
+		}
 		break;
 	case 2:
 		for (int i = 0; i < n; i++)
@@ -30,15 +34,18 @@ int main()
 			reverse(v[i].begin(), v[i].end());
 			ans.push_back(v[i]);
 		}
-
 		break;
 	case 3:
 		for (int i = n - 1; i >= 0; i--)
+		{
 			ans.push_back(v[i]);
+		}
 		break;
 	}
+
 	for (int i = 0; i < n; i++)
 	{
 		cout << ans[i] << endl;
 	}
+	return 0;
 }

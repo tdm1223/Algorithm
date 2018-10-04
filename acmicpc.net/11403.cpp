@@ -1,24 +1,33 @@
 // 11403.경로 찾기
-#include <iostream>
+#include<iostream>
 #include<queue>
+
 using namespace std;
 
 int visit[101][101];
-
 int main()
 {
 	int n;
 	cin >> n;
 	int v[101][101];
 	for (int i = 0; i < n; i++)
+	{
 		for (int j = 0; j < n; j++)
+		{
 			cin >> v[i][j];
+		}
+	}
 
 	queue<int> q;
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < n; j++)
-			if (v[i][j] == 1) q.push(j);
+		{
+			if (v[i][j] == 1)
+			{
+				q.push(j);
+			}
+		}
 		while (!q.empty())
 		{
 			int tmp = q.front();
@@ -43,6 +52,5 @@ int main()
 		}
 		cout << endl;
 	}
-
 	return 0;
 }

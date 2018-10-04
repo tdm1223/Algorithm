@@ -1,14 +1,13 @@
 // 12726. 2×n 타일링
 #include <iostream>
-#include<math.h>
+
 using namespace std;
 
-int d[1001];
+int d[1001]; //d[i] : 2xi크기의 직사각형을 채우는 방법의 수를 10007로 나눈 나머지
 int main()
 {
 	int n;
 	cin >> n;
-	//d[n] : 2xn ũ���� ���簢���� 1x2, 2x1Ÿ�Ϸ� ä���� ������ ���� 10007�� ���� ������
 	d[1] = 1;
 	d[2] = 2;
 	for (int i = 3; i <= n; i++)

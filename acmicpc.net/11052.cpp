@@ -1,14 +1,14 @@
 // 11052. 카드 구매하기
 #include <iostream>
-using namespace std;
 
+using namespace std;
 
 int max(int a, int b)
 {
 	return a > b ? a : b;
 }
 
-int d[1001] = { 0 };
+int d[1001];
 int a[1001];
 
 int main()
@@ -29,4 +29,5 @@ int main()
 	}
 
 	cout << d[n] << endl;
+	return 0;
 }
