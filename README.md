@@ -45,6 +45,7 @@
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          | [cpp](acmicpc.net/3052.cpp)  |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          | [cpp](acmicpc.net/2810.cpp)  |
 |  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       | [cpp](acmicpc.net/9324.cpp)  |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    | [cpp](acmicpc.net/2847.cpp)  |
 |  63  |       [지능형 기차](https://www.acmicpc.net/problem/2455)       | [cpp](acmicpc.net/2455.cpp)  |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        | [cpp](acmicpc.net/2501.cpp)  |
+|  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 
 수학
 ----
@@ -114,6 +115,7 @@
 |  35  |             [점프](https://www.acmicpc.net/problem/1890)             | [cpp](acmicpc.net/1890.cpp)  |  36  |           [합분해](https://www.acmicpc.net/problem/2225)            | [cpp](acmicpc.net/2225.cpp)  |
 |  37  | [가장 긴 바이토닉 부분 수열 ](https://www.acmicpc.net/problem/11054) | [cpp](acmicpc.net/11054.cpp) |  38  |      [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)       | [cpp](acmicpc.net/1915.cpp)  |
 |  39  |        [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)         | [cpp](acmicpc.net/1937.cpp)  |  40  |         [제곱수의 합](https://www.acmicpc.net/problem/1699)         | [cpp](acmicpc.net/1699.cpp)  |
+|  41  |          [점프 점프](https://www.acmicpc.net/problem/11060)          | [cpp](acmicpc.net/11060.cpp) |      |                                                                     |                              |
 
 BFS, DFS
 --------
