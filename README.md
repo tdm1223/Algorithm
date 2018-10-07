@@ -89,6 +89,7 @@
 |  23  |      [하얀 칸](https://www.acmicpc.net/problem/1100)      | [cpp](acmicpc.net/1100.cpp)  |  24  |    [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)     | [cpp](acmicpc.net/2902.cpp)  |
 |  25  |   [전화번호 목록](https://www.acmicpc.net/problem/5052)   | [cpp](acmicpc.net/5052.cpp)  |  26  |         [수 찾기](https://www.acmicpc.net/problem/1920)          | [cpp](acmicpc.net/1920.cpp)  |
 |  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [cpp](acmicpc.net/2805.cpp)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [cpp](acmicpc.net/10814.cpp) |
+|  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |      |                                                                  |                              |
 
 다이나믹 프로그래밍
 -------------------
@@ -173,27 +174,27 @@ Level 1
 |  25  |    [문자열을 정수로 바꾸기](https://www.welcomekakao.com/learn/courses/30/lessons/12925)    | [cpp](programmers/1-25.cpp) |  26  |     [문자열 다루기 기본](https://www.welcomekakao.com/learn/courses/30/lessons/12918)      | [cpp](programmers/1-26.cpp) |
 |  27  | [문자열 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12917) | [cpp](programmers/1-27.cpp) |  28  |     [이상한 문자 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12930)      | [cpp](programmers/1-28.cpp) |
 |  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
-|  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |      |                                                                                            |                             |
+|  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
 
 Level 2
 -------
 
-| 번호 | 문제                                                                                | 코드                         | 번호 | 문제                                                                         | 코드                        |
-|:----:|:-----------------------------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------------------:|:---------------------------:|
-|  1   |       [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)       |  [cpp](programmers/2-1.cpp)  |  2   |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)    | [cpp](programmers/2-2.cpp)  |
-|  3   | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) |  [cpp](programmers/2-3.cpp)  |  4   | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)  | [cpp](programmers/2-4.cpp)  |
-|  5   |       [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)       |  [cpp](programmers/2-5.cpp)  |  6   | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)  | [cpp](programmers/2-6.cpp)  |
-|  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      |  [cpp](programmers/2-7.cpp)  |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
-|  9   |  [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)  |  [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
-|  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-119.cpp) |  12  |     [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)      | [cpp](programmers/2-12.cpp) |
+| 번호 | 문제                                                                                | 코드                        | 번호 | 문제                                                                         | 코드                        |
+|:----:|:-----------------------------------------------------------------------------------:|:---------------------------:|:----:|:----------------------------------------------------------------------------:|:---------------------------:|
+|  1   |       [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)       | [cpp](programmers/2-1.cpp)  |  2   |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)    | [cpp](programmers/2-2.cpp)  |
+|  3   | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [cpp](programmers/2-3.cpp)  |  4   | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)  | [cpp](programmers/2-4.cpp)  |
+|  5   |       [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)       | [cpp](programmers/2-5.cpp)  |  6   | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)  | [cpp](programmers/2-6.cpp)  |
+|  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      | [cpp](programmers/2-7.cpp)  |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
+|  9   |         [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         | [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
+|  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |      |                                                                              |                             |
 
 나머지
 ------
 
 | 번호 | 문제                                                                  | 코드                           | 번호 | 문제                                                                  | 코드                       |
 |:----:|:---------------------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------------------------:|:--------------------------:|
-|  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |  2   | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](programmers/3-2.cpp) |
-|  3   | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)  |   [cpp](programmers/3-3.cpp)   |      |                                                                       |                            |
+|  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |  2   | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](programmers/3-1.cpp) |
+|  3   | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)  |   [cpp](programmers/3-2.cpp)   |      |                                                                       |                            |
 
 HackerRank
 ==========
