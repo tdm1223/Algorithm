@@ -4,12 +4,12 @@
 
 using namespace std;
 
-int visit[101][101];
+int visit[101][101];//방문유무
+int v[101][101];
 int main()
 {
 	int n;
 	cin >> n;
-	int v[101][101];
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < n; j++)
@@ -23,12 +23,12 @@ int main()
 	{
 		for (int j = 0; j < n; j++)
 		{
-			if (v[i][j] == 1)
+			if (v[i][j] == 1)//각 행을 조사하면서 값이 1인것을 먼저 다 넣음
 			{
 				q.push(j);
 			}
 		}
-		while (!q.empty())
+		while (!q.empty())//BFS
 		{
 			int tmp = q.front();
 			q.pop();

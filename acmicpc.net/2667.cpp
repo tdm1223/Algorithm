@@ -1,9 +1,10 @@
 // 2667. 단지번호 붙이기
 // 2583과 유사
-#include <iostream>
-#include <algorithm>
-#include <vector>
+#include<iostream>
+#include<algorithm>
+#include<vector>
 #include<string>
+
 using namespace std;
 
 int arr[26][26]; //단지
@@ -14,7 +15,7 @@ int dx[4] = { 0,0,-1,1 };
 int dy[4] = { 1,-1,0,0 };
 int n;
 
-int dfs(int x, int y)
+int DFS(int x, int y)
 {
 	int cnt = 1;
 	for (int i = 0; i < 4; i++)
@@ -23,12 +24,14 @@ int dfs(int x, int y)
 		int yy = y + dy[i];
 
 		if (yy < 0 || yy >= n || xx < 0 || xx >= n)
+		{
 			continue;
+		}
 
 		if (arr[xx][yy] && !visit[xx][yy])
 		{
 			visit[xx][yy] = 1;
-			cnt += dfs(xx, yy);
+			cnt += DFS(xx, yy);
 		}
 	}
 	return cnt;
@@ -55,7 +58,7 @@ int main()
 			if (!visit[i][j] && arr[i][j] == 1)
 			{
 				visit[i][j] = 1;
-				area.push_back(dfs(i, j));
+				area.push_back(DFS(i, j));
 			}
 		}
 	}
@@ -63,5 +66,9 @@ int main()
 	sort(area.begin(), area.end());
 	cout << area.size() << endl;
 	for (int i = 0; i < area.size(); i++)
+	{
 		cout << area[i] << endl;
+	}
+
+	return 0;
 }

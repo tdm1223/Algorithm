@@ -7,14 +7,14 @@ int arr[1001][1001];
 int visit[1001];
 int n, m;
 
-void dfs(int x)
+void DFS(int x)
 {
 	visit[x] = 1;
 	for (int i = 1; i <= n; i++)
 	{
 		if (!visit[i] && arr[x][i])
 		{
-			dfs(i);
+			DFS(i);
 		}
 	}
 }
@@ -37,9 +37,10 @@ int main()
 		if (!visit[i])
 		{
 			count++;
-			dfs(i);
+			DFS(i);
 		}
 	}
+
 	cout << count << endl;
 	return 0;
 }

@@ -8,7 +8,7 @@ int max(int a, int b)
 	return a > b ? a : b;
 }
 
-int d[501][501];
+int d[501][501];//d[i][j] : i행j열까지의 최대가 되는 경로에 있는 수의 합
 int main()
 {
 	int n;
@@ -23,7 +23,7 @@ int main()
 			{
 				d[i][j] += d[i - 1][j];
 			}
-			else if(j == i) //가장 오른쪽
+			else if (j == i) //가장 오른쪽
 			{
 				d[i][j] += d[i - 1][j - 1];
 			}
@@ -31,10 +31,14 @@ int main()
 			{
 				d[i][j] = max(d[i - 1][j - 1], d[i - 1][j]) + d[i][j];
 			}
-			
+
 			if (ans < d[i][j]) //최댓값 갱신
+			{
 				ans = d[i][j];
+			}
 		}
 	}
+
 	cout << ans << endl;
+	return 0;
 }

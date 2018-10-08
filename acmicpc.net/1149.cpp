@@ -1,5 +1,5 @@
 // 1149. RGB거리
-#include <iostream>
+#include<iostream>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ int min(int a, int b)
 }
 
 int RGB[1001][3];
-enum { R, G, B };
+enum { R, G, B };//R=0,G=1,B=2
 
 int main()
 {
@@ -27,7 +27,8 @@ int main()
 		RGB[i][G] = g + min(RGB[i - 1][R], RGB[i - 1][B]);
 		RGB[i][B] = b + min(RGB[i - 1][R], RGB[i - 1][G]);
 	}
-	cout << min(RGB[n-1][R], min(RGB[n-1][G], RGB[n-1][B])) << endl;
-	
+
+	//마지막집을 각각 R,G,B로 칠할때 비용 중 최솟값
+	cout << min(RGB[n - 1][R], min(RGB[n - 1][G], RGB[n - 1][B])) << endl;
 	return 0;
 }

@@ -1,6 +1,5 @@
 // 9095. 1, 2, 3 더하기
 #include<iostream>
-#include<string>
 
 using namespace std;
 
@@ -24,5 +23,6 @@ int main()
 		}
 		cout << d[k] << endl;
 	}
+
 	return 0;
 }

@@ -3,6 +3,7 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+
 using namespace std;
 
 int arr[101][101]; // 영역
@@ -13,7 +14,7 @@ int dx[4] = { 0,0,-1,1 };
 int dy[4] = { 1,-1,0,0 };
 int n, m, k;
 
-int dfs(int x, int y)
+int DFS(int x, int y)
 {
 	int cnt = 1;
 	for (int i = 0; i < 4; i++)
@@ -22,12 +23,14 @@ int dfs(int x, int y)
 		int xx = x + dx[i];
 
 		if (yy < 0 || yy >= m || xx < 0 || xx >= n)
+		{
 			continue;
+		}
 
 		if (!arr[xx][yy] && !visit[xx][yy])
 		{
 			visit[xx][yy] = 1;
-			cnt += dfs(xx, yy);
+			cnt += DFS(xx, yy);
 		}
 	}
 	return cnt;
@@ -61,7 +64,7 @@ int main()
 			if (!visit[i][j] && !arr[i][j])
 			{
 				visit[i][j] = 1;
-				area.push_back(dfs(i, j));
+				area.push_back(DFS(i, j));
 			}
 		}
 	}
@@ -69,5 +72,8 @@ int main()
 	sort(area.begin(), area.end());
 	cout << area.size() << endl;
 	for (int i = 0; i < area.size(); i++)
+	{
 		cout << area[i] << " ";
+	}
+	return 0;
 }

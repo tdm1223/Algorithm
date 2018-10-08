@@ -221,6 +221,7 @@ Medium
 |  1   | [iceCreamParlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) | [cpp](hackerrank.com/iceCreamParlor.cpp) |  2   |            [minimumSwaps2](https://www.hackerrank.com/challenges/minimum-swaps-2)            |       [cpp](hackerrank.com/minimumSwaps2.cpp)       |
 |  3   |     [newYearChaos](https://www.hackerrank.com/challenges/new-year-chaos)      |  [cpp](hackerrank.com/newYearChaos.cpp)  |  4   | [sherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [cpp](hackerrank.com/sherlockAndTheValidString.cpp) |
 |  5   |      [maxArraySum](https://www.hackerrank.com/challenges/max-array-sum)       |  [cpp](hackerrank.com/maxArraySum.cpp)   |  6   |                   [candies](https://www.hackerrank.com/challenges/candies)                   |          [cpp](hackerrank.com/candies.cpp)          |
+|  7   |        [maxMin](https://www.hackerrank.com/challenges/angry-children)         |     [cpp](hackerrank.com/maxMin.cpp)     |  8   |            [greedyFlorist](https://www.hackerrank.com/challenges/greedy-florist)             |       [cpp](hackerrank.com/greedyFlorist.cpp)       |
 
 Hard
 ----
