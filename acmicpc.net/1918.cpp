@@ -1,7 +1,5 @@
 // 1918. 후위표기식
-#include <iostream>
-#include <algorithm>
-#include<vector>
+#include<iostream>
 #include<string>
 #include<stack>
 
