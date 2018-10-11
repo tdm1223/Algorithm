@@ -89,7 +89,7 @@
 |  23  |      [하얀 칸](https://www.acmicpc.net/problem/1100)      | [cpp](acmicpc.net/1100.cpp)  |  24  |    [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)     | [cpp](acmicpc.net/2902.cpp)  |
 |  25  |   [전화번호 목록](https://www.acmicpc.net/problem/5052)   | [cpp](acmicpc.net/5052.cpp)  |  26  |         [수 찾기](https://www.acmicpc.net/problem/1920)          | [cpp](acmicpc.net/1920.cpp)  |
 |  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [cpp](acmicpc.net/2805.cpp)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [cpp](acmicpc.net/10814.cpp) |
-|  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |      |                                                                  |                              |
+|  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |  30  |      [카이사르 암호](https://www.acmicpc.net/problem/5598)       | [cpp](acmicpc.net/5598.cpp)  |
 
 다이나믹 프로그래밍
 -------------------
@@ -128,6 +128,7 @@ BFS, DFS
 |  5   | [스타트링크](https://www.acmicpc.net/problem/5014)  | [cpp](acmicpc.net/5014.cpp) |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
 |  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp) |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
 |  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp) |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
+|  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp) |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------

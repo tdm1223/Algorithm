@@ -13,6 +13,7 @@ int beautifulDays(int i, int j, int k)
 			if (tmp <= 0)
 			{
 				break;
+			}
 			b *= 10;
 		}
 		if (abs(a - b) % k == 0) //정수인지 체크
