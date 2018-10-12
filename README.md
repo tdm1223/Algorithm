@@ -133,11 +133,13 @@ BFS, DFS
 Greedy Algorithm
 ----------------
 
-| 번호 | 문제                                                 | 코드                         | 번호 | 문제                                               | 코드                        |
-|:----:|:----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:---------------------------:|
-|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [cpp](acmicpc.net/1946.cpp)  |  2   |  [거스름돈](https://www.acmicpc.net/problem/5585)  | [cpp](acmicpc.net/5585.cpp) |
-|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp) |
-|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |      |                                                    |                             |
+| 번호 | 문제                                                 | 코드                         | 번호 | 문제                                               | 코드                         |
+|:----:|:----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:----------------------------:|
+|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [cpp](acmicpc.net/1946.cpp)  |  2   |  [거스름돈](https://www.acmicpc.net/problem/5585)  | [cpp](acmicpc.net/5585.cpp)  |
+|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp)  |
+|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |    [로프](https://www.acmicpc.net/problem/2217)    | [cpp](acmicpc.net/2217.cpp)  |
+|  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |  [동전 0](https://www.acmicpc.net/problem/11047)   | [cpp](acmicpc.net/11047.cpp) |
+|  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |      |                                                    |                              |
 
 자료구조
 --------
