@@ -1,8 +1,10 @@
 // 1000. A+B
+// 2018.10.13
 #include <iostream>
+
 using namespace std;
 
-int main(void)
+int main()
 {
 	int A, B;
 	cin >> A >> B;

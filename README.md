@@ -68,7 +68,7 @@
 |  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  28  |       [막대기](https://www.acmicpc.net/problem/1094)       | [cpp](acmicpc.net/1094.cpp)  |
 |  29  |        [토너먼트](https://www.acmicpc.net/problem/1057)        | [cpp](acmicpc.net/1057.cpp)  |  30  |        [약수](https://www.acmicpc.net/problem/1037)        | [cpp](acmicpc.net/1037.cpp)  |
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  | [피보나치수의 확장](https://www.acmicpc.net/problem/1788)  | [cpp](acmicpc.net/1788.cpp)  |
-|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |      |                                                            |                              |
+|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |      [최대 곱](https://www.acmicpc.net/problem/1500)       | [cpp](acmicpc.net/1500.cpp)  |
 
 문자열 처리, 정렬, 이분탐색, 해싱
 ---------------------------------
@@ -128,18 +128,18 @@ BFS, DFS
 |  5   | [스타트링크](https://www.acmicpc.net/problem/5014)  | [cpp](acmicpc.net/5014.cpp) |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
 |  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp) |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
 |  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp) |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
-|  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp) |      |                                                           |                              |
+|  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp) |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7564)   | [cpp](acmicpc.net/7564.cpp)  |
 
 Greedy Algorithm
 ----------------
 
-| 번호 | 문제                                                 | 코드                         | 번호 | 문제                                               | 코드                         |
-|:----:|:----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:----------------------------:|
-|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [cpp](acmicpc.net/1946.cpp)  |  2   |  [거스름돈](https://www.acmicpc.net/problem/5585)  | [cpp](acmicpc.net/5585.cpp)  |
-|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   | [회의실배정](https://www.acmicpc.net/problem/1931) | [cpp](acmicpc.net/1931.cpp)  |
-|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |    [로프](https://www.acmicpc.net/problem/2217)    | [cpp](acmicpc.net/2217.cpp)  |
-|  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |  [동전 0](https://www.acmicpc.net/problem/11047)   | [cpp](acmicpc.net/11047.cpp) |
-|  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |      |                                                    |                              |
+| 번호 | 문제                                                 | 코드                         | 번호 | 문제                                                  | 코드                         |
+|:----:|:----------------------------------------------------:|:----------------------------:|:----:|:-----------------------------------------------------:|:----------------------------:|
+|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [cpp](acmicpc.net/1946.cpp)  |  2   |   [거스름돈](https://www.acmicpc.net/problem/5585)    | [cpp](acmicpc.net/5585.cpp)  |
+|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   |  [회의실배정](https://www.acmicpc.net/problem/1931)   | [cpp](acmicpc.net/1931.cpp)  |
+|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [cpp](acmicpc.net/2217.cpp)  |
+|  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [cpp](acmicpc.net/11047.cpp) |
+|  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [cpp](acmicpc.net/1541.cpp)  |
 
 자료구조
 --------
