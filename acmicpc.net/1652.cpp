@@ -1,5 +1,6 @@
 // 1652. 누울 자리를 찾아라
-#include <iostream>
+// 2018.10.14
+#include<iostream>
 #include<string>
 
 using namespace std;
@@ -8,7 +9,6 @@ int main()
 {
 	int n;
 	cin >> n;
-
 	string a[101];
 
 	for (int i = 0; i < n; i++)
@@ -24,17 +24,23 @@ int main()
 		for (int j = 0; j < n; j++)
 		{
 			if (a[i][j] == '.')
+			{
 				cnt++;
+			}
 			else if (a[i][j] == 'X' && cnt >= 2)
 			{
 				horizontal++;
 				cnt = 0;
 			}
 			else if (a[i][j] == 'X')
+			{
 				cnt = 0;
+			}
 		}
 		if (cnt >= 2)
+		{
 			horizontal++;
+		}
 	}
 
 	int vertical = 0;
@@ -45,17 +51,23 @@ int main()
 		for (int j = 0; j < n; j++)
 		{
 			if (a[j][i] == '.')
+			{
 				cnt++;
+			}
 			else if (a[j][i] == 'X' && cnt >= 2)
 			{
 				vertical++;
 				cnt = 0;
 			}
 			else if (a[j][i] == 'X')
+			{
 				cnt = 0;
+			}
 		}
 		if (cnt >= 2)
+		{
 			vertical++;
+		}
 	}
 	cout << horizontal << " " << vertical << endl;
 	return 0;

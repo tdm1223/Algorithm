@@ -1,20 +1,22 @@
 // 1159. 농구 경기
-#include <iostream>
+// 2018.10.14
+#include<iostream>
+#include<string>
 
 using namespace std;
 
-char ch[30];
 int arr[26];
-
 int main()
 {
-	int n, cnt=0;
+	int n;
+	int cnt = 0;
 	cin >> n;
 
 	while (n--)
 	{
-		cin >> ch;
-		arr[ch[0] - 97]++; //a=0 부터 z=25까지
+		string s;
+		cin >> s;
+		arr[s[0] - 97]++;//a=0 부터 z=25까지
 	}
 
 	for (int i = 0; i < 26; i++)
@@ -26,9 +28,11 @@ int main()
 		}
 	}
 
-	if (cnt == 0)
+	if (cnt == 0)//항복
+	{
 		cout << "PREDAJA";
+	}
 
 	cout << endl;
-
+	return 0;
 }

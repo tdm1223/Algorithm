@@ -1,16 +1,20 @@
-// 1158.조세퍼스 문제
+// 1158. 조세퍼스 문제
+// 2018.10.14
 #include<iostream>
 #include<queue>
+
 using namespace std;
 
 int main()
 {
-	int n,m;
+	int n, m;
 	cin >> n >> m;
 	queue<int> q;
 
 	for (int i = 1; i <= n; i++)
+	{
 		q.push(i);
+	}
 
 	cout << "<";
 
@@ -29,7 +33,6 @@ int main()
 		}
 		cout << q.front() << ", ";
 		q.pop();
-
 	}
 	return 0;
 }

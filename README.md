@@ -46,6 +46,7 @@
 |  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       | [cpp](acmicpc.net/9324.cpp)  |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    | [cpp](acmicpc.net/2847.cpp)  |
 |  63  |       [지능형 기차](https://www.acmicpc.net/problem/2455)       | [cpp](acmicpc.net/2455.cpp)  |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        | [cpp](acmicpc.net/2501.cpp)  |
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
+|  65  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       | [cpp](acmicpc.net/11509.cpp) |      |                                                                  |                              |
 
 수학
 ----
@@ -217,6 +218,7 @@ Easy
 |  15  |           [utopianTree](https://www.hackerrank.com/challenges/utopian-tree)           |      [cpp](hackerrank.com/utopianTree.cpp)      |  16  |               [countingValleys](https://www.hackerrank.com/challenges/counting-valleys)                |     [cpp](hackerrank.com/countingValleys.cpp)      |
 |  17  |   [jumpingOnTheClouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)   |  [cpp](hackerrank.com/jumpingOnTheClouds.cpp)   |  18  |                [repeatedString](https://www.hackerrank.com/challenges/repeated-string)                 |      [cpp](hackerrank.com/repeatedString.cpp)      |
 |  19  |        [pickingNumbers](https://www.hackerrank.com/challenges/picking-numbers)        |    [cpp](hackerrank.com/pickingNumbers.cpp)     |  20  |     [beautifulDaysAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)     | [cpp](hackerrank.com/beautifulDaysAtTheMovies.cpp) |
+|  21  |     [viralAdvertising](https://www.hackerrank.com/challenges/strange-advertising)     |   [cpp](hackerrank.com/viralAdvertising.cpp)    |  22  |               [saveThePrisoner](https://www.hackerrank.com/challenges/save-the-prisoner)               |     [cpp](hackerrank.com/saveThePrisoner.cpp)      |
 
 Medium
 ------

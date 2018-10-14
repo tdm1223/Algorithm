@@ -1,18 +1,20 @@
 // 1057. 토너먼트
+// 2018.10.14
 #include <iostream>
+
 using namespace std;
 
 int main()
 {
 	int n;
 	int a, b;
-	int count = 0;
+	int round = 0;
 
 	cin >> n >> a >> b;
 
-	if (n < b || n < a)
+	if (n < b || n < a)//서로 대결하지 않을 경우
 	{
-		count = -1;
+		round = -1;
 	}
 	else
 	{
@@ -20,11 +22,10 @@ int main()
 		{
 			b = (b + 1) / 2;
 			a = (a + 1) / 2;
-			count++;
+			round++;
 		}
 	}
 
-	cout << count << endl;
-
+	cout << round << endl;
 	return 0;
 }

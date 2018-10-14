@@ -1,4 +1,5 @@
 // 1788. 피보나치 수의 확장
+// 2018.10.14
 #include<iostream>
 
 using namespace std;
@@ -8,8 +9,8 @@ int main()
 {
 	int n;
 	cin >> n;
-	int tmp=n;
-	if (n < 0) tmp*=-1;
+	int tmp = n;
+	if (n < 0) tmp *= -1;
 	d[0] = 0;
 	d[1] = 1;
 	for (int i = 2; i <= tmp; i++)
@@ -18,21 +19,25 @@ int main()
 		d[i] %= 1000000000;
 	}
 
-	if (n < 0)
+	if (n < 0)//음수
 	{
 		n *= -1;
 		if (n % 2 == 0)
+		{
 			cout << -1 << endl;
+		}
 		else
+		{
 			cout << 1 << endl;
+		}
 	}
-	else if (n>0)
+	else if (n>0)//양수
 	{
 		cout << 1 << endl;
 	}
-	else
+	else//0
 	{
-		cout << 0<< endl;
+		cout << 0 << endl;
 	}
 	cout << d[n] << endl;
 	return 0;

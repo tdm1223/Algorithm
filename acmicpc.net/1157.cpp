@@ -1,8 +1,11 @@
 // 1157. 단어 공부
+// 2018.10.14
 #include <iostream>
 #include <string>
-int arr[26];
+
 using namespace std;
+
+int arr[26];//a~z의 개수 저장(대소문자 구분 없이)
 int main()
 {
 	int cnt = 0, big = 0, index;
@@ -45,7 +48,12 @@ int main()
 	}
 
 	if (cnt == 2)
+	{
 		cout << "?" << endl;
+	}
 	else
+	{
 		cout << char(index + 65) << endl;
+	}
+	return 0;
 }

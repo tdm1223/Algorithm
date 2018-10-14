@@ -1,6 +1,8 @@
-// 1316.그룹 단어 체커
+// 1316. 그룹 단어 체커
+// 2018.10.14
 #include<iostream>
 #include<string>
+
 using namespace std;
 
 int a[26]; //a~z까지 등장 유무를 저장하는 배열

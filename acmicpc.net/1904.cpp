@@ -1,10 +1,11 @@
 // 1904. 01타일
+// 2018.10.14
 #include<iostream>
 
 using namespace std;
 
 int d[1000001];
-int main(void)
+int main()
 {
 	int n;
 	cin >> n;
@@ -18,4 +19,5 @@ int main(void)
 	}
 
 	cout << d[n] << endl;
+	return 0;
 }

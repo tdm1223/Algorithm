@@ -1,4 +1,5 @@
 // 1520. 내리막 길
+// 2018.10.14
 #include <iostream>
 
 using namespace std;
@@ -9,7 +10,7 @@ int dx[4] = { 0,0,1,-1 };
 int dy[4] = { -1,1,0,0 };
 int n, m;
 
-int dfs(int x, int y)
+int DFS(int x, int y)
 {
 	if (d[x][y] != -1) //이미 존재하는 값이면 return
 		return d[x][y];
@@ -25,7 +26,7 @@ int dfs(int x, int y)
 		int yy = y + dy[i];
 
 		if (a[xx][yy]>a[x][y])
-			d[x][y] += dfs(xx, yy);
+			d[x][y] += DFS(xx, yy);
 	}
 
 	return d[x][y];
@@ -51,7 +52,7 @@ int main()
 		}
 	}
 
-	cout << dfs(n - 1, m - 1) << endl;
+	cout << DFS(n - 1, m - 1) << endl;
 
 	return 0;
 

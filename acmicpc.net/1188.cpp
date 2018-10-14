@@ -1,4 +1,5 @@
-// 1188.은식 평론가
+// 1188. 음식 평론가
+// 2018.10.14
 #include <iostream>
 
 using namespace std;
@@ -6,9 +7,10 @@ using namespace std;
 int Gcd(int a, int b)
 {
 	if (a%b == 0)
+	{
 		return b;
+	}
 	return Gcd(b, a%b);
-
 }
 
 int main(void)
@@ -19,5 +21,4 @@ int main(void)
 	cout << m - Gcd(n, m) << endl;
 
 	return 0;
-
 }

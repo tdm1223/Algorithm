@@ -1,4 +1,5 @@
 // 1697. 숨바꼭질
+// 2018.10.14
 #include<iostream>
 #include<queue>
 
@@ -12,7 +13,6 @@ int main()
 	int n, k;
 	cin >> n >> k;
 	visit[n] = true;
-	dist[n] = 0;
 	queue<int> q;
 	q.push(n);
 	while (!q.empty())

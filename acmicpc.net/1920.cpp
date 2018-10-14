@@ -1,18 +1,22 @@
 // 1920. 수 찾기
+// 2018.10.14
 #include<iostream>
 #include<vector>
 #include<algorithm>
+
 using namespace std;
 
 int main()
 {
-	std::ios::sync_with_stdio(false);
+	ios::sync_with_stdio(false);
 	int n;
 	cin >> n;
 	vector<int> v(n);
 
 	for (int i = 0; i < n; i++)
+	{
 		cin >> v[i];
+	}
 
 	int m;
 	cin >> m;

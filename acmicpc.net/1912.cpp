@@ -1,12 +1,9 @@
 // 1912. 연속합
+// 2018.10.14
 #include <iostream>
+#include<algorithm>
 
 using namespace std;
-
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
 
 int a[100001];
 int d[100001]; // d[i] : i번째 수까지의 연속합의 최댓값

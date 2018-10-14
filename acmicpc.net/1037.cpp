@@ -1,7 +1,9 @@
 // 1037. 약수
+// 2018.10.14
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 int main()
@@ -15,13 +17,16 @@ int main()
 		cin >> v[i];
 	}
 
-	int ans = 0, tmp = 0;
-	if (n == 1)
+	int ans = 0;
+	int tmp = 0;
+	if (n == 1)//약수의 개수가 1개라면 제곱
+	{
 		ans = v[0] * v[0];
+	}
 	else
 	{
 		sort(v.begin(), v.end());
-		ans = v[0] * v[n - 1];
+		ans = v[0] * v[n - 1];//최솟값 * 최댓값ㅊ
 	}
 
 	cout << ans << endl;

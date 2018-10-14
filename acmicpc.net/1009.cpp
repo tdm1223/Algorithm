@@ -1,10 +1,11 @@
 // 1009. 분산처리
+// 2018.10.14
 #include<iostream>
 
 using namespace std;
 
 int main()
- {
+{
 	int t, a, b;
 	cin >> t;
 	while (t > 0)
@@ -18,8 +19,12 @@ int main()
 			num %= 10;
 		}
 		if (num == 0)
+		{
 			cout << "10" << endl;
+		}
 		else
+		{
 			cout << num << endl;
+		}
 	}
 }

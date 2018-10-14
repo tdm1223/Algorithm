@@ -1,4 +1,5 @@
-//1476. 날짜 계산
+// 1476. 날짜 계산
+// 2018.10.14
 #include<iostream>
 
 using namespace std;
@@ -21,7 +22,7 @@ int main()
 		}
 		count++;
 	}
+
 	cout << count + 1 << endl;
-	
 	return 0;
 }

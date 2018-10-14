@@ -1,4 +1,5 @@
 // 1773. 폭죽쇼
+// 2018.10.14
 #include <iostream>
 
 using namespace std;
@@ -24,9 +25,11 @@ int main()
 	for (int i = 0; i <= c; i++)
 	{
 		if (time[i] == 1)
+		{
 			count++;
+		}
 	}
 
 	cout << count << endl;
-
+	return 0;
 }

@@ -1,5 +1,6 @@
-//1874. 스택 수열
-#include <iostream>
+// 1874. 스택 수열
+// 2018.10.14
+#include<iostream>
 #include<string>
 #include<stack>
 #include<vector>
@@ -38,8 +39,10 @@ int main()
 		}
 	}
 
-	for (int i = 0; i<answer.size(); i++)
+	for (int i = 0; i < answer.size(); i++)
+	{
 		cout << answer[i] << "\n";
-	return 0;
+	}
 
+	return 0;
 }

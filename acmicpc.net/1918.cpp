@@ -1,4 +1,5 @@
 // 1918. 후위표기식
+// 2018.10.14
 #include<iostream>
 #include<string>
 #include<stack>
@@ -15,9 +16,13 @@ int main()
 	for (int i = 0; i < s.size(); i++)
 	{
 		if (s[i] >= 'A' && s[i] <= 'Z') //문자라면 답에 추가
+		{
 			ans += s[i];
+		}
 		else if (s[i] == '(') //여는 괄호라면 스택에 푸시
+		{
 			stack.push(s[i]);
+		}
 		else if (s[i] == ')') //닫는 괄호라면
 		{
 			while (stack.top() != '(') //여는 괄호가 나올때까지 답에 추가
@@ -47,7 +52,6 @@ int main()
 			}
 			stack.push(s[i]);
 		}
-
 	}
 
 	while (!stack.empty()) //스택에 있는 나머지 추가
@@ -57,6 +61,5 @@ int main()
 	}
 
 	cout << ans << endl;
-
 	return 0;
 }

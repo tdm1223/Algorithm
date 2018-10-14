@@ -1,8 +1,10 @@
 // 1764. 듣보잡
-#include <iostream>
-#include <algorithm>
-#include <vector>
-#include <string>
+// 2018.10.14
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<string>
+
 using namespace std;
 
 int main()
@@ -14,12 +16,12 @@ int main()
 
 	cin >> n >> m;
 
+	//모두 하나의 벡터에 넣고 정렬
 	for (int i = 0; i < n + m; i++)
 	{
 		cin >> s;
 		v.push_back(s);
 	}
-
 	sort(v.begin(), v.end());
 
 	for (int i = 1; i < n + m; i++)

@@ -1,4 +1,5 @@
 // 1541. 잃어버린 괄호
+// 2018.10.14
 #include<iostream>
 #include<string>
 
@@ -8,7 +9,6 @@ int main()
 {
 	string s;
 	cin >> s;
-
 	int ans = 0;
 	string tmp = "";
 	bool flag = false; //연산자 -가 나왔는지 안나왔는지 체크하는 플래그
@@ -35,7 +35,7 @@ int main()
 		}
 		else//피연산자일 경우
 		{
-			tmp += s[i]; 
+			tmp += s[i];
 		}
 	}
 

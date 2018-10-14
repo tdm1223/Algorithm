@@ -1,4 +1,5 @@
 // 1049. 기타줄
+// 2018.10.14
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -24,7 +25,7 @@ int main()
 	sort(piece.begin(), piece.end());
 
 	int ans = 0;
-	//가장 작은 값 package[0], piece[0]에 대해서만 계산을 한다.
+	//가장 작은 값 package[0], piece[0]에 대해서만 계산을 한다. (그리디 알고리즘)
 	while (n > 0)
 	{
 		if (n >= 6 && package[0] < piece[0] * 6) //6개 이상이고 패키지가 저렴할때

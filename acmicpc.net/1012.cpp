@@ -1,10 +1,11 @@
 // 1012. 유기농 배추
+// 2018.10.14
 #include<iostream>
 
 using namespace std;
 
 int arr[51][51];
-bool visit[51][51]; //방문 유무를 나타내는 배열 1: 방문 0: 방문안함
+bool visit[51][51]; //방문 유무를 나타내는 배열 1:방문, 0:방문안함
 
 //상 하 좌 우
 int dx[4] = { 0,0,-1,1 };
@@ -69,5 +70,6 @@ int main()
 		}
 		cout << count << endl;
 	}
+
 	return 0;
 }

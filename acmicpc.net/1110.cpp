@@ -1,4 +1,5 @@
 // 1110. 더하기 사이클
+// 2018.10.14
 #include <iostream>
 
 using namespace std;
@@ -8,20 +9,23 @@ int main()
 	int n;
 	cin >> n;
 	int tmp = n;
-	int count = 0;
+	int cycle = 0;
 
 	while (1)
 	{
-		count++;
+		cycle++;//사이클 증가
 
 		int a = tmp / 10;
 		int b = tmp % 10;
 		int sum = (a + b) % 10;
 		tmp = b * 10 + (a + b) % 10;
 
-		if (tmp == n)
+		if (tmp == n)//사이클 종료
+		{
 			break;
+		}
 	}
-	
-	cout << count << endl;
+
+	cout << cycle << endl;
+	return 0;
 }

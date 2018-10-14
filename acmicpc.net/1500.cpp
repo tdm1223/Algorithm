@@ -1,4 +1,5 @@
 // 1500. 최대 곱
+// 2018.10.14
 #include<iostream>
 
 using namespace std;

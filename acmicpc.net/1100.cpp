@@ -1,4 +1,5 @@
 // 1100. 하얀 칸
+// 2018.10.14
 #include <iostream>
 
 using namespace std;
@@ -7,8 +8,10 @@ int main()
 {
 	char arr[9][9];
 	for (int i = 0; i < 8; i++)
+	{
 		cin >> arr[i];
-	int cnt = 0;
+	}
+	int ans = 0;
 
 	//짝수 루틴
 	for (int i = 0; i < 8; i += 2)
@@ -17,7 +20,7 @@ int main()
 		{
 			if (j % 2 == 0 && arr[i][j] == 'F')
 			{
-				cnt++;
+				ans++;
 			}
 		}
 	}
@@ -29,11 +32,11 @@ int main()
 		{
 			if (j % 2 == 1 && arr[i][j] == 'F')
 			{
-				cnt++;
+				ans++;
 			}
 		}
 	}
 
-	cout << cnt << endl;
+	cout << ans << endl;
 	return 0;
 }

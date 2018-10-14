@@ -1,8 +1,10 @@
 // 1748. 수 이어쓰기
-#include <iostream>
+// 2018.10.14
+#include<iostream>
+
 using namespace std;
 
-int main(void)
+int main()
 {
 	int n;
 	cin >> n;
@@ -17,6 +19,7 @@ int main(void)
 			count++;
 		}
 	}
+
 	cout << count << endl;
 	return 0;
 }

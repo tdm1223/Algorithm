@@ -1,4 +1,5 @@
 // 1357. 뒤집힌 덧셈
+// 2018.10.14
 #include<iostream>
 
 using namespace std;
@@ -12,16 +13,20 @@ int Rev(int x)
 		int cur = x % 10;
 		result += cur;
 		x /= 10;
-		if (x == 0) break;
+		if (x == 0)
+		{
+			break;
+		}
 		result *= 10;
 	}
 	return result;
 }
 
-int main(void)
+int main()
 {
 	int x, y;
 	cin >> x >> y;
 
-	cout << Rev(Rev(x)+Rev(y))<< endl;
+	cout << Rev(Rev(x) + Rev(y)) << endl;
+	return 0;
 }

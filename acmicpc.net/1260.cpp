@@ -1,18 +1,19 @@
-//1260. DFS와 BFS
+// 1260. DFS와 BFS
+// 2018.10.14
 #include<iostream>
 #include<queue>
 
 using namespace std;
 
 int arr[1001][1001];
-bool visited[1001];
+bool visit[1001];
 void DFS(int v, int n)
 {
-	visited[v] = true;
+	visit[v] = true;
 	cout << v << " ";
 	for (int i = 1; i <= n; i++)
 	{
-		if (arr[v][i] == 1 && visited[i] == false)
+		if (arr[v][i] == 1 && visit[i] == false)
 		{
 			DFS(i, n);
 		}
@@ -22,7 +23,7 @@ void DFS(int v, int n)
 void BFS(int v, int n)
 {
 	queue<int> q;
-	visited[v] = true;
+	visit[v] = true;
 	q.push(v);
 	cout << v << " ";
 	while (!q.empty())
@@ -31,10 +32,10 @@ void BFS(int v, int n)
 		q.pop();
 		for (int i = 0; i <= n; i++)
 		{
-			if (arr[temp][i] == 1 && visited[i] == false)
+			if (arr[temp][i] == 1 && visit[i] == false)
 			{
 				q.push(i);
-				visited[i] = true;
+				visit[i] = true;
 				cout << i << " ";
 			}
 		}
@@ -58,9 +59,9 @@ int main(void)
 	DFS(v, n);
 	cout << endl;
 
-	for (int i = 0; i < 1001; i++)
+	for (int i = 0; i < 1001; i++)//방문여부 초기화
 	{
-		visited[i] = false;
+		visit[i] = false;
 	}
 
 	BFS(v, n);

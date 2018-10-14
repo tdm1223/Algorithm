@@ -1,18 +1,19 @@
-//1032. 명령 프롬프트
+// 1032. 명령 프롬프트
+// 2018.10.14
 #include <iostream>
 #include <string>
-using namespace std;
 
-string s;
-string c;
+using namespace std;
 
 int main()
 {
+	string s;
+	string c;
 	int n;
 	cin >> n;
 
 	n--;
-	cin >> s;
+	cin >> s; //맨처음 입력값
 
 	while (n--)
 	{
@@ -21,14 +22,19 @@ int main()
 		for (int i = 0; i < c.size(); i++)
 		{
 			if (s[i] == NULL)
+			{
 				break;
+			}
 			else
 			{
 				if (s[i] != c[i])
+				{
 					s[i] = '?';
+				}
 			}
 		}
 	}
+
 	cout << s << endl;
 	return 0;
 }

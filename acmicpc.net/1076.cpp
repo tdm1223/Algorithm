@@ -1,25 +1,28 @@
 // 1076. 저항
+// 2018.10.14
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 int main()
 {
-	long long sum = 0;
+	long long ans = 0;
 	string a, b, c;
 	string s[10] = { "black","brown","red","orange","yellow","green","blue","violet","grey","white" };
 
 	cin >> a >> b >> c;
 
+	//처음 두개로 두자릿수를 만듦
 	for (int i = 0; i < 10; i++)
 	{
 		if (a == s[i])
 		{
-			sum += i * 10;
+			ans += i * 10;
 		}
 		if (b == s[i])
 		{
-			sum += i;
+			ans += i;
 		}
 	}
 
@@ -29,12 +32,11 @@ int main()
 		{
 			for (int j = 0; j < i; j++)
 			{
-				sum *= 10;
+				ans *= 10;
 			}
 		}
 	}
 
-	cout << sum << endl;
-
+	cout << ans << endl;
 	return 0;
 }
