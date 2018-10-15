@@ -1,4 +1,5 @@
 // 10809. 알파벳 찾기
+// 2018.10.15
 #include<iostream>
 #include<string>
 
@@ -7,7 +8,7 @@ using namespace std;
 int main()
 {
 	string s;
-	int arr[26];
+	int arr[26];//a~z가 처음 등장하는 위치를 담는 배열
 	int cnt = 0;
 	cin >> s;
 
@@ -39,4 +40,5 @@ int main()
 	{
 		cout << arr[i] << " ";
 	}
+	return 0;
 }

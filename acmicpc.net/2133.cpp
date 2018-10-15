@@ -1,4 +1,5 @@
 // 2133. 타일 채우기
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -11,7 +12,6 @@ int main()
 
 	d[0] = 1;
 	d[2] = 3;
-	
 	for (int i = 4; i <= n; i += 2)
 	{
 		d[i] = 3 * d[i - 2]; //2개로 만들수 있는 모양은 3배씩 증가

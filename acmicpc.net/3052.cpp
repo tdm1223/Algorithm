@@ -1,6 +1,7 @@
-//3052. 나머지
-#include <iostream>
-#include <algorithm>
+// 3052. 나머지
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
 
 using namespace std;
 
@@ -18,7 +19,9 @@ int main()
 	for (int i = 0; i < 42; i++)
 	{
 		if (arr[i] != 0)
+		{
 			ans++;
+		}
 	}
 
 	cout << ans << endl;

@@ -1,4 +1,5 @@
 // 2965. 캥거루 세 마리
+// 2018.10.15
 #include <iostream>
 
 using namespace std;

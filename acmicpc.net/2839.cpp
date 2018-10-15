@@ -1,4 +1,5 @@
 // 2839. 설탕 배달
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -25,7 +26,7 @@ int main()
 			ans = -1;
 			break;
 		}
-		
+
 		n -= 3;
 		count1++;
 	}

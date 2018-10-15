@@ -1,15 +1,12 @@
 // 11048. 이동하기
+// 2018.10.15
 #include<iostream>
+#include<algorithm>
 
 using namespace std;
 
 int a[1001][1001];
 int d[1001][1001]; //d[i][j] : i,j로 이동했을 때 가져올 수 있는 사탕 개수
-
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
 
 int main()
 {
@@ -38,10 +35,11 @@ int main()
 	{
 		for (int j = 1; j < m; j++)
 		{
-			//(i-1,j)칸, (i,j-1)칸, (i-1,j-1)칸중 최댓값과 현재 사탕개수를 더함
+			//(i-1,j)칸, (i,j-1)칸, (i-1,j-1)칸으로 이동했을 때 최댓값과 현재 칸의 사탕개수를 더함
 			d[i][j] = max(max(d[i - 1][j], d[i][j - 1]), d[i - 1][j - 1]) + a[i][j];
 		}
 	}
+
 	cout << d[n - 1][m - 1] << endl;
 	return 0;
 }

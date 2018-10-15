@@ -1,6 +1,7 @@
 // 2908. 상수
-#include <iostream>
-#include <string>
+// 2018.10.15
+#include<iostream>
+#include<string>
 #include<algorithm>
 
 using namespace std;
@@ -17,7 +18,7 @@ int main()
 	int c = stoi(a);
 	int d = stoi(b);
 
-	int res = c > d ? c : d;
-	cout << res << endl;
+	int ans = max(c,d);
+	cout << ans << endl;
 	return 0;
 }

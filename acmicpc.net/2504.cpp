@@ -1,4 +1,5 @@
 // 2504. 괄호의 값
+// 2018.10.15
 #include<iostream>
 #include<stack>
 #include<string>
@@ -18,14 +19,18 @@ int main()
 			mul *= 2;
 			stack.push(s[i]);
 			if (i + 1 < s.size() && s[i + 1] == ')')
+			{
 				sum += mul;
+			}
 		}
 		else if (s[i] == '[')
 		{
 			mul *= 3;
 			stack.push(s[i]);
 			if (i + 1 < s.size() && s[i + 1] == ']')
+			{
 				sum += mul;
+			}
 		}
 
 		if (!stack.empty())
@@ -34,21 +39,26 @@ int main()
 			{
 				mul /= 2;
 				if (stack.top() == '(')
+				{
 					stack.pop();
+				}
 			}
 			else if (s[i] == ']')
 			{
 				mul /= 3;
 				if (stack.top() == '[')
+				{
 					stack.pop();
+				}
 			}
 		}
 	}
 
 	if (!stack.empty())
+	{
 		sum = 0;
+	}
 
 	cout << sum << endl;
-
 	return 0;
 }

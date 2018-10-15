@@ -1,4 +1,5 @@
 // 10845. 큐
+// 2018.10.15
 #include<iostream>
 
 using namespace std;
@@ -16,13 +17,13 @@ int main()
 		string s;
 		cin >> s;
 
-		if (s == "push")
+		if (s == "push")//push
 		{
 			int k;
 			cin >> k;
 			arr[front++] = k;
 		}
-		else if (s == "pop")
+		else if (s == "pop")//pop
 		{
 			if (front == rear)
 			{
@@ -33,11 +34,11 @@ int main()
 				cout << arr[rear++] << endl;
 			}
 		}
-		else if (s == "size")
+		else if (s == "size")//size
 		{
 			cout << front - rear << endl;
 		}
-		else if (s == "empty")
+		else if (s == "empty")//empty
 		{
 			if (front == rear)
 			{
@@ -48,9 +49,9 @@ int main()
 				cout << "0" << endl;
 			}
 		}
-		else if (s == "front")
+		else if (s == "front")//front
 		{
-			if (front == rear)
+			if (front == rear) //비었음
 			{
 				cout << "-1" << endl;
 			}
@@ -59,9 +60,9 @@ int main()
 				cout << arr[rear] << endl;
 			}
 		}
-		else if (s == "back")
+		else if (s == "back")//back
 		{
-			if (front == rear)
+			if (front == rear) //비었음
 			{
 				cout << "-1" << endl;
 			}

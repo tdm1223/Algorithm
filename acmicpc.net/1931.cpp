@@ -1,9 +1,8 @@
 // 1931. 회의실 배정
-#include <iostream>
-#include <algorithm>
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
 #include<vector>
-#include<string>
-#include<stack>
 
 using namespace std;
 
@@ -32,7 +31,7 @@ int main()
 		v[i].second = b; // 회의 종료 시간
 	}
 	//회의가 끝나는 시간을 기준으로 오름차순 정렬 후 끝나는 시간이 빠른 순으로 회의실을 배정
-	sort(v.begin(), v.end(),cmp);
+	sort(v.begin(), v.end(), cmp);
 
 	int tmp = 0;
 	int count = 0;

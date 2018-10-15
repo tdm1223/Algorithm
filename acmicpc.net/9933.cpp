@@ -1,4 +1,5 @@
 // 9933. 민균이의 비밀번호
+// 2018.10.15
 #include<iostream>
 #include<vector>
 #include<string>
@@ -38,6 +39,7 @@ int main()
 			}
 		}
 	}
+	
 	cout << ans.size() << " " << ans[ans.size() / 2] << endl;
 	return 0;
 }

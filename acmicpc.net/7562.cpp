@@ -1,14 +1,16 @@
 // 7562. 나이트의 이동
+// 2018.10.15
 #include<iostream>
 #include<queue>
 
 using namespace std;
 
+//나이트가 이동할 수 있는 8가지 방향
 int dx[8] = { -2,-1,1,2,2,1,-1,-2 };
 int dy[8] = { 1,2,2,1,-1,-2,-2,-1 };
-bool visit[301][301];
-int dist[301][301];
 
+bool visit[301][301]; //방문 유무
+int dist[301][301]; //거리
 int main()
 {
 	int t;
@@ -31,7 +33,7 @@ int main()
 		int x, y, a, b;
 		cin >> x >> y >> a >> b;
 		queue<pair<int, int>> q;
-		q.push(make_pair(x, y));
+		q.push({ x, y });
 		visit[x][y] = 1;
 		dist[x][y] = 0;
 
@@ -63,7 +65,7 @@ int main()
 				{
 					visit[xx][yy] = 1; //방문으로 표시
 					dist[xx][yy] = dist[first][second] + 1; //거리 1증가
-					q.push(make_pair(xx, yy)); //그 위치 큐에 넣음
+					q.push({ xx, yy }); //그 위치 큐에 넣음
 				}
 			}
 		}

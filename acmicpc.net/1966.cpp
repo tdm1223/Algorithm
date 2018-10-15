@@ -1,7 +1,9 @@
 // 1966. 프린터 큐
-#include <string>
+// 2018.10.15
+#include<string>
 #include<queue>
 #include<iostream>
+
 using namespace std;
 
 int main()

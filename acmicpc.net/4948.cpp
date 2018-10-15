@@ -1,4 +1,5 @@
 // 4948. 베르트랑 공준
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -23,9 +24,11 @@ int main()
 	{
 		cin >> n;
 		if (n == 0)
+		{
 			break;
+		}
 		int count = 0;
-		for (int i = n+1; i <= 2 * n; i++)
+		for (int i = n + 1; i <= 2 * n; i++)
 		{
 			if (arr[i] == 0)
 			{

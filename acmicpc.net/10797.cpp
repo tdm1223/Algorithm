@@ -1,4 +1,5 @@
 // 10797. 10부제
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -9,6 +10,7 @@ int main()
 	int n;
 	cin >> n;
 	int count = 0;
+	//배열의 값 중 n과 같은 수의 개수가 정답
 	for (int i = 0; i < 5; i++)
 	{
 		cin >> a[i];

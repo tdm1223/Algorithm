@@ -1,5 +1,6 @@
 // 10984. 내 학점을 구해줘
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 
 using namespace std;
 
@@ -11,8 +12,8 @@ int main()
 	for (int i = 0; i < t; i++)
 	{
 		int n;
-		int score = 0;
-		double gpa = 0;
+		int score = 0; //총 학점
+		double gpa = 0; //평점
 		cin >> n;
 		for (int i = 0; i < n; i++)
 		{
@@ -24,5 +25,6 @@ int main()
 		}
 		printf("%d %.1lf\n", score, gpa / score);
 	}
+
 	return 0;
 }

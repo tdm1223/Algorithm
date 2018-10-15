@@ -1,5 +1,6 @@
 // 10872. 팩토리얼
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 
 using namespace std;
 

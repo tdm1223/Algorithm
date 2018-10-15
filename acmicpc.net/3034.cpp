@@ -1,9 +1,11 @@
 // 3034. 앵그리 창영
+// 2018.10.15
 #include<iostream>
 #include<cmath>
+
 using namespace std;
 
-int main(void)
+int main()
 {
 	int n, w, h;
 	cin >> n >> w >> h;
@@ -22,6 +24,6 @@ int main(void)
 			cout << "NE" << endl;
 		}
 	}
-	
+
 	return 0;
 }

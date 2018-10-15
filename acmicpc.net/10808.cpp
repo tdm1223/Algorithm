@@ -1,11 +1,11 @@
 // 10808. 알파벳 개수
+// 2018.10.15
 #include<iostream>
 #include<string>
 
 using namespace std;
 
 int arr[26];//a~z를 담는 배열
-
 int main()
 {
 	string word;

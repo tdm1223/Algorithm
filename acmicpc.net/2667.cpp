@@ -1,5 +1,5 @@
 // 2667. 단지번호 붙이기
-// 2583과 유사
+// 2018.10.15
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -69,6 +69,5 @@ int main()
 	{
 		cout << area[i] << endl;
 	}
-
 	return 0;
 }

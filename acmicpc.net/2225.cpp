@@ -1,4 +1,5 @@
 // 2225. 합분해
+// 2018.10.15
 #include<iostream>
 
 using namespace std;

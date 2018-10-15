@@ -1,4 +1,5 @@
 // 3046. R2
+// 2018.10.15
 #include <iostream>
 
 using namespace std;

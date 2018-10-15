@@ -1,4 +1,5 @@
 // 9461. 파도반 수열
+// 2018.10.15
 #include <iostream>
 
 using namespace std;

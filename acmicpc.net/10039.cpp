@@ -1,12 +1,13 @@
 // 10039. 평균 점수
-#include <iostream>
+// 2018.10.15
+#include<iostream>
+#include<vector>
 
 using namespace std;
 
-int student[5];
-
 int main()
 {
+	vector<int> student(5);
 	int result = 0;
 	for (int i = 0; i < 5; i++)
 	{

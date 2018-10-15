@@ -1,4 +1,5 @@
 // 11004. K번째 수
+// 2018.10.15
 #include<cstdio>
 #include<algorithm>
 
@@ -6,22 +7,22 @@ using namespace std;
 
 int main()
 {
-    int n, k;
-    scanf("%d %d", &n, &k);
+	// 범위가 1~5000000이라 cin,cout쓰면 시간 초과
+	int n, k;
+	scanf("%d %d", &n, &k);
 
-    int * arr = new int[n];
-    int num;
+	int * arr = new int[n];
+	int num;
 
-    for(int i=0; i<n; i++)
-    {
-        scanf("%d", &num);
-        arr[i] = num;
-    }
+	for (int i = 0; i < n; i++)
+	{
+		scanf("%d", &num);
+		arr[i] = num;
+	}
 
-    sort(&arr[0], &arr[n]);
+	sort(&arr[0], &arr[n]);
 
-    printf("%d", arr[k-1]);
-    delete []arr;
-
-    return 0;
+	printf("%d", arr[k - 1]);
+	delete[]arr;
+	return 0;
 }

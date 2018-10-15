@@ -1,4 +1,5 @@
 //2355. 시그마
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -17,5 +18,5 @@ int main()
 	{
 		cout << b * (b + 1) / 2 - a * (a - 1) / 2 << endl;
 	}
-
+	return 0;
 }

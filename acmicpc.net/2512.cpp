@@ -1,7 +1,9 @@
 // 2512. 예산
-#include <vector>
+// 2018.10.15 이분탐색
+#include<vector>
 #include<algorithm>
 #include<iostream>
+
 using namespace std;
 
 int main()

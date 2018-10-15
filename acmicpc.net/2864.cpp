@@ -1,4 +1,5 @@
 // 2864. 5와 6의 차이
+// 2018.10.15
 #include <iostream>
 #include <string>
 
@@ -42,5 +43,5 @@ int main()
 	max = stoi(A) + stoi(B);
 
 	cout << min << " " << max;
-
+	return 0;
 }

@@ -1,5 +1,6 @@
 // 11006. 남욱이의 닭장
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 
 using namespace std;
 

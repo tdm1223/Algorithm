@@ -1,4 +1,5 @@
 // 2884. 알람 시계
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -20,4 +21,5 @@ int main()
 	}
 
 	cout << H << " " << M;
+	return 0;
 }

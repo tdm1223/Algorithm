@@ -1,10 +1,10 @@
 // 9625. BABBA
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
 
 int ans[46];
-
 int main()
 {
 	int k;

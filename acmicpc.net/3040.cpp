@@ -1,4 +1,5 @@
 // 3040. 백설 공주와 일곱 난쟁이
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -13,7 +14,7 @@ int main()
 		sum += a[i];
 	}
 
-	//두개르 뺏을때 100이 되도록 모든 경우 계산
+	//두개를 뺏을때 100이 되도록 모든 경우에 대해 계산
 	for (int i = 0; i < 8; i++)
 	{
 		for (int j = i + 1; j < 9; j++)

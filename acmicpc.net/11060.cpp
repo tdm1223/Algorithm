@@ -1,15 +1,12 @@
 // 11060. 점프 점프
+// 2018.10.15
 #include<iostream>
+#include<algorithm>
 
 using namespace std;
 
 int a[1001];
 int d[1001]; //d[i] : i번째 미로에 도착했을 때 점프의 최솟값
-int min(int a, int b)
-{
-	return a > b ? b : a;
-}
-
 int main()
 {
 	int n;
@@ -24,7 +21,7 @@ int main()
 	{
 		for (int j = 1; j <= a[i]; j++)
 		{
-			//1부터 a[i]까지 범위의 숫자만큼 최솟값을 갱신해줌
+			//1부터 a[i]까지 범위의 숫자만큼 최솟값을 갱신해준다.
 			d[i + j] = min(d[i] + 1,d[i+j]);
 		}
 	}

@@ -1,4 +1,5 @@
 // 10798. 세로 읽기
+// 2018.10.15
 #include<iostream>
 #include<string>
 
@@ -8,7 +9,9 @@ string s[5];
 int main()
 {
 	for (int i = 0; i < 5; i++)
+	{
 		cin >> s[i];
+	}
 
 	for (int i = 0; i < 15; i++)
 	{

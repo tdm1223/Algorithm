@@ -1,4 +1,5 @@
 // 2178. 미로 탐색
+// 2018.10.15
 #include<iostream>
 #include<string>
 #include<queue>
@@ -6,7 +7,7 @@
 using namespace std;
 
 int arr[101][101];
-int dist[101][101];//dist[xx][yy] : xx,yy에 도달하는데 최소 칸 수
+int dist[101][101]; //dist[xx][yy] : xx,yy에 도달하는데 필요한 최소 칸 수
 int dx[4] = { 0,0,-1,1 };
 int dy[4] = { 1,-1,0,0 };
 
@@ -26,7 +27,7 @@ int main()
 
 	queue<pair<int, int>> q;
 	dist[0][0] = 1;
-	q.push(make_pair(0, 0));//시작점을 넣어줌
+	q.push({ 0, 0 });//시작점을 넣어줌
 	while (!q.empty())
 	{
 		int x = q.front().first;
@@ -47,7 +48,7 @@ int main()
 			if (dist[xx][yy] == 0 && arr[xx][yy] == 1)
 			{
 				dist[xx][yy] = dist[x][y] + 1;
-				q.push(make_pair(xx, yy));
+				q.push({ xx, yy });
 			}
 		}
 	}

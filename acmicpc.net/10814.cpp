@@ -1,4 +1,5 @@
 // 10814. 나이순 정렬
+// 2018.10.15
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -15,7 +16,7 @@ int main()
 {
 	int n;
 	cin >> n;
-	vector<pair<int, string>> v(n);
+	vector<pair<int,string>> v(n);
 
 	for (int i = 0; i < n; i++)
 	{
@@ -28,5 +29,6 @@ int main()
 	{
 		cout << v[i].first << " " << v[i].second << "\n"; //시간초과를 방지하기 위해 endl 대신 \n사용
 	}
+
 	return 0;
 }

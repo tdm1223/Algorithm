@@ -1,5 +1,6 @@
 // 11022. A+B-8
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 
 using namespace std;
 
@@ -16,6 +17,6 @@ int main()
 		cout << "Case #" << count << ": "<<a<<" + "<<b<<" = "<< a + b << endl;;
 		count++;
 	}
-	
+
 	return 0;
 }

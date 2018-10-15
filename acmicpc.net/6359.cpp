@@ -1,9 +1,10 @@
 // 6359. 만취한 상범
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
 
-int d[101]; //0 : 닫힘 1 : 열림
+int d[101]; //d[i]=0 : 닫힘 / d[i]=1 : 열림
 int main()
 {
 	int t;
@@ -13,7 +14,7 @@ int main()
 		t--;
 		int n;
 		cin >> n;
-		int count = 0; //탈출할 수 있는 학생의 수
+		int ans = 0; //탈출할 수 있는 학생의 수
 		for (int i = 0; i <= 101; i++)
 		{
 			d[i] = 0;
@@ -21,21 +22,22 @@ int main()
 
 		for (int i = 1; i <= n; i++)
 		{
-			for (int j = i; j <= n; j+=i)
+			for (int j = i; j <= n; j += i)
 			{
-				if (d[j] == 0)
+				if (d[j] == 0) //닫혀있으면 문을 열고 학생수 증가
 				{
 					d[j] = 1;
-					count++;
+					ans++;
 				}
-				else
+				else //열여 있으면 문을 닫고 학생수 감소
 				{
 					d[j] = 0;
-					count--;
+					ans--;
 				}
 			}
 		}
-		cout << count << endl;
+		cout << ans << endl;
 	}
+
 	return 0;
 }

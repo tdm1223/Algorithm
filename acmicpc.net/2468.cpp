@@ -1,4 +1,5 @@
 // 2468. 안전 영역
+// 2018.10.15
 #include<iostream>
 #include<algorithm>
 
@@ -28,6 +29,7 @@ void DFS(int x, int y, int h)
 		}
 	}
 }
+
 int main()
 {
 	cin >> n;
@@ -74,6 +76,7 @@ int main()
 		}
 		ans = ans > cnt ? ans : cnt;
 	}
+
 	cout << ans << endl;
 	return 0;
 }

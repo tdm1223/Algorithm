@@ -1,10 +1,11 @@
 // 1965. 상자넣기
+// 2018.10.15
 #include <iostream>
+
 using namespace std;
 
 int a[1001];
 int d[1001]; // d[i] : i번째 까지 증가하는 수의 갯수
-
 int main()
 {
 	int n;

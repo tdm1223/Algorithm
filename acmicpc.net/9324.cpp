@@ -1,11 +1,12 @@
 // 9324. 진짜 메시지
-#include <algorithm>
+// 2018.10.15
+#include<algorithm>
 #include<iostream>
 #include<string>
 
 using namespace std;
 
-bool isOK(string m)
+bool IsOK(string m)
 {
 	int arr[26] = { 0 };
 	for (int i = 0; i < m.size(); i++)
@@ -14,9 +15,13 @@ bool isOK(string m)
 		if (arr[m[i] - 'A'] % 3 == 0)//3의 배수일때
 		{
 			if (m[i + 1] != m[i])
+			{
 				return false;
+			}
 			else
-				++i;
+			{
+				i++;
+			}
 		}
 
 	}
@@ -32,7 +37,7 @@ int main()
 		string message;
 		cin >> message;
 
-		if (isOK(message))
+		if (IsOK(message))
 		{
 			cout << "OK" << endl;
 		}

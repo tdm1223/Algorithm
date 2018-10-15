@@ -1,4 +1,5 @@
-//2490. 윷놀이
+// 2490. 윷놀이
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -14,8 +15,11 @@ int main()
 		{
 			cin >> a;
 			if (a == 0)
+			{
 				count++;
+			}
 		}
 		cout << ans[count] << endl;
 	}
+	return 0;
 }

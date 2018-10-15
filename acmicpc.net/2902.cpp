@@ -1,4 +1,5 @@
 // 2902. KMP는 왜 KMP일까?
+// 2018.10.15
 #include <iostream>
 #include <string>
 
@@ -21,4 +22,5 @@ int main()
 	}
 
 	cout << ans << endl;
+	return 0;
 }

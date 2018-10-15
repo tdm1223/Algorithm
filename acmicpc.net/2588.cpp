@@ -1,4 +1,5 @@
 // 2588. 곱셈
+// 2108.10.15
 #include <iostream>
 
 using namespace std;
@@ -14,6 +15,7 @@ int main()
 		cout << a * tmp << endl;
 		b /= 10;
 	}
+	
 	cout << c << endl;
 	return 0;
 }

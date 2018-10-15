@@ -1,4 +1,5 @@
 // 1977. 완전제곱수
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -25,7 +26,8 @@ int main()
 			sum += i;
 		}
 	}
-	if (min == 0)
+
+	if (min == 0)//제곱수가 없을 경우
 	{
 		cout << "-1" << endl;
 	}
@@ -33,4 +35,5 @@ int main()
 	{
 		cout << sum << endl << min << endl;
 	}
+	return 0;
 }

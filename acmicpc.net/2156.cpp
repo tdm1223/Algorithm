@@ -1,16 +1,12 @@
 // 2156. 포도주 시식
-#include <iostream>
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
 
 using namespace std;
 
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
-
 int d[10001]; //d[n] : n번째 까지 포도주를 먹었을때 최댓값
 int a[10001];
-
 int main()
 {
 	int n;

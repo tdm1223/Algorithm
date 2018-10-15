@@ -1,4 +1,5 @@
 // 10250. ACM 호텔
+// 2018.10.15
 #include<iostream>
 
 using namespace std;

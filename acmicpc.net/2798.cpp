@@ -1,4 +1,5 @@
 // 2798. 블랙잭
+// 2018.10.15
 #include<iostream>
 #include<vector>
 
@@ -6,7 +7,8 @@ using namespace std;
 
 int main()
 {
-	int n, m, ans = 0;
+	int n, m;
+	int ans = 0;
 	cin >> n >> m;
 
 	vector<int> v(n);
@@ -16,7 +18,7 @@ int main()
 		cin >> v[i];
 	}
 
-	// 모든 경우의 수에 대해 따져본다.
+	// 모든 경우의 수를 따져본다.
 	for (int i = 0; i < n - 2; i++)
 	{
 		for (int j = i + 1; j < n - 1; j++)
@@ -24,10 +26,13 @@ int main()
 			for (int k = j + 1; k < n; k++)
 			{
 				if (v[i] + v[j] + v[k] <= m && m - (v[i] + v[j] + v[k]) < m - ans)
+				{
 					ans = v[i] + v[j] + v[k];
+				}
 			}
 		}
 	}
+	
 	cout << ans << endl;
 	return 0;
 }

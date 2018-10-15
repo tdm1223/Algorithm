@@ -1,15 +1,12 @@
 // 11053. 가장 긴 증가하는 부분 수열
+// 2018.10.15
 #include<iostream>
+#include<algorithm>
 
 using namespace std;
 
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
-
-int d[1001]; // d[i] : 수열의 i항까지 가장 긴 증가하는 부분 수열의 길이
 int a[1001];
+int d[1001]; // d[i] : 수열의 i항까지 가장 긴 증가하는 부분 수열의 길이
 
 int main()
 {
@@ -32,6 +29,7 @@ int main()
 		}
 		ans = max(ans, d[i]);
 	}
+
 	cout << ans << endl;
 	return 0;
 }

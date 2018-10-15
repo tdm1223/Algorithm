@@ -1,4 +1,5 @@
 // 2960. 에라토스테네스의 체
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -6,7 +7,9 @@ using namespace std;
 int arr[1001];
 int main()
 {
-	int n, k, count = 0, ans = 0;
+	int n, k; 
+	int count = 0;
+	int ans = 0;
 	cin >> n >> k;
 	for (int i = 2; i <= n; i++)
 	{
@@ -24,7 +27,9 @@ int main()
 			}
 		}
 		if (count == k)
+		{
 			break;
+		}
 	}
 
 	cout << ans << endl;

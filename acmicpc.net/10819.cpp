@@ -1,7 +1,8 @@
 // 10819. 차이를 최대로
-#include <algorithm>
-#include <iostream>
-#include <vector>
+// 2018.10.15
+#include<algorithm>
+#include<iostream>
+#include<vector>
 
 using namespace std;
 

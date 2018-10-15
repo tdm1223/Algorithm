@@ -1,13 +1,10 @@
 // 2579. 계단 오르기
+// 2018.10.15
 #include<iostream>
 #include<vector>
+#include<algorithm>
 
 using namespace std;
-
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
 
 int d[301]; //d[i] : i까지 올랐을 때 총 점수의 최댓값
 int main()

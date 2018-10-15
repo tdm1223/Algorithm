@@ -1,8 +1,7 @@
 // 7662. 이중 우선순위 큐
+// 2018.10.15
 #include<iostream>
-#include<string>
 #include<set>
-#include<algorithm>
 
 using namespace std;
 

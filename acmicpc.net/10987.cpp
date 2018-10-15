@@ -1,4 +1,5 @@
 // 10987. 모음의 개수
+// 2018.10.15
 #include <iostream>
 #include <string>
 

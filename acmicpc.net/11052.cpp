@@ -1,14 +1,11 @@
 // 11052. 카드 구매하기
-#include <iostream>
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
 
 using namespace std;
 
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
-
-int d[1001];
+int d[1001]; //d[n] : 카드 n개를 갖기 위해 지불해야 하는 금액의 최댓값
 int a[1001];
 
 int main()

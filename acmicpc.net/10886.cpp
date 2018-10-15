@@ -1,12 +1,14 @@
 // 10886. 0 = not cute / 1 = cute
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 
 using namespace std;
 
 int main()
 {
 	int n, que;
-	int cute = 0, notCute = 0;
+	int cute = 0;
+	int notCute = 0;
 	cin >> n;
 	for (int i = 0; i < n; i++)
 	{

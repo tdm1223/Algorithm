@@ -1,7 +1,8 @@
 // 2822. 점수 계산
-#include <iostream>
-#include <algorithm>
-#include <vector>
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
+#include<vector>
 
 using namespace std;
 
@@ -28,5 +29,8 @@ int main()
 	sort(ans.begin(), ans.end());
 	cout << sum << endl;
 	for (int i = 0; i < ans.size(); i++)
-		cout << ans[i]<< " ";
+	{
+		cout << ans[i] << " ";
+	}
+	return 0;
 }

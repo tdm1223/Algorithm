@@ -1,4 +1,5 @@
 // 5598. 카이사르 암호
+// 2018.10.15
 #include<iostream>
 #include<string>
 
@@ -12,7 +13,7 @@ int main()
 	string ans="";
 	for (int i = 0; i < s.size(); i++)
 	{
-		//A,B,C에 대해서만 예외처리
+		//A,B,C에 대해서만 예외 처리
 		if (s[i] == 'A')
 		{
 			ans += 'X';
@@ -29,8 +30,8 @@ int main()
 		{
 			ans += s[i] - 3;
 		}
-
 	}
+	
 	cout << ans << endl;
 	return 0;
 }

@@ -1,4 +1,5 @@
 // 10844. 쉬운 계단 수
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -11,7 +12,7 @@ int main()
 
 	for (int i = 1; i < 10; i++)
 	{
-		d[1][i] = 1;
+		d[1][i] = 1;//길이가 1이고 끝이i인 계단수는 1개
 	}
 
 	for (int i = 2; i <= n; i++)
@@ -32,6 +33,7 @@ int main()
 	}
 
 	long long ans = 0;
+	//길이가 n인 끝이 0~9인 계단수를 더함
 	for (int i = 0; i <= 9; i++)
 	{
 		ans += d[n][i];

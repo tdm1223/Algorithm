@@ -1,4 +1,5 @@
 // 10988. 팰린드롬인지 확인하기
+// 2018.10.15
 #include<iostream>
 #include<string>
 

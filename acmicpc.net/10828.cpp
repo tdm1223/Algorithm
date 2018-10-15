@@ -1,4 +1,5 @@
 // 10828. 스택
+// 2018.10.15
 #include<iostream>
 #include<string>
 
@@ -11,21 +12,20 @@ int main()
 
 	int arr[10000];
 	int cnt = 0;
-	string str;
-
+	string s;
 	while (n>0)
 	{
 		n--;
-		cin >> str;
+		cin >> s;
 
-		if (str == "push") //push
+		if (s == "push") //push
 		{
 			int num;
 			cin >> num;
 			arr[++cnt] = num;
 
 		}
-		else if (str == "pop") //pop
+		else if (s == "pop") //pop
 		{
 			if (cnt != 0)
 			{
@@ -37,11 +37,11 @@ int main()
 				cout << "-1" << endl;
 			}
 		}
-		else if (str == "size") //size
+		else if (s == "size") //size
 		{
 			cout << cnt << endl;
 		}
-		else if (str == "empty") //empty
+		else if (s == "empty") //empty
 		{
 			if (cnt == 0)
 			{
@@ -52,7 +52,7 @@ int main()
 				cout << "0" << endl;
 			}
 		}
-		else if (str == "top") //top
+		else if (s == "top") //top
 		{
 			if (cnt != 0)
 			{
@@ -64,5 +64,6 @@ int main()
 			}
 		}
 	}
+
 	return 0;
 }

@@ -1,7 +1,9 @@
 // 2493. 탑
+// 2018.10.15
 #include<iostream>
 #include<stack>
 #include<vector>
+
 using namespace std;
 
 int main()
@@ -24,12 +26,16 @@ int main()
 			s.pop();
 		}
 		if (s.empty())
-			ans.push_back(0); //탑이 없을 경우 0을 추가
-		s.push(make_pair(i + 1, k));
+		{
+			ans.push_back(0);//탑이 없을 경우 0을 추가
+		}
+		s.push({ i + 1, k });
 	}
 
 	for (int i = 0; i < ans.size(); i++)
+	{
 		cout << ans[i] << " ";
+	}
 	cout << endl;
 	return 0;
 }

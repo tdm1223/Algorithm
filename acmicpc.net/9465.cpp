@@ -1,12 +1,9 @@
 // 9465. 스티커
-#include <iostream>
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
 
 using namespace std;
-
-int max(int a, int b)
-{
-	return a > b ? a : b;
-}
 
 int d[2][100001]; // d[i][j] i 라인에 대한 j열 까지 스티커 점수의 최댓값
 int a[2][100001]; // a[i][j] : i,j의 스티커 값
@@ -32,6 +29,8 @@ int main()
 			d[1][i] = max(max(d[1][i - 1], d[0][i - 1] + a[1][i]), d[0][i - 2] + a[1][i]);
 		}
 
+		//두가지 경우 중 최댓값
 		cout << max(d[0][n - 1], d[1][n - 1]) << endl;
 	}
+	return 0;
 }

@@ -1,5 +1,6 @@
 // 4153. 직각삼각형
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 #include<algorithm>
 #include<vector>
 
@@ -18,11 +19,15 @@ int main()
 
 		sort(v.begin(), v.end());
 
-		if (v[0]*v[0] + v[1] * v[1] == v[2] * v[2]) //직각삼각형 공식
+		if (v[0] * v[0] + v[1] * v[1] == v[2] * v[2]) //직각삼각형 공식
+		{
 			cout << "right" << endl;
+		}
 		else
+		{
 			cout << "wrong" << endl;
+		}
 	}
-	
+
 	return 0;
 }

@@ -1,4 +1,5 @@
 // 11051. 이항계수 2
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -21,6 +22,7 @@ int main()
 			}
 			else
 			{
+				// nCk = n-1Ck-1 + n-1Ck를 활용
 				d[i][j] = d[i - 1][j - 1] + d[i - 1][j];
 			}
 			d[i][j] %= 10007;

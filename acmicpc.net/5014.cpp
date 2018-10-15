@@ -1,4 +1,5 @@
 // 5014. 스타트링크
+// 2018.10.15
 #include<queue>
 #include<iostream>
 
@@ -6,7 +7,6 @@ using namespace std;
 
 int visit[1000001];
 int dist[1000001];//d[i] : i층을 가기 위해 눌러야 하는 버튼의 수의 최솟값
-
 int main()
 {
 	int F, S, G, U, D;

@@ -1,4 +1,5 @@
 // 8320. 직사각형을 만드는 방법
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -16,6 +17,7 @@ int main()
 			count++;
 		}
 	}
-	cout << count<<endl;
+
+	cout << count << endl;
 	return 0;
 }

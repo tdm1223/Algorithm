@@ -1,11 +1,12 @@
 // 5576. 콘테스트
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 #include<vector>
 #include<algorithm>
 
 using namespace std;
 
-int main(void)
+int main()
 {
 	vector<int> w(10);//w대학 점수
 	vector<int> k(10);//k대학 점수

@@ -1,4 +1,5 @@
 // 1946. 신입 사원
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -34,5 +35,6 @@ int main()
 		}
 		cout << count << endl;
 	}
+	
 	return 0;
 }

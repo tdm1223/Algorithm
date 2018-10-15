@@ -1,12 +1,10 @@
 // 5618. 공약수
+// 2018.10.15
 #include<iostream>
 #include<vector>
-using namespace std;
+#include<algorithm>
 
-int min(int a, int b)
-{
-	return a < b ? a : b;
-}
+using namespace std;
 
 int main()
 {

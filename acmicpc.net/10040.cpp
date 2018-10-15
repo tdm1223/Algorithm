@@ -1,5 +1,6 @@
 // 10040. 투표
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 
 using namespace std;
 
@@ -41,7 +42,7 @@ int main()
 			index = i;
 		}
 	}
-	
+
 	cout << index << endl;
 	return 0;
 }

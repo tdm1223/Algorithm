@@ -1,4 +1,5 @@
 // 2501. 약수 구하기
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -21,7 +22,7 @@ int main()
 			}
 		}
 	}
-  
+
 	cout << ans << endl;
 	return 0;
 }

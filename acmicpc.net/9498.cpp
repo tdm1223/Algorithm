@@ -1,6 +1,6 @@
 // 9498. 시험 성적
+// 2018.10.15
 #include <iostream>
-#include <string>
 
 using namespace std;
 

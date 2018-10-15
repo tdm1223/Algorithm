@@ -1,6 +1,8 @@
 // 2675. 문자열 반복
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 #include<string>
+
 using namespace std;
 
 int main()

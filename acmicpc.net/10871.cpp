@@ -1,4 +1,5 @@
 // 10871. X보다 작은 수
+// 2018.10.15
 #include<iostream>
 #include<vector>
 

@@ -1,8 +1,8 @@
 // 2583. 영역 구하기
-// 2667과 유사
-#include <iostream>
-#include <algorithm>
-#include <vector>
+// 2018.10.15
+#include<iostream>
+#include<algorithm>
+#include<vector>
 
 using namespace std;
 

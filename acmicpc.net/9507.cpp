@@ -1,4 +1,5 @@
 // 9507. Generations of Tribbles
+// 2018.10.15
 #include <iostream>
 
 using namespace std;
@@ -8,7 +9,6 @@ int main()
 {
 	int t, n;
 	cin >> t;
-
 	d[0] = 1;
 	d[1] = 1;
 	d[2] = 2;
@@ -25,5 +25,6 @@ int main()
 		}
 		cout << d[n] << endl;
 	}
+
 	return 0;
 }

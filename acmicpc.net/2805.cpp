@@ -1,4 +1,5 @@
 // 2805. 나무 자르기
+// 2018.10.15
 #include <iostream>
 #include <vector>
 
@@ -14,7 +15,9 @@ int main()
 	{
 		cin >> v[i];
 		if (max < v[i])
+		{
 			max = v[i];
+		}
 	}
 	int left = 0;
 	int right = max;
@@ -27,13 +30,17 @@ int main()
 		for (int i = 0; i < n; i++)
 		{
 			if (mid < v[i])
+			{
 				total += v[i] - mid;
+			}
 		}
 
 		if (total >= m) //절단기의 높이를 높인다.
 		{
 			if (ans < mid)
+			{
 				ans = mid;
+			}
 			left = mid + 1;
 		}
 		else //절단기의 높이를 낮춘다.

@@ -1,4 +1,5 @@
 // 8979. 올림픽
+// 2018.10.15
 #include<algorithm>
 #include<iostream>
 #include<vector>
@@ -19,14 +20,22 @@ vector<medal> v;
 
 bool comp(medal a, medal b)
 {
-	if (a.gold != b.gold)
-		return a.gold>b.gold;
-	else if (a.silver != b.silver)
-		return a.silver>b.silver;
-	else if (a.bronze != b.bronze)
-		return a.bronze>b.bronze;
-	else
+	if (a.gold != b.gold)//금
+	{
+		return a.gold > b.gold;
+	}
+	else if (a.silver != b.silver)//은
+	{
+		return a.silver > b.silver;
+	}
+	else if (a.bronze != b.bronze)//동
+	{
+		return a.bronze > b.bronze;
+	}
+	else//총개수
+	{
 		return a.total == k;
+	}
 }
 
 int main()

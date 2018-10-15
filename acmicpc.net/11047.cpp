@@ -1,6 +1,6 @@
 // 11047. 동전 0
+// 2018.10.15
 #include<iostream>
-#include<string>
 #include<vector>
 
 using namespace std;
@@ -17,7 +17,7 @@ int main()
 	}
 
 	int count = 0;
-  //가장 값어치가 큰 동전부터 빼가면서 갯수를 더함
+	//가장 값어치가 큰 동전부터 빼가면서 갯수를 더함
 	for (int i = v.size() - 1; i >= 0; i--)
 	{
 		while (k >= v[i])

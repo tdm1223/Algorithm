@@ -1,4 +1,5 @@
-//2193. 이친수
+// 2193. 이친수
+// 2018.10.15
 #include <iostream>
 
 using namespace std;

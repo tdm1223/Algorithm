@@ -1,4 +1,5 @@
 // 1932. 정수 삼각형
+// 2018.10.15
 #include <iostream>
 
 using namespace std;

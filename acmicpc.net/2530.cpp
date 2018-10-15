@@ -1,4 +1,5 @@
 // 2530. 인공지능 시계
+// 2018.10.15
 #include <iostream>
 
 using namespace std;

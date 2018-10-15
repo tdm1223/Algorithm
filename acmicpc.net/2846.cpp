@@ -1,6 +1,8 @@
 // 2846. 오르막 길
-#include <iostream>
-#include <vector>
+// 2018.10.15
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
 using namespace std;
 
@@ -10,9 +12,11 @@ int main()
 	cin >> n;
 	vector<int> v(n);
 	for (int i = 0; i < n; i++)
+	{
 		cin >> v[i];
+	}
 
-	int max = 0;
+	int ans = 0;
 	int tmp = 0;
 	for (int i = 0; i < n - 1; i++)
 	{
@@ -24,12 +28,9 @@ int main()
 		{
 			tmp = 0;
 		}
-		if (tmp > max)
-		{
-			max = tmp;
-		}
+		ans = max(ans, tmp);
 	}
 
-	cout << max << endl;
+	cout << ans << endl;
 	return 0;
 }

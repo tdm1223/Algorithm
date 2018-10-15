@@ -1,6 +1,8 @@
 // 2810. 컵홀더
-#include <iostream>
+// 2018.10.15
+#include<iostream>
 #include<string>
+#include<algorithm>
 
 using namespace std;
 
@@ -27,9 +29,6 @@ int main(void)
 	}
 
 	//사람의 수와 계산한 count 중 작은 값을 출력
-	if (n > count)
-		cout << count << endl;
-	else
-		cout << n << endl;
+	cout << min(count, n) << endl;
 	return 0;
 }
