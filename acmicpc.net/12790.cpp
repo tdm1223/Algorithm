@@ -1,4 +1,5 @@
 // 12790. Mini Fantasy War
+// 2018.10.16
 #include<iostream>
 
 using namespace std;

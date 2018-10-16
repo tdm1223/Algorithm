@@ -1,5 +1,6 @@
 // 12778. CTP 공국으로 이민 가자
-#include <iostream>
+// 2018.10.16
+#include<iostream>
 
 using namespace std;
 

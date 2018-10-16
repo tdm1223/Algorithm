@@ -1,4 +1,5 @@
 // 11727. 2×n 타일링 2
+// 2018.10.16
 #include<iostream>
 
 using namespace std;
@@ -13,7 +14,7 @@ int main()
 
 	for (int i = 3; i <= n; i++)
 	{
-		d[i] = d[i - 1] + 2 * d[i - 2];
+		d[i] = d[i - 1] + 2 * d[i - 2]; //2x2정사각형도 있으므로 2*d[i-2]
 		d[i] %= 10007;
 	}
 	cout << d[n] << endl;

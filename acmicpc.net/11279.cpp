@@ -1,7 +1,7 @@
 // 11279. 최대힙
-#include <iostream>
-#include <queue>
-#include <cstdio>
+// 2018.10.16
+#include<queue>
+#include<cstdio>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ priority_queue<int> q; //힙에 사용할 우선순위 큐 선언
 int main()
 {
 	int n;
-	cin >> n;
+	scanf("%d",&n);
 
 	for (int i = 0; i < n; i++)
 	{
@@ -32,5 +32,6 @@ int main()
 			q.push(a);
 		}
 	}
+
 	return 0;
 }

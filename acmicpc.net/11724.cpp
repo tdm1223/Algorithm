@@ -1,10 +1,11 @@
 // 11724. 연결 요소의 개수
+// 2018.10.16
 #include<iostream>
 
 using namespace std;
 
 int arr[1001][1001];
-int visit[1001];
+int visit[1001]; //방문 유무
 int n, m;
 
 void DFS(int x)

@@ -1,5 +1,6 @@
 // 11654. 아스키 코드
-#include <iostream>
+// 2018.10.16
+#include<iostream>
 
 using namespace std;
 
@@ -9,6 +10,5 @@ int main()
 	cin >> n;
 
 	printf("%d", n);
-
 	return 0;
 }

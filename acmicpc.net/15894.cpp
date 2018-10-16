@@ -1,4 +1,5 @@
 //15894. 수학은 체육과목 입니다
+// 2018.10.16
 #include <iostream>
 
 using namespace std;

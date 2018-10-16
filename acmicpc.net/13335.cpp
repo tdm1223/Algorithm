@@ -1,4 +1,5 @@
 // 13335. 트럭
+// 2018.10.16
 #include<string>
 #include<vector>
 #include<queue>
@@ -58,6 +59,5 @@ int main()
 
 	//총 시간 + 마지막 트럭 건너는 시간(다리의 길이)
 	cout << time + w << endl;
-
 	return 0;
 }

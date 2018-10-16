@@ -1,4 +1,5 @@
 // 11656. 접미사 배열
+// 2018.10.16
 #include<iostream>
 #include<vector>
 #include<string>

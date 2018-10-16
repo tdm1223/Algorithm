@@ -1,4 +1,5 @@
 // 11586. 지영 공주님의 마법 거울
+// 2018.10.16
 #include<iostream>
 #include<string>
 #include<vector>

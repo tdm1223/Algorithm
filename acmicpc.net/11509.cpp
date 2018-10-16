@@ -1,10 +1,10 @@
 // 11509. 풍선 맞추기
-#include <iostream>
+// 2018.10.16
+#include<iostream>
 
 using namespace std;
 
 int h[1000001]; //화살 높이
-
 int main()
 {
 	int n;

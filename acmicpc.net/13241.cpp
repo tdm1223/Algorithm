@@ -1,4 +1,5 @@
 // 13241. 최소공배수
+// 2018.10.16
 #include<iostream>
 
 using namespace std;

@@ -1,22 +1,21 @@
-// 12726. 2×n 타일링
+// 13301. 타일 장식물
 // 2018.10.16
 #include<iostream>
+#include<vector>
 
 using namespace std;
 
-int d[1001]; //d[i] : 2xi크기의 직사각형을 채우는 방법의 수를 10007로 나눈 나머지
+long long d[81]; //d[i] : i개의 타일이 구성하는 타일 장식물 직사각형의 둘레
 int main()
 {
 	int n;
 	cin >> n;
-	d[1] = 1;
-	d[2] = 2;
+	d[1] = 4;
+	d[2] = 6;
 	for (int i = 3; i <= n; i++)
 	{
 		d[i] = d[i - 1] + d[i - 2];
-		d[i] %= 10007;
 	}
-
 	cout << d[n] << endl;
 	return 0;
 }
