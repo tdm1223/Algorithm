@@ -47,7 +47,8 @@
 |  63  |       [지능형 기차](https://www.acmicpc.net/problem/2455)       | [cpp](acmicpc.net/2455.cpp)  |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        | [cpp](acmicpc.net/2501.cpp)  |
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       | [cpp](acmicpc.net/11509.cpp) |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         | [cpp](acmicpc.net/1193.cpp)  |
-|  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |      |                                                                  |                              |
+|  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
+|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |      |                                                                  |                              |
 
 수학
 ----
@@ -119,19 +120,21 @@
 |  37  | [가장 긴 바이토닉 부분 수열 ](https://www.acmicpc.net/problem/11054) | [cpp](acmicpc.net/11054.cpp) |  38  |      [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)       | [cpp](acmicpc.net/1915.cpp)  |
 |  39  |        [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)         | [cpp](acmicpc.net/1937.cpp)  |  40  |         [제곱수의 합](https://www.acmicpc.net/problem/1699)         | [cpp](acmicpc.net/1699.cpp)  |
 |  41  |          [점프 점프](https://www.acmicpc.net/problem/11060)          | [cpp](acmicpc.net/11060.cpp) |  42  |        [타일 장식물](https://www.acmicpc.net/problem/13301)         | [cpp](acmicpc.net/13301.cpp) |
-|  42  |      [서울에서 경산까지](https://www.acmicpc.net/problem/14863)      | [cpp](acmicpc.net/14863.cpp) |      |                                                                     |                              |
+|  43  |      [서울에서 경산까지](https://www.acmicpc.net/problem/14863)      | [cpp](acmicpc.net/14863.cpp) |  44  |            [1학년](https://www.acmicpc.net/problem/5557)            | [cpp](acmicpc.net/5557.cpp)  |
+|  45  |          [기타리스트](https://www.acmicpc.net/problem/1495)          | [cpp](acmicpc.net/1495.cpp)  |      |                                                                     |                              |
 
 BFS, DFS
 --------
 
-| 번호 | 문제                                                | 코드                        | 번호 | 문제                                                      | 코드                         |
-|:----:|:---------------------------------------------------:|:---------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
-|  1   |  [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [cpp](acmicpc.net/1260.cpp) |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [cpp](acmicpc.net/2667.cpp)  |
-|  3   |  [바이러스](https://www.acmicpc.net/problem/2606)   | [cpp](acmicpc.net/2606.cpp) |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
-|  5   | [스타트링크](https://www.acmicpc.net/problem/5014)  | [cpp](acmicpc.net/5014.cpp) |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
-|  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp) |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
-|  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp) |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
-|  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp) |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7564)   | [cpp](acmicpc.net/7564.cpp)  |
+| 번호 | 문제                                                | 코드                         | 번호 | 문제                                                      | 코드                         |
+|:----:|:---------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
+|  1   |  [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [cpp](acmicpc.net/1260.cpp)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [cpp](acmicpc.net/2667.cpp)  |
+|  3   |  [바이러스](https://www.acmicpc.net/problem/2606)   | [cpp](acmicpc.net/2606.cpp)  |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
+|  5   | [스타트링크](https://www.acmicpc.net/problem/5014)  | [cpp](acmicpc.net/5014.cpp)  |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
+|  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp)  |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
+|  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp)  |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
+|  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp)  |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7564)   | [cpp](acmicpc.net/7564.cpp)  |
+|  13  |  [적록색약](https://www.acmicpc.net/problem/10026)  | [cpp](acmicpc.net/10026.cpp) |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
