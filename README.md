@@ -48,7 +48,7 @@
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       | [cpp](acmicpc.net/11509.cpp) |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         | [cpp](acmicpc.net/1193.cpp)  |
 |  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
-|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |      |                                                                  |                              |
+|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |       [셀프 넘버]](https://www.acmicpc.net/problem/4673\)        | [cpp](acmicpc.net/4673.cpp)  |
 
 수학
 ----
@@ -121,7 +121,7 @@
 |  39  |        [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)         | [cpp](acmicpc.net/1937.cpp)  |  40  |         [제곱수의 합](https://www.acmicpc.net/problem/1699)         | [cpp](acmicpc.net/1699.cpp)  |
 |  41  |          [점프 점프](https://www.acmicpc.net/problem/11060)          | [cpp](acmicpc.net/11060.cpp) |  42  |        [타일 장식물](https://www.acmicpc.net/problem/13301)         | [cpp](acmicpc.net/13301.cpp) |
 |  43  |      [서울에서 경산까지](https://www.acmicpc.net/problem/14863)      | [cpp](acmicpc.net/14863.cpp) |  44  |            [1학년](https://www.acmicpc.net/problem/5557)            | [cpp](acmicpc.net/5557.cpp)  |
-|  45  |          [기타리스트](https://www.acmicpc.net/problem/1495)          | [cpp](acmicpc.net/1495.cpp)  |      |                                                                     |                              |
+|  45  |          [기타리스트](https://www.acmicpc.net/problem/1495)          | [cpp](acmicpc.net/1495.cpp)  |  46  |          [내려가기](https://www.acmicpc.net/problem/2096)           | [cpp](acmicpc.net/2096.cpp)  |
 
 BFS, DFS
 --------
@@ -134,7 +134,7 @@ BFS, DFS
 |  7   | [영역 구하기](https://www.acmicpc.net/problem/2583) | [cpp](acmicpc.net/2583.cpp)  |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
 |  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp)  |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
 |  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp)  |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7564)   | [cpp](acmicpc.net/7564.cpp)  |
-|  13  |  [적록색약](https://www.acmicpc.net/problem/10026)  | [cpp](acmicpc.net/10026.cpp) |      |                                                           |                              |
+|  13  |  [적록색약](https://www.acmicpc.net/problem/10026)  | [cpp](acmicpc.net/10026.cpp) |  14  |       [로또](https://www.acmicpc.net/problem/6603)        | [cpp](acmicpc.net/6603.cpp)  |
 
 Greedy Algorithm
 ----------------
@@ -224,7 +224,7 @@ Easy
 |  17  |   [jumpingOnTheClouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)    |  [cpp](hackerrank.com/jumpingOnTheClouds.cpp)   |  18  |                [repeatedString](https://www.hackerrank.com/challenges/repeated-string)                 |      [cpp](hackerrank.com/repeatedString.cpp)      |
 |  19  |        [pickingNumbers](https://www.hackerrank.com/challenges/picking-numbers)         |    [cpp](hackerrank.com/pickingNumbers.cpp)     |  20  |     [beautifulDaysAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)     | [cpp](hackerrank.com/beautifulDaysAtTheMovies.cpp) |
 |  21  |     [viralAdvertising](https://www.hackerrank.com/challenges/strange-advertising)      |   [cpp](hackerrank.com/viralAdvertising.cpp)    |  22  |               [saveThePrisoner](https://www.hackerrank.com/challenges/save-the-prisoner)               |     [cpp](hackerrank.com/saveThePrisoner.cpp)      |
-|  23  | [circularArrayRotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [cpp](hackerrank.com/circularArrayRotation.cpp) |      |                                                                                                        |                                                    |
+|  23  | [circularArrayRotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [cpp](hackerrank.com/circularArrayRotation.cpp) |  24  |                    [findDigits](https://www.hackerrank.com/challenges/find-digits)                     |        [cpp](hackerrank.com/findDigits.cpp)        |
 
 Medium
 ------
