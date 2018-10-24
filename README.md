@@ -48,7 +48,8 @@
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       | [cpp](acmicpc.net/11509.cpp) |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         | [cpp](acmicpc.net/1193.cpp)  |
 |  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
-|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |       [셀프 넘버]](https://www.acmicpc.net/problem/4673\)        | [cpp](acmicpc.net/4673.cpp)  |
+|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         | [cpp](acmicpc.net/4673.cpp)  |
+|  73  |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](acmicpc.net/1018.cpp)  |  74  |      [숫자 정사각형](https://www.acmicpc.net/problem/1051)       | [cpp](acmicpc.net/1051.cpp)  |
 
 수학
 ----
