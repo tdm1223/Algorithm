@@ -123,6 +123,7 @@
 |  41  |          [점프 점프](https://www.acmicpc.net/problem/11060)          | [cpp](acmicpc.net/11060.cpp) |  42  |        [타일 장식물](https://www.acmicpc.net/problem/13301)         | [cpp](acmicpc.net/13301.cpp) |
 |  43  |      [서울에서 경산까지](https://www.acmicpc.net/problem/14863)      | [cpp](acmicpc.net/14863.cpp) |  44  |            [1학년](https://www.acmicpc.net/problem/5557)            | [cpp](acmicpc.net/5557.cpp)  |
 |  45  |          [기타리스트](https://www.acmicpc.net/problem/1495)          | [cpp](acmicpc.net/1495.cpp)  |  46  |          [내려가기](https://www.acmicpc.net/problem/2096)           | [cpp](acmicpc.net/2096.cpp)  |
+|  47  |             [동전](https://www.acmicpc.net/problem/9084)             | [cpp](acmicpc.net/9084.cpp)  |  48  |       [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)       | [cpp](acmicpc.net/11049.cpp) |
 
 BFS, DFS
 --------
@@ -136,6 +137,7 @@ BFS, DFS
 |  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp)  |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
 |  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp)  |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7564)   | [cpp](acmicpc.net/7564.cpp)  |
 |  13  |  [적록색약](https://www.acmicpc.net/problem/10026)  | [cpp](acmicpc.net/10026.cpp) |  14  |       [로또](https://www.acmicpc.net/problem/6603)        | [cpp](acmicpc.net/6603.cpp)  |
+|  15  |  [섬의 개수](https://www.acmicpc.net/problem/4963)  | [cpp](acmicpc.net/4963.cpp)  |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
@@ -147,6 +149,7 @@ Greedy Algorithm
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [cpp](acmicpc.net/2217.cpp)  |
 |  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [cpp](acmicpc.net/11047.cpp) |
 |  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [cpp](acmicpc.net/1541.cpp)  |
+|  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |      |                                                       |                              |
 
 자료구조
 --------
@@ -160,6 +163,7 @@ Greedy Algorithm
 |  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |  10  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [cpp](acmicpc.net/7662.cpp)  |
 |  11  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | [cpp](acmicpc.net/1966.cpp)  |  12  |     [최대 힙](https://www.acmicpc.net/problem/11279)     | [cpp](acmicpc.net/11279.cpp) |
 |  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |  14  |    [오르막 길](https://www.acmicpc.net/problem/2846)     | [cpp](acmicpc.net/2846.cpp)  |
+|  15  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [cpp](acmicpc.net/9375.cpp)  |      |                                                          |                              |
 
 프로그래머스
 ============
