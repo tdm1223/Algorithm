@@ -50,6 +50,7 @@
 |  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         | [cpp](acmicpc.net/4673.cpp)  |
 |  73  |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](acmicpc.net/1018.cpp)  |  74  |      [숫자 정사각형](https://www.acmicpc.net/problem/1051)       | [cpp](acmicpc.net/1051.cpp)  |
+|  75  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    | [cpp](acmicpc.net/1676.cpp)  |      |                                                                  |                              |
 
 수학
 ----
@@ -73,6 +74,7 @@
 |  29  |        [토너먼트](https://www.acmicpc.net/problem/1057)        | [cpp](acmicpc.net/1057.cpp)  |  30  |        [약수](https://www.acmicpc.net/problem/1037)        | [cpp](acmicpc.net/1037.cpp)  |
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  | [피보나치수의 확장](https://www.acmicpc.net/problem/1788)  | [cpp](acmicpc.net/1788.cpp)  |
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |      [최대 곱](https://www.acmicpc.net/problem/1500)       | [cpp](acmicpc.net/1500.cpp)  |
+|  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |      |                                                            |                              |
 
 문자열 처리, 정렬, 이분탐색, 해싱
 ---------------------------------
@@ -124,6 +126,7 @@
 |  43  |      [서울에서 경산까지](https://www.acmicpc.net/problem/14863)      | [cpp](acmicpc.net/14863.cpp) |  44  |            [1학년](https://www.acmicpc.net/problem/5557)            | [cpp](acmicpc.net/5557.cpp)  |
 |  45  |          [기타리스트](https://www.acmicpc.net/problem/1495)          | [cpp](acmicpc.net/1495.cpp)  |  46  |          [내려가기](https://www.acmicpc.net/problem/2096)           | [cpp](acmicpc.net/2096.cpp)  |
 |  47  |             [동전](https://www.acmicpc.net/problem/9084)             | [cpp](acmicpc.net/9084.cpp)  |  48  |       [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)       | [cpp](acmicpc.net/11049.cpp) |
+|  49  |         [파일 합치기](https://www.acmicpc.net/problem/11066)         | [cpp](acmicpc.net/11066.cpp) |      |                                                                     |                              |
 
 BFS, DFS
 --------
