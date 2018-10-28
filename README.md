@@ -8,8 +8,8 @@
 백준 온라인 저지
 ================
 
-구현, 시뮬레이션, 출력
-----------------------
+구현, 시뮬레이션
+----------------
 
 | 번호 | 문제                                                            | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
@@ -37,7 +37,7 @@
 |  43  |       [슈퍼 마리오](https://www.acmicpc.net/problem/2851)       | [cpp](acmicpc.net/2851.cpp)  |  44  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)        | [cpp](acmicpc.net/2577.cpp)  |
 |  45  |        [점수 계산](https://www.acmicpc.net/problem/2822)        | [cpp](acmicpc.net/2822.cpp)  |  46  |           [터렛](https://www.acmicpc.net/problem/1002)           | [cpp](acmicpc.net/1002.cpp)  |
 |  47  |        [삼각 김밥](https://www.acmicpc.net/problem/2783)        | [cpp](acmicpc.net/2783.cpp)  |  48  |          [블랙잭](https://www.acmicpc.net/problem/2798)          | [cpp](acmicpc.net/2798.cpp)  |
-|  49  |       [Hello World](https://www.acmicpc.net/problem/2557)       | [cpp](acmicpc.net/2557.cpp)  |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          | [cpp](acmicpc.net/2563.cpp)  |
+|  49  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    | [cpp](acmicpc.net/1676.cpp)  |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          | [cpp](acmicpc.net/2563.cpp)  |
 |  51  |         [2007년](https://www.acmicpc.net/problem/1924)          | [cpp](acmicpc.net/1924.cpp)  |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         | [cpp](acmicpc.net/1159.cpp)  |
 |  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          | [cpp](acmicpc.net/1773.cpp)  |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         | [cpp](acmicpc.net/1009.cpp)  |
 |  55  |      [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](acmicpc.net/1748.cpp)  |  56  |           [한수](https://www.acmicpc.net/problem/1065)           | [cpp](acmicpc.net/1065.cpp)  |
@@ -50,7 +50,19 @@
 |  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         | [cpp](acmicpc.net/4673.cpp)  |
 |  73  |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](acmicpc.net/1018.cpp)  |  74  |      [숫자 정사각형](https://www.acmicpc.net/problem/1051)       | [cpp](acmicpc.net/1051.cpp)  |
-|  75  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    | [cpp](acmicpc.net/1676.cpp)  |      |                                                                  |                              |
+
+출력
+----
+
+| 번호 | 문제                                                           | 코드                         | 번호 | 문제                                               | 코드                         |
+|:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------:|:----------------------------:|
+|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [cpp](acmicpc.net/2557.cpp)  |  2   |   [N찍기](https://www.acmicpc.net/problem/2741)    | [cpp](acmicpc.net/2741.cpp)  |
+|  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [cpp](acmicpc.net/2438.cpp)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439) | [cpp](acmicpc.net/2439.cpp)  |
+|  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [cpp](acmicpc.net/2440.cpp)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)   | [cpp](acmicpc.net/2739.cpp)  |
+|  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [cpp](acmicpc.net/2742.cpp)  |  8   |    [개](https://www.acmicpc.net/problem/10172)     | [cpp](acmicpc.net/10172.cpp) |
+|  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [cpp](acmicpc.net/11718.cpp) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720) | [cpp](acmicpc.net/11720.cpp) |
+|  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [cpp](acmicpc.net/11721.cpp) |  12  |    [??!](https://www.acmicpc.net/problem/10926)    | [cpp](acmicpc.net/10926.cpp) |
+|  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [cpp](acmicpc.net/11719.cpp) |      |                                                    |                              |
 
 수학
 ----
