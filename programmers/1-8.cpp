@@ -1,4 +1,5 @@
-//수박수박수박수박수박수?
+// 수박수박수박수박수박수?
+// 2018.10.29
 #include <string>
 
 using namespace std;
@@ -14,6 +15,5 @@ string solution(int n)
 	{
 		answer += "수";
 	}
-
 	return answer;
 }

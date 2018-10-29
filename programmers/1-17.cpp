@@ -1,4 +1,5 @@
 // x만큼 간격이 있는 n개의 숫자
+// 2018.10.29
 #include <vector>
 
 using namespace std;
@@ -12,6 +13,5 @@ vector<long long> solution(int x, int n)
 		answer.push_back(tmp);
 		tmp += x;
 	}
-
 	return answer;
 }

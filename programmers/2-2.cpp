@@ -1,4 +1,5 @@
-//올바른 괄호
+// 올바른 괄호
+// 2018.10.29
 #include<string>
 
 using namespace std;
@@ -6,7 +7,6 @@ using namespace std;
 bool solution(string s)
 {
 	bool answer = false;
-
 	int open = 0;
 	int close = 0;
 	for (int i = 0; i<s.size(); i++)
@@ -28,6 +28,5 @@ bool solution(string s)
 	{
 		answer = true;
 	}
-
 	return answer;
 }

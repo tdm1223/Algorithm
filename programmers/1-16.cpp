@@ -1,4 +1,5 @@
-//핸드폰 번호 가리기
+// 핸드폰 번호 가리기
+// 2018.10.29
 #include <string>
 
 using namespace std;
@@ -11,6 +12,5 @@ string solution(string phone_number)
 	{
 		answer[i] = '*';
 	}
-
 	return answer;
 }

@@ -1,4 +1,5 @@
-//자릿수 더하기
+// 자릿수 더하기
+// 2018.10.29
 int solution(int n)
 {
 	int answer = 0;
@@ -7,6 +8,5 @@ int solution(int n)
 		answer += (n % 10);
 		n /= 10;
 	}
-
 	return answer;
 }

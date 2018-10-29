@@ -1,4 +1,5 @@
-//직사각형 별찍기
+// 직사각형 별찍기
+// 2018.10.29
 #include <iostream>
 
 using namespace std;
@@ -16,6 +17,5 @@ int main()
 		}
 		cout << endl;
 	}
-  
 	return 0;
 }

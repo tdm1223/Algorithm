@@ -1,4 +1,5 @@
-//피보나치 수
+// 피보나치 수
+// 2018.10.29
 int d[100001];
 int solution(int n)
 {
@@ -11,6 +12,5 @@ int solution(int n)
 		d[i] %= 1234567;
 	}
 	answer = d[n];
-
 	return answer;
 }

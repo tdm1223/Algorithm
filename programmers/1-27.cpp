@@ -1,6 +1,7 @@
 //문자열 내림차순으로 배치하기
 // sort(s.begin(), s.end(), greater<char>());
 // sort(s.rbegin(),s.rend());
+// 2018.10.29
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -20,6 +21,5 @@ string solution(string s)
 	{
 		answer += v[i];
 	}
-
 	return answer;
 }

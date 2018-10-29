@@ -1,4 +1,5 @@
 // 나누어 떨어지는 숫자 배열
+// 2018.10.29
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -21,7 +22,7 @@ vector<int> solution(vector<int> arr, int divisor)
 	{
 		answer.push_back(-1);
 	}
+	//정렬
 	sort(answer.begin(), answer.end());
-
 	return answer;
 }

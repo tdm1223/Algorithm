@@ -1,4 +1,5 @@
 // K번째 수
+// 2018.10.29
 #include<vector>
 #include<queue>
 
@@ -28,6 +29,5 @@ vector<int> solution(vector<int> array, vector<vector<int>> commands)
 			q.pop();
 		}
 	}
-
 	return answer;
 }

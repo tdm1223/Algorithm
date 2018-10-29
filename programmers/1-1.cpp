@@ -1,4 +1,5 @@
 // 2016년
+// 2018.10.29
 #include <string>
 #include <vector>
 
@@ -20,6 +21,5 @@ string solution(int a, int b)
     count+=b;
     count%=7;
     answer = day[count];
-    
     return answer;
 }

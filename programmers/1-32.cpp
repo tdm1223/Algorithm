@@ -1,13 +1,16 @@
-//완주하지 못한 선수
+// 완주하지 못한 선수
+// 2018.10.29
 #include<string>
 #include<vector>
 #include<map>
+
 using namespace std;
 
 map<string, int> m;
 string solution(vector<string> participant, vector<string> completion)
 {
 	string answer = "";
+	//삽입, 동명이인 허용
 	for (int i = 0; i<participant.size(); i++)
 	{
 		string tmp = participant[i];
@@ -21,6 +24,7 @@ string solution(vector<string> participant, vector<string> completion)
 		}
 	}
 
+	//검색
 	for (int i = 0; i<completion.size(); i++)
 	{
 		string tmp = completion[i];
@@ -34,6 +38,5 @@ string solution(vector<string> participant, vector<string> completion)
 		}
 	}
 	answer = m.begin()->first;
-
 	return answer;
 }

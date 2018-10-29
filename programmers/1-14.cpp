@@ -1,4 +1,5 @@
-//콜라츠 추측
+// 콜라츠 추측
+// 2018.10.29
 #include <vector>
 
 using namespace std;
@@ -18,12 +19,11 @@ int solution(int num)
 		{
 			val = val * 3 + 1;
 		}
-		if (answer > 500)
+		if (answer > 500) // 500번 반복해도 1이 되지 않을 때
 		{
 			answer = -1;
 			break;
 		}
 	}
-
 	return answer;
 }

@@ -1,8 +1,10 @@
-//최대공약수와 최소공배수
+// 최대공약수와 최소공배수
+// 2018.10.29
 #include <vector>
 
 using namespace std;
 
+//최대 공약수 구하기
 int Gcd(int a, int b)
 {
 	if (b == 0)
@@ -19,6 +21,5 @@ vector<int> solution(int n, int m)
 	int lcm = gcd * (n / gcd) * (m / gcd);
 	answer.push_back(gcd);
 	answer.push_back(lcm);
-
 	return answer;
 }

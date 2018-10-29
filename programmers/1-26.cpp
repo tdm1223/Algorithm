@@ -1,4 +1,5 @@
-//문자열 다루기 기본
+// 문자열 다루기 기본
+// 2018.10.29
 #include<string>
 
 using namespace std;
@@ -20,6 +21,5 @@ bool solution(string s)
 			break;
 		}
 	}
-
 	return answer;
 }

@@ -1,4 +1,5 @@
 // 약수의 합
+// 2018.10.29
 int solution(int n)
 {
 	int answer = 0;
@@ -8,12 +9,11 @@ int solution(int n)
 		{
 			answer += i;
 			answer += (n / i);
-			if (i == (n / i)) //제곱근일땐 두번을 더했으니 한번을 빼준다.
+			if (i == (n / i)) // 제곱근일땐 두번을 더했으니 한번을 빼준다.
 			{
 				answer -= i;
 			}
 		}
 	}
-
 	return answer;
 }

@@ -1,4 +1,5 @@
 //정수 내림차순으로 배치하기
+// 2018.10.29
 #include<vector>
 #include<algorithm>
 
@@ -8,7 +9,7 @@ long long solution(long long n)
 {
 	long long answer = 0;
 	vector<int> v;
-	//주어진 정수를 숫자로 쪼개 넣음.
+	//주어진 정수를 자릿수 별로 쪼개 숫자를 넣음.
 	while (n>0)
 	{
 		v.push_back(n % 10);
@@ -20,6 +21,5 @@ long long solution(long long n)
 	{
 		answer = answer * 10 + v[i];
 	}
-
 	return answer;
 }

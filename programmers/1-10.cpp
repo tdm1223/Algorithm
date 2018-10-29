@@ -1,4 +1,5 @@
-//제일 작은 수 제거하기
+// 제일 작은 수 제거하기
+// 2018.10.29
 #include <string>
 #include <vector>
 
@@ -29,6 +30,5 @@ vector<int> solution(vector<int> arr)
 	{
 		answer.push_back(-1);
 	}
-
 	return answer;
 }

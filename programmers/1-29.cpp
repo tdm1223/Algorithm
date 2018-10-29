@@ -1,4 +1,5 @@
-//시저 암호
+// 시저 암호
+// 2018.10.29
 #include <string>
 
 using namespace std;
@@ -15,6 +16,5 @@ string solution(string s, int n)
 		char b = isupper(s[i]) ? 'A' : 'a';
 		s[i] = b + (s[i] - b + n) % 26;
 	}
-
 	return s;
 }

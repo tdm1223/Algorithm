@@ -1,4 +1,5 @@
-//평균 구하기
+// 평균 구하기
+// 2018.10.29
 #include <vector>
 
 using namespace std;
@@ -11,6 +12,5 @@ double solution(vector<int> arr)
 		answer += arr[i];
 	}
 	answer /= arr.size();
-
 	return answer;
 }

@@ -1,7 +1,9 @@
 // 문자열 내 마음대로 정렬하기
-#include<string>
-#include<vector>
+// 2018.10.29
+#include <string>
+#include <vector>
 #include<algorithm>
+
 using namespace std;
 
 vector<string> solution(vector<string> strings, int n)
@@ -13,12 +15,9 @@ vector<string> solution(vector<string> strings, int n)
 		{
 			if (strings[j][n]>strings[j + 1][n])
 			{
-				string temp = strings[j];
-				strings[j] = strings[j + 1];
-				strings[j + 1] = temp;
+				swap(strings[j], strings[j + 1]);
 			}
 		}
 	}
-
 	return strings;
 }

@@ -1,4 +1,5 @@
 // 문자열 내 p와 y의 개수
+// 2018.10.29
 #include <string>
 #include <iostream>
 
@@ -8,6 +9,7 @@ bool solution(string s)
 {
 	int p = 0;
 	int y = 0;
+	// 문자열 순회하면서 p나 y인것의 갯수를 구한다.
 	for (int i = 0; i < s.length(); i++)
 	{
 		if (s[i] == 'p' || s[i] == 'P')
@@ -19,6 +21,5 @@ bool solution(string s)
 			y++;
 		}
 	}
-
 	return p == y;
 }

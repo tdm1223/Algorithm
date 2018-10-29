@@ -1,4 +1,5 @@
-//같은 숫자는 싫어
+// 같은 숫자는 싫어
+// 2018.10.29
 #include <vector>
 #include <iostream>
 
@@ -19,6 +20,5 @@ vector<int> solution(vector<int> arr)
             answer.push_back(arr[i]);
         }
     }
-
     return answer;
 }
