@@ -50,6 +50,7 @@
 |  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         | [cpp](acmicpc.net/4673.cpp)  |
 |  73  |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](acmicpc.net/1018.cpp)  |  74  |      [숫자 정사각형](https://www.acmicpc.net/problem/1051)       | [cpp](acmicpc.net/1051.cpp)  |
+|  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    | [cpp](acmicpc.net/2775.cpp)  |      |                                                                  |                              |
 
 출력
 ----
@@ -178,7 +179,7 @@ Greedy Algorithm
 |  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |  10  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [cpp](acmicpc.net/7662.cpp)  |
 |  11  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | [cpp](acmicpc.net/1966.cpp)  |  12  |     [최대 힙](https://www.acmicpc.net/problem/11279)     | [cpp](acmicpc.net/11279.cpp) |
 |  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |  14  |    [오르막 길](https://www.acmicpc.net/problem/2846)     | [cpp](acmicpc.net/2846.cpp)  |
-|  15  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [cpp](acmicpc.net/9375.cpp)  |      |                                                          |                              |
+|  15  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [cpp](acmicpc.net/9375.cpp)  |  16  |    [트리 순회](https://www.acmicpc.net/problem/1991)     | [cpp](acmicpc.net/1991.cpp)  |
 
 프로그래머스
 ============
