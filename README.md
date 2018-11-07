@@ -50,7 +50,10 @@
 |  69  |      [부분집합의 합](https://www.acmicpc.net/problem/1182)      | [cpp](acmicpc.net/1182.cpp)  |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          | [cpp](acmicpc.net/9613.cpp)  |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         | [cpp](acmicpc.net/4673.cpp)  |
 |  73  |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](acmicpc.net/1018.cpp)  |  74  |      [숫자 정사각형](https://www.acmicpc.net/problem/1051)       | [cpp](acmicpc.net/1051.cpp)  |
-|  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    | [cpp](acmicpc.net/2775.cpp)  |      |                                                                  |                              |
+|  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    | [cpp](acmicpc.net/2775.cpp)  |  76  |          [카드1](https://www.acmicpc.net/problem/2161)           | [cpp](acmicpc.net/2161.cpp)  |
+|  77  |          [카드2](https://www.acmicpc.net/problem/2164)          | [cpp](acmicpc.net/2164.cpp)  |  78  |            [공](https://www.acmicpc.net/problem/1547)            | [cpp](acmicpc.net/1547.cpp)  |
+|  79  |        [트럭 주차](https://www.acmicpc.net/problem/2979)        | [cpp](acmicpc.net/2979.cpp)  |  80  |           [경매](https://www.acmicpc.net/problem/2238)           | [cpp](acmicpc.net/2238.cpp)  |
+|  81  |         [달팽이2](https://www.acmicpc.net/problem/1952)         | [cpp](acmicpc.net/1952.cpp)  |      |                                                                  |                              |
 
 출력
 ----
