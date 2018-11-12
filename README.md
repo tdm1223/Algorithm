@@ -55,6 +55,7 @@
 |  79  |        [트럭 주차](https://www.acmicpc.net/problem/2979)        | [cpp](acmicpc.net/2979.cpp)  |  80  |           [경매](https://www.acmicpc.net/problem/2238)           | [cpp](acmicpc.net/2238.cpp)  |
 |  81  |         [달팽이2](https://www.acmicpc.net/problem/1952)         | [cpp](acmicpc.net/1952.cpp)  |  82  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         | [cpp](acmicpc.net/1004.cpp)  |
 |  83  |         [Contact](https://www.acmicpc.net/problem/1013)         | [cpp](acmicpc.net/1013.cpp)  |  84  |        [잠수함식별](https://www.acmicpc.net/problem/2671)        | [cpp](acmicpc.net/2671.cpp)  |
+|  85  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         | [cpp](acmicpc.net/4108.cpp)  |      |                                                                  |                              |
 
 출력
 ----
@@ -113,7 +114,7 @@
 |  25  |   [전화번호 목록](https://www.acmicpc.net/problem/5052)   | [cpp](acmicpc.net/5052.cpp)  |  26  |         [수 찾기](https://www.acmicpc.net/problem/1920)          | [cpp](acmicpc.net/1920.cpp)  |
 |  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [cpp](acmicpc.net/2805.cpp)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [cpp](acmicpc.net/10814.cpp) |
 |  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |  30  |      [카이사르 암호](https://www.acmicpc.net/problem/5598)       | [cpp](acmicpc.net/5598.cpp)  |
-|  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |      |                                                                  |                              |
+|  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [cpp](acmicpc.net/2751.cpp)  |
 
 다이나믹 프로그래밍
 -------------------
