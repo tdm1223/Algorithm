@@ -94,8 +94,8 @@
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |      [최대 곱](https://www.acmicpc.net/problem/1500)       | [cpp](acmicpc.net/1500.cpp)  |
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |      |                                                            |                              |
 
-문자열 처리, 정렬, 이분탐색, 해싱
----------------------------------
+문자열 처리, 정렬, 탐색, 해싱
+-----------------------------
 
 | 번호 | 문제                                                      | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
@@ -115,8 +115,9 @@
 |  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [cpp](acmicpc.net/2805.cpp)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [cpp](acmicpc.net/10814.cpp) |
 |  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |  30  |      [카이사르 암호](https://www.acmicpc.net/problem/5598)       | [cpp](acmicpc.net/5598.cpp)  |
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [cpp](acmicpc.net/2751.cpp)  |
+|  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |      |                                                                  |                              |
 
-다이나믹 프로그래밍
+Dynamic Programming
 -------------------
 
 | 번호 | 문제                                                                 | 코드                         | 번호 | 문제                                                                | 코드                         |
@@ -159,7 +160,7 @@ BFS, DFS
 |  9   |  [숨바꼭질](https://www.acmicpc.net/problem/1697)   | [cpp](acmicpc.net/1697.cpp)  |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
 |  11  |  [안전 영역](https://www.acmicpc.net/problem/2468)  | [cpp](acmicpc.net/2468.cpp)  |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7562)   | [cpp](acmicpc.net/7562.cpp)  |
 |  13  |  [적록색약](https://www.acmicpc.net/problem/10026)  | [cpp](acmicpc.net/10026.cpp) |  14  |       [로또](https://www.acmicpc.net/problem/6603)        | [cpp](acmicpc.net/6603.cpp)  |
-|  15  |  [섬의 개수](https://www.acmicpc.net/problem/4963)  | [cpp](acmicpc.net/4963.cpp)  |      |                                                           |                              |
+|  15  |  [섬의 개수](https://www.acmicpc.net/problem/4963)  | [cpp](acmicpc.net/4963.cpp)  |  16  |    [트리의 지름](https://www.acmicpc.net/problem/1967)    | [cpp](acmicpc.net/1967.cpp)  |
 
 Greedy Algorithm
 ----------------
@@ -224,8 +225,8 @@ Level 2
 |  9   |         [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         | [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
 |  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |      |                                                                              |                             |
 
-나머지
-------
+Level 3~
+--------
 
 | 번호 | 문제                                                                  | 코드                           | 번호 | 문제                                                                  | 코드                       |
 |:----:|:---------------------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------------------------:|:--------------------------:|
