@@ -55,7 +55,8 @@
 |  79  |        [트럭 주차](https://www.acmicpc.net/problem/2979)        | [cpp](acmicpc.net/2979.cpp)  |  80  |           [경매](https://www.acmicpc.net/problem/2238)           | [cpp](acmicpc.net/2238.cpp)  |
 |  81  |         [달팽이2](https://www.acmicpc.net/problem/1952)         | [cpp](acmicpc.net/1952.cpp)  |  82  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         | [cpp](acmicpc.net/1004.cpp)  |
 |  83  |         [Contact](https://www.acmicpc.net/problem/1013)         | [cpp](acmicpc.net/1013.cpp)  |  84  |        [잠수함식별](https://www.acmicpc.net/problem/2671)        | [cpp](acmicpc.net/2671.cpp)  |
-|  85  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         | [cpp](acmicpc.net/4108.cpp)  |      |                                                                  |                              |
+|  85  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         | [cpp](acmicpc.net/4108.cpp)  |  86  |          [결혼식](https://www.acmicpc.net/problem/5567)          | [cpp](acmicpc.net/5567.cpp)  |
+|  87  |        [Starman](https://www.acmicpc.net/problem/12791)         | [cpp](acmicpc.net/12791.cpp) |  88  |          [유니크](https://www.acmicpc.net/problem/5533)          | [cpp](acmicpc.net/5533.cpp)  |
 
 출력
 ----
