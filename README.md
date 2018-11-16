@@ -74,26 +74,27 @@
 수학
 ----
 
-| 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                       | 코드                         |
-|:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------:|:----------------------------:|
-|  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [cpp](acmicpc.net/1000.cpp)  |  2   |        [A-B](https://www.acmicpc.net/problem/1001)         | [cpp](acmicpc.net/1001.cpp)  |
-|  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [cpp](acmicpc.net/11021.cpp) |  4   |       [A+B-8](https://www.acmicpc.net/problem/11022)       | [cpp](acmicpc.net/11022.cpp) |
-|  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |       [나누기](https://www.acmicpc.net/problem/1075)       | [cpp](acmicpc.net/1075.cpp)  |
-|  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |        [A/B](https://www.acmicpc.net/problem/1008)         | [cpp](acmicpc.net/1008.cpp)  |
-|  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |         [R2](https://www.acmicpc.net/problem/3046)         | [cpp](acmicpc.net/3046.cpp)  |
-|  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [cpp](acmicpc.net/11006.cpp) |  12  |      [다면체](https://www.acmicpc.net/problem/10569)       | [cpp](acmicpc.net/10569.cpp) |
-|  13  |     [캥거루 세마리](https://www.acmicpc.net/problem/2965)      | [cpp](acmicpc.net/2965.cpp)  |  14  |       [저작권](https://www.acmicpc.net/problem/2914)       | [cpp](acmicpc.net/2914.cpp)  |
-|  15  |    [다각형의 대각선](https://www.acmicpc.net/problem/3049)     | [cpp](acmicpc.net/3049.cpp)  |  16  |     [설탕 배달](https://www.acmicpc.net/problem/2839)      | [cpp](acmicpc.net/2839.cpp)  |
-|  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [cpp](acmicpc.net/2912.cpp)  |  18  |     [수들의 합](https://www.acmicpc.net/problem/1789)      | [cpp](acmicpc.net/1789.cpp)  |
-|  19  |         [시그마](https://www.acmicpc.net/problem/2355)         | [cpp](acmicpc.net/2355.cpp)  |  20  |   [더하기 사이클](https://www.acmicpc.net/problem/1110)    | [cpp](acmicpc.net/1110.cpp)  |
-|  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [cpp](acmicpc.net/1978.cpp)  |  22  |       [플러그](https://www.acmicpc.net/problem/2010)       | [cpp](acmicpc.net/2010.cpp)  |
-|  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [cpp](acmicpc.net/1977.cpp)  |  24  |    [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)     | [cpp](acmicpc.net/1357.cpp)  |
-|  25  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [cpp](acmicpc.net/1475.cpp)  |  26  | [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652) | [cpp](acmicpc.net/1652.cpp)  |
-|  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  28  |       [막대기](https://www.acmicpc.net/problem/1094)       | [cpp](acmicpc.net/1094.cpp)  |
-|  29  |        [토너먼트](https://www.acmicpc.net/problem/1057)        | [cpp](acmicpc.net/1057.cpp)  |  30  |        [약수](https://www.acmicpc.net/problem/1037)        | [cpp](acmicpc.net/1037.cpp)  |
-|  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  | [피보나치수의 확장](https://www.acmicpc.net/problem/1788)  | [cpp](acmicpc.net/1788.cpp)  |
-|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |      [최대 곱](https://www.acmicpc.net/problem/1500)       | [cpp](acmicpc.net/1500.cpp)  |
-|  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |      |                                                            |                              |
+| 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                            | 코드                         |
+|:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
+|  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [cpp](acmicpc.net/1000.cpp)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [cpp](acmicpc.net/1001.cpp)  |
+|  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [cpp](acmicpc.net/11021.cpp) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [cpp](acmicpc.net/11022.cpp) |
+|  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [cpp](acmicpc.net/1075.cpp)  |
+|  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
+|  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [cpp](acmicpc.net/3046.cpp)  |
+|  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [cpp](acmicpc.net/11006.cpp) |  12  |         [다면체](https://www.acmicpc.net/problem/10569)         | [cpp](acmicpc.net/10569.cpp) |
+|  13  |     [캥거루 세마리](https://www.acmicpc.net/problem/2965)      | [cpp](acmicpc.net/2965.cpp)  |  14  |         [저작권](https://www.acmicpc.net/problem/2914)          | [cpp](acmicpc.net/2914.cpp)  |
+|  15  |    [다각형의 대각선](https://www.acmicpc.net/problem/3049)     | [cpp](acmicpc.net/3049.cpp)  |  16  |        [설탕 배달](https://www.acmicpc.net/problem/2839)        | [cpp](acmicpc.net/2839.cpp)  |
+|  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [cpp](acmicpc.net/2912.cpp)  |  18  |        [수들의 합](https://www.acmicpc.net/problem/1789)        | [cpp](acmicpc.net/1789.cpp)  |
+|  19  |         [시그마](https://www.acmicpc.net/problem/2355)         | [cpp](acmicpc.net/2355.cpp)  |  20  |      [더하기 사이클](https://www.acmicpc.net/problem/1110)      | [cpp](acmicpc.net/1110.cpp)  |
+|  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [cpp](acmicpc.net/1978.cpp)  |  22  |         [플러그](https://www.acmicpc.net/problem/2010)          | [cpp](acmicpc.net/2010.cpp)  |
+|  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [cpp](acmicpc.net/1977.cpp)  |  24  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [cpp](acmicpc.net/1357.cpp)  |
+|  25  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [cpp](acmicpc.net/1475.cpp)  |  26  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [cpp](acmicpc.net/1652.cpp)  |
+|  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  28  |         [막대기](https://www.acmicpc.net/problem/1094)          | [cpp](acmicpc.net/1094.cpp)  |
+|  29  |        [토너먼트](https://www.acmicpc.net/problem/1057)        | [cpp](acmicpc.net/1057.cpp)  |  30  |          [약수](https://www.acmicpc.net/problem/1037)           | [cpp](acmicpc.net/1037.cpp)  |
+|  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [cpp](acmicpc.net/1788.cpp)  |
+|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [cpp](acmicpc.net/1500.cpp)  |
+|  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
+|  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |      |                                                                 |                              |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -116,7 +117,7 @@
 |  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [cpp](acmicpc.net/2805.cpp)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [cpp](acmicpc.net/10814.cpp) |
 |  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |  30  |      [카이사르 암호](https://www.acmicpc.net/problem/5598)       | [cpp](acmicpc.net/5598.cpp)  |
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [cpp](acmicpc.net/2751.cpp)  |
-|  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |      |                                                                  |                              |
+|  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 
 Dynamic Programming
 -------------------
@@ -147,7 +148,8 @@ Dynamic Programming
 |  43  |      [서울에서 경산까지](https://www.acmicpc.net/problem/14863)      | [cpp](acmicpc.net/14863.cpp) |  44  |            [1학년](https://www.acmicpc.net/problem/5557)            | [cpp](acmicpc.net/5557.cpp)  |
 |  45  |          [기타리스트](https://www.acmicpc.net/problem/1495)          | [cpp](acmicpc.net/1495.cpp)  |  46  |          [내려가기](https://www.acmicpc.net/problem/2096)           | [cpp](acmicpc.net/2096.cpp)  |
 |  47  |             [동전](https://www.acmicpc.net/problem/9084)             | [cpp](acmicpc.net/9084.cpp)  |  48  |       [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)       | [cpp](acmicpc.net/11049.cpp) |
-|  49  |         [파일 합치기](https://www.acmicpc.net/problem/11066)         | [cpp](acmicpc.net/11066.cpp) |      |                                                                     |                              |
+|  49  |         [파일 합치기](https://www.acmicpc.net/problem/11066)         | [cpp](acmicpc.net/11066.cpp) |  50  |          [선물 전달](https://www.acmicpc.net/problem/1947)          | [cpp](acmicpc.net/1947.cpp)  |
+|  51  |        [헤일스톤 수열](https://www.acmicpc.net/problem/3943)         | [cpp](acmicpc.net/3943.cpp)  |  52  |          [타일 코드](https://www.acmicpc.net/problem/1720)          | [cpp](acmicpc.net/1720.cpp)  |
 
 BFS, DFS
 --------
