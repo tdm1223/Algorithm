@@ -1,5 +1,3 @@
-﻿
-
 알고리즘 문제풀이
 =================
 
@@ -8,8 +6,8 @@
 백준 온라인 저지
 ================
 
-구현, 시뮬레이션
-----------------
+구현, 시뮬레이션, 기타
+----------------------
 
 | 번호 | 문제                                                            | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
@@ -57,6 +55,7 @@
 |  83  |         [Contact](https://www.acmicpc.net/problem/1013)         | [cpp](acmicpc.net/1013.cpp)  |  84  |        [잠수함식별](https://www.acmicpc.net/problem/2671)        | [cpp](acmicpc.net/2671.cpp)  |
 |  85  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         | [cpp](acmicpc.net/4108.cpp)  |  86  |          [결혼식](https://www.acmicpc.net/problem/5567)          | [cpp](acmicpc.net/5567.cpp)  |
 |  87  |        [Starman](https://www.acmicpc.net/problem/12791)         | [cpp](acmicpc.net/12791.cpp) |  88  |          [유니크](https://www.acmicpc.net/problem/5533)          | [cpp](acmicpc.net/5533.cpp)  |
+|  89  |  [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   | [cpp](acmicpc.net/11729.cpp) |  90  |           [개미](https://www.acmicpc.net/problem/4307)           | [cpp](acmicpc.net/4307.cpp)  |
 
 출력
 ----
@@ -94,7 +93,8 @@
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [cpp](acmicpc.net/1788.cpp)  |
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [cpp](acmicpc.net/1500.cpp)  |
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
-|  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |      |                                                                 |                              |
+|  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
+|  39  |      [약수들의 합](https://www.acmicpc.net/problem/9506)       | [cpp](acmicpc.net/9506.cpp)  |  40  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [cpp](acmicpc.net/1297.cpp)  |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -118,6 +118,7 @@
 |  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [cpp](acmicpc.net/11651.cpp) |  30  |      [카이사르 암호](https://www.acmicpc.net/problem/5598)       | [cpp](acmicpc.net/5598.cpp)  |
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [cpp](acmicpc.net/2751.cpp)  |
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
+|  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 
 Dynamic Programming
 -------------------
