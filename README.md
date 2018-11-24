@@ -51,7 +51,8 @@
 |  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    | [cpp](acmicpc.net/2775.cpp)  |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         | [cpp](acmicpc.net/12791.cpp) |
 |  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         | [cpp](acmicpc.net/4108.cpp)  |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   | [cpp](acmicpc.net/11729.cpp) |
 |  79  |       [잠수함식별](https://www.acmicpc.net/problem/2671)        | [cpp](acmicpc.net/2671.cpp)  |  80  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         | [cpp](acmicpc.net/1004.cpp)  |
-|  81  |         [Contact](https://www.acmicpc.net/problem/1013)         | [cpp](acmicpc.net/1013.cpp)  |      |                                                                  |                              |
+|  81  |         [Contact](https://www.acmicpc.net/problem/1013)         | [cpp](acmicpc.net/1013.cpp)  |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    | [cpp](acmicpc.net/5612.cpp)  |
+|  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       | [cpp](acmicpc.net/5212.cpp)  |      |                                                                  |                              |
 
 시뮬레이션
 ----------
@@ -127,6 +128,7 @@
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [cpp](acmicpc.net/2751.cpp)  |
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
+|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |      |                                                                  |                              |
 
 Dynamic Programming
 -------------------
