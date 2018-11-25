@@ -161,6 +161,7 @@ Dynamic Programming
 |  47  |             [동전](https://www.acmicpc.net/problem/9084)             | [cpp](acmicpc.net/9084.cpp)  |  48  |       [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)       | [cpp](acmicpc.net/11049.cpp) |
 |  49  |         [파일 합치기](https://www.acmicpc.net/problem/11066)         | [cpp](acmicpc.net/11066.cpp) |  50  |          [선물 전달](https://www.acmicpc.net/problem/1947)          | [cpp](acmicpc.net/1947.cpp)  |
 |  51  |        [헤일스톤 수열](https://www.acmicpc.net/problem/3943)         | [cpp](acmicpc.net/3943.cpp)  |  52  |          [타일 코드](https://www.acmicpc.net/problem/1720)          | [cpp](acmicpc.net/1720.cpp)  |
+|  53  |          [극장 좌석](https://www.acmicpc.net/problem/2302)           | [cpp](acmicpc.net/2302.cpp)  |  54  |       [격자상의 경로](https://www.acmicpc.net/problem/10164)        | [cpp](acmicpc.net/10164.cpp) |
 
 BFS, DFS, 플로이드 와샬, 그래프 이론
 ------------------------------------
@@ -191,7 +192,8 @@ Greedy Algorithm
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [cpp](acmicpc.net/2217.cpp)  |
 |  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [cpp](acmicpc.net/11047.cpp) |
 |  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [cpp](acmicpc.net/1541.cpp)  |
-|  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |      |                                                       |                              |
+|  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |  12  |  [반도체 설계](https://www.acmicpc.net/problem/2352)  | [cpp](acmicpc.net/2352.cpp)  |
+|  13  |     [저울](https://www.acmicpc.net/problem/2437)     | [cpp](acmicpc.net/2437.cpp)  |  14  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [cpp](acmicpc.net/1138.cpp)  |
 
 자료구조
 --------
