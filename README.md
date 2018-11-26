@@ -198,16 +198,18 @@ Greedy Algorithm
 자료구조
 --------
 
-| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
-|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   |     [스택](https://www.acmicpc.net/problem/10828)     | [cpp](acmicpc.net/10828.cpp) |  2   |        [큐](https://www.acmicpc.net/problem/1946)        | [cpp](acmicpc.net/10845.cpp) |
-|  3   |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | [cpp](acmicpc.net/10799.cpp) |  4   |       [괄호](https://www.acmicpc.net/problem/9012)       | [cpp](acmicpc.net/9012.cpp)  |
-|  5   | [조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [cpp](acmicpc.net/1158.cpp)  |  6   |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](acmicpc.net/3986.cpp)  |
-|  7   |   [스택 수열](https://www.acmicpc.net/problem/1874)   | [cpp](acmicpc.net/1874.cpp)  |  8   |   [후위 표기식](https://www.acmicpc.net/problem/1918)    | [cpp](acmicpc.net/1918.cpp)  |
-|  9   |      [탑](https://www.acmicpc.net/problem/2493)       | [cpp](acmicpc.net/2493.cpp)  |  10  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [cpp](acmicpc.net/7662.cpp)  |
-|  11  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | [cpp](acmicpc.net/1966.cpp)  |  12  |     [최대 힙](https://www.acmicpc.net/problem/11279)     | [cpp](acmicpc.net/11279.cpp) |
-|  13  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | [cpp](acmicpc.net/2504.cpp)  |  14  |    [오르막 길](https://www.acmicpc.net/problem/2846)     | [cpp](acmicpc.net/2846.cpp)  |
-|  15  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [cpp](acmicpc.net/9375.cpp)  |  16  |    [트리 순회](https://www.acmicpc.net/problem/1991)     | [cpp](acmicpc.net/1991.cpp)  |
+| 번호 | 문제                                                     | 코드                         | 번호 | 문제                                                                | 코드                         |
+|:----:|:--------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
+|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [cpp](acmicpc.net/10828.cpp) |  2   |             [큐](https://www.acmicpc.net/problem/1946)              | [cpp](acmicpc.net/10845.cpp) |
+|  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [cpp](acmicpc.net/10799.cpp) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [cpp](acmicpc.net/9012.cpp)  |
+|  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [cpp](acmicpc.net/1158.cpp)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [cpp](acmicpc.net/3986.cpp)  |
+|  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [cpp](acmicpc.net/1874.cpp)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [cpp](acmicpc.net/1918.cpp)  |
+|  9   |        [탑](https://www.acmicpc.net/problem/2493)        | [cpp](acmicpc.net/2493.cpp)  |  10  |      [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)       | [cpp](acmicpc.net/7662.cpp)  |
+|  11  |    [프린터 큐](https://www.acmicpc.net/problem/1966)     | [cpp](acmicpc.net/1966.cpp)  |  12  |          [최대 힙](https://www.acmicpc.net/problem/11279)           | [cpp](acmicpc.net/11279.cpp) |
+|  13  |    [괄호의 값](https://www.acmicpc.net/problem/2504)     | [cpp](acmicpc.net/2504.cpp)  |  14  |          [오르막 길](https://www.acmicpc.net/problem/2846)          | [cpp](acmicpc.net/2846.cpp)  |
+|  15  |  [패션왕 신해빈](https://www.acmicpc.net/problem/9375)   | [cpp](acmicpc.net/9375.cpp)  |  16  |          [트리 순회](https://www.acmicpc.net/problem/1991)          | [cpp](acmicpc.net/1991.cpp)  |
+|  17  | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [cpp](acmicpc.net/7785.cpp)  |  18  |            [카드](https://www.acmicpc.net/problem/11652)            | [cpp](acmicpc.net/11652.cpp) |
+|  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)   | [cpp](acmicpc.net/14670.cpp) |  20  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [cpp](acmicpc.net/1620.cpp)  |
 
 프로그래머스
 ============
