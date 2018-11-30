@@ -164,8 +164,8 @@ Dynamic Programming
 |  51  |        [헤일스톤 수열](https://www.acmicpc.net/problem/3943)         | [cpp](acmicpc.net/3943.cpp)  |  52  |          [타일 코드](https://www.acmicpc.net/problem/1720)          | [cpp](acmicpc.net/1720.cpp)  |
 |  53  |          [극장 좌석](https://www.acmicpc.net/problem/2302)           | [cpp](acmicpc.net/2302.cpp)  |  54  |       [격자상의 경로](https://www.acmicpc.net/problem/10164)        | [cpp](acmicpc.net/10164.cpp) |
 
-BFS, DFS, 플로이드 와샬, 그래프 이론
-------------------------------------
+BFS, DFS, 플로이드 와샬, 그래프 이론, MST
+-----------------------------------------
 
 | 번호 | 문제                                                             | 코드                         | 번호 | 문제                                                      | 코드                         |
 |:----:|:----------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
@@ -181,7 +181,11 @@ BFS, DFS, 플로이드 와샬, 그래프 이론
 |  19  |        [플로이드](https://www.acmicpc.net/problem/11404)         | [cpp](acmicpc.net/11404.cpp) |  20  |       [저울](https://www.acmicpc.net/problem/10159)       | [cpp](acmicpc.net/10159.cpp) |
 |  21  |           [역사](https://www.acmicpc.net/problem/1613)           | [cpp](acmicpc.net/1613.cpp)  |  22  |      [키 순서](https://www.acmicpc.net/problem/2458)      | [cpp](acmicpc.net/2458.cpp)  |
 |  23  |           [운동](https://www.acmicpc.net/problem/1956)           | [cpp](acmicpc.net/1956.cpp)  |  24  |     [회장뽑기](https://www.acmicpc.net/problem/2660)      | [cpp](acmicpc.net/2660.cpp)  |
-|  25  |        [Puyo Puyo](https://www.acmicpc.net/problem/11559)        | [cpp](acmicpc.net/11559.cpp) |      |                                                           |                              |
+|  25  |        [Puyo Puyo](https://www.acmicpc.net/problem/11559)        | [cpp](acmicpc.net/11559.cpp) |  26  |        [양](https://www.acmicpc.net/problem/3184)         | [cpp](acmicpc.net/3184.cpp)  |
+|  27  |         [돌다리](https://www.acmicpc.net/problem/12761)          | [cpp](acmicpc.net/12761.cpp) |  28  |      [보물섬](https://www.acmicpc.net/problem/2589)       | [cpp](acmicpc.net/2589.cpp)  |
+|  29  |           [물통](https://www.acmicpc.net/problem/2251)           | [cpp](acmicpc.net/2251.cpp)  |  30  |   [상근이의 여행](https://www.acmicpc.net/problem/9372)   | [cpp](acmicpc.net/9372.cpp)  |
+|  31  |       [Cow Contest](https://www.acmicpc.net/problem/6156)        | [cpp](acmicpc.net/6156.cpp)  |  32  |     [촌수계산](https://www.acmicpc.net/problem/2644)      | [cpp](acmicpc.net/2644.cpp)  |
+|  33  |       [궁금한 민호](https://www.acmicpc.net/problem/1507)        | [cpp](acmicpc.net/1507.cpp)  |  34  |   [네트워크 연결](https://www.acmicpc.net/problem/1922)   | [cpp](acmicpc.net/1922.cpp)  |
 
 Greedy Algorithm
 ----------------
