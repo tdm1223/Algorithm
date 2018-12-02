@@ -58,15 +58,17 @@
 시뮬레이션
 ----------
 
-| 번호 | 문제                                                    | 코드                        | 번호 | 문제                                                       | 코드                        |
-|:----:|:-------------------------------------------------------:|:---------------------------:|:----:|:----------------------------------------------------------:|:---------------------------:|
-|  1   | [영식이와 친구들](https://www.acmicpc.net/problem/1592) | [cpp](acmicpc.net/1592.cpp) |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [cpp](acmicpc.net/2455.cpp) |
-|  3   |     [막대기](https://www.acmicpc.net/problem/1094)      | [cpp](acmicpc.net/1094.cpp) |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [cpp](acmicpc.net/1057.cpp) |
-|  5   |       [공](https://www.acmicpc.net/problem/1547)        | [cpp](acmicpc.net/1547.cpp) |  6   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](acmicpc.net/1018.cpp) |
-|  7   |      [카드1](https://www.acmicpc.net/problem/2161)      | [cpp](acmicpc.net/2161.cpp) |  8   |     [방학 숙제](https://www.acmicpc.net/problem/5532)      | [cpp](acmicpc.net/5532.cpp) |
-|  9   |      [카드2](https://www.acmicpc.net/problem/2164)      | [cpp](acmicpc.net/2164.cpp) |  10  |     [트럭 주차](https://www.acmicpc.net/problem/2979)      | [cpp](acmicpc.net/2979.cpp) |
-|  11  |     [달팽이2](https://www.acmicpc.net/problem/1952)     | [cpp](acmicpc.net/1952.cpp) |  12  |        [경매](https://www.acmicpc.net/problem/2238)        | [cpp](acmicpc.net/2238.cpp) |
-|  13  | [가장 큰 금민수](https://www.acmicpc.net/problem/1526)  | [cpp](acmicpc.net/1526.cpp) |  14  |        [운동](https://www.acmicpc.net/problem/1173)        | [cpp](acmicpc.net/1173.cpp) |
+| 번호 | 문제                                                         | 코드                        | 번호 | 문제                                                       | 코드                         |
+|:----:|:------------------------------------------------------------:|:---------------------------:|:----:|:----------------------------------------------------------:|:----------------------------:|
+|  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [cpp](acmicpc.net/1592.cpp) |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [cpp](acmicpc.net/2455.cpp)  |
+|  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [cpp](acmicpc.net/1094.cpp) |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [cpp](acmicpc.net/1057.cpp)  |
+|  5   |          [공](https://www.acmicpc.net/problem/1547)          | [cpp](acmicpc.net/1547.cpp) |  6   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](acmicpc.net/1018.cpp)  |
+|  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [cpp](acmicpc.net/2161.cpp) |  8   |     [방학 숙제](https://www.acmicpc.net/problem/5532)      | [cpp](acmicpc.net/5532.cpp)  |
+|  9   |        [카드2](https://www.acmicpc.net/problem/2164)         | [cpp](acmicpc.net/2164.cpp) |  10  |     [트럭 주차](https://www.acmicpc.net/problem/2979)      | [cpp](acmicpc.net/2979.cpp)  |
+|  11  |       [달팽이2](https://www.acmicpc.net/problem/1952)        | [cpp](acmicpc.net/1952.cpp) |  12  |        [경매](https://www.acmicpc.net/problem/2238)        | [cpp](acmicpc.net/2238.cpp)  |
+|  13  |    [가장 큰 금민수](https://www.acmicpc.net/problem/1526)    | [cpp](acmicpc.net/1526.cpp) |  14  |        [운동](https://www.acmicpc.net/problem/1173)        | [cpp](acmicpc.net/1173.cpp)  |
+|  15  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517) | [cpp](acmicpc.net/9517.cpp) |  16  |    [로봇 청소기](https://www.acmicpc.net/problem/14503)    | [cpp](acmicpc.net/14503.cpp) |
+|  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [cpp](acmicpc.net/1551.cpp) |  18  |     [그림 비교](https://www.acmicpc.net/problem/2160)      | [cpp](acmicpc.net/2160.cpp)  |
 
 출력
 ----
