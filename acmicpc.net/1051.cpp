@@ -1,6 +1,7 @@
 // 1051. 숫자 정사각형
-// 2018.10.24
-#include <iostream>
+// 분류 : 브루트 포스
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -13,10 +14,12 @@ int main()
 	{
 		for (int j = 0; j < m; j++)
 		{
+			//연속된 수를 입력받기.
 			scanf("%1d", &a[i][j]);
 		}
 	}
 
+	// 모든 구간을 확인한다.
 	int max = 0;
 	for (int i = 0; i < n; i++)
 	{

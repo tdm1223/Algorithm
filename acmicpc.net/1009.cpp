@@ -1,5 +1,5 @@
 // 1009. 분산처리
-// 2018.10.14
+// 2018.12.03
 #include<iostream>
 
 using namespace std;
@@ -27,4 +27,5 @@ int main()
 			cout << num << endl;
 		}
 	}
+	return 0;
 }

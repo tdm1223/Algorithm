@@ -1,6 +1,6 @@
 // 1004. 어린왕자
-// 2018.11.11
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -34,6 +34,5 @@ int main()
 		}
 		cout << count << endl;
 	}
-
 	return 0;
 }

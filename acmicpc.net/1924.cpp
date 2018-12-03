@@ -1,7 +1,7 @@
 // 1924. 2007년
-// 2018.10.14
-#include <iostream>
-#include <string>
+// 2018.12.03
+#include<iostream>
+#include<string>
 
 using namespace std;
 
@@ -17,7 +17,6 @@ int main()
 	{
 		sum += month[i];
 	}
-
 	sum += y;
 	sum %= 7;
 	cout << day[sum] << endl;

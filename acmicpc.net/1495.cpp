@@ -1,6 +1,6 @@
 // 1495. 기타리스트
-// 2018.10.17
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 

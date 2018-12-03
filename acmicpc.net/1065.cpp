@@ -1,6 +1,6 @@
 // 1065. 한수
-// 2018.10.14
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -37,4 +37,5 @@ int main()
 	}
 
 	cout << ans << endl;
+	return 0;
 }

@@ -1,10 +1,10 @@
 // 1075. 나누기
-// 2018.10.14
+// 2018.12.03
 #include<iostream>
 
 using namespace std;
 
-int main(void)
+int main()
 {
 	int n, f;
 	cin >> n >> f;

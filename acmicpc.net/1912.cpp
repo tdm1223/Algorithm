@@ -1,11 +1,11 @@
 // 1912. 연속합
-// 2018.10.14
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 #include<algorithm>
 
 using namespace std;
 
-int a[100001];
+int a[100001]; // 수들이 들어간 배열
 int d[100001]; // d[i] : i번째 수까지의 연속합의 최댓값
 int main()
 {

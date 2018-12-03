@@ -1,5 +1,6 @@
 // 1049. 기타줄
-// 2018.10.14
+// 분류 : 그리디 알고리즘
+// 2018.12.03
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -25,7 +26,7 @@ int main()
 	sort(piece.begin(), piece.end());
 
 	int ans = 0;
-	//가장 작은 값 package[0], piece[0]에 대해서만 계산을 한다. (그리디 알고리즘)
+	//가장 작은 값 package[0], piece[0]에 대해서만 계산을 한다.
 	while (n > 0)
 	{
 		if (n >= 6 && package[0] < piece[0] * 6) //6개 이상이고 패키지가 저렴할때
@@ -44,7 +45,6 @@ int main()
 			n = 0;
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

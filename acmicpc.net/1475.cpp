@@ -1,7 +1,7 @@
 // 1475. 방 번호
-// 2018.10.14
-#include <iostream>
-#include <string>
+// 2018.12.03
+#include<iostream>
+#include<string>
 
 using namespace std;
 
@@ -22,7 +22,7 @@ int main()
 	num[9] += num[6];
 	num[6] = 0;
 
-	if (num[9] % 2 == 0) //더한 값이 짤구 일 때 2로 나눔
+	if (num[9] % 2 == 0) //더한 값이 9 일 때 2로 나눔
 	{
 		num[9] /= 2;
 	}

@@ -1,6 +1,7 @@
 // 1057. 토너먼트
-// 2018.10.14
-#include <iostream>
+// 분류 : 수학, 시뮬레이션
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 

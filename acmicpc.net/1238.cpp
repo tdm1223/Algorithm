@@ -1,7 +1,8 @@
 // 1238. 파티
-// 2018.11.20
-#include <iostream>
-#include <algorithm>
+// 분류 : 플로이드 와샬 알고리즘
+// 2018.12.03
+#include<iostream>
+#include<algorithm>
 
 using namespace std;
 

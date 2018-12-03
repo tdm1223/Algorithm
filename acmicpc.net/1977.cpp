@@ -1,5 +1,5 @@
 // 1977. 완전제곱수
-// 2018.10.15
+// 2018.12.03
 #include <iostream>
 
 using namespace std;
@@ -13,8 +13,8 @@ int main()
 	}
 	int m, n;
 	cin >> m >> n;
-	int min = 0;
-	int sum = 0;
+	int min = 0; // 제곱수들 중 최솟값
+	int sum = 0; // 제곱수들의 합
 	for (int i = m; i <= n; i++) //m부터 n까지 제곱수를 찾음
 	{
 		if (a[i] == 1)

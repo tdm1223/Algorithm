@@ -1,8 +1,8 @@
 // 1037. 약수
-// 2018.10.14
-#include <iostream>
-#include <vector>
-#include <algorithm>
+// 2018.12.03
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
 using namespace std;
 
@@ -30,4 +30,5 @@ int main()
 	}
 
 	cout << ans << endl;
+	return 0;
 }

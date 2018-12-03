@@ -1,6 +1,6 @@
 // 1789. 수들의 합
-// 2018.10.14
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -10,6 +10,7 @@ int main()
 	cin >> n;
 	long long ans = 1;
 
+	// 1부터 순서대로 n에서 빼면서 0보다 작아지는 최소값을 찾음.
 	while (1)
 	{
 		if (n - ans >= 0)

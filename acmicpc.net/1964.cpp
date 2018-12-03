@@ -1,6 +1,6 @@
 // 1964. 오각형, 오각형, 오각형…
-// 2018.11.16
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 

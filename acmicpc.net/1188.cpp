@@ -1,6 +1,6 @@
 // 1188. 음식 평론가
-// 2018.10.14
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -19,6 +19,5 @@ int main(void)
 	cin >> n >> m;
 	//평론가의 수에서 소시지 수와 평론가 수의 최대공약수를 뺀다.
 	cout << m - Gcd(n, m) << endl;
-
 	return 0;
 }

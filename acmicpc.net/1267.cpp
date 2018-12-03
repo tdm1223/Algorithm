@@ -1,6 +1,6 @@
 // 1267. 핸드폰 요금
-// 2018.11.16
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -26,7 +26,7 @@ int main()
 	{
 		cout << "M " << sum2 << endl;
 	}
-	else//문제에 같은값에 대한 출력방식이 애매모호하다.
+	else//문제에서 같은값에 대한 출력방식이 애매모호하다.
 	{
 		cout << "Y M " << sum2 << endl;
 	}

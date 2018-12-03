@@ -1,7 +1,7 @@
 // 1157. 단어 공부
-// 2018.10.14
-#include <iostream>
-#include <string>
+// 2018.12.03
+#include<iostream>
+#include<string>
 
 using namespace std;
 

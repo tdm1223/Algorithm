@@ -1,6 +1,7 @@
 // 1309. 동물원
-// 2018.10.14
-#include <iostream>
+// 분류 : 다이나믹 프로그래밍
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -17,7 +18,6 @@ int main()
 		d[i] = d[i - 1] * 2 + d[i - 2];
 		d[i] %= 9901;
 	}
-
 	cout << d[n] << endl;
 	return 0;
 }

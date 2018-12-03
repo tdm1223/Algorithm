@@ -1,6 +1,6 @@
 // 1100. 하얀 칸
-// 2018.10.14
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 

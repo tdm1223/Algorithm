@@ -1,5 +1,5 @@
 // 1966. 프린터 큐
-// 2018.10.15
+// 2018.12.03
 #include<string>
 #include<queue>
 #include<iostream>
@@ -48,4 +48,5 @@ int main()
 		}
 		cout << answer << endl;
 	}
+	return 0;
 }

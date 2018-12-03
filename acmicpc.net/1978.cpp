@@ -1,6 +1,6 @@
 // 1978. 소수 찾기
-// 2018.10.15
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -39,7 +39,6 @@ int main()
 			count++;
 		}
 	}
-
 	cout << count << endl;
 	return 0;
 }

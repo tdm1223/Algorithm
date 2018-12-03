@@ -131,7 +131,7 @@
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [cpp](acmicpc.net/3047.cpp)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [cpp](acmicpc.net/2751.cpp)  |
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
-|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |      |                                                                  |                              |
+|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
 
 Dynamic Programming
 -------------------

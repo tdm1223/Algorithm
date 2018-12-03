@@ -1,8 +1,7 @@
 // 1952. 달팽이2
-// 2017.11.07
+// 2017.12.03
 #include<iostream>
-#include<string>
-#include<map>
+
 using namespace std;
 
 //방향은 오른쪽 -> 아래 -> 왼쪽 -> 위 순으로만 진행한다.
@@ -29,11 +28,10 @@ int main()
 		int xx = x + dx[dir];
 		int yy = y + dy[dir];
 
-    //기저 사례
 		if (visit[xx][yy] == 1 || xx < 0 || yy < 0 || xx >= m || yy >= n)
 		{
 			dir = (dir + 1) % 4;
-      //올바른 방향으로 이동 값 다시 갱신
+			// 올바른 방향으로 이동 값 다시 갱신
 			xx = x + dx[dir];
 			yy = y + dy[dir];
 			count++;

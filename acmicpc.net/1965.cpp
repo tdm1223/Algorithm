@@ -1,6 +1,6 @@
 // 1965. 상자넣기
-// 2018.10.15
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -30,7 +30,6 @@ int main()
 			}
 		}
 	}
-
 	cout << max+1 << endl;
 	return 0;
 }

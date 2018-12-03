@@ -1,6 +1,6 @@
 // 1773. 폭죽쇼
-// 2018.10.14
-#include <iostream>
+// 2018.12.03
+#include<iostream>
 
 using namespace std;
 
@@ -15,7 +15,7 @@ int main()
 		n--;
 		int k;
 		cin >> k;
-		for (int i = k; i <= c; i += k) //c보다 작을때와 k의 배수일때 폭죽이 터짐.
+		for (int i = k; i <= c; i += k) //c보다 작고 k의 배수일때 폭죽이 터짐.
 		{
 			time[i] = 1;
 		}
@@ -29,7 +29,6 @@ int main()
 			count++;
 		}
 	}
-
 	cout << count << endl;
 	return 0;
 }
