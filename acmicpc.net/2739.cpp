@@ -1,6 +1,6 @@
 // 2739. 구구단
-// 2018.10.28
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
@@ -8,6 +8,7 @@ int main()
 {
 	int n;
 	cin >> n;
+	// n단 출력
 	for (int i = 1; i < 10; i++)
 	{
 		cout << n << " * " << i << " = " << n * i << endl;

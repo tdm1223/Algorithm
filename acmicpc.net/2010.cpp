@@ -1,7 +1,7 @@
 // 2010. 플러그
-// 2018.10.15
-#include <iostream>
-#include <vector>
+// 2018.12.08
+#include<iostream>
+#include<vector>
 
 using namespace std;
 

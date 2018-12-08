@@ -1,18 +1,17 @@
 // 2563. 색종이
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
 int a[101][101];
-
 int main()
 {
 	int n, x, y, ans = 0;
 	cin >> n;
 	while (n--)
 	{
-		//색종이가 덮는 부분을 1로 표시
+		// 전체 영역에서 색종이가 덮는 부분을 1로 표시
 		cin >> x >> y;
 		for (int j = y; j < y + 10; j++)
 		{
@@ -23,7 +22,7 @@ int main()
 		}
 	}
 
-	//전체 영역에서 1로 표시된 부분의 합을 구함.
+	// 전체 영역에서 1로 표시된 부분의 합을 구함.
 	for (int i = 1; i <= 100; i++)
 	{
 		for (int j = 1; j <= 100; j++)
@@ -34,7 +33,6 @@ int main()
 			}
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

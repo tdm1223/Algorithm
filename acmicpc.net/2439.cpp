@@ -1,6 +1,6 @@
 // 2439. 별찍기 - 2
-// 2018.10.28
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 

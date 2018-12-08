@@ -1,6 +1,7 @@
 // 2448. 별찍기 - 11
-// 2018.10.29
+// 2018.12.08
 #include<iostream>
+
 using namespace std;
 
 char arr[3072][6144];
@@ -23,6 +24,7 @@ void printStar(int n, int x, int y)//n은 삼각형의 높이, 삼각형의 위 
 	printStar(n / 2, x - (n / 2), y + (n / 2)); // 좌
 	printStar(n / 2, x + (n / 2), y + (n / 2)); // 우
 }
+
 int main()
 {
 	int n;
@@ -43,6 +45,7 @@ int main()
 		}
 	}
 
+	// 출력
 	printStar(n, n - 1, 0);
 
 	for (int i = 0; i < n; i++)

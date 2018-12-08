@@ -1,6 +1,6 @@
 // 2884. 알람 시계
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
@@ -8,7 +8,6 @@ int main()
 {
 	int H, M;
 	cin >> H >> M;
-
 	M -= 45;
 	if (M < 0)
 	{

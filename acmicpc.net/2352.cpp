@@ -1,9 +1,10 @@
 // 2352. 반도체 설계
 // 분류 : LIS, 그리디 알고리즘, Dynamic Programming
-// 2018.11.25
+// 2018.12.08
 #include<iostream>
 #include<algorithm>
 #include<vector>
+
 using namespace std;
 
 int a[40001];

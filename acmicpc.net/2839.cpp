@@ -1,6 +1,6 @@
 // 2839. 설탕 배달
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
@@ -20,13 +20,11 @@ int main()
 			ans = count1 + count2;
 			break;
 		}
-
 		if (n < 0)//n킬로 그램을 만들 수 없는 경우
 		{
 			ans = -1;
 			break;
 		}
-
 		n -= 3;
 		count1++;
 	}

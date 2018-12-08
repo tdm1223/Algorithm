@@ -1,6 +1,6 @@
 // 2577. 숫자의 개수
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
@@ -11,8 +11,7 @@ int main()
 	cin >> a >> b >> c;
 	int result = 1;
 	result = a * b * c;
-
-	while (1)//일의 자릿수를 추출하여 해당하는 값의 배열값 +1
+	while (1)// 일의 자릿수를 추출하여 해당하는 값의 배열값 +1
 	{
 		int res = result % 10;
 		ans[res]++;

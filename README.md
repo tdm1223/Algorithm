@@ -53,7 +53,9 @@
 |  79  |       [잠수함식별](https://www.acmicpc.net/problem/2671)        | [cpp](acmicpc.net/2671.cpp)  |  80  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         | [cpp](acmicpc.net/1004.cpp)  |
 |  81  |         [Contact](https://www.acmicpc.net/problem/1013)         | [cpp](acmicpc.net/1013.cpp)  |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    | [cpp](acmicpc.net/5612.cpp)  |
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       | [cpp](acmicpc.net/5212.cpp)  |  84  |          [서버](https://www.acmicpc.net/problem/10409)           | [cpp](acmicpc.net/10409.cpp) |
-|  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      | [cpp](acmicpc.net/3023.cpp)  |      |                                                                  |                              |
+|  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      | [cpp](acmicpc.net/3023.cpp)  |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      | [cpp](acmicpc.net/10539.cpp) |
+|  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      | [cpp](acmicpc.net/3054.cpp)  |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         | [cpp](acmicpc.net/5575.cpp)  |
+|  89  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       | [cpp](acmicpc.net/10709.cpp) |      |                                                                  |                              |
 
 시뮬레이션
 ----------

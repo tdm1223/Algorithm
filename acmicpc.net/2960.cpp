@@ -1,13 +1,13 @@
 // 2960. 에라토스테네스의 체
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
 int arr[1001];
 int main()
 {
-	int n, k; 
+	int n, k;
 	int count = 0;
 	int ans = 0;
 	cin >> n >> k;

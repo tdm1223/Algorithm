@@ -1,7 +1,8 @@
 // 2805. 나무 자르기
-// 2018.10.15
-#include <iostream>
-#include <vector>
+// 분류 : 이분탐색
+// 2018.12.08
+#include<iostream>
+#include<vector>
 
 using namespace std;
 
@@ -21,7 +22,6 @@ int main()
 	}
 	int left = 0;
 	int right = max;
-
 	while (left <= right)
 	{
 		long long mid = (left + right) / 2;

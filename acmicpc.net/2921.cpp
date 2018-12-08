@@ -1,6 +1,6 @@
 // 2921. 도미노
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 
@@ -11,6 +11,7 @@ int main()
 	cin >> n;
 	d[1] = 3;
 	d[2] = 12;
+	
 	for (int i = 3; i <= n; i++)
 	{
 		int sum = 0;

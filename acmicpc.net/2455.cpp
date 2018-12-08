@@ -1,6 +1,6 @@
 // 2455. 지능형 기차
-// 2018.10.15
-#include <iostream>
+// 2018.12.08
+#include<iostream>
 
 using namespace std;
 

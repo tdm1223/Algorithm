@@ -1,8 +1,9 @@
 // 2504. 괄호의 값
-// 2018.10.15
+// 2018.12.08
 #include<iostream>
 #include<stack>
 #include<string>
+
 using namespace std;
 
 int main()
@@ -11,9 +12,10 @@ int main()
 	cin >> s;
 	stack<char> stack;
 	int sum = 0;
-	int mul = 1;//가중치
+	int mul = 1; // 가중치
 	for (int i = 0; i < s.size(); i++)
 	{
+		// 여는 괄호 처리
 		if (s[i] == '(')
 		{
 			mul *= 2;
@@ -58,7 +60,6 @@ int main()
 	{
 		sum = 0;
 	}
-
 	cout << sum << endl;
 	return 0;
 }
