@@ -1,7 +1,7 @@
 // 5622. 다이얼
-// 2018.10.15
-#include <iostream>
-#include <string>
+// 2018.12.16
+#include<iostream>
+#include<string>
 
 using namespace std;
 
@@ -11,6 +11,7 @@ int main()
 	cin >> a;
 	int ans = 0;
 
+	// 문자에 따라 ans에 값 추가
 	for (int i = 0; i < a.size(); i++)
 	{
 		if (('A' <= a[i] && a[i] <= 'C'))

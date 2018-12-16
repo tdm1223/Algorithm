@@ -1,13 +1,14 @@
 // 4948. 베르트랑 공준
-// 2018.10.15
-#include <iostream>
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 
 int arr[246913];
 int main()
 {
-	//소수 검출 arr[i]=0이면 i는 소수
+	// 소수 검출 arr[i]=0이면 i는 소수
+	// 최대 범위인 246912까지 계산
 	for (int i = 2; i <= 246912; i++)
 	{
 		for (int j = i + i; j <= 246912; j += i)

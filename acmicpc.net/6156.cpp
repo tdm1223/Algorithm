@@ -1,6 +1,7 @@
 // 6156. Cow Contest
-// 2018.11.30
-#include <iostream>
+// 분류 : 플로이드 와샬 알고리즘
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 

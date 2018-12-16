@@ -1,6 +1,6 @@
 // 4504. 배수 찾기
-// 2018.11.16
-#include <iostream>
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 

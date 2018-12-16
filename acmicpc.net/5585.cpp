@@ -1,6 +1,6 @@
 // 5585. 거스름돈
-// 2018.10.15
-#include <iostream>
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 
@@ -12,6 +12,7 @@ int main()
 	int exchange = 1000 - n;
 	int count = 0;
 
+	// 잔돈이 0보다 클때 가치가 큰 돈부터 계산
 	while (exchange > 0)
 	{
 		if (exchange >= 500) //500엔

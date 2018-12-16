@@ -1,14 +1,14 @@
 // 4673. 셀프 넘버
-// 2018.10.23
-#include <iostream>
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 
 int d[10001];
-//셀프넘버 판별 함수
+// 셀프넘버 판별 함수
 int CheckSelfNumber(int n)
 {
-	int sum = n;    //자기 자신을 먼저 더해주고
+	int sum = n; // 자기 자신을 먼저 더해주고
 	while (1)
 	{
 		// 각 자리수의 숫자를 더해야하므로 1의 자리를 계속 더해준다.
@@ -24,6 +24,7 @@ int CheckSelfNumber(int n)
 
 int main()
 {
+	// 범위가 1부터 10000
 	for (int i = 1; i <= 10000; i++)
 	{
 		d[CheckSelfNumber(i)] = 1;

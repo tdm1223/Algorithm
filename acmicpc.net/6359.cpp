@@ -1,6 +1,7 @@
 // 6359. 만취한 상범
-// 2018.10.15
-#include <iostream>
+// 분류 : 다이나믹 프로그래밍
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 

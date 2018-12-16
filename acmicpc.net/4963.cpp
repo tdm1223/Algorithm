@@ -1,6 +1,6 @@
 // 4963. 섬의 개수
-// 2018.10.25
-#include <iostream>
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 
@@ -54,6 +54,7 @@ int main()
 			}
 		}
 
+		// 섬의 개수를 구함
 		int count = 0;
 		for (int i = 0; i < h; i++)
 		{

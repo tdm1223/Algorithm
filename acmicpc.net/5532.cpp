@@ -1,6 +1,7 @@
 // 5532. 방학 숙제
-// 2018.10.15
-#include <iostream>
+// 분류 : 시뮬레이션, 구현
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 

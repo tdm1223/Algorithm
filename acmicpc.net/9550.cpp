@@ -1,6 +1,7 @@
 // 9550. 아이들은 사탕을 좋아해
-// 2018.10.15
-#include <iostream>
+// 분류 : 수학
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 

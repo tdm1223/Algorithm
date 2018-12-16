@@ -1,5 +1,5 @@
 // 6603. 로또
-// 2018.10.23
+// 2018.12.16
 #include<iostream>
 
 using namespace std;
@@ -8,7 +8,8 @@ int lotto[13];
 int ans[13];
 int k;
 
-void dfs(int start, int depth)
+// DFS로 재귀의 과정을 통해 수열을 찾음
+void DFS(int start, int depth)
 {
 	if (depth == 6)
 	{                    //탈출조건
@@ -22,7 +23,7 @@ void dfs(int start, int depth)
 	for (int i = start; i < k; i++)//lotto배열 0부터 k-1까지 탐색함
 	{
 		ans[depth] = lotto[i];    //depth는 깊이 -> 0~5번째 깊이까지 재귀를통해 새로 탐색한 숫자를 넣음.
-		dfs(i + 1, depth + 1);  //재귀 들어가는 부분 , 하나의 깊이를 탐색 후 저장했으니 다음 함수호출할때는 깊이+1을 해줘야함.
+		DFS(i + 1, depth + 1);  //재귀 들어가는 부분 , 하나의 깊이를 탐색 후 저장했으니 다음 함수호출할때는 깊이+1을 해줘야함.
 	}
 }
 
@@ -40,9 +41,9 @@ int main()
 			cin >> lotto[i];
 		}
 
-		dfs(0, 0);
+		DFS(0, 0);
 		cout << '\n';
 	}
-  
+
 	return 0;
 }

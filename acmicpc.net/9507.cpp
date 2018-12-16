@@ -1,6 +1,6 @@
 // 9507. Generations of Tribbles
-// 2018.10.15
-#include <iostream>
+// 2018.12.16
+#include<iostream>
 
 using namespace std;
 

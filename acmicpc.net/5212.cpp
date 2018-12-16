@@ -1,9 +1,10 @@
 // 5212. 지구 온난화
 // 분류 : 구현
-// 2018.11.24
+// 2018.12.16
 #include<iostream>
 #include<string>
 #include<algorithm>
+
 using namespace std;
 
 char map[11][11];
