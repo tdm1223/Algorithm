@@ -1,14 +1,13 @@
-// 파일 합치기
-// 2018.10.26
+// 11066. 파일 합치기
+// 2018.12.20
 #include<algorithm>
 #include<iostream>
 
 using namespace std;
 
 int sum[501];
-int d[501][501];//d[i][j] : i번째 장부터 j번째 장까지 합치는데 드는 비용의 최솟값
+int d[501][501]; // d[i][j] : i번째 장부터 j번째 장까지 합치는데 드는 비용의 최솟값
 int a[501];
-
 int main()
 {
 	int t, k;

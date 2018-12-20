@@ -1,15 +1,16 @@
 // 11051. 이항계수 2
-// 2018.10.15
-#include <iostream>
+// 2018.12.20
+#include<iostream>
 
 using namespace std;
 
-int d[1001][1001];  //d[n][k] : nCk를 10007로 나눈 나머지
+int d[1001][1001];  // d[n][k] : nCk를 10007로 나눈 나머지
 int main()
 {
 	int n, k;
 	cin >> n >> k;
 
+	//1C0 = 1, 1C1 = 1
 	d[1][0] = 1;
 	d[1][1] = 1;
 	for (int i = 2; i <= n; i++)

@@ -1,13 +1,12 @@
 // 11055. 가장 큰 증가 부분 수열
-// 2018.10.15
+// 2018.12.20
 #include<iostream>
 #include<algorithm>
 
 using namespace std;
 
-
-int a[1001];
-int d[1001]; //d[i] : i번째 항까지 가장 큰 증가 부분 수열의 합
+int a[1001]; // 수열이 저장되는 배열
+int d[1001]; // d[i] : i번째 항까지 가장 큰 증가 부분 수열의 합
 int main()
 {
 	int n;
@@ -30,7 +29,6 @@ int main()
 		}
 		ans = max(ans, d[i]);
 	}
-
 	cout << ans << endl;
 	return 0;
 }

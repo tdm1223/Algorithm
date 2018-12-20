@@ -1,9 +1,10 @@
 // 14501. 퇴사
-// 2018.10.16
+// 2018.12.20
 #include<iostream>
 #include<algorithm>
 #include<vector>
 #include<string>
+
 using namespace std;
 
 int t[16];

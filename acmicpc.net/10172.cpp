@@ -1,11 +1,12 @@
 // 10172. 개
-// 2018.10.28
-#include <iostream>
+// 2018.12.20
+#include<iostream>
 
 using namespace std;
 
 int main()
 {
+	// 문제에서 주어진대로 출력하기
 	char a = '"';
 	cout << "|\\_/|" << '\n';
 	cout << "|q p|   /}" << '\n';

@@ -1,6 +1,7 @@
 // 10159. 저울
-// 2018.11.20
-#include <iostream>
+// 분류 : 플로이드 와샬 알고리즘
+// 2018.12.20
+#include<iostream>
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 // 10797. 10부제
-// 2018.10.15
-#include <iostream>
+// 2018.12.20
+#include<iostream>
 
 using namespace std;
 
@@ -19,7 +19,6 @@ int main()
 			count++;
 		}
 	}
-
 	cout << count << endl;
 	return 0;
 }
