@@ -55,7 +55,8 @@
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       | [cpp](acmicpc.net/5212.cpp)  |  84  |          [서버](https://www.acmicpc.net/problem/10409)           | [cpp](acmicpc.net/10409.cpp) |
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      | [cpp](acmicpc.net/3023.cpp)  |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      | [cpp](acmicpc.net/10539.cpp) |
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      | [cpp](acmicpc.net/3054.cpp)  |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         | [cpp](acmicpc.net/5575.cpp)  |
-|  89  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       | [cpp](acmicpc.net/10709.cpp) |      |                                                                  |                              |
+|  89  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       | [cpp](acmicpc.net/10709.cpp) |  90  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     | [cpp](acmicpc.net/10708.cpp) |
+|  91  |          [POT](https://www.acmicpc.net/problem/11772)           | [cpp](acmicpc.net/11772.cpp) |      |                                                                  |                              |
 
 시뮬레이션
 ----------
@@ -167,6 +168,7 @@ Dynamic Programming
 |  49  |         [파일 합치기](https://www.acmicpc.net/problem/11066)         | [cpp](acmicpc.net/11066.cpp) |  50  |          [선물 전달](https://www.acmicpc.net/problem/1947)          | [cpp](acmicpc.net/1947.cpp)  |
 |  51  |        [헤일스톤 수열](https://www.acmicpc.net/problem/3943)         | [cpp](acmicpc.net/3943.cpp)  |  52  |          [타일 코드](https://www.acmicpc.net/problem/1720)          | [cpp](acmicpc.net/1720.cpp)  |
 |  53  |          [극장 좌석](https://www.acmicpc.net/problem/2302)           | [cpp](acmicpc.net/2302.cpp)  |  54  |       [격자상의 경로](https://www.acmicpc.net/problem/10164)        | [cpp](acmicpc.net/10164.cpp) |
+|  55  |            [조짜기](https://www.acmicpc.net/problem/2229)            | [cpp](acmicpc.net/2229.cpp)  |      |                                                                     |                              |
 
 BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 -----------------------------------------
