@@ -1,5 +1,5 @@
 // 7569. 토마토
-// 2018.12.16
+// 2018.12.24
 #include<iostream>
 #include<queue>
 
@@ -82,11 +82,11 @@ int BFS()
 int main()
 {
 	cin >> m >> n >> h;
-	for (int i = 0; i < h; ++i)
+	for (int i = 0; i < h; i++)
 	{
-		for (int j = 0; j < n; ++j)
+		for (int j = 0; j < n; j++)
 		{
-			for (int k = 0; k < m; ++k)
+			for (int k = 0; k < m; k++)
 			{
 				cin >> tomato[i][j][k];
 				// 익지않은 토마토의 개수를 저장
