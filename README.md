@@ -6,6 +6,15 @@
 백준 온라인 저지
 ================
 
+입문용
+------
+
+| 번호 | 문제                                                        | 코드                        | 번호 | 문제                                                | 코드                        |
+|:----:|:-----------------------------------------------------------:|:---------------------------:|:----:|:---------------------------------------------------:|:---------------------------:|
+|  1   | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | [cpp](acmicpc.net/2845.cpp) |  2   |   [이진수](https://www.acmicpc.net/problem/3460)    | [cpp](acmicpc.net/3460.cpp) |
+|  3   | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679)  | [cpp](acmicpc.net/6679.cpp) |  4   | [디지털 루트](https://www.acmicpc.net/problem/6378) | [cpp](acmicpc.net/6378.cpp) |
+|  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [cpp](acmicpc.net/6321.cpp) |      |                                                     |                             |
+
 구현
 ----
 
@@ -203,6 +212,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  33  |       [궁금한 민호](https://www.acmicpc.net/problem/1507)        | [cpp](acmicpc.net/1507.cpp)  |  34  |   [네트워크 연결](https://www.acmicpc.net/problem/1922)   | [cpp](acmicpc.net/1922.cpp)  |
 |  35  |     [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)     | [cpp](acmicpc.net/1197.cpp)  |  36  |       [DSLR](https://www.acmicpc.net/problem/9019)        | [cpp](acmicpc.net/9019.cpp)  |
 |  37  |         [연구소](https://www.acmicpc.net/problem/14502)          | [cpp](acmicpc.net/14502.cpp) |  38  |      [토마토](https://www.acmicpc.net/problem/7569)       | [cpp](acmicpc.net/7569.cpp)  |
+|  39  |        [아기상어](https://www.acmicpc.net/problem/16236)         | [cpp](acmicpc.net/16236.cpp) |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
