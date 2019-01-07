@@ -128,6 +128,7 @@
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [cpp](acmicpc.net/1500.cpp)  |
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
+|  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -186,7 +187,7 @@ Dynamic Programming
 |  49  |         [파일 합치기](https://www.acmicpc.net/problem/11066)         | [cpp](acmicpc.net/11066.cpp) |  50  |          [선물 전달](https://www.acmicpc.net/problem/1947)          | [cpp](acmicpc.net/1947.cpp)  |
 |  51  |        [헤일스톤 수열](https://www.acmicpc.net/problem/3943)         | [cpp](acmicpc.net/3943.cpp)  |  52  |          [타일 코드](https://www.acmicpc.net/problem/1720)          | [cpp](acmicpc.net/1720.cpp)  |
 |  53  |          [극장 좌석](https://www.acmicpc.net/problem/2302)           | [cpp](acmicpc.net/2302.cpp)  |  54  |       [격자상의 경로](https://www.acmicpc.net/problem/10164)        | [cpp](acmicpc.net/10164.cpp) |
-|  55  |            [조짜기](https://www.acmicpc.net/problem/2229)            | [cpp](acmicpc.net/2229.cpp)  |      |                                                                     |                              |
+|  55  |            [조짜기](https://www.acmicpc.net/problem/2229)            | [cpp](acmicpc.net/2229.cpp)  |  56  |        [평범한 배낭](https://www.acmicpc.net/problem/12865)         | [cpp](acmicpc.net/12865.cpp) |
 
 BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 -----------------------------------------
