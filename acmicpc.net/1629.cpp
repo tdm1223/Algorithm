@@ -1,6 +1,6 @@
 // 1629. 곱셈
 // 2019.01.07
-#include <iostream>
+#include<iostream>
 
 using namespace std;
 
