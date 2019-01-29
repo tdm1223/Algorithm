@@ -64,7 +64,8 @@
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       | [cpp](acmicpc.net/5212.cpp)  |  84  |          [서버](https://www.acmicpc.net/problem/10409)           | [cpp](acmicpc.net/10409.cpp) |
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      | [cpp](acmicpc.net/3023.cpp)  |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      | [cpp](acmicpc.net/10539.cpp) |
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      | [cpp](acmicpc.net/3054.cpp)  |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         | [cpp](acmicpc.net/5575.cpp)  |
-|  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       | [cpp](acmicpc.net/13417.cpp) |      |                                                                  |                              |
+|  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       | [cpp](acmicpc.net/13417.cpp) |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        | [cpp](acmicpc.net/15953.cpp) |
+|  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       | [cpp](acmicpc.net/12813.cpp) |      |                                                                  |                              |
 
 시뮬레이션
 ----------
@@ -133,6 +134,7 @@
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
 |  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
+|  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |      |                                                                 |                              |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -158,6 +160,7 @@
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
+|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |      |                                                                  |                              |
 
 Dynamic Programming
 -------------------
