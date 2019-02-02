@@ -1,5 +1,5 @@
 // 6593. 상범 빌딩
-// 2018.12.24
+// 2019.02.02
 #include<iostream>
 #include<queue>
 
@@ -10,13 +10,13 @@ int m, n, h;
 int dx[6] = { 1,-1,0,0,0,0 };
 int dy[6] = { 0,0,1,-1,0,0 };
 int dz[6] = { 0,0,0,0,1,-1 };
-struct position
+struct position // 위치를 표현하는 구조체
 {
 	int x, y, z;
 };
 
-position startPos;
-position endPos;
+position startPos; // 시작점
+position endPos; // 끝점
 int main()
 {
 	while (1)
@@ -68,13 +68,8 @@ int main()
 				int xx = x + dx[j];
 				int yy = y + dy[j];
 				int zz = z + dz[j];
-
-				// 무시 조건 : 범위를 벗어난 칸, 지나갈수 없는 칸, 이미 방문기록이 있는 칸
-				if (xx < 0 || xx >= n ||
-					yy < 0 || yy >= m ||
-					zz < 0 || zz >= h ||
-					map[xx][yy][zz] == '#'||
-					visit[xx][yy][zz])
+				// 범위를 벗어난 칸, 지나갈수 없는 칸, 이미 방문기록이 있는 칸은 무시
+				if (xx < 0 || xx >= n || yy < 0 || yy >= m || zz < 0 || zz >= h || map[xx][yy][zz] == '#' || visit[xx][yy][zz])
 				{
 					continue;
 				}
@@ -93,7 +88,6 @@ int main()
 		{
 			cout << "Trapped!" << endl;
 		}
-
 	}
 	return 0;
 }

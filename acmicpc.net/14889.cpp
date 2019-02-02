@@ -1,5 +1,5 @@
 // 14889. 스타트와 링크
-// 2018.12.31
+// 2019.02.02
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -35,9 +35,9 @@ void StartLink(int player, int cnt)
 		// 능력치 차이 구하기
 		int startSum = 0;
 		int linkSum = 0;
-		for (int i = 0; i < n/2; i++)
+		for (int i = 0; i < n / 2; i++)
 		{
-			for (int j = i + 1; j < n/2; j++)
+			for (int j = i + 1; j < n / 2; j++)
 			{
 				int sx = link[i];
 				int sy = link[j];

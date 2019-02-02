@@ -134,7 +134,7 @@
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
 |  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
-|  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |      |                                                                 |                              |
+|  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [cpp](acmicpc.net/2903.cpp)  |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
