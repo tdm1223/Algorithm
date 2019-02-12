@@ -65,7 +65,7 @@
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      | [cpp](acmicpc.net/3023.cpp)  |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      | [cpp](acmicpc.net/10539.cpp) |
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      | [cpp](acmicpc.net/3054.cpp)  |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         | [cpp](acmicpc.net/5575.cpp)  |
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       | [cpp](acmicpc.net/13417.cpp) |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        | [cpp](acmicpc.net/15953.cpp) |
-|  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       | [cpp](acmicpc.net/12813.cpp) |      |                                                                  |                              |
+|  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       | [cpp](acmicpc.net/12813.cpp) |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          | [cpp](acmicpc.net/1550.cpp)  |
 
 시뮬레이션
 ----------
@@ -95,6 +95,7 @@
 |  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [cpp](acmicpc.net/11718.cpp) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [cpp](acmicpc.net/11720.cpp) |
 |  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [cpp](acmicpc.net/11721.cpp) |  12  |    [??!](https://www.acmicpc.net/problem/10926)     | [cpp](acmicpc.net/10926.cpp) |
 |  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [cpp](acmicpc.net/11719.cpp) |  14  | [별찍기 - 11](https://www.acmicpc.net/problem/2448) | [cpp](acmicpc.net/2448.cpp)  |
+|  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [cpp](acmicpc.net/10171.cpp) |      |                                                     |                              |
 
 브루트포스, 백트래킹
 --------------------
