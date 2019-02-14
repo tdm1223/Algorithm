@@ -66,6 +66,7 @@
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      | [cpp](acmicpc.net/3054.cpp)  |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         | [cpp](acmicpc.net/5575.cpp)  |
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       | [cpp](acmicpc.net/13417.cpp) |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        | [cpp](acmicpc.net/15953.cpp) |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       | [cpp](acmicpc.net/12813.cpp) |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          | [cpp](acmicpc.net/1550.cpp)  |
+|  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         | [cpp](acmicpc.net/1992.cpp)  |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        | [cpp](acmicpc.net/1780.cpp)  |
 
 시뮬레이션
 ----------
@@ -238,6 +239,7 @@ Greedy Algorithm
 |  13  |     [저울](https://www.acmicpc.net/problem/2437)     | [cpp](acmicpc.net/2437.cpp)  |  14  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [cpp](acmicpc.net/1138.cpp)  |
 |  15  |    [뒤집기](https://www.acmicpc.net/problem/1439)    | [cpp](acmicpc.net/1439.cpp)  |  16  |      [DNA](https://www.acmicpc.net/problem/1969)      | [cpp](acmicpc.net/1969.cpp)  |
 |  17  |    [문자열](https://www.acmicpc.net/problem/1120)    | [cpp](acmicpc.net/1120.cpp)  |  18  |  [크게 만들기](https://www.acmicpc.net/problem/2812)  | [cpp](acmicpc.net/2812.cpp)  |
+|  19  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [cpp](acmicpc.net/1343.cpp)  |      |                                                       |                              |
 
 자료구조
 --------
