@@ -109,7 +109,7 @@
 |  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [cpp](acmicpc.net/2231.cpp)  |  8   | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [cpp](acmicpc.net/14889.cpp) |
 |  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [cpp](acmicpc.net/10448.cpp) |  10  |    [N-Queen](https://www.acmicpc.net/problem/9663)     | [cpp](acmicpc.net/9663.cpp)  |
 |  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [cpp](acmicpc.net/15654.cpp) |  12  |   [N과 M (6)](https://www.acmicpc.net/problem/15655)   | [cpp](acmicpc.net/15655.cpp) |
-|  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [cpp](acmicpc.net/2309.cpp)  |      |                                                        |                              |
+|  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [cpp](acmicpc.net/2309.cpp)  |  14  |  [암호 만들기](https://www.acmicpc.net/problem/1759)   | [cpp](acmicpc.net/1759.cpp)  |
 
 수학
 ----
@@ -223,7 +223,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  35  |     [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)     | [cpp](acmicpc.net/1197.cpp)  |  36  |       [DSLR](https://www.acmicpc.net/problem/9019)        | [cpp](acmicpc.net/9019.cpp)  |
 |  37  |         [연구소](https://www.acmicpc.net/problem/14502)          | [cpp](acmicpc.net/14502.cpp) |  38  |      [토마토](https://www.acmicpc.net/problem/7569)       | [cpp](acmicpc.net/7569.cpp)  |
 |  39  |       [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [cpp](acmicpc.net/13549.cpp) |  40  |     [아기상어](https://www.acmicpc.net/problem/16236)     | [cpp](acmicpc.net/16236.cpp) |
-|  41  |        [상범 빌딩](https://www.acmicpc.net/problem/6593)         | [cpp](acmicpc.net/6593.cpp)  |      |                                                           |                              |
+|  41  |        [상범 빌딩](https://www.acmicpc.net/problem/6593)         | [cpp](acmicpc.net/6593.cpp)  |  42  |      [알파벳](https://www.acmicpc.net/problem/1987)       | [cpp](acmicpc.net/1987.cpp)  |
 
 Greedy Algorithm
 ----------------
