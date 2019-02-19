@@ -137,6 +137,7 @@
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
 |  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
 |  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [cpp](acmicpc.net/2903.cpp)  |
+|  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [cpp](acmicpc.net/10972.cpp) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [cpp](acmicpc.net/10973.cpp) |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -224,6 +225,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  37  |         [연구소](https://www.acmicpc.net/problem/14502)          | [cpp](acmicpc.net/14502.cpp) |  38  |      [토마토](https://www.acmicpc.net/problem/7569)       | [cpp](acmicpc.net/7569.cpp)  |
 |  39  |       [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [cpp](acmicpc.net/13549.cpp) |  40  |     [아기상어](https://www.acmicpc.net/problem/16236)     | [cpp](acmicpc.net/16236.cpp) |
 |  41  |        [상범 빌딩](https://www.acmicpc.net/problem/6593)         | [cpp](acmicpc.net/6593.cpp)  |  42  |      [알파벳](https://www.acmicpc.net/problem/1987)       | [cpp](acmicpc.net/1987.cpp)  |
+|  43  |        [소수 경로](https://www.acmicpc.net/problem/1963)         | [cpp](acmicpc.net/1963.cpp)  |  44  |     [알고스팟](https://www.acmicpc.net/problem/1261)      | [cpp](acmicpc.net/1261.cpp)  |
 
 Greedy Algorithm
 ----------------
