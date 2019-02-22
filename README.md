@@ -138,6 +138,7 @@
 |  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
 |  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [cpp](acmicpc.net/2903.cpp)  |
 |  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [cpp](acmicpc.net/10972.cpp) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [cpp](acmicpc.net/10973.cpp) |
+|  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [cpp](acmicpc.net/10974.cpp) |      |                                                                 |                              |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
