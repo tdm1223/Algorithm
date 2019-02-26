@@ -67,6 +67,7 @@
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       | [cpp](acmicpc.net/13417.cpp) |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        | [cpp](acmicpc.net/15953.cpp) |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       | [cpp](acmicpc.net/12813.cpp) |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          | [cpp](acmicpc.net/1550.cpp)  |
 |  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         | [cpp](acmicpc.net/1992.cpp)  |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        | [cpp](acmicpc.net/1780.cpp)  |
+|  93  |         [검증수](https://www.acmicpc.net/problem/2475)          | [cpp](acmicpc.net/2475.cpp)  |      |                                                                  |                              |
 
 시뮬레이션
 ----------
@@ -101,16 +102,16 @@
 브루트포스, 백트래킹
 --------------------
 
-| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                   | 코드                         |
-|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:------------------------------------------------------:|:----------------------------:|
-|  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [cpp](acmicpc.net/15649.cpp) |  2   |   [N과 M (2)](https://www.acmicpc.net/problem/15650)   | [cpp](acmicpc.net/15650.cpp) |
-|  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [cpp](acmicpc.net/7568.cpp)  |  4   | [부분집합의 합](https://www.acmicpc.net/problem/1182)  | [cpp](acmicpc.net/1182.cpp)  |
-|  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [cpp](acmicpc.net/1051.cpp)  |  6   | [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)  | [cpp](acmicpc.net/1748.cpp)  |
-|  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [cpp](acmicpc.net/2231.cpp)  |  8   | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [cpp](acmicpc.net/14889.cpp) |
-|  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [cpp](acmicpc.net/10448.cpp) |  10  |    [N-Queen](https://www.acmicpc.net/problem/9663)     | [cpp](acmicpc.net/9663.cpp)  |
-|  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [cpp](acmicpc.net/15654.cpp) |  12  |   [N과 M (6)](https://www.acmicpc.net/problem/15655)   | [cpp](acmicpc.net/15655.cpp) |
-|  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [cpp](acmicpc.net/2309.cpp)  |  14  |  [암호 만들기](https://www.acmicpc.net/problem/1759)   | [cpp](acmicpc.net/1759.cpp)  |
-|  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [cpp](acmicpc.net/14500.cpp) |      |                                                        |                              |
+| 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
+|:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
+|  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [cpp](acmicpc.net/15649.cpp) |  2   |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | [cpp](acmicpc.net/15650.cpp) |
+|  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [cpp](acmicpc.net/7568.cpp)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [cpp](acmicpc.net/1182.cpp)  |
+|  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [cpp](acmicpc.net/1051.cpp)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [cpp](acmicpc.net/1748.cpp)  |
+|  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [cpp](acmicpc.net/2231.cpp)  |  8   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [cpp](acmicpc.net/14889.cpp) |
+|  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [cpp](acmicpc.net/10448.cpp) |  10  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [cpp](acmicpc.net/9663.cpp)  |
+|  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [cpp](acmicpc.net/15654.cpp) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [cpp](acmicpc.net/15655.cpp) |
+|  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [cpp](acmicpc.net/2309.cpp)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [cpp](acmicpc.net/1759.cpp)  |
+|  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [cpp](acmicpc.net/14500.cpp) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [cpp](acmicpc.net/14888.cpp) |
 
 수학
 ----
@@ -139,7 +140,7 @@
 |  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
 |  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [cpp](acmicpc.net/2903.cpp)  |
 |  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [cpp](acmicpc.net/10972.cpp) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [cpp](acmicpc.net/10973.cpp) |
-|  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [cpp](acmicpc.net/10974.cpp) |      |                                                                 |                              |
+|  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [cpp](acmicpc.net/10974.cpp) |  46  |     [2의 제곱인가?](https://www.acmicpc.net/problem/11966)      | [cpp](acmicpc.net/11966.cpp) |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -228,6 +229,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  39  |       [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [cpp](acmicpc.net/13549.cpp) |  40  |     [아기상어](https://www.acmicpc.net/problem/16236)     | [cpp](acmicpc.net/16236.cpp) |
 |  41  |        [상범 빌딩](https://www.acmicpc.net/problem/6593)         | [cpp](acmicpc.net/6593.cpp)  |  42  |      [알파벳](https://www.acmicpc.net/problem/1987)       | [cpp](acmicpc.net/1987.cpp)  |
 |  43  |        [소수 경로](https://www.acmicpc.net/problem/1963)         | [cpp](acmicpc.net/1963.cpp)  |  44  |     [알고스팟](https://www.acmicpc.net/problem/1261)      | [cpp](acmicpc.net/1261.cpp)  |
+|  45  |          [침투](https://www.acmicpc.net/problem/13565)           | [cpp](acmicpc.net/13565.cpp) |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
