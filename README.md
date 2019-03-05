@@ -170,7 +170,7 @@
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
-|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |      |                                                                  |                              |
+|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |  40  |          [사냥꾼](https://www.acmicpc.net/problem/8983)          | [cpp](acmicpc.net/8983.cpp)  |
 
 Dynamic Programming
 -------------------
@@ -234,6 +234,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  41  |        [상범 빌딩](https://www.acmicpc.net/problem/6593)         | [cpp](acmicpc.net/6593.cpp)  |  42  |      [알파벳](https://www.acmicpc.net/problem/1987)       | [cpp](acmicpc.net/1987.cpp)  |
 |  43  |        [소수 경로](https://www.acmicpc.net/problem/1963)         | [cpp](acmicpc.net/1963.cpp)  |  44  |     [알고스팟](https://www.acmicpc.net/problem/1261)      | [cpp](acmicpc.net/1261.cpp)  |
 |  45  |          [침투](https://www.acmicpc.net/problem/13565)           | [cpp](acmicpc.net/13565.cpp) |  46  |   [효율적인 해킹](https://www.acmicpc.net/problem/1325)   | [cpp](acmicpc.net/1325.cpp)  |
+|  47  |           [그림](https://www.acmicpc.net/problem/1926)           | [cpp](acmicpc.net/1926.cpp)  |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
@@ -267,7 +268,8 @@ Greedy Algorithm
 |  17  | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [cpp](acmicpc.net/7785.cpp)  |  18  |            [카드](https://www.acmicpc.net/problem/11652)            | [cpp](acmicpc.net/11652.cpp) |
 |  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)   | [cpp](acmicpc.net/14670.cpp) |  20  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [cpp](acmicpc.net/1620.cpp)  |
 |  21  |    [식사 예절](https://www.acmicpc.net/problem/3022)     | [cpp](acmicpc.net/3022.cpp)  |  22  |           [에디터](https://www.acmicpc.net/problem/1406)            | [cpp](acmicpc.net/1406.cpp)  |
-|  21  |        [AC](https://www.acmicpc.net/problem/5430)        | [cpp](acmicpc.net/5430.cpp)  |  24  |             [덱](https://www.acmicpc.net/problem/10866)             | [cpp](acmicpc.net/10866.cpp) |
+|  23  |        [AC](https://www.acmicpc.net/problem/5430)        | [cpp](acmicpc.net/5430.cpp)  |  24  |             [덱](https://www.acmicpc.net/problem/10866)             | [cpp](acmicpc.net/10866.cpp) |
+|  25  |      [키로거](https://www.acmicpc.net/problem/5397)      | [cpp](acmicpc.net/5397.cpp)  |      |                                                                     |                              |
 
 프로그래머스
 ============
