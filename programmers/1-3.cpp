@@ -1,7 +1,7 @@
 // 같은 숫자는 싫어
-// 2018.10.29
-#include <vector>
-#include <iostream>
+// 2019.03.08
+#include<vector>
+#include<iostream>
 
 using namespace std;
 

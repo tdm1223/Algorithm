@@ -1,6 +1,6 @@
 // 직사각형 별찍기
-// 2018.10.29
-#include <iostream>
+// 2019.03.08
+#include<iostream>
 
 using namespace std;
 

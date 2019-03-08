@@ -1,7 +1,7 @@
 // 가운데 글자 가져오기
-// 2018.10.29
-#include <string>
-#include <vector>
+// 2019.03.08
+#include<string>
+#include<vector>
 
 using namespace std;
 

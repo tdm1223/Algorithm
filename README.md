@@ -23,6 +23,7 @@
 |  19  |          [영수증](https://www.acmicpc.net/problem/5565)          | [cpp](acmicpc.net/5565.cpp)  |  20  |        [점수 계산](https://www.acmicpc.net/problem/2822)         | [cpp](acmicpc.net/2822.cpp)  |
 |  21  |          [윷놀이](https://www.acmicpc.net/problem/2490)          | [cpp](acmicpc.net/2490.cpp)  |  22  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)        | [cpp](acmicpc.net/2577.cpp)  |
 |  23  |        [알람 시계](https://www.acmicpc.net/problem/2884)         | [cpp](acmicpc.net/2884.cpp)  |  24  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        | [cpp](acmicpc.net/1212.cpp)  |
+|  25  |    [치킨 두마리(...)](https://www.acmicpc.net/problem/14489)     | [cpp](acmicpc.net/14489.cpp) |      |                                                                  |                              |
 
 구현
 ----
@@ -148,7 +149,7 @@
 |  49  |      [최소 공배수](https://www.acmicpc.net/problem/13241)      | [cpp](acmicpc.net/13241.cpp) |  50  |       [평균 점수](https://www.acmicpc.net/problem/10039)        | [cpp](acmicpc.net/10039.cpp) |
 |  51  |   [내 학점을 구해줘](https://www.acmicpc.net/problem/10984)    | [cpp](acmicpc.net/10984.cpp) |  52  |        [팩토리얼](https://www.acmicpc.net/problem/10872)        | [cpp](acmicpc.net/10872.cpp) |
 |  53  |         [공약수](https://www.acmicpc.net/problem/5618)         | [cpp](acmicpc.net/5618.cpp)  |  54  |         [나머지](https://www.acmicpc.net/problem/3052)          | [cpp](acmicpc.net/3052.cpp)  |
-|  55  |         [GCD 합](https://www.acmicpc.net/problem/9613)         | [cpp](acmicpc.net/9613.cpp)  |      |                                                                 |                              |
+|  55  |         [GCD 합](https://www.acmicpc.net/problem/9613)         | [cpp](acmicpc.net/9613.cpp)  |  56  |       [소인수분해](https://www.acmicpc.net/problem/11653)       | [cpp](acmicpc.net/11653.cpp) |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
@@ -299,6 +300,7 @@ Level 1
 |  27  | [문자열 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12917) | [cpp](programmers/1-27.cpp) |  28  |     [이상한 문자 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12930)      | [cpp](programmers/1-28.cpp) |
 |  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
 |  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
+|  33  |            [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)             | [cpp](programmers/1-33.cpp) |  34  |           [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)            | [cpp](programmers/1-34.cpp) |
 
 Level 2
 -------

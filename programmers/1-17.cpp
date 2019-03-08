@@ -1,6 +1,6 @@
 // x만큼 간격이 있는 n개의 숫자
-// 2018.10.29
-#include <vector>
+// 2019.03.08
+#include<vector>
 
 using namespace std;
 

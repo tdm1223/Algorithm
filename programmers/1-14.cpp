@@ -1,6 +1,6 @@
 // 콜라츠 추측
-// 2018.10.29
-#include <vector>
+// 2019.03.08
+#include<vector>
 
 using namespace std;
 

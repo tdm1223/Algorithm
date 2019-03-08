@@ -1,6 +1,6 @@
 // 최대공약수와 최소공배수
-// 2018.10.29
-#include <vector>
+// 2019.03.08
+#include<vector>
 
 using namespace std;
 

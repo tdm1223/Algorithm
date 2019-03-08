@@ -1,6 +1,6 @@
 //자연수 뒤집어 배열로 만들기
-// 2018.10.29
-#include <vector>
+// 2019.03.08
+#include<vector>
 
 using namespace std;
 

@@ -1,5 +1,5 @@
 // 자릿수 더하기
-// 2018.10.29
+// 2019.03.08
 int solution(int n)
 {
 	int answer = 0;

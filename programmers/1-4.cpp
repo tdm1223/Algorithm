@@ -1,8 +1,8 @@
 // 나누어 떨어지는 숫자 배열
-// 2018.10.29
-#include <string>
-#include <vector>
-#include <algorithm>
+// 2019.03.08
+#include<string>
+#include<vector>
+#include<algorithm>
 
 using namespace std;
 
