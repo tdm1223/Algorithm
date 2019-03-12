@@ -240,6 +240,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  43  |        [소수 경로](https://www.acmicpc.net/problem/1963)         | [cpp](acmicpc.net/1963.cpp)  |  44  |     [알고스팟](https://www.acmicpc.net/problem/1261)      | [cpp](acmicpc.net/1261.cpp)  |
 |  45  |          [침투](https://www.acmicpc.net/problem/13565)           | [cpp](acmicpc.net/13565.cpp) |  46  |   [효율적인 해킹](https://www.acmicpc.net/problem/1325)   | [cpp](acmicpc.net/1325.cpp)  |
 |  47  |           [그림](https://www.acmicpc.net/problem/1926)           | [cpp](acmicpc.net/1926.cpp)  |  48  |       [치즈](https://www.acmicpc.net/problem/2636)        | [cpp](acmicpc.net/2636.cpp)  |
+|  49  |     [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)     | [cpp](acmicpc.net/17070.cpp) |  50  |       [탈출](https://www.acmicpc.net/problem/3055)        | [cpp](acmicpc.net/3055.cpp)  |
 
 Greedy Algorithm
 ----------------
