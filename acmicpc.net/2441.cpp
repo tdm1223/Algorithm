@@ -1,4 +1,4 @@
-// 2439. 별 찍기 - 2
+// 2441. 별 찍기 - 4
 // 2019.03.15
 #include<iostream>
 
@@ -8,13 +8,14 @@ int main()
 {
 	int n;
 	cin >> n;
-	for (int i = 1; i <= n; i++)
+	for (int i = 0; i < n; i++)
 	{
-		for (int j = n - i; j > 0; j--)
+		for (int j = 1; j < i + 1; j++)
 		{
 			cout << " ";
 		}
-		for (int j = i; j >0; j--) {
+		for (int j = i + 1; j <= n; j++)
+		{
 			cout << "*";
 		}
 		cout << endl;
