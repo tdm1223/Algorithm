@@ -65,6 +65,7 @@
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       | [cpp](acmicpc.net/11509.cpp) |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         | [cpp](acmicpc.net/1193.cpp)  |
 |  69  |          [POT](https://www.acmicpc.net/problem/11772)           | [cpp](acmicpc.net/11772.cpp) |  70  |          [네 수](https://www.acmicpc.net/problem/10824)          | [cpp](acmicpc.net/10824.cpp) |
+|  71  |     [화살표 그리기](https://www.acmicpc.net/problem/15970)      | [cpp](acmicpc.net/15970.cpp) |      |                                                                  |                              |
 
 시뮬레이션
 ----------
@@ -105,7 +106,7 @@
 |  3   |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)  | [cpp](acmicpc.net/2440.cpp)  |  4   |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)  | [cpp](acmicpc.net/2441.cpp)  |
 |  5   |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)  | [cpp](acmicpc.net/2445.cpp)  |  6   |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)  | [cpp](acmicpc.net/2443.cpp)  |
 |  7   |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  | [cpp](acmicpc.net/2444.cpp)  |  8   |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)  | [cpp](acmicpc.net/2445.cpp)  |
-|  9   |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)  | [cpp](acmicpc.net/2446.cpp)  |  10  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |                              |
+|  9   |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)  | [cpp](acmicpc.net/2446.cpp)  |  10  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  | [cpp](acmicpc.net/2447.cpp)  |
 |  11  | [별 찍기 - 11](https://www.acmicpc.net/problem/2448)  | [cpp](acmicpc.net/2448.cpp)  |  12  | [별 찍기 - 12](https://www.acmicpc.net/problem/2522)  | [cpp](acmicpc.net/2522.cpp)  |
 |  13  | [별 찍기 - 13](https://www.acmicpc.net/problem/2523)  | [cpp](acmicpc.net/2523.cpp)  |  14  | [별 찍기 - 14](https://www.acmicpc.net/problem/2556)  | [cpp](acmicpc.net/2556.cpp)  |
 |  15  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [cpp](acmicpc.net/10990.cpp) |  16  | [별 찍기 - 16](https://www.acmicpc.net/problem/10991) | [cpp](acmicpc.net/10991.cpp) |
