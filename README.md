@@ -82,7 +82,7 @@
 |  15  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517) | [cpp](acmicpc.net/9517.cpp)  |  16  |    [로봇 청소기](https://www.acmicpc.net/problem/14503)    | [cpp](acmicpc.net/14503.cpp) |
 |  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [cpp](acmicpc.net/1551.cpp)  |  18  |     [그림 비교](https://www.acmicpc.net/problem/2160)      | [cpp](acmicpc.net/2160.cpp)  |
 |  19  |     [나무 재테크](https://www.acmicpc.net/problem/16235)     | [cpp](acmicpc.net/16235.cpp) |  20  |         [뱀](https://www.acmicpc.net/problem/3190)         | [cpp](acmicpc.net/3190.cpp)  |
-|  21  |       [봄버맨](https://www.acmicpc.net/problem/16918)        | [cpp](acmicpc.net/16918.cpp) |      |                                                            |                              |
+|  21  |       [봄버맨](https://www.acmicpc.net/problem/16918)        | [cpp](acmicpc.net/16918.cpp) |  22  |         [킹](https://www.acmicpc.net/problem/1063)         | [cpp](acmicpc.net/1063.cpp)  |
 
 출력
 ----
@@ -258,6 +258,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  45  |          [침투](https://www.acmicpc.net/problem/13565)           | [cpp](acmicpc.net/13565.cpp) |  46  |   [효율적인 해킹](https://www.acmicpc.net/problem/1325)   | [cpp](acmicpc.net/1325.cpp)  |
 |  47  |           [그림](https://www.acmicpc.net/problem/1926)           | [cpp](acmicpc.net/1926.cpp)  |  48  |       [치즈](https://www.acmicpc.net/problem/2636)        | [cpp](acmicpc.net/2636.cpp)  |
 |  49  |     [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)     | [cpp](acmicpc.net/17070.cpp) |  50  |       [탈출](https://www.acmicpc.net/problem/3055)        | [cpp](acmicpc.net/3055.cpp)  |
+|  51  |   [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)    | [cpp](acmicpc.net/16954.cpp) |      |                                                           |                              |
 
 Greedy Algorithm
 ----------------
