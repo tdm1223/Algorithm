@@ -65,7 +65,8 @@
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    | [cpp](acmicpc.net/2804.cpp)  |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       | [cpp](acmicpc.net/11509.cpp) |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         | [cpp](acmicpc.net/1193.cpp)  |
 |  69  |          [POT](https://www.acmicpc.net/problem/11772)           | [cpp](acmicpc.net/11772.cpp) |  70  |          [네 수](https://www.acmicpc.net/problem/10824)          | [cpp](acmicpc.net/10824.cpp) |
-|  71  |     [화살표 그리기](https://www.acmicpc.net/problem/15970)      | [cpp](acmicpc.net/15970.cpp) |      |                                                                  |                              |
+|  71  |     [화살표 그리기](https://www.acmicpc.net/problem/15970)      | [cpp](acmicpc.net/15970.cpp) |  72  |       [집합의 표현](https://www.acmicpc.net/problem/1717)        | [cpp](acmicpc.net/1717.cpp)  |
+|  73  |            [Z](https://www.acmicpc.net/problem/1074)            | [cpp](acmicpc.net/1074.cpp)  |  74  |        [2+1 세일](https://www.acmicpc.net/problem/11508)         | [cpp](acmicpc.net/11508.cpp) |
 
 시뮬레이션
 ----------

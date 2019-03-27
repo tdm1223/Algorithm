@@ -1,0 +1,66 @@
+// 1074. Z
+// 201.03.25
+#include<iostream>
+#include<cmath>
+
+using namespace std;
+
+long long go(long long n, int r, int c)
+{
+	long long tmp = 0;
+	if (n == 2)
+	{
+		if (r == 1 && c == 1)
+		{
+			return 1;
+		}
+		else if (r == 1 && c == 2)
+		{
+			return 2;
+		}
+		else if (r == 2 && c == 1)
+		{
+			return 3;
+		}
+		else if (r == 2 && c == 2)
+		{
+			return 4;
+		}
+	}
+
+	long long mid = n / 2;
+	// 좌상
+	if (r <= mid && c <= mid)
+	{
+		tmp = tmp + go(mid, r, c);
+	}
+	// 우상
+	else if (r <= mid && c > mid)
+	{
+		tmp = tmp + go(mid, r, c - mid) + ((n * n) / 4);
+	}
+	// 좌하
+	else if (r > mid && c <= mid)
+	{
+		tmp = tmp + go(mid, r - mid, c) + ((n * n * 2) / 4);
+	}
+	// 우하
+	else if (r > mid && c > mid)
+	{
+		tmp = tmp + go(mid, r - mid, c - mid) + ((n * n * 3) / 4);
+	}
+
+	return tmp;
+}
+
+int main()
+{
+	int N, r, c;
+	cin >> N >> r >> c;
+
+	long long n = pow(2, N);
+	long long ans = go(n, r + 1, c + 1);
+	--ans;
+	cout << ans << endl;
+	return 0;
+}
