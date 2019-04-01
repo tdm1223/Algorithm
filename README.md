@@ -133,7 +133,7 @@
 |  19  |    [유레카 이론](https://www.acmicpc.net/problem/10448)    | [cpp](acmicpc.net/10448.cpp) |  20  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [cpp](acmicpc.net/9663.cpp)  |
 |  21  |    [일곱 난쟁이](https://www.acmicpc.net/problem/2309)     | [cpp](acmicpc.net/2309.cpp)  |  22  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [cpp](acmicpc.net/1759.cpp)  |
 |  23  |    [테트로미노](https://www.acmicpc.net/problem/14500)     | [cpp](acmicpc.net/14500.cpp) |  24  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [cpp](acmicpc.net/14888.cpp) |
-|  25  | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [cpp](acmicpc.net/16987.cpp) |      |                                                          |                              |
+|  25  | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [cpp](acmicpc.net/16987.cpp) |  26  |      [감시](https://www.acmicpc.net/problem/15683)       | [cpp](acmicpc.net/15683.cpp) |
 
 수학
 ----
