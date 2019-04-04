@@ -141,7 +141,8 @@
 |  23  |    [테트로미노](https://www.acmicpc.net/problem/14500)     | [cpp](acmicpc.net/14500.cpp) |  24  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [cpp](acmicpc.net/14888.cpp) |
 |  25  | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [cpp](acmicpc.net/16987.cpp) |  26  |      [감시](https://www.acmicpc.net/problem/15683)       | [cpp](acmicpc.net/15683.cpp) |
 |  27  |      [경사로](https://www.acmicpc.net/problem/14890)       | [cpp](acmicpc.net/14890.cpp) |  28  |       [한수](https://www.acmicpc.net/problem/1065)       | [cpp](acmicpc.net/1065.cpp)  |
-|  29  |     [치킨 배달](https://www.acmicpc.net/problem/15686)     | [cpp](acmicpc.net/15686.cpp) |      |                                                          |                              |
+|  29  |     [치킨 배달](https://www.acmicpc.net/problem/15686)     | [cpp](acmicpc.net/15686.cpp) |  30  |   [2048 (Easy)](https://www.acmicpc.net/problem/12100)   | [cpp](acmicpc.net/12100.cpp) |
+|  31  |       [스도쿠](https://www.acmicpc.net/problem/2580)       | [cpp](acmicpc.net/2580.cpp)  |      |                                                          |                              |
 
 수학, 기하
 ----------
@@ -275,7 +276,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  49  |     [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)     | [cpp](acmicpc.net/17070.cpp) |  50  |        [탈출](https://www.acmicpc.net/problem/3055)        | [cpp](acmicpc.net/3055.cpp)  |
 |  51  |   [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)    | [cpp](acmicpc.net/16954.cpp) |  52  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [cpp](acmicpc.net/2206.cpp)  |
 |  53  |           [퍼즐](https://www.acmicpc.net/problem/1525)           | [cpp](acmicpc.net/1525.cpp)  |  54  |       [결혼식](https://www.acmicpc.net/problem/5567)       | [cpp](acmicpc.net/5567.cpp)  |
-|  55  |           [빙산](https://www.acmicpc.net/problem/2573)           | [cpp](acmicpc.net/2573.cpp)  |      |                                                            |                              |
+|  55  |           [빙산](https://www.acmicpc.net/problem/2573)           | [cpp](acmicpc.net/2573.cpp)  |  56  |        [오목](https://www.acmicpc.net/problem/2615)        | [cpp](acmicpc.net/2615.cpp)  |
 
 Greedy Algorithm
 ----------------
