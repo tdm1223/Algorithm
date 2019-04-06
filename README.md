@@ -63,7 +63,8 @@
 |  49  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    | [cpp](acmicpc.net/1676.cpp)  |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          | [cpp](acmicpc.net/2563.cpp)  |
 |  51  |          [POT](https://www.acmicpc.net/problem/11772)           | [cpp](acmicpc.net/11772.cpp) |  52  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         | [cpp](acmicpc.net/10250.cpp) |
 |  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          | [cpp](acmicpc.net/1773.cpp)  |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         | [cpp](acmicpc.net/1009.cpp)  |
-|  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       | [cpp](acmicpc.net/10709.cpp) |      |                                                                  |                              |
+|  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       | [cpp](acmicpc.net/10709.cpp) |  56  |     [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)     | [cpp](acmicpc.net/1244.cpp)  |
+|  57  |       [회전 초밥](https://www.acmicpc.net/problem/15961)        | [cpp](acmicpc.net/15961.cpp) |      |                                                                  |                              |
 
 분할정복
 --------
@@ -142,7 +143,7 @@
 |  25  | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [cpp](acmicpc.net/16987.cpp) |  26  |      [감시](https://www.acmicpc.net/problem/15683)       | [cpp](acmicpc.net/15683.cpp) |
 |  27  |      [경사로](https://www.acmicpc.net/problem/14890)       | [cpp](acmicpc.net/14890.cpp) |  28  |       [한수](https://www.acmicpc.net/problem/1065)       | [cpp](acmicpc.net/1065.cpp)  |
 |  29  |     [치킨 배달](https://www.acmicpc.net/problem/15686)     | [cpp](acmicpc.net/15686.cpp) |  30  |   [2048 (Easy)](https://www.acmicpc.net/problem/12100)   | [cpp](acmicpc.net/12100.cpp) |
-|  31  |       [스도쿠](https://www.acmicpc.net/problem/2580)       | [cpp](acmicpc.net/2580.cpp)  |      |                                                          |                              |
+|  31  |       [스도쿠](https://www.acmicpc.net/problem/2580)       | [cpp](acmicpc.net/2580.cpp)  |  32  | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)  | [cpp](acmicpc.net/1213.cpp)  |
 
 수학, 기하
 ----------

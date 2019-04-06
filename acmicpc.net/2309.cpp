@@ -1,5 +1,6 @@
 // 2309. 일곱 난쟁이
-// 2018.12.30
+// 2019.04.05
+// 재채점으로 인한 다시 풀이
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -8,14 +9,12 @@ using namespace std;
 
 int main()
 {
-	vector<int> a;
+	vector<int> a(9);
 	int sum = 0;
 	for (int i = 0; i < 9; i++)
 	{
-		int temp;
-		cin >> temp;
-		a.push_back(temp);
-		sum += temp; //모든 난쟁이 합을 우선 구한다
+		cin >> a[i];
+		sum += a[i]; //모든 난쟁이 합을 우선 구한다
 	}
 
 	sort(a.begin(), a.end()); //미리 정렬
@@ -34,6 +33,7 @@ int main()
 						cout << a[k] << endl;
 					}
 				}
+				return 0;
 			}
 		}
 	}
