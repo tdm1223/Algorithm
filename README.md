@@ -90,7 +90,7 @@
 |  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [cpp](acmicpc.net/1551.cpp)  |  18  |     [그림 비교](https://www.acmicpc.net/problem/2160)      | [cpp](acmicpc.net/2160.cpp)  |
 |  19  |     [나무 재테크](https://www.acmicpc.net/problem/16235)     | [cpp](acmicpc.net/16235.cpp) |  20  |         [뱀](https://www.acmicpc.net/problem/3190)         | [cpp](acmicpc.net/3190.cpp)  |
 |  21  |       [봄버맨](https://www.acmicpc.net/problem/16918)        | [cpp](acmicpc.net/16918.cpp) |  22  |         [킹](https://www.acmicpc.net/problem/1063)         | [cpp](acmicpc.net/1063.cpp)  |
-|  23  |      [톱니바퀴](https://www.acmicpc.net/problem/14891)       | [cpp](acmicpc.net/14891.cpp) |      |                                                            |                              |
+|  23  |      [톱니바퀴](https://www.acmicpc.net/problem/14891)       | [cpp](acmicpc.net/14891.cpp) |  24  |    [캐슬 디펜스](https://www.acmicpc.net/problem/17135)    | [cpp](acmicpc.net/17135.cpp) |
 
 출력
 ----
