@@ -93,7 +93,7 @@
 |  21  |       [봄버맨](https://www.acmicpc.net/problem/16918)        | [cpp](acmicpc.net/16918.cpp) |  22  |         [킹](https://www.acmicpc.net/problem/1063)         | [cpp](acmicpc.net/1063.cpp)  |
 |  23  |      [톱니바퀴](https://www.acmicpc.net/problem/14891)       | [cpp](acmicpc.net/14891.cpp) |  24  |    [캐슬 디펜스](https://www.acmicpc.net/problem/17135)    | [cpp](acmicpc.net/17135.cpp) |
 |  25  |   [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)    | [cpp](acmicpc.net/2174.cpp)  |  26  |   [주사위 굴리기](https://www.acmicpc.net/problem/14499)   | [cpp](acmicpc.net/14499.cpp) |
-|  27  |      [인구 이동](https://www.acmicpc.net/problem/16234)      | [cpp](acmicpc.net/16234.cpp) |      |                                                            |                              |
+|  27  |      [인구 이동](https://www.acmicpc.net/problem/16234)      | [cpp](acmicpc.net/16234.cpp) |  28  |    [회전하는 큐](https://www.acmicpc.net/problem/1021)     | [cpp](acmicpc.net/1021.cpp)  |
 
 출력
 ----
