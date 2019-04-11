@@ -96,6 +96,8 @@
 |  27  |      [인구 이동](https://www.acmicpc.net/problem/16234)      | [cpp](acmicpc.net/16234.cpp) |  28  |    [회전하는 큐](https://www.acmicpc.net/problem/1021)     | [cpp](acmicpc.net/1021.cpp)  |
 |  29  |    [도로와 신호등](https://www.acmicpc.net/problem/2980)     | [cpp](acmicpc.net/2980.cpp)  |  30  |    [주사위 게임](https://www.acmicpc.net/problem/5566)     | [cpp](acmicpc.net/5566.cpp)  |
 |  31  |      [롤 케이크](https://www.acmicpc.net/problem/3985)       | [cpp](acmicpc.net/3985.cpp)  |  32  |    [나이트 투어](https://www.acmicpc.net/problem/1331)     | [cpp](acmicpc.net/1331.cpp)  |
+|  33  |  [Annoying Mosquitos](https://www.acmicpc.net/problem/5371)  | [cpp](acmicpc.net/5371.cpp)  |  34  |    [드래곤 커브](https://www.acmicpc.net/problem/15685)    | [cpp](acmicpc.net/15685.cpp) |
+|  35  |     [미로 만들기](https://www.acmicpc.net/problem/1347)      | [cpp](acmicpc.net/1347.cpp)  |  34  |  [영식이의 손가락](https://www.acmicpc.net/problem/1614)   | [cpp](acmicpc.net/1614.cpp)  |
 
 출력
 ----
