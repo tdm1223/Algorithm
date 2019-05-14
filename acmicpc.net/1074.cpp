@@ -1,10 +1,12 @@
 // 1074. Z
-// 201.03.25
+// 2019.05.14
+// 수학, 분할 정복, 재귀 호출
 #include<iostream>
 #include<cmath>
 
 using namespace std;
 
+// Z를 도는 재귀함수
 long long go(long long n, int r, int c)
 {
 	long long tmp = 0;

@@ -1,17 +1,19 @@
 // 1197. 최소 스패닝 트리
-// 2018.12.01
+// 2019.05.14
 #include<iostream>
 #include<vector>
 #include<algorithm>
 
 using namespace std;
 
+// 노드 구조체
 struct Node
 {
 	int a, b, cost;
 	Node(int a, int b, int cost) :a(a), b(b), cost(cost) {}
 };
 
+// 노드 비교하는 함수(cost 오름차순)
 bool compare(Node& A, Node& B)
 {
 	return A.cost < B.cost;

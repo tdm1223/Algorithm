@@ -1,6 +1,6 @@
 // 1051. 숫자 정사각형
-// 분류 : 브루트 포스
-// 2018.12.03
+// 2019.05.14
+// 브루트 포스
 #include<iostream>
 
 using namespace std;
@@ -14,7 +14,7 @@ int main()
 	{
 		for (int j = 0; j < m; j++)
 		{
-			//연속된 수를 입력받기.
+			// 연속된 수를 입력받기.
 			scanf("%1d", &a[i][j]);
 		}
 	}
@@ -38,7 +38,6 @@ int main()
 			}
 		}
 	}
-
 	cout << (max+1) * (max+1) << endl;
 	return 0;
 }

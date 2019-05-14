@@ -1,5 +1,6 @@
 // 1021. 회전하는 큐
-// 2019.04.09
+// 2019.05.14
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 #include<deque>

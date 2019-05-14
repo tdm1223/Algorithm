@@ -1,10 +1,11 @@
 // 1012. 유기농 배추
-// 2018.10.14
+// 2019.05.14
+// BFS, DFS
 #include<iostream>
 
 using namespace std;
 
-int arr[51][51];
+int map[51][51];
 bool visit[51][51]; //방문 유무를 나타내는 배열 1:방문, 0:방문안함
 
 //상 하 좌 우
@@ -24,7 +25,7 @@ void DFS(int x, int y)
 			continue;
 		}
 
-		if (arr[xx][yy] && !visit[xx][yy])
+		if (map[xx][yy] && !visit[xx][yy])
 		{
 			visit[xx][yy] = 1;
 			DFS(xx, yy);
@@ -45,7 +46,7 @@ int main()
 		{
 			for (int j = 0; j < m; j++)
 			{
-				arr[i][j] = 0;
+				map[i][j] = 0;
 				visit[i][j] = 0;
 			}
 		}
@@ -54,13 +55,13 @@ int main()
 		{
 			int a, b;
 			cin >> a >> b;
-			arr[a][b] = 1;
+			map[a][b] = 1;
 		}
 		for (int i = 0; i < n; i++)
 		{
 			for (int j = 0; j < m; j++)
 			{
-				if (!visit[i][j] && arr[i][j])
+				if (!visit[i][j] && map[i][j])
 				{
 					count++;
 					visit[i][j] = 1;
@@ -70,6 +71,5 @@ int main()
 		}
 		cout << count << endl;
 	}
-
 	return 0;
 }

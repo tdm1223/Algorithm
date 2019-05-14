@@ -1,12 +1,12 @@
 // 1152. 단어의 개수
-// 2018.10.14
+// 2019.05.14
 #include<iostream>
 #include<string>
 #include<sstream>
 
 using namespace std;
 
-//sstream을 활용한 풀이
+// sstream을 활용한 풀이
 int main()
 {
 	int num = 0;

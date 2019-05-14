@@ -1,5 +1,5 @@
 // 1193. 분수찾기
-// 2018.10.16
+// 2019.05.14
 #include<iostream>
 
 using namespace std;
@@ -9,6 +9,7 @@ int main()
 	int n;
 	cin >> n;
 	int k = 1;
+	// Base case
 	if (n == 1)
 	{
 		cout << 1 << "/" << 1 << endl;
@@ -32,6 +33,5 @@ int main()
 	{
 		cout << x - n << "/" << n << endl;
 	}
-
 	return 0;
 }

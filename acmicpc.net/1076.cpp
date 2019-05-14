@@ -1,5 +1,6 @@
 // 1076. 저항
-// 2018.12.03
+// 2019.05.14
+// 수학
 #include<iostream>
 #include<string>
 

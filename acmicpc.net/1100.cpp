@@ -1,5 +1,5 @@
 // 1100. 하얀 칸
-// 2018.12.03
+// 2019.05.14
 #include<iostream>
 
 using namespace std;
@@ -13,7 +13,7 @@ int main()
 	}
 	int ans = 0;
 
-	//짝수 루틴
+	// 짝수 루틴
 	for (int i = 0; i < 8; i += 2)
 	{
 		for (int j = 0; j < 8; j++)
@@ -25,7 +25,7 @@ int main()
 		}
 	}
 
-	//홀수 루틴
+	// 홀수 루틴
 	for (int i = 1; i < 9; i += 2)
 	{
 		for (int j = 0; j < 8; j++)
@@ -36,7 +36,6 @@ int main()
 			}
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

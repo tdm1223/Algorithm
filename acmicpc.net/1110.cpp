@@ -1,5 +1,5 @@
 // 1110. 더하기 사이클
-// 2018.12.03
+// 2019.05.14
 #include<iostream>
 
 using namespace std;
@@ -20,7 +20,8 @@ int main()
 		int sum = (a + b) % 10;
 		tmp = b * 10 + (a + b) % 10;
 
-		if (tmp == n) // 사이클 종료
+		// 사이클 종료
+		if (tmp == n)
 		{
 			break;
 		}

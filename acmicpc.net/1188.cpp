@@ -1,9 +1,10 @@
 // 1188. 음식 평론가
-// 2018.12.03
+// 2019.05.14
 #include<iostream>
 
 using namespace std;
 
+// 재귀로 최대공약수 구하기
 int Gcd(int a, int b)
 {
 	if (a%b == 0)
@@ -13,7 +14,7 @@ int Gcd(int a, int b)
 	return Gcd(b, a%b);
 }
 
-int main(void)
+int main()
 {
 	int n, m;
 	cin >> n >> m;

@@ -1,6 +1,6 @@
 // 1138. 한 줄로 서기
-// 분류 : 그리디 알고리즘
-// 2018.11.25
+// 2019.05.14
+// 그리디 알고리즘
 #include<iostream>
 
 using namespace std;
@@ -17,7 +17,7 @@ int main()
 		int num;
 		cin >> num;
 
-		//줄을 순회
+		// 줄을 순회
 		for (int j = 0; j < n; j++)
 		{
 			// 자기보다 키 큰 사람을 다 지나치고 line[j]가 비었을 때
@@ -32,7 +32,6 @@ int main()
 			}
 		}
 	}
-
 	for (int i = 0; i < n; i++)
 	{
 		cout << line[i] << " ";

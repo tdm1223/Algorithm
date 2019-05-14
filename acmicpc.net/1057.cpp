@@ -1,6 +1,6 @@
 // 1057. 토너먼트
-// 분류 : 수학, 시뮬레이션
-// 2018.12.03
+// 2019.05.14
+// 수학, 시뮬레이션
 #include<iostream>
 
 using namespace std;
@@ -13,11 +13,11 @@ int main()
 
 	cin >> n >> a >> b;
 
-	if (n < b || n < a)//서로 대결하지 않을 경우
+	if (n < b || n < a) // 서로 대결하지 않을 경우
 	{
 		round = -1;
 	}
-	else
+	else // 대결 할 경우
 	{
 		while (b != a)
 		{
@@ -26,7 +26,6 @@ int main()
 			round++;
 		}
 	}
-
 	cout << round << endl;
 	return 0;
 }

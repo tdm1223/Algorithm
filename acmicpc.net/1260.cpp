@@ -1,5 +1,6 @@
 // 1260. DFS와 BFS
-// 2018.10.14
+// 2019.05.14
+// DFS, BFS
 #include<iostream>
 #include<queue>
 

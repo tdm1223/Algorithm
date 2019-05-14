@@ -1,5 +1,6 @@
 // 1212. 8진수 2진수
-// 2018.10.17
+// 2019.05.14
+// 진법
 #include<iostream>
 #include<string>
 
@@ -11,7 +12,7 @@ int main()
 	cin >> s;
 
 	string ans;
-  //각 자릿수에 대해 8->2진수로 변환
+  // 각 자릿수에 대해 8진수->2진수로 변환
 	for (int i = 0; i < s.size(); i++)
 	{
 		int k = s[i] - '0';
@@ -33,7 +34,7 @@ int main()
 			ans += tmp[j];
 		}
 	}
-  //맨앞에 나오는 0들을 제거하기 위한 작업
+  // 맨앞에 나오는 0들을 제거하기 위한 작업
 	int index = 0;
 	for (int i = 0; i < ans.size()-1; i++)
 	{

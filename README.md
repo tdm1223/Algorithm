@@ -44,7 +44,7 @@
 |  7   | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [cpp](acmicpc.net/11721.cpp) |  8   |     [??!](https://www.acmicpc.net/problem/10926)      | [cpp](acmicpc.net/10926.cpp) |
 |  9   |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [cpp](acmicpc.net/11719.cpp) |  10  |    [구구단](https://www.acmicpc.net/problem/2739)     | [cpp](acmicpc.net/2739.cpp)  |
 |  11  |        [고양이](https://www.acmicpc.net/problem/10171)         | [cpp](acmicpc.net/10171.cpp) |  12  | [피터팬 프레임](https://www.acmicpc.net/problem/3054) | [cpp](acmicpc.net/3054.cpp)  |
-|  13  |         [J박스](https://www.acmicpc.net/problem/5354)          | [cpp](acmicpc.net/5354.cpp)  |      |                                                       |                              |
+|  13  |         [J박스](https://www.acmicpc.net/problem/5354)          | [cpp](acmicpc.net/5354.cpp)  |  14  |   [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237)    | [cpp](acmicpc.net/1237.cpp)  |
 
 별 찍기
 -------
@@ -230,7 +230,7 @@ N과 M
 |  11  |  [전화번호 목록](https://www.acmicpc.net/problem/5052)  | [cpp](acmicpc.net/5052.cpp)  |  12  |     [수 찾기](https://www.acmicpc.net/problem/1920)      | [cpp](acmicpc.net/1920.cpp)  |
 |  13  |   [나무 자르기](https://www.acmicpc.net/problem/2805)   | [cpp](acmicpc.net/2805.cpp)  |  14  |   [나이순 정렬](https://www.acmicpc.net/problem/10814)   | [cpp](acmicpc.net/10814.cpp) |
 |  15  |     [사냥꾼](https://www.acmicpc.net/problem/8983)      | [cpp](acmicpc.net/8983.cpp)  |  16  |     [국영수](https://www.acmicpc.net/problem/10825)      | [cpp](acmicpc.net/10825.cpp) |
-|  17  |       [ABC](https://www.acmicpc.net/problem/3047)       | [cpp](acmicpc.net/3047.cpp)  |      |                                                          |                              |
+|  17  |       [ABC](https://www.acmicpc.net/problem/3047)       | [cpp](acmicpc.net/3047.cpp)  |  18  |       [보물](https://www.acmicpc.net/problem/1026)       | [cpp](acmicpc.net/1026.cpp)  |
 
 Dynamic Programming
 -------------------

@@ -1,5 +1,6 @@
 // 1213. 팰린드롬 만들기
-// 2019.04.05
+// 2019.05.14
+// 브루트 포스, 정렬
 #include<iostream>
 #include<algorithm>
 #include<queue>
@@ -12,12 +13,10 @@ int main()
 {
 	string s;
 	cin >> s;
-
 	for (int i = 0; i < s.size(); i++)
 	{
 		arr[s[i] - 'A']++;
 	}
-
 	int odd = -1;
 	for (int i = 0; i < 26; i++)
 	{
@@ -32,7 +31,6 @@ int main()
 		}
 
 	}
-
 	deque<char> dq;
 	if (odd != -1)
 	{

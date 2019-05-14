@@ -1,13 +1,14 @@
 // 1005. ACM Craft
-// 2018.11.13
+// 2019.05.14
+// 위상 정렬
 #include<vector>
 #include<queue>
 #include<iostream>
 
 using namespace std;
 
-int time[1001];
-int build[1001]; //build[i] : i 건물을 건설하는데 필요한 선행 건물의 개수
+int time[1001]; // time[i] : i 건물을 건설하는데 걸리는 시간
+int build[1001]; // build[i] : i 건물을 건설하는데 필요한 선행 건물의 개수
 int main()
 {
 	int t;
@@ -19,7 +20,7 @@ int main()
 		cin >> n >> k;
 		for (int i = 1; i <= n; i++)
 		{
-			cin >> time[i]; //건물 건설에 걸리는 시간
+			cin >> time[i];
 			build[i] = 0;
 		}
 

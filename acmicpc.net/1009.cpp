@@ -1,5 +1,5 @@
 // 1009. 분산처리
-// 2018.12.03
+// 2019.05.14
 #include<iostream>
 
 using namespace std;

@@ -1,5 +1,5 @@
 // 1120. 문자열
-// 2018.11.27
+// 2019.05.14
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -15,7 +15,7 @@ int main()
 	for (int i = 0; i <= b.size() - a.size(); i++)
 	{
 		count = 0;
-		//a가 b에 가장 많이 겹칠때가 최소
+		// a가 b에 가장 많이 겹칠때가 최소
 		for (int j = 0; j < a.size(); j++)
 		{
 			if (a[j] != b[j + i])

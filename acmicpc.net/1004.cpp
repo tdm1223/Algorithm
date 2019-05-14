@@ -1,5 +1,5 @@
 // 1004. 어린왕자
-// 2018.12.03
+// 2019.05.14
 #include<iostream>
 
 using namespace std;
@@ -8,7 +8,7 @@ int main()
 {
 	int t;
 	cin >> t;
-	while(t>0)
+	while (t > 0)
 	{
 		t--;
 		//출발점과 도착점 입력
@@ -23,6 +23,7 @@ int main()
 			int x, y, r, distance;
 			cin >> x >> y >> r;
 			// 두 점(출발점과 도착점)중 하나만 원 안에 있다면 count를 증가시켜 준다.
+			// distance가 반지름의 제곱보다 크다면 원 밖. 작다면 원안에 있다.
 			distance = (x - x1) * (x - x1) + (y - y1) * (y - y1);
 			bool in1 = distance > r * r ? false : true;
 			distance = (x - x2) * (x - x2) + (y - y2) * (y - y2);

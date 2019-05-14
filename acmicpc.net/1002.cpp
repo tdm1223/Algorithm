@@ -1,5 +1,6 @@
 // 1002. 터렛
-// 2018.10.13
+// 2019.05.14
+// 기하 알고리즘
 #include<iostream>
 #include<algorithm>
 #include<cmath>
@@ -14,9 +15,9 @@ int main()
 	{
 		t--;
 		cin >> x1 >> y1 >> r1 >> x2 >> y2 >> r2;
-		//두 중심사이의 거리 계산
-		double i = sqrt(pow(x1 - x2, 2.0f) + pow(y1 - y2, 2.0f));
-		if (i == 0)
+		//두 중심사이의 거리 계산(공식)
+		double dist = sqrt(pow(x1 - x2, 2.0f) + pow(y1 - y2, 2.0f));
+		if (dist == 0)
 		{
 			if (r1 == r2)
 			{
@@ -29,11 +30,11 @@ int main()
 		}
 		else
 		{
-			if ((r1 + r2) > i&&abs(r1 - r2) < i)
+			if ((r1 + r2) > dist && abs(r1 - r2) < dist)
 			{
 				cout << 2 << endl;
 			}
-			else if ((r1 + r2) == i || abs(r1 - r2) == i)
+			else if ((r1 + r2) == dist || abs(r1 - r2) == dist)
 			{
 				cout << 1 << endl;
 			}

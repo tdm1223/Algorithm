@@ -1,5 +1,6 @@
 // 1063. 킹
-// 2019.03.23
+// 2019.05.14
+// 시뮬레이션
 #include<iostream>
 #include<string>
 
@@ -50,12 +51,12 @@ int main()
 			{
 				continue;
 			}
-			//돌을 밀 수 있는 경우
+			// 돌을 밀 수 있는 경우
 			else
 			{
-				//킹 좌표 재설정
+				// 킹 좌표 재설정
 				kingPos.first = stonePos.first, kingPos.second = stonePos.second;
-				//돌 좌표 재설정
+				// 돌 좌표 재설정
 				stonePos.first += x;
 				stonePos.second += y;
 			}
@@ -63,13 +64,12 @@ int main()
 		// 돌이 없는 곳
 		else
 		{
-			//킹 좌표 재설정
+			// 킹 좌표 재설정
 			kingPos.first += x;
 			kingPos.second += y;
 		}
 	}
-
-	//최종 좌표 출력
+	// 최종 좌표 출력
 	printf("%c%d\n%c%d", kingPos.second + 'A', 8 - kingPos.first, stonePos.second + 'A', 8 - stonePos.first);
 	return 0;
 }

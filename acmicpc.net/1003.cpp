@@ -1,10 +1,12 @@
 // 1003. 피보나치 함수
-// 2018.10.13
+// 2019.05.14
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
 
 int d[40]; // d[n] : 피보나치 n
+// 재귀로 피보나치수를 구함
 int fibonacci(int n)
 {
 	d[0] = 1;
@@ -32,7 +34,6 @@ int main()
 	{
 		int n;
 		cin >> n;
-
 		if (n == 0)
 		{
 			cout << 1 << " " << 0 << endl;
@@ -47,6 +48,5 @@ int main()
 			cout << d[n - 2] << " " << d[n - 1] << endl;
 		}
 	}
-
 	return 0;
 }
