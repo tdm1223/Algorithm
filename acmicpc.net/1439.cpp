@@ -1,5 +1,6 @@
 // 1439. 뒤집기
-// 2018.11.28
+// 2019.05.18
+// 그리디 알고리즘
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -17,10 +18,12 @@ int main()
 		// 앞의 수와 다르다면 area[앞의수]의 값을 1 더해줌
 		if (s[i] != s[i - 1])
 		{
+			// 앞이 0이라면
 			if (s[i - 1] == '0')
 			{
 				area[0]++;
 			}
+			// 앞이 1이라면
 			else
 			{
 				area[1]++;

@@ -1,5 +1,6 @@
 // 1780. 종이의 개수
-// 2019.02.12
+// 2019.05.18
+// 분할 정복
 #include<iostream>
 
 using namespace std;

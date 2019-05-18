@@ -1,5 +1,6 @@
 // 1620. 나는야 포켓몬 마스터 이다솜
-// 2018.11.26
+// 2019.05.18
+// 자료구조
 #include<iostream>
 #include<map>
 #include<string>

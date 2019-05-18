@@ -1,5 +1,6 @@
 // 1759. 암호 만들기
-// 2019.02.16
+// 2019.05.18
+// 백트래킹
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -44,6 +45,7 @@ void go(int start, int cnt)
 		return;
 	}
 
+	// 재귀 돌리기
 	for (int i = start; i < c; i++)
 	{
 		ans[cnt] = alpa[i];

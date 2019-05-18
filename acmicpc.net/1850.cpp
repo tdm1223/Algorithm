@@ -1,9 +1,11 @@
-// 2019.03.02
 // 1850. 최대공약수
+// 2019.05.18
+// 수학
 #include<iostream>
 
 using namespace std;
 
+// 재귀로 최대 공약수 구하기
 int gcd(long long a, long long b)
 {
 	if (b == 0)

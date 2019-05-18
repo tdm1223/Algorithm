@@ -1,5 +1,6 @@
 // 1789. 수들의 합
-// 2018.12.03
+// 2019.05.18
+// 수학, 구현
 #include<iostream>
 
 using namespace std;
@@ -23,7 +24,6 @@ int main()
 			break;
 		}
 	}
-
 	cout << ans - 1 << endl;
 	return 0;
 }

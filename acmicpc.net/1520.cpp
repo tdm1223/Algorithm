@@ -1,6 +1,6 @@
 // 1520. 내리막 길
-// 분류 : 다이나믹 프로그래밍
-// 2018.12.03
+// 2019.05.18
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
@@ -13,7 +13,7 @@ int n, m;
 
 int DFS(int x, int y)
 {
-	if (d[x][y] != -1) //이미 존재하는 값이면 return
+	if (d[x][y] != -1) // 이미 존재하는 값이면 return
 	{
 		return d[x][y];
 	}
@@ -21,7 +21,7 @@ int DFS(int x, int y)
 	{
 		return 0;
 	}
-	if (x == 0 && y == 0) //(0,0)
+	if (x == 0 && y == 0) // (0,0)
 	{
 		return 1;
 	}

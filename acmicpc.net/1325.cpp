@@ -1,5 +1,6 @@
 // 1325. 효율적인 해킹
-// 2019.02.27
+// 2019.05.18
+// DFS, BFS
 #include<iostream>
 #include<queue>
 #include<vector>

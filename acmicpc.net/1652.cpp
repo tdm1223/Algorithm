@@ -1,5 +1,6 @@
 // 1652. 누울 자리를 찾아라
-// 2018.10.14
+// 2019.05.18
+// 수학
 #include<iostream>
 #include<string>
 
@@ -16,8 +17,9 @@ int main()
 		cin >> a[i];
 	}
 
+	// 가로 검사
 	int horizontal = 0;
-	//가로로 누울 수 있는 자리
+	// 가로로 누울 수 있는 자리
 	for (int i = 0; i < n; i++)
 	{
 		int cnt = 0;
@@ -43,8 +45,9 @@ int main()
 		}
 	}
 
+	// 세로 검사
 	int vertical = 0;
-	//세로로 누울 수 있는 자리
+	// 세로로 누울 수 있는 자리
 	for (int i = 0; i < n; i++)
 	{
 		int cnt = 0;

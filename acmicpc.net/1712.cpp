@@ -1,5 +1,5 @@
 // 1712. 손익분기점
-// 2019.02.02
+// 2019.05.18
 #include<iostream>
 
 using namespace std;
@@ -9,7 +9,7 @@ int main()
 	int a, b, c;
 	cin >> a >> b >> c;
 
-	// a + bx < cx인 x의 최솟값을 구하면 된다.
+	// a + bx < cx인 x의 최솟값을 구한다.
 
 	// 손익 분기점이 없는 경우
 	if (c - b <= 0)

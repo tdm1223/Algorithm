@@ -1,5 +1,6 @@
 // 1476. 날짜 계산
-// 2018.10.14
+// 2019.05.18
+// 수학, 중국인의 나머지 정리
 #include<iostream>
 
 using namespace std;

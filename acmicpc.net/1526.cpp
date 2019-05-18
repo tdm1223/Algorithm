@@ -1,5 +1,6 @@
 // 1526. 가장 큰 금민수
-// 2018.11.21
+// 2019.05.18
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;

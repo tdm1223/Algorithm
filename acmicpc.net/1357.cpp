@@ -1,10 +1,11 @@
 // 1357. 뒤집힌 덧셈
-// 2018.10.14
+// 2019.05.18
+// 수학
 #include<iostream>
 
 using namespace std;
 
-//숫자를 뒤집는 함수
+// 숫자를 뒤집는 함수
 int Rev(int x)
 {
 	int result = 0;

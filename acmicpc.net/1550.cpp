@@ -1,5 +1,6 @@
 // 1550. 16진수
-// 2019.02.11
+// 2019.05.18
+// 진법
 #include<iostream>
 #include<map>
 #include<string>
@@ -8,8 +9,7 @@ using namespace std;
 
 int main()
 {
-  map<char, int> m;
-
+  map<char, int> m; // 맵에 저장
   m['0']=0;
   m['1']=1;
   m['2']=2;

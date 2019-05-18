@@ -1,5 +1,6 @@
 // 1343. 폴리오미노
-// 2019.02.12
+// 2019.05.18
+// 그리디 알고리즘
 #include<iostream>
 #include<string>
 
@@ -16,14 +17,16 @@ void Calc(int cnt) // 폴리오미노를 덮는 함수
     flag=false;
     return;
   }
+  // 폴리오미노로 덮을 수 있는 경우
+  // 사전순으로 출력하는것이므로 4칸일땐 AAAA, 2칸일땐 BB를 저장한다.
   while(tmp>0)
   {
-    for(int i=0;i<tmp/4;i++)
+    for(int i=0;i<tmp/4;i++) // AAAA로 덮을때
     {
       ans+="AAAA";
     }
     tmp%=4;
-    for(int i=0;i<tmp/2;i++)
+    for(int i=0;i<tmp/2;i++) // BB로 덮을 때
     {
       ans+="BB";
     }

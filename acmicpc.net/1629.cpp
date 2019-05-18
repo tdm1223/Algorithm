@@ -1,5 +1,5 @@
 // 1629. 곱셈
-// 2019.02.02
+// 2019.05.18
 #include<iostream>
 
 using namespace std;

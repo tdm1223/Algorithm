@@ -1,8 +1,7 @@
 // 1525. 퍼즐
-// 2019.03.28
+// 2019.05.18
 #include<iostream>
 #include<algorithm>
-#include<set>
 #include<string>
 #include<map>
 #include<queue>
@@ -63,10 +62,12 @@ int main()
 			}
 		}
 	}
-	if (puzzle.count(123456789) == 0) {
+	if (puzzle.count(123456789) == 0)
+	{
 		cout << -1 << '\n';
 	}
-	else {
+	else
+	{
 		cout << puzzle[123456789] << '\n';
 	}
 	return 0;

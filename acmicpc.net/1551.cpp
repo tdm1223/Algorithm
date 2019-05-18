@@ -1,5 +1,6 @@
 // 1551. 수열의 변화
-// 2018.12.02
+// 2019.05.18
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;

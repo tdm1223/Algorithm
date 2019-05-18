@@ -1,5 +1,6 @@
 // 1547. 공
-// 2017.11.07
+// 2019.05.18
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;
@@ -13,7 +14,7 @@ int main()
 	{
 		int x, y, a, b;
 		cin >> x >> y;
-		//x,y 공을 가지고 있는 인덱스를 찾음
+		// x,y 공을 가지고 있는 인덱스를 찾음
 		for (int j = 1; j < 4; j++)
 		{
 			if (ball[j] == x)

@@ -1,5 +1,5 @@
 // 1331. 나이트 투어
-// 2019.04.10
+// 2019.05.18
 #include<iostream>
 #include<string>
 #include<vector>
@@ -24,7 +24,7 @@ bool Check()
 		{
 			continue;
 		}
-		// 올수있으면
+		// before에서 올 수 있으면
 		if ((x == xx) && (yy = y))
 		{
 			beforeX = x;

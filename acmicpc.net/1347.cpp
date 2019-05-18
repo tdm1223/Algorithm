@@ -1,5 +1,6 @@
 // 1347. 미로 만들기
-// 2019.04.11
+// 2019.05.18
+// 시뮬레이션
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -22,7 +23,7 @@ int main()
 	int x = 50;
 	int y = 50;
 	map[x][y] = '.';
-	int dir = 0;// 처음에 남쪽
+	int dir = 0; // 처음에 남쪽
 	for (int i = 0; i < s.size(); i++)
 	{
 		// 오른쪽 회전

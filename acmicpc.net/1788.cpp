@@ -1,5 +1,6 @@
 // 1788. 피보나치 수의 확장
-// 2018.10.14
+// 2019.05.18
+// 수학, 구현
 #include<iostream>
 
 using namespace std;
@@ -19,7 +20,7 @@ int main()
 		d[i] %= 1000000000;
 	}
 
-	if (n < 0)//음수
+	if (n < 0) // n이 음수
 	{
 		n *= -1;
 		if (n % 2 == 0)
@@ -31,11 +32,11 @@ int main()
 			cout << 1 << endl;
 		}
 	}
-	else if (n>0)//양수
+	else if (n>0) // n이 양수
 	{
 		cout << 1 << endl;
 	}
-	else//0
+	else // 0
 	{
 		cout << 0 << endl;
 	}

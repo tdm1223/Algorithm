@@ -1,5 +1,6 @@
 // 1717. 집합의 표현
-// 2019.03.26
+// 2019.05.18
+// Disjoint-set
 #include<iostream>
 
 using namespace std;

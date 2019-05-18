@@ -1,5 +1,6 @@
 // 1834. 나머지와 몫이 같은 수
-// 2018.12.03
+// 2019.05.18
+// 수학
 #include<iostream>
 
 using namespace std;
