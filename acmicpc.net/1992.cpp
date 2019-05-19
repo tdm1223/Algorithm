@@ -1,5 +1,6 @@
 // 1992. 쿼드트리
-// 2019.02.12
+// 2019.05.19
+// 분할 정복
 #include<iostream>
 #include<string>
 
@@ -7,6 +8,7 @@ using namespace std;
 
 string ans = "";
 int map[65][65];
+// 4개로 분할하는 함수
 void Divide(int size, int x, int y)
 {
   if (size == 1)
@@ -22,7 +24,7 @@ void Divide(int size, int x, int y)
       return;
     }
   }
-  //  분할된 곳의 좌상단의 값을 저장
+  // 분할된 곳의 좌상단의 값을 저장
   int tmp = map[x][y];
   for (int i = x; i < x + size; i++)
   {
@@ -51,7 +53,6 @@ void Divide(int size, int x, int y)
     ans+='0';
   }
 }
-
 int main()
 {
   int n;

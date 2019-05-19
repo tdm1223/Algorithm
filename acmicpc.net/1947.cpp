@@ -1,5 +1,6 @@
 // 1947. 선물 전달
-// 2018.11.16
+// 2019.05.19
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;

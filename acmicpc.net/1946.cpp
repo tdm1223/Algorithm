@@ -1,5 +1,6 @@
 // 1946. 신입 사원
-// 2018.12.03
+// 2019.05.19
+// 그리디 알고리즘
 #include<iostream>
 
 using namespace std;
@@ -24,12 +25,12 @@ int main()
 
 		int min = arr[1];
 		int count = 1;
-		// 서류 순위 2위 부터 면접 점수를 비교하여 채용 여부를 결정
+		// 서류 순위 2위 부터 면접 점수를 비교하여 채용 여부를 결정한다.
 		for (int i = 2; i <= n; i++)
 		{
 			if (min > arr[i])
 			{
-				//채용
+				// 채용
 				count++;
 				min = arr[i];
 			}

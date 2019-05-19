@@ -1,11 +1,12 @@
 // 2156. 포도주 시식
-// 2018.10.15
+// 2019.05.19
+// 다이나믹 프로그래밍
 #include<iostream>
 #include<algorithm>
 
 using namespace std;
 
-int d[10001]; //d[n] : n번째 까지 포도주를 먹었을때 최댓값
+int d[10001]; // d[n] : n번째 까지 포도주를 먹었을때 최댓값
 int a[10001];
 int main()
 {
@@ -27,7 +28,6 @@ int main()
 		// 위 두 경우 중 최댓값을 구한다.
 		d[i] = max(max(a[i] + d[i - 2], d[i - 3] + a[i - 1] + a[i]), d[i - 1]);
 	}
-
 	cout << d[n] << endl;
 	return 0;
 }

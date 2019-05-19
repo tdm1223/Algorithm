@@ -1,6 +1,6 @@
 // 1920. 수 찾기
-// 2018.10.14
-#include<iostream>
+// 2019.05.19
+// 이분탐색
 #include<vector>
 #include<algorithm>
 
@@ -25,6 +25,7 @@ int main()
 	{
 		int tmp;
 		cin >> tmp;
+		// STL에 있는 binary_search 사용
 		if (binary_search(v.begin(), v.end(), tmp))
 		{
 			printf("1\n");

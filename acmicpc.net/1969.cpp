@@ -1,12 +1,13 @@
 // 1969. DNA
-// 2018.11.27
+// 2019.05.19
+// 그리디 알고리즘
 #include<iostream>
 #include<string>
 #include<vector>
 
 using namespace std;
 
-int alpa[26];//알파벳 개수 저장
+int alpa[26]; // 알파벳 개수 저장
 void Init()
 {
 	for (int i = 0; i < 26; i++)
@@ -26,7 +27,7 @@ int main()
 	}
 
 	string ansString="";
-	for (int i = 0; i < m; i++) //  자릿수에 대해 계산
+	for (int i = 0; i < m; i++) // 자릿수에 대해 계산
 	{
 		Init(); // 알파벳 개수 초기화
 		for (int j = 0; j < v.size(); j++) // v[0]부터 v[v.size()-1]까지

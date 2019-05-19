@@ -1,5 +1,6 @@
 // 1967. 트리의 지름
-// 2018.11.13
+// 2019.05.19
+// BFS, 트리
 #include<vector>
 #include<iostream>
 
@@ -18,7 +19,7 @@ int DFS(int start)
 	for (int i = 0; i < v[start].size(); i++)
 	{
 		sum = DFS(v[start][i].first) + v[start][i].second;
-		if (sum > first) //sum,first,second순이므로 first를 sum으로 second를 first로 갱신
+		if (sum > first) // sum, first, second순이므로 first를 sum으로 second를 first로 갱신
 		{
 			second = first;
 			first = sum;

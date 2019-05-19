@@ -1,5 +1,6 @@
 // 1964. 오각형, 오각형, 오각형…
-// 2018.12.03
+// 2019.05.19
+// 수학
 #include<iostream>
 
 using namespace std;

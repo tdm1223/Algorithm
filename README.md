@@ -197,6 +197,7 @@ N과 M
 |  55  |         [GCD 합](https://www.acmicpc.net/problem/9613)         | [cpp](acmicpc.net/9613.cpp)  |  56  |       [소인수분해](https://www.acmicpc.net/problem/11653)       | [cpp](acmicpc.net/11653.cpp) |
 |  57  |      [택시 기하학](https://www.acmicpc.net/problem/3053)       | [cpp](acmicpc.net/3053.cpp)  |  58  |          [터렛](https://www.acmicpc.net/problem/1002)           | [cpp](acmicpc.net/1002.cpp)  |
 |  59  |      [약수 구하기](https://www.acmicpc.net/problem/2501)       | [cpp](acmicpc.net/2501.cpp)  |  60  |        [배수 찾기](https://www.acmicpc.net/problem/4504)        | [cpp](acmicpc.net/4504.cpp)  |
+|  61  |       [최소공배수](https://www.acmicpc.net/problem/1934)       | [cpp](acmicpc.net/1934.cpp)  |      |                                                                 |                              |
 
 문자열 처리
 -----------
@@ -302,7 +303,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  51  |   [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)    | [cpp](acmicpc.net/16954.cpp) |  52  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [cpp](acmicpc.net/2206.cpp)  |
 |  53  |           [퍼즐](https://www.acmicpc.net/problem/1525)           | [cpp](acmicpc.net/1525.cpp)  |  54  |       [결혼식](https://www.acmicpc.net/problem/5567)       | [cpp](acmicpc.net/5567.cpp)  |
 |  55  |           [빙산](https://www.acmicpc.net/problem/2573)           | [cpp](acmicpc.net/2573.cpp)  |  56  |        [오목](https://www.acmicpc.net/problem/2615)        | [cpp](acmicpc.net/2615.cpp)  |
-|  57  |  [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)  | [cpp](acmicpc.net/16988.cpp) |      |                                                            |                              |
+|  57  |  [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)  | [cpp](acmicpc.net/16988.cpp) |  58  |   [통나무 옮기기](https://www.acmicpc.net/problem/1938)    | [cpp](acmicpc.net/1938.cpp)  |
 
 Greedy Algorithm
 ----------------

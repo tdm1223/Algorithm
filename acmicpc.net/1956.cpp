@@ -1,6 +1,6 @@
 // 1956. 운동
-// 분류 : 플로이드 와샬 알고리즘
-// 2018.12.03
+// 2019.05.19
+// 플로이드 와샬 알고리즘
 #include<iostream>
 #include<algorithm>
 
@@ -18,14 +18,14 @@ int main()
 		d[from][to] = cost;
 	}
 
-	//i를 거쳐가는게 더 빠를 경우 update
+	// i를 거쳐가는게 더 빠를 경우 update
 	for (int i = 1; i <= n; i++)
 	{
 		for (int from = 1; from <= n; from++)
 		{
 			if (d[from][i] == 0)
 			{
-				continue;//출발지에서 i로 가는 경로가 없을땐 무시
+				continue; // 출발지에서 i로 가는 경로가 없을땐 무시
 			}
 			for (int to = 1; to <= n; to++)
 			{

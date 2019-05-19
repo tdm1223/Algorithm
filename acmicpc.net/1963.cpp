@@ -1,5 +1,6 @@
 // 1963. 소수 경로
-// 2019.02.19
+// 2019.05.19
+// BFS, 소수
 #include<iostream>
 #include<vector>
 #include<queue>

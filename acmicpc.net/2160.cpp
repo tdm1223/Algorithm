@@ -1,5 +1,6 @@
 // 2160. 그림 비교
-// 2018.12.02
+// 2019.05.19
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 #include<string>
@@ -55,7 +56,6 @@ int main()
 			}
 		}
 	}
-
 	cout << first << " " << second << endl;
 	return 0;
 }

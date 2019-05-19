@@ -1,5 +1,6 @@
 // 2161. 카드1
-// 2018.11.07
+// 2019.05.19
+// 시뮬레이션
 #include<iostream>
 #include<deque>
 
@@ -17,7 +18,9 @@ int main()
 	while (dq.size() != 1)
 	{
 		cout << dq.front() << " ";
+ 		// 제일 위에 있는 카드를 버린다.
 		dq.pop_front();
+		// 그 다음, 제일 위에 있는 카드를 맨아래로 옮긴다.
 		dq.push_back(dq.front());
 		dq.pop_front();
 	}

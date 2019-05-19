@@ -1,5 +1,6 @@
 // 1937. 욕심쟁이 판다
-// 2018.10.15
+// 2019.05.19
+// 다이나믹 프로그래밍
 #include<iostream>
 #include<algorithm>
 

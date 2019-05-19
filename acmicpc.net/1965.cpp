@@ -1,5 +1,6 @@
 // 1965. 상자넣기
-// 2018.12.03
+// 2019.05.19
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;

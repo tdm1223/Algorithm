@@ -1,6 +1,6 @@
 // 1919. 애너그램 만들기
-// 분류 : 수학, 문자열 처리
-// 2018.11.18
+// 2019.05.19
+// 수학, 문자열 처리
 #include<iostream>
 #include<algorithm>
 #include<string>

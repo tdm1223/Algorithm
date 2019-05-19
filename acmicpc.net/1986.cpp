@@ -1,5 +1,6 @@
 // 1986. 체스
-// 2019.04.14
+// 2019.05.19
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 

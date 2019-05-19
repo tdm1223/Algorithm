@@ -1,5 +1,6 @@
 // 1987. 알파벳
-// 2019.02.16
+// 2019.05.19
+// DFS, 백트래킹
 #include<iostream>
 
 using namespace std;
@@ -42,9 +43,7 @@ void DFS(int x, int y, int cnt)
 }
 int main()
 {
-
 	cin >> r >> c;
-
 	for (int i = 0; i < r; i++)
 	{
 		for (int j = 0; j < c; j++)

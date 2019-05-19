@@ -1,5 +1,6 @@
 // 1952. 달팽이2
-// 2017.12.03
+// 2019.05.19
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;

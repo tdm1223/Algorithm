@@ -1,5 +1,6 @@
 // 1924. 2007년
-// 2018.12.03
+// 2019.05.19
+// 구현
 #include<iostream>
 #include<string>
 
@@ -9,8 +10,8 @@ int main()
 {
 	int x, y;
 	cin >> x >> y;
-	int month[13] = { 0,31,28,31,30,31,30,31,31,30,31,30,31 }; //월
-	string day[7] = { "SUN","MON","TUE","WED","THU","FRI","SAT" }; //요일
+	int month[13] = { 0,31,28,31,30,31,30,31,31,30,31,30,31 }; // 월(month)
+	string day[7] = { "SUN","MON","TUE","WED","THU","FRI","SAT" }; // 요일
 
 	int sum = 0;
 	for (int i = 0; i < x; i++)
