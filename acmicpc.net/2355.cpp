@@ -1,5 +1,6 @@
 // 2355. 시그마
-// 2018.12.08
+// 2019.05.20
+// 수학
 #include <iostream>
 
 using namespace std;

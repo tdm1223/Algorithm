@@ -1,17 +1,18 @@
 // 2238. 경매
-// 2017.12.08
+// 2019.05.20
+// 시뮬레이션
 #include<iostream>
 #include<string>
 #include<map>
 
 using namespace std;
 
-int cost[10001];
+int cost[10001]; // 물건가격
 int main()
 {
 	int u, n;
 	cin >> u >> n;
-  //가장 처음 입찰한 사람이 물품을 가져가기 때문에 map 사용
+  // 가장 처음 입찰한 사람이 물품을 가져가기 때문에 map 사용
 	map<int, string> map;
 	for (int i = 0; i < n; i++)
 	{

@@ -1,5 +1,6 @@
 // 2206. 벽 부수고 이동하기
-// 2019.03.24
+// 2019.05.20
+// BFS
 #include<iostream>
 #include<queue>
 
@@ -66,23 +67,26 @@ int main()
 	}
 
 	// 결과 출력
+	// 0개 부수거나 1개 부수고 이동하기 가능
 	if (dist[n - 1][m - 1][0] != 0 && dist[n - 1][m - 1][1] != 0)
 	{
 		cout << min(dist[n - 1][m - 1][0], dist[n - 1][m - 1][1]);
 	}
+	// 0개 부수고 이동하기 가능
 	else if (dist[n - 1][m - 1][0] != 0)
 	{
 		cout << dist[n - 1][m - 1][0];
 	}
+	// 1개 부수고 이동하기 가능
 	else if (dist[n - 1][m - 1][1] != 0)
 	{
 		cout << dist[n - 1][m - 1][1];
 	}
+	// 불가능
 	else
 	{
 		cout << -1;
 	}
 	cout << endl;
-
 	return 0;
 }

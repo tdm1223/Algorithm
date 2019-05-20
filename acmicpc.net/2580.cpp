@@ -1,5 +1,6 @@
 // 2580. 스도쿠
-// 2019.04.04
+// 2019.05.20
+// 백트래킹
 #include<iostream>
 #include<vector>
 

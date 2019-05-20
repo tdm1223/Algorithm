@@ -1,10 +1,11 @@
 // 2775. 부녀회장이 될테야
-// 2018.11.04
+// 2019.05.20
+// 구현
 #include<iostream>
 
 using namespace std;
 
-int d[15][15]; //d[i][j] : i층 j호에 거주하는 사람의 수
+int d[15][15]; // d[i][j] : i층 j호에 거주하는 사람의 수
 int main()
 {
 	for (int i = 1; i <= 14; i++)

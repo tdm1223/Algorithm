@@ -1,5 +1,6 @@
 // 2503. 숫자 야구
-// 2018.10.15
+// 2019.05.20
+// 브루트 포스
 #include<vector>
 #include<iostream>
 
@@ -26,6 +27,7 @@ int main()
 	}
 
 	int answer = 0;
+	// 123부터 987까지
 	for (int i = 123; i <= 987; i++)
 	{
 		int count = 0;
@@ -65,7 +67,6 @@ int main()
 			answer++;
 		}
 	}
-
 	cout << answer << endl;
 	return 0;
 }

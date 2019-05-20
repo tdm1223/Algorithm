@@ -1,5 +1,6 @@
 // 2530. 인공지능 시계
-// 2018.12.08
+// 2019.05.20
+// 입문용
 #include<iostream>
 
 using namespace std;

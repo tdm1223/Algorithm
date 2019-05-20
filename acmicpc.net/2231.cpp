@@ -1,5 +1,6 @@
 // 2231. 분해합
-// 2018.12.30
+// 2019.05.20
+// 브루트 포스
 #include<iostream>
 
 using namespace std;
@@ -22,6 +23,7 @@ int main()
 
 	// 생성자가 없는 경우엔 0을 출력해야 하므로 0으로 초기화
 	int ans = 0;
+	// 가장 작은 생성자를 구하는 것이므로 1부터 시작한다.
 	for (int i = 1; i <= n; i++)
 	{
 		if (i + DivSum(i) == n)

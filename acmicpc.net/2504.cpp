@@ -1,5 +1,6 @@
 // 2504. 괄호의 값
-// 2018.12.08
+// 2019.05.20
+// 스택
 #include<iostream>
 #include<stack>
 #include<string>
@@ -35,6 +36,7 @@ int main()
 			}
 		}
 
+		// 스택이 비어있지 않을 때 닫는 괄호 처리
 		if (!stack.empty())
 		{
 			if (s[i] == ')')
@@ -52,6 +54,15 @@ int main()
 				{
 					stack.pop();
 				}
+			}
+		}
+		// 스택이 비었을때 닫는 괄호가 나오면 올바른 괄호가 아님
+		else
+		{
+			if (s[i] == ')' || s[i] == ']')
+			{
+				sum = 0;
+				break;
 			}
 		}
 	}

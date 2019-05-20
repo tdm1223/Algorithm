@@ -1,5 +1,6 @@
 // 2669. 직사각형 네개의 합집합의 면적 구하기
-// 2019.04.15
+// 2019.05.20
+// 입문용
 #include<iostream>
 
 using namespace std;
@@ -22,7 +23,6 @@ int main()
 			}
 		}
 	}
-
 	int ans = 0;
 	for (int i = 0; i < 100; i++)
 	{
@@ -34,7 +34,6 @@ int main()
 			}
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

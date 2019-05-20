@@ -1,12 +1,12 @@
 // 2302. 극장 좌석
-// 분류 : Dynamic Programming
-// 2018.11.25
+// 2019.05.20
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
 
-int d[41];
 int a[41];
+int d[41]; // d[i] : 연속된 VIP가 아닌 i명이 앉을 수 있는 경우의 수
 int main()
 {
 	int n, k;
@@ -18,7 +18,6 @@ int main()
 		a[b - 1] = 1;
 	}
 
-	// 연속된 VIP가 아닌 n명이 앉을 수 있는 경우의 수 : d[n]
 	d[0] = 1;
 	d[1] = 1;
 	d[2] = 2;

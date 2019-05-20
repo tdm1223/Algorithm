@@ -1,5 +1,6 @@
 // 2875. 대회 or 인턴
-// 2018.10.15
+// 2019.05.20
+// 그리디 알고리즘
 #include <iostream>
 #include<algorithm>
 

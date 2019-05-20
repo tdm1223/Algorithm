@@ -1,5 +1,6 @@
 // 2863. 이게 분수?
-// 2018.10.15
+// 2019.05.20
+// 수학
 #include<iostream>
 #include<algorithm>
 
@@ -26,7 +27,6 @@ int main()
 			break;
 		}
 	}
-	
 	cout << count << endl;
 	return 0;
 }

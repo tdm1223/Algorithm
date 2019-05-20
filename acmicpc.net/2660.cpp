@@ -1,5 +1,6 @@
 // 2660. 회장뽑기
-// 2018.11.20
+// 2019.05.20
+// 플로이드 와샬 알고리즘
 #include<iostream>
 #include<algorithm>
 #include<vector>

@@ -1,5 +1,6 @@
 // 2589. 보물섬
-// 2018.11.30
+// 2019.05.20
+// BFS
 #include<iostream>
 #include<queue>
 

@@ -1,5 +1,6 @@
 // 2475. 검증수
-// 2019.02.26
+// 2019.05.20
+// 입문용
 #include<iostream>
 
 using namespace std;

@@ -1,5 +1,6 @@
 // 2588. 곱셈
-// 2108.12.08
+// 2019.05.20
+// 수학
 #include<iostream>
 
 using namespace std;

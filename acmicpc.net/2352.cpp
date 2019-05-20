@@ -1,6 +1,6 @@
 // 2352. 반도체 설계
-// 분류 : LIS, 그리디 알고리즘, Dynamic Programming
-// 2018.12.08
+// 2019.05.20
+// LIS, 그리디 알고리즘, 다이나믹 프로그래밍
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -17,7 +17,7 @@ int main()
 		cin >> a[i];
 	}
 
-	// LIS를 nlogn의 시간복잡도로 구한다.
+	// LIS를 O(nlogn)의 시간복잡도로 구한다.
 	vector<int> v;
 	v.push_back(a[0]);
 	for (int i = 1; i < n; i++)
@@ -33,7 +33,6 @@ int main()
 			*it = a[i];
 		}
 	}
-
 	cout << v.size() << endl;
 	return 0;
 }

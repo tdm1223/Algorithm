@@ -1,5 +1,6 @@
 // 2225. 합분해
-// 2018.10.15
+// 2019.05.20
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
@@ -27,7 +28,6 @@ int main()
 			}
 		}
 	}
-
 	cout << d[k][n] << endl;
 	return 0;
 }

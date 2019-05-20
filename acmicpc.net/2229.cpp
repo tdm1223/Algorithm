@@ -1,11 +1,12 @@
 // 2229. 조짜기
-// 2018.12.23
+// 2019.05.20
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
 
-int d[1001]; // d[i] : i번째 까지의 잘짜여진 정도의 최댓값
 int a[1001];
+int d[1001]; // d[i] : i번째 까지의 잘짜여진 정도의 최댓값
 int main()
 {
 	int n;

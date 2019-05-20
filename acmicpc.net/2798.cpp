@@ -1,5 +1,6 @@
 // 2798. 블랙잭
-// 2018.10.15
+// 2019.05.20
+// 구현
 #include<iostream>
 #include<vector>
 
@@ -32,7 +33,6 @@ int main()
 			}
 		}
 	}
-	
 	cout << ans << endl;
 	return 0;
 }

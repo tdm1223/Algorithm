@@ -1,5 +1,6 @@
 // 2667. 단지번호 붙이기
-// 2018.10.15
+// 2019.05.20
+// BFS, DFS
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -7,10 +8,10 @@
 
 using namespace std;
 
-int arr[26][26]; //단지
-bool visit[26][26]; //방문 유무
+int arr[26][26]; // 단지
+bool visit[26][26]; // 방문 유무
 
-//상하좌우
+// 상, 하, 좌, 우
 int dx[4] = { 0,0,-1,1 };
 int dy[4] = { 1,-1,0,0 };
 int n;

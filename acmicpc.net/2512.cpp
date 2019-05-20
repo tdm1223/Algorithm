@@ -1,5 +1,6 @@
 // 2512. 예산
-// 2018.10.15 이분탐색
+// 2019.05.20
+// 이분탐색
 #include<vector>
 #include<algorithm>
 #include<iostream>

@@ -1,5 +1,6 @@
 // 2615. 오목
-// 2019.04.04
+// 2019.05.20
+// BFS
 #include<iostream>
 #include<algorithm>
 #include<vector>

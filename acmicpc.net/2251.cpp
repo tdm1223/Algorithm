@@ -1,5 +1,6 @@
 // 2251. 물통
-// 2018.11.30
+// 2019.05.20
+// BFS
 #include<iostream>
 #include<queue>
 #include<vector>
@@ -17,7 +18,7 @@ int main()
 	q.push({ 0,0 });
 	visit[0][0] = true;
 	vector<int> ans;
-	ans.push_back(c); // 처음 C의 물의양도 답이 될 수 있음.
+	ans.push_back(c); // 처음 C의 물의 양도 답이 될 수 있음.
 	while (!q.empty())
 	{
 		int x = q.front().first;
@@ -26,7 +27,7 @@ int main()
 		q.pop();
 		int xx, yy, zz;
 
-		// x -> y로 물 이동
+		// 1. x -> y로 물 이동
 		xx = x;
 		yy = y;
 		zz = z;
@@ -47,7 +48,7 @@ int main()
 			}
 		}
 
-		// x -> z
+		// 2. x -> z
 		xx = x;
 		yy = y;
 		zz = z;
@@ -68,7 +69,7 @@ int main()
 			}
 		}
 
-		// y -> x
+		// 3. y -> x
 		xx = x;
 		yy = y;
 		zz = z;
@@ -89,7 +90,7 @@ int main()
 			}
 		}
 
-		// y -> z
+		// 4. y -> z
 		xx = x;
 		yy = y;
 		zz = z;
@@ -110,7 +111,7 @@ int main()
 			}
 		}
 
-		//z -> x
+		// 5. z -> x
 		xx = x;
 		yy = y;
 		zz = z;
@@ -131,7 +132,7 @@ int main()
 			}
 		}
 
-		// z -> y
+		// 6. z -> y
 		xx = x;
 		yy = y;
 		zz = z;

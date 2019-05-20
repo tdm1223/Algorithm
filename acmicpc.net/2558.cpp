@@ -1,12 +1,14 @@
-// 2557. Hello World
+// 2558. A+B - 2
 // 2019.05.20
-// 출력
+// 수학
 #include<iostream>
 
 using namespace std;
 
 int main()
 {
-	cout << "Hello World!" << endl;
+	int a, b, c;
+	cin >> a >> b;
+	cout << a + b << endl;
 	return 0;
 }

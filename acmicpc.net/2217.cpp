@@ -1,5 +1,6 @@
 // 2217. 로프
-// 2018.10.15
+// 2019.05.20
+// 그리디 알고리즘
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -16,7 +17,7 @@ int main()
 		cin >> v[i];
 	}
 
-	//내림차순 정렬
+	// 내림차순 정렬
 	sort(v.begin(), v.end(), greater<int>());
 
 	int ans = 0;
@@ -26,7 +27,6 @@ int main()
 		int weight = v[i] * (i + 1);
 		ans = max(ans, weight);
 	}
-
 	cout << ans << endl;
 	return 0;
 }

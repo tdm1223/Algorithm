@@ -1,5 +1,6 @@
 // 2789. 유학 금지
-// 2018.10.15
+// 2019.05.20
+// 문자열 처리
 #include<iostream>
 #include<string>
 
@@ -21,7 +22,7 @@ int main()
 			}
 			if (j == 8)
 			{
-				ans += s[i];//끝까지 간다면 CAMBRIDGE중에 없으므로 ans에 추가
+				ans += s[i]; // 끝까지 간다면 CAMBRIDGE중에 없으므로 ans에 추가
 			}
 		}
 	}

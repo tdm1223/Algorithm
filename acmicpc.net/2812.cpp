@@ -1,5 +1,6 @@
 // 2812. 크게 만들기
-// 2019.01.07
+// 2019.05.20
+// 그리디 알고리즘, 수학
 #include<string>
 #include<queue>
 #include<iostream>
@@ -37,7 +38,6 @@ int main()
         answer+=dq.front();
         dq.pop_front();
     }
-
     cout<<answer<<endl;
     return 0;
 }

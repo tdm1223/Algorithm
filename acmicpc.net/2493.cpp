@@ -1,5 +1,6 @@
 // 2493. 탑
-// 2018.10.15
+// 2019.05.20
+// 스택
 #include<iostream>
 #include<stack>
 #include<vector>
@@ -15,9 +16,9 @@ int main()
 	for (int i = 0; i < n; i++)
 	{
 		cin >> k;
-		while (!s.empty()) //탑이 있을 경우
+		while (!s.empty()) // 탑이 있을 경우
 		{
-			//탑의 높이를 비교 하여 큰게 있을때까지 pop함.
+			// 탑의 높이를 비교 하여 큰게 있을때까지 pop함.
 			if (s.top().second > k)
 			{
 				ans.push_back(s.top().first);
@@ -27,7 +28,7 @@ int main()
 		}
 		if (s.empty())
 		{
-			ans.push_back(0);//탑이 없을 경우 0을 추가
+			ans.push_back(0); // 탑이 없을 경우 0을 추가
 		}
 		s.push({ i + 1, k });
 	}

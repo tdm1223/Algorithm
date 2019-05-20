@@ -1,5 +1,6 @@
 // 2750. 수 정렬하기
-// 2019.04.07
+// 2019.05.20
+// 정렬
 #include<iostream>
 #include<string>
 

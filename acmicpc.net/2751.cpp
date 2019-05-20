@@ -1,5 +1,6 @@
 // 2751. 수 정렬하기 2
-// 2018.11.12
+// 2019.05.20
+// 정렬
 #include<cstdio>
 
 #define SWAP(x, y) { int t = x; x = y; y = t; }

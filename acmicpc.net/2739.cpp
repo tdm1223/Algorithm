@@ -1,5 +1,6 @@
 // 2739. 구구단
-// 2018.12.08
+// 2019.05.20
+// 출력
 #include<iostream>
 
 using namespace std;

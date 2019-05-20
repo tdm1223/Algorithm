@@ -1,5 +1,6 @@
 // 2438. 별 찍기 - 1
-// 2019.03.15
+// 2019.05.20
+// 별 찍기
 #include<iostream>
 
 using namespace std;

@@ -1,5 +1,6 @@
 // 2675. 문자열 반복
-// 2018.10.15
+// 2019.05.20
+// 입문용
 #include<iostream>
 #include<string>
 

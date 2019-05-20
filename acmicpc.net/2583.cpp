@@ -1,5 +1,6 @@
 // 2583. 영역 구하기
-// 2018.10.15
+// 2019.05.20
+// BFS, DFS
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -7,9 +8,9 @@
 using namespace std;
 
 int arr[101][101]; // 영역
-bool visit[101][101]; //방문 여부
+bool visit[101][101]; // 방문 여부
 
-//상하좌우
+// 상, 하, 좌, 우
 int dx[4] = { 0,0,-1,1 };
 int dy[4] = { 1,-1,0,0 };
 int n, m, k;
@@ -69,8 +70,11 @@ int main()
 		}
 	}
 
+	// 영역 넓이 오름차순으로 정렬
 	sort(area.begin(), area.end());
+	// 영역의 개수 출력
 	cout << area.size() << endl;
+	// 영역의 넓이 출력
 	for (int i = 0; i < area.size(); i++)
 	{
 		cout << area[i] << " ";

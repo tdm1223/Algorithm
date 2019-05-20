@@ -1,5 +1,6 @@
 // 2573. 빙산
-// 2019.04.03
+// 2019.05.20
+// BFS
 #include<iostream>
 #include<queue>
 #include<algorithm>

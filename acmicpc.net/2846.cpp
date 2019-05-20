@@ -1,5 +1,6 @@
 // 2846. 오르막 길
-// 2018.10.15
+// 2019.05.20
+// 자료구조
 #include<iostream>
 #include<vector>
 #include<algorithm>

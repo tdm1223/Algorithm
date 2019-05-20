@@ -1,5 +1,6 @@
 // 2437. 저울
-// 2018.11.25
+// 2019.05.20
+// 그리디 알고리즘
 #include<iostream>
 #include<algorithm>
 #include<vector>

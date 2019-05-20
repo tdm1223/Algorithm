@@ -1,5 +1,6 @@
 // 2822. 점수 계산
-// 2018.10.15
+// 2019.05.20
+// 구현
 #include<iostream>
 #include<algorithm>
 #include<vector>

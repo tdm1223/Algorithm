@@ -1,5 +1,6 @@
 // 2799. 블라인드
-// 2019.04.03
+// 2019.05.20
+// 문자열 처리
 #include<iostream>
 #include<string>
 

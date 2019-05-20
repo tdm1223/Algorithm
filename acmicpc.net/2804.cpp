@@ -1,12 +1,13 @@
 // 2804. 크로스워드 만들기
-// 2018.10.15
+// 2019.05.20
+// 문자열 처리
 #include<iostream>
 #include<string>
 #include<vector>
 
 using namespace std;
 
-//두 문자열의 첫 교차점의 인덱스를 반환하는 함수
+// 두 문자열의 첫 교차점의 인덱스를 반환하는 함수
 vector<int> Index(string a, string b)
 {
 	vector<int> tmp;

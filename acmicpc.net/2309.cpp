@@ -1,6 +1,6 @@
 // 2309. 일곱 난쟁이
-// 2019.04.05
-// 재채점으로 인한 다시 풀이
+// 2019.05.20
+// 브루트 포스
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -14,11 +14,10 @@ int main()
 	for (int i = 0; i < 9; i++)
 	{
 		cin >> a[i];
-		sum += a[i]; //모든 난쟁이 합을 우선 구한다
+		sum += a[i]; // 모든 난쟁이 합을 우선 구한다
 	}
 
-	sort(a.begin(), a.end()); //미리 정렬
-
+	sort(a.begin(), a.end()); // 미리 정렬
 	for (int i = 0; i < 9; i++)
 	{
 		for (int j = i + 1; j < 9; j++)
@@ -37,6 +36,5 @@ int main()
 			}
 		}
 	}
-
 	return 0;
 }

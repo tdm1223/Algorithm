@@ -1,5 +1,6 @@
 // 2293. 동전1
-// 2018.10.15
+// 2019.05.20
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;

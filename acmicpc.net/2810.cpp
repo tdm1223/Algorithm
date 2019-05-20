@@ -1,5 +1,6 @@
 // 2810. 컵홀더
-// 2018.12.08
+// 2019.05.20
+// 문자열 처리
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -21,13 +22,13 @@ int main()
 		{
 			count++;
 		}
-		else if (s[i] == 'L')//커플석일때
+		else if (s[i] == 'L') // 커플석일때
 		{
 			i++;
 			count++;
 		}
 	}
-	//사람의 수와 계산한 count 중 작은 값을 출력
+	// 사람의 수와 계산한 count 중 작은 값을 출력
 	cout << min(count, n) << endl;
 	return 0;
 }

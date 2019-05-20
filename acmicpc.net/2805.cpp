@@ -1,6 +1,6 @@
 // 2805. 나무 자르기
-// 분류 : 이분탐색
-// 2018.12.08
+// 2019.05.20
+// 이분탐색
 #include<iostream>
 #include<vector>
 
@@ -25,7 +25,7 @@ int main()
 	while (left <= right)
 	{
 		long long mid = (left + right) / 2;
-		long long total = 0; //자르고 나온 통나무들의 합을 구하는 변수
+		long long total = 0; // 자르고 나온 통나무들의 합을 구하는 변수
 
 		for (int i = 0; i < n; i++)
 		{
@@ -35,7 +35,7 @@ int main()
 			}
 		}
 
-		if (total >= m) //절단기의 높이를 높인다.
+		if (total >= m) // 절단기의 높이를 높인다.
 		{
 			if (ans < mid)
 			{
@@ -43,7 +43,7 @@ int main()
 			}
 			left = mid + 1;
 		}
-		else //절단기의 높이를 낮춘다.
+		else // 절단기의 높이를 낮춘다.
 		{
 			right = mid - 1;
 		}

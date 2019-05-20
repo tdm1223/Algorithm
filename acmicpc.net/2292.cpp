@@ -1,5 +1,6 @@
 // 2292. 벌집
-// 2018.10.15
+// 2019.05.20
+// 수학
 #include<iostream>
 
 using namespace std;

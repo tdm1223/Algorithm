@@ -1,5 +1,6 @@
 // 2455. 지능형 기차
-// 2018.12.08
+// 2019.05.20
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;
@@ -11,7 +12,6 @@ int main()
 	{
 		cin >> arr[i];
 	}
-
 	int max = 1;
 	int num = 0;
 	int flag = -1;

@@ -1,11 +1,12 @@
 // 2631. 줄 세우기
-// 2018.10.15
+// 2019.05.20
+// 다이나믹 프로그래밍
 #include<iostream>
 #include<algorithm>
 
 using namespace std;
 
-int d[1001]; //d[i] : i번째 까지 제대로 줄을 선 아이들의 최대 수
+int d[1001]; // d[i] : i번째 까지 제대로 줄을 선 아이들의 최대 수
 int a[1001];
 
 int main()

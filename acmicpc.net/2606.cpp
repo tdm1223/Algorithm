@@ -1,12 +1,13 @@
 // 2606. 바이러스
-// 2018.10.15
+// 2019.05.20
+// 플로이드 와샬 알고리즘
 #include<iostream>
 #include<queue>
 
 using namespace std;
 
 int computer[101][101];
-int visit[101]; //visit[i] = 1이면 컴퓨터 i는 바이러스에 걸린상태
+int visit[101]; // visit[i] = 1이면 컴퓨터 i는 바이러스에 걸린상태
 int main()
 {
 	int n, k;
@@ -44,7 +45,6 @@ int main()
 			count++;
 		}
 	}
-
 	cout << count << endl;
 	return 0;
 }

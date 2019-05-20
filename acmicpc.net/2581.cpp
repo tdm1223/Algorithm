@@ -1,5 +1,6 @@
-// 2019.03.02
 // 2581. 소수
+// 2019.05.20
+// 수학
 #include<iostream>
 
 using namespace std;

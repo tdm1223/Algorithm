@@ -1,5 +1,6 @@
 // 2671. 잠수함식별
-// 2018.11.11
+// 2019.05.20
+// 구현
 #include<iostream>
 #include<regex>
 #include<string>

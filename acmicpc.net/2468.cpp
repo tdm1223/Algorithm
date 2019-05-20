@@ -1,5 +1,6 @@
 // 2468. 안전 영역
-// 2018.10.15
+// 2019.05.20
+// BFS, DFS
 #include<iostream>
 #include<algorithm>
 
@@ -76,7 +77,6 @@ int main()
 		}
 		ans = ans > cnt ? ans : cnt;
 	}
-
 	cout << ans << endl;
 	return 0;
 }

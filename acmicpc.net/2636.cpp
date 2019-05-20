@@ -1,5 +1,6 @@
 // 2636. 치즈
-// 2019.03.07
+// 2019.05.20
+// BFS
 #include<iostream>
 #include<queue>
 
@@ -94,7 +95,6 @@ int main()
 
 						if (map[xx][yy] == 3)
 						{
-							//cout << "Xx : "<<xx << " yy" << yy << endl;
 							v.push_back({ x,y });
 							break;
 						}
@@ -102,21 +102,17 @@ int main()
 				}
 			}
 		}
-
 		for (int i = 0; i < v.size(); i++)
 		{
 			map[v[i].first][v[i].second] = 3;
 			cnt--;
 		}
 		ans++;
-
 		if (cnt <= 0)
 		{
 			cout << ans << " " << tmp << endl;
 			break;
 		}
-
 	}
-
 	return 0;
 }

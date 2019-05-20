@@ -1,5 +1,6 @@
 // 2490. 윷놀이
-// 2018.12.08
+// 2019.05.20
+// 구현
 #include<iostream>
 
 using namespace std;
