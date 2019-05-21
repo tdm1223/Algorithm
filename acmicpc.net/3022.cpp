@@ -1,5 +1,6 @@
 // 3022. 식사 예절
-// 2018.11.27
+// 2019.05.21
+// 자료구조
 #include<iostream>
 #include<string>
 #include<map>

@@ -1,5 +1,6 @@
 // 5597. 과제 안 내신 분..?
-// 2018.12.16
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;
@@ -14,7 +15,6 @@ int main()
 		cin >> arr[i];
 		num[arr[i]] = 1;
 	}
-
 	// 과제 안낸사람 찾기
 	for (int i = 1; i < 31; i++)
 	{

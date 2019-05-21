@@ -1,5 +1,6 @@
 // 6378. 디지털 루트
-// 2019.02.02
+// 2019.05.21
+// 입문용
 #include<iostream>
 #include<string>
 
@@ -14,7 +15,6 @@ int MakeRoot(int n)
 		ans += n % 10;
 		n /= 10;
 	}
-
 	// 10보다 작다면 그 값이 디지털 루트
 	if (ans < 10)
 	{
@@ -42,7 +42,6 @@ int main()
 		{
 			ans += s[i] - '0';
 		}
-
 		// 처음 한번 했을때 디지털루트가 완성됬다면 출력하고 아니면 만드는 함수 실행
 		if (ans < 10)
 		{
@@ -52,7 +51,6 @@ int main()
 		{
 			cout << MakeRoot(ans) << endl;
 		}
-
 	}
 	return 0;
 }

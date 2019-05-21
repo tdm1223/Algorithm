@@ -1,6 +1,6 @@
 // 5212. 지구 온난화
-// 분류 : 구현
-// 2018.12.16
+// 2019.05.21
+// 구현
 #include<iostream>
 #include<string>
 #include<algorithm>

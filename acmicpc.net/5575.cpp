@@ -1,5 +1,6 @@
 // 5575. 타임 카드
-// 2018.12.16
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;

@@ -1,5 +1,6 @@
 // 2914. 저작권
-// 2018.12.08
+// 2019.05.21
+// 수학
 #include<iostream>
 
 using namespace std;

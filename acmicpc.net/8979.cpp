@@ -1,5 +1,6 @@
 // 8979. 올림픽
-// 2018.10.15
+// 2019.05.21
+// 구현
 #include<algorithm>
 #include<iostream>
 #include<vector>
@@ -20,19 +21,19 @@ vector<medal> v;
 
 bool comp(medal a, medal b)
 {
-	if (a.gold != b.gold)//금
+	if (a.gold != b.gold) // 금
 	{
 		return a.gold > b.gold;
 	}
-	else if (a.silver != b.silver)//은
+	else if (a.silver != b.silver) // 은
 	{
 		return a.silver > b.silver;
 	}
-	else if (a.bronze != b.bronze)//동
+	else if (a.bronze != b.bronze) // 동
 	{
 		return a.bronze > b.bronze;
 	}
-	else//총개수
+	else // 총개수
 	{
 		return a.total == k;
 	}
@@ -47,9 +48,7 @@ int main()
 		cin >> medal.total >> medal.gold >> medal.silver >> medal.bronze;
 		v.push_back(medal);
 	}
-
 	sort(v.begin(), v.end(), comp);
-
 	for (int i = 0; i<n; i++)
 	{
 		if (v[i].total == k)

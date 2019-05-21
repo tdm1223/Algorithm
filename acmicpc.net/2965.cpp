@@ -1,12 +1,13 @@
 // 2965. 캥거루 세 마리
-// 2018.12.08
+// 2019.05.21
+// 수학
 #include<iostream>
 
 using namespace std;
 
 int main()
 {
-	//캥거루 3마리 사이의 구간중 큰 값 -1을 구한다.
+	// 캥거루 3마리 사이의 구간중 큰 값 -1을 구한다.
 	int A, B, C;
 	cin >> A >> B >> C;
 	if (C - B > B - A)

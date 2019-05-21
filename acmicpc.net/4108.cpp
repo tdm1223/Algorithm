@@ -1,5 +1,6 @@
 // 4108. 지뢰찾기
-// 2018.11.12
+// 2019.05.21
+// 구현
 #include<string>
 #include<iostream>
 

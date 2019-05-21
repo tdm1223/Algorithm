@@ -1,5 +1,6 @@
 // 7569. 토마토
-// 2018.12.24
+// 2019.05.21
+// BFS
 #include<iostream>
 #include<queue>
 

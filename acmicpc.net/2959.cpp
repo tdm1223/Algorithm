@@ -1,5 +1,6 @@
 // 2959. 거북이
-// 2019.03.28
+// 2019.05.21
+// 정렬
 #include<iostream>
 #include<algorithm>
 #include<vector>

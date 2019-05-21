@@ -1,5 +1,6 @@
 // 5397. 키로거
-// 2019.03.05
+// 2019.05.21
+// 스택, 배열, 시뮬레이션, 링크드 리스트
 #include<iostream>
 #include<string>
 #include<list>

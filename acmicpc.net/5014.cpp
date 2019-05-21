@@ -1,12 +1,13 @@
 // 5014. 스타트링크
-// 2018.10.15
+// 2019.05.21
+// BFS
 #include<queue>
 #include<iostream>
 
 using namespace std;
 
 int visit[1000001];
-int dist[1000001];//d[i] : i층을 가기 위해 눌러야 하는 버튼의 수의 최솟값
+int dist[1000001]; // d[i] : i층을 가기 위해 눌러야 하는 버튼의 수의 최솟값
 int main()
 {
 	int F, S, G, U, D;
@@ -15,12 +16,12 @@ int main()
 	q.push(S);
 	visit[S] = 1;
 	dist[S] = 0;
-	int flag = 0; //이동할 수 있는지 없는지를 나타내는 플래그. 이동할 수 있다면 1
+	int flag = 0; // 이동할 수 있는지 없는지를 나타내는 플래그. 이동할 수 있다면 1
 	while (!q.empty())
 	{
 		int now = q.front();
 		q.pop();
-		if (now == G)//목적지 도착
+		if (now == G) // 목적지 도착
 		{
 			flag = 1;
 			break;
@@ -41,7 +42,6 @@ int main()
 			}
 		}
 	}
-
 	if (flag)
 	{
 		cout << dist[G] << endl;

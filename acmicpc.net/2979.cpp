@@ -1,5 +1,6 @@
 // 2979. 트럭 주차
-// 2017.11.07
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;

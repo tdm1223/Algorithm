@@ -1,5 +1,6 @@
 // 4673. 셀프 넘버
-// 2018.12.16
+// 2019.05.21
+// 입문용, 에라토스테네스의 체
 #include<iostream>
 
 using namespace std;
@@ -21,7 +22,6 @@ int CheckSelfNumber(int n)
 	}
 	return sum;
 }
-
 int main()
 {
 	// 범위가 1부터 10000

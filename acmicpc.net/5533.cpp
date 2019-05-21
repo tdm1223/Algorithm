@@ -1,5 +1,6 @@
 // 5533. 유니크
-// 2018.11.15
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;

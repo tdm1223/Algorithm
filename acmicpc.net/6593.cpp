@@ -1,5 +1,6 @@
 // 6593. 상범 빌딩
-// 2019.02.02
+// 2019.05.21
+// BFS, DFS, 다익스트라 알고리즘
 #include<iostream>
 #include<queue>
 
@@ -10,11 +11,11 @@ int m, n, h;
 int dx[6] = { 1,-1,0,0,0,0 };
 int dy[6] = { 0,0,1,-1,0,0 };
 int dz[6] = { 0,0,0,0,1,-1 };
-struct position // 위치를 표현하는 구조체
+// 위치를 표현하는 구조체
+struct position
 {
 	int x, y, z;
 };
-
 position startPos; // 시작점
 position endPos; // 끝점
 int main()

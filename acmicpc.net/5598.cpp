@@ -1,5 +1,6 @@
 // 5598. 카이사르 암호
-// 2018.10.15
+// 2019.05.21
+// 문자열 처리, 정수론
 #include<iostream>
 #include<string>
 
@@ -31,7 +32,7 @@ int main()
 			ans += s[i] - 3;
 		}
 	}
-	
+
 	cout << ans << endl;
 	return 0;
 }

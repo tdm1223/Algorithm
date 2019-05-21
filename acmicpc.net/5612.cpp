@@ -1,5 +1,6 @@
 // 5612. 터널의 입구와 출구
-// 2018.11.24
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;

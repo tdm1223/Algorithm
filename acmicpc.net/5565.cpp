@@ -1,5 +1,6 @@
 // 5565. 영수증
-// 2018.12.16
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;
@@ -14,7 +15,6 @@ int main()
 		cin >> b;
 		a -= b;
 	}
-
 	cout << a << endl;
 	return 0;
 }

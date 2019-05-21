@@ -1,5 +1,6 @@
 // 7785. 회사에 있는 사람
-// 2018.11.26
+// 2019.05.21
+// 자료구조
 #include<iostream>
 #include<map>
 #include<string>

@@ -1,5 +1,6 @@
 // 3054. 피터팬 프레임
-// 2018.12.08
+// 2019.05.21
+// 구현
 #include<iostream>
 #include<string>
 

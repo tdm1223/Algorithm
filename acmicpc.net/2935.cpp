@@ -1,5 +1,6 @@
 // 2935. 소음
-// 2018.10.15
+// 2019.05.21
+// 구현
 #include<iostream>
 #include<string>
 #include<vector>
@@ -17,7 +18,7 @@ int main()
 	int bs = b.size();
 
 	vector<char> ans;
-	if (op == '+') //+일때
+	if (op == '+') // +일때
 	{
 		if (as > bs)
 		{
@@ -45,7 +46,7 @@ int main()
 				ans.push_back('0');
 			}
 		}
-		else//두 수의 자릿수가 같다면
+		else // 두 수의 자릿수가 같다면
 		{
 			ans.push_back('2');
 			for (int i = 0; i < as - 1; i++)
@@ -54,7 +55,7 @@ int main()
 			}
 		}
 	}
-	else if (op == '*') //*일때
+	else if (op == '*') // *일때
 	{
 		ans.push_back('1');
 		for (int i = 0; i < as + bs - 2; i++)
@@ -67,7 +68,6 @@ int main()
 	{
 		cout << ans[i];
 	}
-
 	cout << endl;
 	return 0;
 }

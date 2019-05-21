@@ -1,17 +1,18 @@
 // 2921. 도미노
-// 2018.12.08
+// 2019.05.21
+// 수학
 #include<iostream>
 
 using namespace std;
 
-int d[1001]; //d[n] : 크기가 n인 도미노 세트에 찍혀있는 점의 개수
+int d[1001]; // d[n] : 크기가 n인 도미노 세트에 찍혀있는 점의 개수
 int main()
 {
 	int n;
 	cin >> n;
 	d[1] = 3;
 	d[2] = 12;
-	
+
 	for (int i = 3; i <= n; i++)
 	{
 		int sum = 0;

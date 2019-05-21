@@ -1,5 +1,6 @@
 // 5371. Annoying Mosquitos
-// 2019.04.11
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 

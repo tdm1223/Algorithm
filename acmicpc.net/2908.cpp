@@ -1,5 +1,6 @@
 // 2908. 상수
-// 2018.10.15
+// 2019.05.21
+// 문자열 처리
 #include<iostream>
 #include<string>
 #include<algorithm>

@@ -1,5 +1,6 @@
 // 2960. 에라토스테네스의 체
-// 2018.12.08
+// 2019.05.21
+// 에라토스테네스의 체, 구현
 #include<iostream>
 
 using namespace std;

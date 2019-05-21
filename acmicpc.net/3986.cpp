@@ -1,5 +1,6 @@
 // 3986. 좋은 단어
-// 2018.10.15
+// 2019.05.21
+// 스택, 문자열 처리
 #include<iostream>
 #include<string>
 #include<stack>
@@ -17,7 +18,6 @@ int main()
 		stack<char> s;
 		string a;
 		cin >> a;
-
 		for (int i = 0; i < a.size(); i++)
 		{
 			if (s.empty())
@@ -33,7 +33,7 @@ int main()
 				s.push(a[i]);
 			}
 		}
-		//스택이 비어있다면 좋은 단어
+		// 스택이 비어있다면 좋은 단어
 		if (s.empty())
 		{
 			count++;

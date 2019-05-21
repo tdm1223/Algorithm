@@ -1,5 +1,6 @@
 // 3055. 탈출
-// 2019.03.12
+// 2019.05.21
+// BFS, 시뮬레이션
 #include<iostream>
 #include<algorithm>
 #include<queue>
@@ -50,7 +51,7 @@ int main()
 		}
 	}
 
-	// 물을 뿌려준다.
+	// 1. 물을 뿌려준다.
 	while (!q.empty())
 	{
 		int x = q.front().first;
@@ -81,7 +82,7 @@ int main()
 		}
 	}
 
-	// 비버를 이동시켜준다.
+	// 2. 비버를 이동시켜준다.
 	q.push({ sx, sy });
 	dist[sx][sy] = 0;
 	while (!q.empty())

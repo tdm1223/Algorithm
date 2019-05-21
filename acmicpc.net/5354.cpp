@@ -1,5 +1,6 @@
 // 5354. J박스
-// 2018.12.16
+// 2019.05.21
+// 출력
 #include<iostream>
 
 using namespace std;

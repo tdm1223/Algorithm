@@ -1,11 +1,13 @@
 // 2980. 도로와 신호등
-// 2019.04.10
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 #include<algorithm>
 #include<vector>
 
 using namespace std;
 
+// 신호등 구조체
 struct light
 {
 	int d;
@@ -19,7 +21,6 @@ int main()
 {
 	int n, l;
 	cin >> n >> l;
-
 	for (int i = 0; i < n; i++)
 	{
 		int d, r, g;
@@ -45,7 +46,6 @@ int main()
 		sec++;
 		cnt++;
 	}
-
 	cout << sec << endl;
 	return 0;
 }

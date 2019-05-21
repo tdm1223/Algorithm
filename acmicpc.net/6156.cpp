@@ -1,6 +1,6 @@
 // 6156. Cow Contest
-// 분류 : 플로이드 와샬 알고리즘
-// 2018.12.16
+// 2019.05.21
+// 플로이드 와샬 알고리즘
 #include<iostream>
 
 using namespace std;
@@ -14,7 +14,7 @@ int main()
 	{
 		int from, to;
 		cin >> from >> to;
-		//대소방향을 나타내기 위해 1과 -1로 저장
+		// 대소방향을 나타내기 위해 1과 -1로 저장
 		d[from][to] = 1;
 		d[to][from] = -1;
 	}

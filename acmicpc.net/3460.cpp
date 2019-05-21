@@ -1,5 +1,6 @@
 // 3460. 이진수
-// 2019.02.02
+// 2019.05.21
+// 입문용
 #include<iostream>
 #include<vector>
 

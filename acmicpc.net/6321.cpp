@@ -1,5 +1,6 @@
 // 6321.IBM 빼기 1
-// 2019.02.02
+// 2019.05.21
+// 입문용
 #include<iostream>
 #include<string>
 

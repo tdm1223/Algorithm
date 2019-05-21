@@ -1,5 +1,6 @@
 // 2909. 캔디 구매
-// 2018.11.27
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;

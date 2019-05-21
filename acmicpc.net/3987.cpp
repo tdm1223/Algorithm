@@ -1,5 +1,6 @@
 // 3987. 보이저 1호
-// 2019.04.14
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;

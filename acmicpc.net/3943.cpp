@@ -1,5 +1,6 @@
 // 3943. 헤일스톤 수열
-// 2018.11.16
+// 2019.05.21
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
@@ -7,7 +8,7 @@ using namespace std;
 int d[100001];
 int main()
 {
-  //cin, cout을 쓰면 시간 초과가 뜨는것을 주의한다.
+  //cin, cout을 쓰면 시간 초과가 뜨므로 scanf, printf를 사용
 	int t;
 	scanf("%d", &t);
 	while (t > 0)

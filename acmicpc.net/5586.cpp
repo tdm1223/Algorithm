@@ -1,5 +1,6 @@
 // 5586. JOI와 IOI
-// 2017.12.03
+// 2019.05.21
+// 문자열 처리
 #include<iostream>
 #include<string>
 

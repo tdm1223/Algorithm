@@ -1,5 +1,6 @@
 // 5566. 주사위 게임
-// 2019.04.10
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 
@@ -11,19 +12,16 @@ int main()
 {
 	int n, m;
 	cin >> n >> m;
-
 	int cnt = 1;
 	for (int i = 1; i <= n; i++)
 	{
 		cin >> map[i];
 	}
-
 	int ans = 0;
 	for (int i = 1; i <= m; i++)
 	{
 		cin >> order[i];
 	}
-
 	// 순서대로 주사위 확인
 	for (int i = 1; i <= m; i++)
 	{

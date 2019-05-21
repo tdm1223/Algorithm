@@ -1,5 +1,6 @@
 // 5052. 전화번호 목록
-// 2018.10.15
+// 2019.05.21
+// 해싱, 트라이, 정렬
 #include<iostream>
 #include<string>
 #include<vector>

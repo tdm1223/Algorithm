@@ -1,5 +1,6 @@
 // 4307. 개미
-// 2018.11.18
+// 2019.05.21
+// 구현
 #include<iostream>
 #include<algorithm>
 #include<vector>

@@ -1,5 +1,6 @@
 // 5622. 다이얼
-// 2018.12.16
+// 2019.05.21
+// 문자열 처리
 #include<iostream>
 #include<string>
 
@@ -47,7 +48,6 @@ int main()
 			ans += 10;
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

@@ -1,5 +1,6 @@
 // 3985. 롤 케이크
-// 2019.04.10
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 

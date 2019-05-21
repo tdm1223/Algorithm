@@ -1,10 +1,10 @@
 // 3053. 택시 기하학
-// 2018.12.08
+// 2019.05.21
+// 기하 알고리즘, 구현
 #include<iostream>
 
 using namespace std;
 #define PI 3.14159265358979323846
-
 int main()
 {
 	double r;

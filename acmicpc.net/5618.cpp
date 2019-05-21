@@ -1,5 +1,6 @@
 // 5618. 공약수
-// 2018.10.15
+// 2019.05.21
+// 구현
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -38,6 +39,5 @@ int main()
 			}
 		}
 	}
-
 	return 0;
 }

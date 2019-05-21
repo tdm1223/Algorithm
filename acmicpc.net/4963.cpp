@@ -1,5 +1,6 @@
 // 4963. 섬의 개수
-// 2018.12.16
+// 2019.05.21
+// 그래프 알고리즘, 그래프 이론
 #include<iostream>
 
 using namespace std;

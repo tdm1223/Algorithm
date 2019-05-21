@@ -1,5 +1,6 @@
 // 7568. 덩치
-// 2018.12.30
+// 2019.05.21
+// 브루트 포스
 #include<iostream>
 #include<vector>
 
@@ -22,7 +23,6 @@ int main()
 		// 몸무게와 키 입력
 		cin >> v[i].weight >> v[i].height;
 	}
-
 	// 전체 비교
 	for (int i = 0; i < n; i++)
 	{
@@ -35,7 +35,6 @@ int main()
 			}
 		}
 	}
-
 	for (int i = 0; i < n; i++)
 	{
 		cout << v[i].rank << " ";

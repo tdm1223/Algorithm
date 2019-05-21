@@ -1,5 +1,6 @@
 // 3040. 백설 공주와 일곱 난쟁이
-// 2018.12.08
+// 2019.05.21
+// 구현
 #include<iostream>
 
 using namespace std;

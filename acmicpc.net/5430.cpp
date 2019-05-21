@@ -1,5 +1,6 @@
 // 5430. AC
-// 2019.03.04
+// 2019.05.21
+// 덱
 #include<iostream>
 #include<queue>
 #include<string>

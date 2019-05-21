@@ -1,5 +1,6 @@
 // 2902. KMP는 왜 KMP일까?
-// 2018.12.08
+// 2019.05.21
+// 문자열 처리
 #include<iostream>
 #include<string>
 

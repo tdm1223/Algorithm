@@ -1,5 +1,6 @@
 // 3047. ABC
-// 2018.11.11
+// 2019.05.21
+// 정렬
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -14,8 +15,8 @@ int main()
 	{
 		cin >> v[i];
 	}
+	// 정렬
 	sort(v.begin(), v.end());
-
 	string s;
 	cin >> s;
 	for (int i = 0; i < s.size(); i++)

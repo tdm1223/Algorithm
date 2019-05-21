@@ -1,5 +1,6 @@
-// 2019.03.03
 // 3190. 뱀
+// 2019.05.21
+// 시뮬레이션
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -11,7 +12,7 @@ int map[101][101];
 int dx[4] = { 0,1,0,-1 };
 int dy[4] = { 1,0,-1,0 };
 
-int curDir = 0;//처음은 오른쪽 방향
+int curDir = 0; // 처음은 오른쪽 방향
 int beforeDir = 0;
 int curX = 1;
 int curY = 1;
@@ -24,7 +25,7 @@ int main()
 	int n;
 	cin >> n; // 맵 크기
 	int k;
-	cin >> k;//사과의 수
+	cin >> k; // 사과의 수
 
 	for (int i = 0; i < k; i++)
 	{

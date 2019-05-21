@@ -1,5 +1,6 @@
 // 7326. Number Steps
-// 2019.04.02
+// 2019.05.21
+// 자료구조, 정렬
 #include<iostream>
 #include<queue>
 
