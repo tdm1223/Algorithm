@@ -1,5 +1,6 @@
 // 10026. 적록색약
-// 2018.10.17
+// 2019.05.22
+// BFS, DFS
 #include<iostream>
 
 using namespace std;
@@ -16,13 +17,12 @@ void DFS(int x, int y)
 	{
 		int xx = x + dx[i];
 		int yy = y + dy[i];
-		//범위를 벗어날때 무시
+		// 범위를 벗어날때 무시
 		if (xx < 0 || yy < 0 || xx >= n || yy >= n)
 		{
 			continue;
 		}
-
-		//방문하였거나 칠해진 색이 다를때 무시
+		// 방문하였거나 칠해진 색이 다를때 무시
 		if (visit[xx][yy] == 1 || a[x][y] != a[xx][yy])
 		{
 			continue;
@@ -57,7 +57,7 @@ int main()
 		}
 	}
 
-	//적록색맹이 볼수 있는 색으로 바꾸면서 visit배열도 같이 0으로 초기화
+	// 적록색맹이 볼수 있는 색으로 바꾸면서 visit배열도 같이 0으로 초기화
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < n; j++)

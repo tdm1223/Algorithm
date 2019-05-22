@@ -1,5 +1,6 @@
 // 12791. Starman
-// 2018.11.15
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<string>
 
@@ -22,7 +23,7 @@ Album album[26] =
 2013, "TheNextDay", 2016, "BlackStar"
 };
 
-//year가 a,b사이에 있는지 여부 반환하는 함수
+// year가 a,b사이에 있는지 여부 반환하는 함수
 bool isBetween(int a, int b, int year)
 {
 	return (year >= a && year <= b);

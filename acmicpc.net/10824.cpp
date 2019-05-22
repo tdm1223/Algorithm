@@ -1,5 +1,6 @@
 // 10824. 네 수
-// 2019.03.07
+// 2019.05.22
+// 입문용
 #include<iostream>
 #include<vector>
 
@@ -38,7 +39,7 @@ int main()
 		c *= 10;
 		c += v2[i];
 	}
-
+	// 결과 출력
 	cout << a + c << endl;
 	return 0;
 }

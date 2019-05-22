@@ -1,5 +1,6 @@
 // 10709. 기상캐스터
-// 2018.12.08
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<string>
 
@@ -40,7 +41,7 @@ int main()
 			}
 		}
 	}
-
+	// 결과 출력
 	for (int i = 0; i < h; i++)
 	{
 		for (int j = 0; j < w; j++)

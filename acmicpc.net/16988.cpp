@@ -1,5 +1,6 @@
 // 16988. Baaaaaaaaaduk2 (Easy)
-// 2019.04.07
+// 2019.05.22
+// BFS, DFS
 #include<iostream>
 #include<algorithm>
 #include<queue>

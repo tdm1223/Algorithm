@@ -1,5 +1,6 @@
 // 17202. 핸드폰 번호 궁함
-// 2019.05.18
+// 2019.05.22
+// 문자열 처리
 #include<iostream>
 #include<string>
 #include<algorithm>

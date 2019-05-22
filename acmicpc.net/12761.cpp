@@ -1,5 +1,6 @@
 // 12761. 돌다리
-// 2018.11.30
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<queue>
 
@@ -77,7 +78,6 @@ int main()
 			dist[front * b] = dist[front] + 1;
 		}
 	}
-
 	cout << dist[m] << endl;
 	return 0;
 }

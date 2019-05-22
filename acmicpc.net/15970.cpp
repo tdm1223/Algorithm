@@ -1,5 +1,6 @@
 // 15970. 화살표 그리기
-// 2019.03.19
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -17,13 +18,11 @@ int main()
 		cin >> a >> b;
 		v[b].push_back(a);
 	}
-
 	for (int i = 0; i <= n; i++)
 	{
 		sort(v[i].begin(), v[i].end());
 	}
 	int ans = 0;
-
 	// 모든 벡터에 대해서 조사
 	for (int i = 0; i <= n; i++)
 	{

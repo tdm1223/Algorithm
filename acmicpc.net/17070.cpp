@@ -1,5 +1,6 @@
 // 17070. 파이프 옮기기 1
-// 2019.03.12
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<queue>
 

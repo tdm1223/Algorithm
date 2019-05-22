@@ -1,5 +1,6 @@
 // 14499. 주사위 굴리기
-// 2019.04.07
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;
@@ -37,7 +38,7 @@ int main()
 
 	int sx = x;
 	int sy = y;
-	int idx = 1;// 주사위 바닥면 인덱스
+	int idx = 1; // 주사위 바닥면 인덱스
 	for (int i = 0; i < k; i++)
 	{
 		int dir;
@@ -59,7 +60,7 @@ int main()
 		// 방향 만큼 이동후 dice[6]에 있는 값을 출력해준다. (1이 바닥면이니 윗면은 6)
 		switch (dir)
 		{
-			// 동
+		// 동
 		case 1:
 			tmp = dice[1];
 			dice[1] = dice[3];
@@ -70,7 +71,7 @@ int main()
 			// 나머지 처리
 			Check(sx, sy, idx);
 			break;
-			// 서
+		// 서
 		case 2:
 			tmp = dice[1];
 			dice[1] = dice[4];
@@ -81,7 +82,7 @@ int main()
 			// 나머지 처리
 			Check(sx, sy, idx);
 			break;
-			// 북
+		// 북
 		case 3:
 			tmp = dice[1];
 			dice[1] = dice[2];
@@ -92,7 +93,7 @@ int main()
 			// 나머지 처리
 			Check(sx, sy, idx);
 			break;
-			// 남
+		// 남
 		case 4:
 			tmp = dice[1];
 			dice[1] = dice[5];
@@ -105,6 +106,5 @@ int main()
 			break;
 		}
 	}
-
 	return 0;
 }

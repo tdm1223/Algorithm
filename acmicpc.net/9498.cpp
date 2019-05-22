@@ -1,5 +1,6 @@
 // 9498. 시험 성적
-// 2018.12.16
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;
@@ -30,7 +31,7 @@ int main()
 	{
 		score = 'F';
 	}
-
+	// 결과 출력
 	cout << score << endl;
 	return 0;
 }

@@ -1,5 +1,6 @@
 // 13565. 침투
-// 2019.02.26
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<queue>
 
@@ -30,7 +31,6 @@ int main()
       q.push({0,i});
     }
   }
-
   // BFS로 침투
   while(!q.empty())
   {
@@ -63,7 +63,7 @@ int main()
       break;
     }
   }
-
+  // 결과 출력
   if(flag)
   {
     cout<<"YES"<<endl;

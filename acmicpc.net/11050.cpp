@@ -1,5 +1,6 @@
 // 11050. 이항 계수 1
-// 2018.12.20
+// 2019.05.22
+// 수학
 #include<iostream>
 
 using namespace std;
@@ -16,8 +17,7 @@ int Factorial(int num)
 		return Factorial(num - 1) * num;
 	}
 }
-
-int main(void)
+int main()
 {
 	int n, k;
 	cin >> n >> k;

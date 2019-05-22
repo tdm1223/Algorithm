@@ -1,5 +1,6 @@
 // 12790. Mini Fantasy War
-// 2018.10.16
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;
@@ -22,15 +23,18 @@ int main()
 			cin >> a;
 			ability[i] += a;
 		}
-		if (ability[2] < 0)//공격력
+		// 공격력
+		if (ability[2] < 0)
 		{
 			ability[2] = 0;
 		}
-		if (ability[0] < 1)//HP
+		// HP
+		if (ability[0] < 1)
 		{
 			ability[0] = 1;
 		}
-		if (ability[1] < 1)//MP
+		// MP
+		if (ability[1] < 1)
 		{
 			ability[1] = 1;
 		}

@@ -1,5 +1,6 @@
 // 11051. 이항계수 2
-// 2018.12.20
+// 2019.05.22
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
@@ -29,7 +30,7 @@ int main()
 			d[i][j] %= 10007;
 		}
 	}
-
+	// 결과 출력
 	cout << d[n][k] << endl;
 	return 0;
 }

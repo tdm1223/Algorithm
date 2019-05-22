@@ -1,5 +1,6 @@
 ﻿// 11723. 집합
-// 2019.03.28
+// 2019.05.22
+// 자료구조
 #include<iostream>
 #include<algorithm>
 #include<set>

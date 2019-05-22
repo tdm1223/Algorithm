@@ -1,12 +1,14 @@
 // 9517. 아이 러브 크로아티아
-// 2018.12.02
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;
 
 int main()
 {
-	int time = 210; // 210초후 폭발
+	// 210초후 폭발
+	const int time = 210; 
 
 	int k, n;
 	cin >> k >> n;

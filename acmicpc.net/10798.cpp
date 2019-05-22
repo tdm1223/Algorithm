@@ -1,5 +1,6 @@
 // 10798. 세로 읽기
-// 2018.10.15
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<string>
 
@@ -12,7 +13,7 @@ int main()
 	{
 		cin >> s[i];
 	}
-
+	// 세로로 읽기
 	for (int i = 0; i < 15; i++)
 	{
 		for (int j = 0; j < 5; j++)

@@ -1,5 +1,6 @@
 // 10828. 스택
-// 2018.10.15
+// 2019.05.22
+// 스택
 #include<iostream>
 #include<string>
 
@@ -17,15 +18,15 @@ int main()
 	{
 		n--;
 		cin >> s;
-
-		if (s == "push") //push
+		// push
+		if (s == "push")
 		{
 			int num;
 			cin >> num;
 			arr[++cnt] = num;
-
 		}
-		else if (s == "pop") //pop
+		// pop
+		else if (s == "pop")
 		{
 			if (cnt != 0)
 			{
@@ -37,11 +38,13 @@ int main()
 				cout << "-1" << endl;
 			}
 		}
-		else if (s == "size") //size
+		 // size
+		else if (s == "size")
 		{
 			cout << cnt << endl;
 		}
-		else if (s == "empty") //empty
+		// empty
+		else if (s == "empty")
 		{
 			if (cnt == 0)
 			{
@@ -52,7 +55,8 @@ int main()
 				cout << "0" << endl;
 			}
 		}
-		else if (s == "top") //top
+		// top
+		else if (s == "top")
 		{
 			if (cnt != 0)
 			{
@@ -64,6 +68,5 @@ int main()
 			}
 		}
 	}
-
 	return 0;
 }

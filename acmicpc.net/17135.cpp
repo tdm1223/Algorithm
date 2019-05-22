@@ -1,5 +1,6 @@
 // 17135. 캐슬 디펜스
-// 2019.04.06
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 #include<algorithm>
 #include<vector>

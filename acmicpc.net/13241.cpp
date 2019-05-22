@@ -1,5 +1,6 @@
 // 13241. 최소공배수
-// 2018.10.16
+// 2019.05.22
+// 수학
 #include<iostream>
 
 using namespace std;

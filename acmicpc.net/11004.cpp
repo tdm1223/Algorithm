@@ -1,6 +1,7 @@
 // 11004. K번째 수
-// 2018.10.15
-#include<cstdio>
+// 2019.05.22
+// 정렬
+#include<iostream>
 #include<algorithm>
 
 using namespace std;

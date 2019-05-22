@@ -1,5 +1,6 @@
 // 14890. 경사로
-// 2019.04.02
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;
@@ -155,13 +156,12 @@ int main()
 				break;
 			}
 		}
-		//세로 순회 끝
+		// 세로 순회 끝
 		if (!flag)
 		{
 			ans--;
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

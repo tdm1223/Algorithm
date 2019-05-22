@@ -1,5 +1,6 @@
 // 10409. 서버
-// 2018.11.27
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<vector>
 
@@ -15,7 +16,7 @@ int main()
 		cin >> v[i];
 	}
 	int ans = 0;
-  //FIFO
+  // FCFS(FIFO)
 	for (int i = 0; i < v.size(); i++)
 	{
 		if (v[i] <= t)

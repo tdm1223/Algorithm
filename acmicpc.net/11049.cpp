@@ -1,12 +1,13 @@
 // 11049. 행렬 곱셈 순서
-// 2018.10.25
+// 2019.05.22
+// 다이나믹 프로그래밍
 #include<iostream>
 #include<algorithm>
 
 using namespace std;
 
-int d[501][501]; //d[i][j] : 행렬 i부터 j까지 곱할 때 필요한 곱셈 연산의 최솟값
 int a[501][501];
+int d[501][501]; // d[i][j] : 행렬 i부터 j까지 곱할 때 필요한 곱셈 연산의 최솟값
 int main()
 {
 	int n;
@@ -27,7 +28,6 @@ int main()
 			}
 		}
 	}
-
 	cout << d[0][n] << endl;
 	return 0;
 }

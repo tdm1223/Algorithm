@@ -1,5 +1,6 @@
 // 11772. POT
-// 2019.02.02
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<cmath>
 
@@ -9,7 +10,6 @@ int main()
 {
 	int n;
 	cin >> n;
-
 	int ans = 0;
 	for (int i = 0; i < n; i++)
 	{

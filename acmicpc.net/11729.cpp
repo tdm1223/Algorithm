@@ -1,6 +1,6 @@
 // 하노이 탑 이동 순서
-// 분류 : 분할정복
-// 2018.12.20
+// 2019.05.22
+// 분할정복
 #include<iostream>
 
 using namespace std;

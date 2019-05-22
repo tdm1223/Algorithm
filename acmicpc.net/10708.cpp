@@ -1,5 +1,6 @@
 // 10708. 크리스마스 파티
-// 2018.12.23
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;
@@ -11,7 +12,6 @@ int main()
 {
 	int n, m;
 	cin >> n >> m;
-
 	// 게임의 횟수번 만큼 입력을 받음
 	for (int i = 1; i <= m; i++)
 	{
@@ -34,10 +34,9 @@ int main()
 				count++;
 			}
 		}
-
 		people[target[i]] += count;
 	}
-
+	// 결과 출력
 	for (int i = 1; i <= n; i++)
 	{
 		cout << people[i] << endl;

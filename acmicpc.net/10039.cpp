@@ -1,5 +1,6 @@
 // 10039. 평균 점수
-// 2018.10.15
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<vector>
 
@@ -18,7 +19,7 @@ int main()
 		}
 		result += student[i];
 	}
-
+	// 5명의 평균 출력
 	cout << result / 5 << endl;
 	return 0;
 }

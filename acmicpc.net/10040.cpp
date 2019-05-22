@@ -1,5 +1,6 @@
 // 10040. 투표
-// 2018.10.15
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;
@@ -11,6 +12,7 @@ int main()
 {
 	int n, m;
 	cin >> n >> m;
+	// 심사위원의 비용 입력 받음
 	for (int i = 1; i <= n; i++)
 	{
 		cin >> cost[i];
@@ -21,7 +23,7 @@ int main()
 		m--;
 		int p;
 		cin >> p;
-
+		// 투표
 		for (int i = 1; i <= n; i++)
 		{
 			if (cost[i] <= p)
@@ -31,7 +33,7 @@ int main()
 			}
 		}
 	}
-
+	// 결과 출력
 	int max = 0;
 	int index = 0;
 	for (int i = 1; i <= n; i++)
@@ -42,7 +44,6 @@ int main()
 			index = i;
 		}
 	}
-
 	cout << index << endl;
 	return 0;
 }

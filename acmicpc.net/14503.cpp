@@ -1,5 +1,6 @@
 // 14503. 로봇 청소기
-// 2018.12.02
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 
 using namespace std;
@@ -14,9 +15,11 @@ void DFS(int x, int y, int d)
 	int xx, yy;
 	int dir = d;
 
-	for (int i = 0; i < 4; i++) //총 4방향으로 이동할 수 있으므로 4번 돌림
+	// 총 4방향으로 이동할 수 있으므로 4번 돌림
+	for (int i = 0; i < 4; i++)
 	{
-		dir = (dir + 3) % 4;    // 북,서,남,동(0,3,2,1) 순서로 변경
+		// 북,서,남,동(0,3,2,1) 순서로 변경
+		dir = (dir + 3) % 4;
 		xx = x + dx[dir];
 		yy = y + dy[dir];
 
@@ -36,7 +39,7 @@ void DFS(int x, int y, int d)
 		}
 	}
 	// 4방향의 칸 중 방문할 칸이 없으면 후진
-	dir = (d + 2) % 4;     // 후진을 위한 방향 설정
+	dir = (d + 2) % 4; // 후진을 위한 방향 설정
 	xx = x + dx[dir];
 	yy = y + dy[dir];
 

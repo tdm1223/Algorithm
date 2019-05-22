@@ -1,11 +1,12 @@
 // 11403.경로 찾기
-// 2018.10.16
+// 2019.05.22
+// BFS, DFS, 플로이드 와샬 알고리즘
 #include<iostream>
 #include<queue>
 
 using namespace std;
 
-int visit[101][101];//방문유무
+int visit[101][101]; // 방문유무를 저장하는 배열
 int v[101][101];
 int main()
 {
@@ -24,12 +25,12 @@ int main()
 	{
 		for (int j = 0; j < n; j++)
 		{
-			if (v[i][j] == 1)//각 행을 조사하면서 값이 1인것을 먼저 다 넣음
+			if (v[i][j] == 1) // 각 행을 조사하면서 값이 1인것을 먼저 다 넣음
 			{
 				q.push(j);
 			}
 		}
-		while (!q.empty())//BFS
+		while (!q.empty()) // BFS
 		{
 			int tmp = q.front();
 			q.pop();

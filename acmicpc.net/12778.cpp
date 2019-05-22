@@ -1,12 +1,12 @@
 // 12778. CTP 공국으로 이민 가자
-// 2018.10.16
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;
 
 int arr1[501];
 char arr2[501];
-
 int main()
 {
 	int t;
@@ -17,7 +17,8 @@ int main()
 		int n;
 		char type;
 		cin >> n >> type;
-		if (type == 'C')//알파벳을 숫자로 바꾸는 문제
+		// 알파벳을 숫자로 바꾸는 문제
+		if (type == 'C')
 		{
 			for (int i = 0; i < n; i++)
 			{
@@ -29,7 +30,8 @@ int main()
 			}
 			cout << endl;
 		}
-		else if (type == 'N')//숫자를 문자로 바꾸는 문제
+		// 숫자를 문자로 바꾸는 문제
+		else if (type == 'N')
 		{
 			for (int i = 0; i < n; i++)
 			{

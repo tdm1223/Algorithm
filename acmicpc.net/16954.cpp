@@ -1,5 +1,6 @@
 // 16954. 움직이는 미로 탈출
-// 2019.03.23
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<queue>
 #include<algorithm>
@@ -85,9 +86,8 @@ int main()
 				q.push({ xx,yy,time + 1 });
 			}
 		}
-
 	}
-
+	// 결과 출력
 	if (flag)
 	{
 		cout << 1 << endl;

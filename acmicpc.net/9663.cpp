@@ -1,5 +1,6 @@
 // 9663. N-Queen
-// 2019.01.28
+// 2019.05.22
+// 백트래킹
 #include<iostream>
 
 using namespace std;
@@ -7,7 +8,6 @@ using namespace std;
 int n;
 int col[15];
 int result;
-
 void Queen(int i)
 {
 	// 퀸 n개를 다 세웠다면 결과에 1을 더함

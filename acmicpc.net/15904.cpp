@@ -1,5 +1,6 @@
 // 15904. UCPC는 무엇의 약자일까?
-// 2018.10.16
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<string>
 
@@ -13,6 +14,7 @@ int main()
 	int cnt = 0;
 	for (int i = 0; i < s.size(); i++)
 	{
+		// U, C, P, C가 있는지 확인
 		if (s[i] == ucpc[cnt])
 		{
 			cnt++;
@@ -30,6 +32,5 @@ int main()
 	{
 		cout << "I hate UCPC" << endl;
 	}
-
 	return 0;
 }

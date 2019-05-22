@@ -1,5 +1,6 @@
 // 11399. ATM
-// 2018.10.16
+// 2019.05.22
+// 그리디 알고리즘
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -15,6 +16,7 @@ int main()
 	{
 		cin >> v[i];
 	}
+	// 오름차순 정렬
 	sort(v.begin(), v.end());
 	//오름차순 정렬 후 하나씩 누적하면서 더하면된다.
 	int ans = v[0];

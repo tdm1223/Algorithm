@@ -1,5 +1,6 @@
 // 16234. 인구 이동
-// 2019.04.08
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 #include<queue>
@@ -87,16 +88,13 @@ int main()
 				}
 			}
 		}
-
 		// visit 배열에 모두 다른 번호가 입력될때 인구이동이 없음
 		if (idx == n * n)
 		{
 			break;
 		}
-
 		// 인구 이동 횟수 증가
 		cnt++;
-
 		// 연합을 이루고 있는 각칸들의 인구수 조정
 		for (int i = 0; i < unions.size(); i++)
 		{
@@ -113,7 +111,6 @@ int main()
 			}
 		}
 	}
-
 	cout << cnt << endl;
 	return 0;
 }

@@ -1,5 +1,6 @@
 // 11720. 숫자의 합
-// 2018.12.20
+// 2019.05.22
+// 출력
 #include<iostream>
 #include<string>
 

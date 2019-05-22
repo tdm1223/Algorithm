@@ -1,5 +1,6 @@
 // 10973. 이전 순열
-// 2019.02.19
+// 2019.05.22
+// 수학
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -31,6 +32,5 @@ int main()
 	{
 		cout << "-1" << endl;
 	}
-
 	return 0;
 }

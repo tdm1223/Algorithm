@@ -1,5 +1,6 @@
 // 15686. 치킨 배달
-// 2019.04.03
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<queue>
 #include<algorithm>

@@ -1,5 +1,6 @@
 // 17140. 이차원 배열과 연산
-// 2019.04.14
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 #include<algorithm>

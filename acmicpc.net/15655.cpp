@@ -1,5 +1,6 @@
 // 15655. N과 M (6)
-// 2018.01.28
+// 2019.05.22
+// N과 M
 #include<iostream>
 #include<vector>
 #include<algorithm>

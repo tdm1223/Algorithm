@@ -1,5 +1,6 @@
 // 17143. 낚시왕
-// 2019.04.15
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -45,7 +46,6 @@ int main()
 		map[r][c] = i;
 		alives[i] = 1;
 	}
-
 	// 낚시왕의 위치
 	int cnt = 0;
 	while (cnt < c)
@@ -54,7 +54,6 @@ int main()
 		sort(sharks.begin(), sharks.end(), compare2);
 		// 1.낚시왕이 오른쪽으로 한 칸 이동한다.
 		cnt++;
-
 		// 2. 낚시왕이 있는 열에 있는 상어 중에서 가장 땅과 가까운 상어를 잡는다.
 		// 상어를 잡으면 격자판에서 잡은 상어가 사라진다.
 		for (int i = 1; i <= r; i++)
@@ -68,10 +67,8 @@ int main()
 				break;
 			}
 		}
-
 		// 상어 크기순 정렬
 		sort(sharks.begin(), sharks.end(), compare);
-
 		// 3. 상어가 이동한다.
 		for (int i = 0; i < sharks.size(); i++)
 		{
@@ -172,7 +169,6 @@ int main()
 				}
 			}
 		}
-
 		// 맵에 0이 아닌 상어 번호가 있다면 alives의 값 증가
 		for (int i = 1; i <= r; i++)
 		{
@@ -184,14 +180,12 @@ int main()
 				}
 			}
 		}
-
 		// alives의 모든 값을 1을 빼서 0또는 1로 만든다.
 		for (int i = 0; i <= m; i++)
 		{
 			alives[i]--;
 		}
 	}
-
 	cout << ans << endl;
 	return 0;
 }

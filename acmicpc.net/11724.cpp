@@ -1,5 +1,6 @@
 // 11724. 연결 요소의 개수
-// 2018.10.16
+// 2019.05.22
+// BFS, DFS
 #include<iostream>
 
 using namespace std;

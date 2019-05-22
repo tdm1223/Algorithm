@@ -1,10 +1,11 @@
 // 14490. 백대열
-// 2018.11.18
+// 2019.05.22
+// 수학
 #include<iostream>
 #include<string>
 
 using namespace std;
-
+// 재귀로 최대공약수를 구하는 함수
 int GCD(int a, int b)
 {
 	if (b == 0)
@@ -32,6 +33,7 @@ int main()
 
 	int a = stoi(s.substr(0, k));
 	int b = stoi(s.substr(k + 1, s.size()));
+	// 두 수의 최대 공약수를 이용하여 나눠줌
 	if (b > a)
 	{
 		int tmp = b;

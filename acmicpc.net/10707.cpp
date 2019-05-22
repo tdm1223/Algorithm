@@ -1,5 +1,6 @@
 // 10707. 수도요금
-// 2018.10.15
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<algorithm>
 
@@ -20,7 +21,7 @@ int main()
 	{
 		Y = B + D * (P - C);
 	}
-
+	// 두가지 경우중 최솟값 출력
 	cout << min(X, Y) << endl;
 	return 0;
 }

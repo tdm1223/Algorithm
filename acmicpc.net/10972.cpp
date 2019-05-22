@@ -1,8 +1,9 @@
 // 10972. 다음 순열
-// 2019.02.19
+// 2019.05.22
+// 수학
 #include<iostream>
-#include<algorithm>    //다음 순열을 구하기위한 헤더
-#include<vector>       //벡터 사용을 위한 헤더
+#include<algorithm>
+#include<vector>
 
 using namespace std;
 
@@ -31,6 +32,5 @@ int main()
 	{
 		cout << "-1" << endl;
 	}
-
 	return 0;
 }

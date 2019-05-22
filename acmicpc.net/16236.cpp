@@ -1,5 +1,6 @@
 // 16236. 아기상어
-// 2019.01.03
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<queue>
 
@@ -14,7 +15,6 @@ int dy[4] = { 0,-1,0,1 };
 int babySize = 2; // 상어의 크기
 int cnt = 0; // 상어가 먹이를 먹을 횟수
 int ans = 0;
-
 // 아기상어의 위치를 나타내는 x,y 좌표
 int babyX;
 int babyY;
@@ -114,7 +114,6 @@ int BFS(int a, int b)
 int main()
 {
   cin >> n;
-
   for (int i = 0; i < n; i++)
   {
     for (int j = 0; j < n; j++)
@@ -141,7 +140,6 @@ int main()
     }
     Init();
   }
-
   cout << ans << endl;
   return 0;
 }

@@ -1,5 +1,6 @@
 // 14500. 테트로미노
-// 2019.02.25
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 
 using namespace std;
@@ -83,7 +84,6 @@ int main()
       cin>>map[i][j];
     }
   }
-
   for(int i=0;i<n;i++)
   {
     for(int j=0;j<m;j++)

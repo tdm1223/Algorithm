@@ -1,5 +1,6 @@
 // 15665. N과 M(11)
-// 2019.03.07
+// 2019.05.22
+// N과 M
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -44,8 +45,6 @@ int main()
 	}
 
 	sort(v.begin(), v.end());
-
 	go(0);
-
 	return 0;
 }

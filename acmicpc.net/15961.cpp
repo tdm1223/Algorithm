@@ -1,5 +1,6 @@
 // 15961. 회전 초밥
-// 2019.04.05
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<algorithm>
 

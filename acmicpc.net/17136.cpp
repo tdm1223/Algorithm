@@ -1,5 +1,6 @@
 // 17136. 색종이 붙이기
-// 2019.04.08
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<algorithm>
 #include<vector>

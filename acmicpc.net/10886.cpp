@@ -1,5 +1,6 @@
 // 10886. 0 = not cute / 1 = cute
-// 2018.10.15
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;

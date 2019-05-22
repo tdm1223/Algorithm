@@ -1,5 +1,6 @@
 // 10974. 모든 순열
-// 2019.02.22
+// 2019.05.22
+// 수학
 #include<iostream>
 
 using namespace std;
@@ -7,6 +8,7 @@ using namespace std;
 int arr[9];
 int visit[9];
 int n;
+// 브루트 포스 방법으로 순열 구하기
 void Permutation(int cnt)
 {
   if(cnt==n)

@@ -1,5 +1,6 @@
 // 15657. N과 M(8)
-// 2019.03.07
+// 2019.05.22
+// N과 M
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -20,7 +21,6 @@ void go(int cnt, int idx)
 		printf("\n");
 		return;
 	}
-
 	for (int i = idx; i < n; i++)
 	{
 		arr[cnt] = i;
@@ -30,7 +30,6 @@ void go(int cnt, int idx)
 int main()
 {
 	cin >> n >> m;
-
 	for (int i = 0; i < n; i++)
 	{
 		int k;
@@ -39,6 +38,5 @@ int main()
 	}
 	sort(v.begin(), v.end());
 	go(0, 0);
-
 	return 0;
 }

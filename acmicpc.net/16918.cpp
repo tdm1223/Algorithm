@@ -1,5 +1,6 @@
-// 2019.03.02
 // 16918. 봄버맨
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 #include<algorithm>
 #include<queue>
@@ -81,7 +82,6 @@ int main()
 			}
 		}
 	}
-
 	for (int i = 0; i < r; i++)
 	{
 		for (int j = 0; j < c; j++)

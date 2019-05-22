@@ -1,5 +1,6 @@
 // 10871. X보다 작은 수
-// 2018.10.15
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<vector>
 
@@ -14,7 +15,7 @@ int main()
 	{
 		cin >> v[i];
 	}
-
+	// x보다 작은 수 출력
 	for (int i = 0; i < n; i++)
 	{
 		if (v[i] < x)
@@ -22,7 +23,6 @@ int main()
 			cout << v[i] << " ";
 		}
 	}
-
 	cout << endl;
 	return 0;
 }

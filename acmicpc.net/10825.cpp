@@ -1,5 +1,6 @@
 ﻿// 10825. 국영수
-// 2019.03.28
+// 2019.05.22
+// 정렬
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -7,6 +8,7 @@
 
 using namespace std;
 
+// 학생 구조체 과목의 점수와 이름 저장
 struct Student
 {
 public:
@@ -18,6 +20,7 @@ public:
 	Student() {}
 };
 
+// 주어진 조건대로 정렬하는 compare 함수
 bool compare(Student& a, Student& b)
 {
 	if (a.korean > b.korean)
@@ -54,11 +57,12 @@ int main()
 	{
 		cin >> v[i].name >> v[i].korean >> v[i].english >> v[i].math;
 	}
+	// 조건에 따라 정렬
 	sort(v.begin(), v.end(), compare);
+	// 결과 출력
 	for (int i = 0; i < n; i++)
 	{
 		cout << v[i].name << "\n";
 	}
-
 	return 0;
 }

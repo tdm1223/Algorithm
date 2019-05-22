@@ -1,5 +1,6 @@
 // 14891. 톱니바퀴
-// 2019.04.03
+// 2019.05.22
+// 시뮬레이션
 #include<iostream>
 #include<string>
 #include<vector>

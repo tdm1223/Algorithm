@@ -1,5 +1,6 @@
 // 13417. 카드 문자열
-// 2018.12.24
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<vector>
 #include<string>

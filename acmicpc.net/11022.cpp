@@ -1,5 +1,6 @@
 // 11022. A+B-8
-// 2018.10.15
+// 2019.05.22
+// 수학
 #include<iostream>
 
 using namespace std;
@@ -17,6 +18,5 @@ int main()
 		cout << "Case #" << count << ": "<<a<<" + "<<b<<" = "<< a + b << endl;;
 		count++;
 	}
-
 	return 0;
 }

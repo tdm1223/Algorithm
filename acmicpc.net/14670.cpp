@@ -1,5 +1,6 @@
 // 14670. 병약한 영정
-// 2018.11.26
+// 2019.05.22
+// 자료구조
 #include<iostream>
 #include<map>
 #include<string>

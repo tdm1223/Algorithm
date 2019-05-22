@@ -1,5 +1,6 @@
 // 14889. 스타트와 링크
-// 2019.02.02
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<algorithm>
 #include<vector>

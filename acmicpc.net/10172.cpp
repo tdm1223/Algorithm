@@ -1,5 +1,6 @@
 // 10172. 개
-// 2018.12.20
+// 2019.05.22
+// 출력
 #include<iostream>
 
 using namespace std;

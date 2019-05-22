@@ -1,5 +1,6 @@
 // 15649. N과 M (1)
-// 2018.12.30
+// 2019.05.22
+// N과 M
 #include<iostream>
 
 using namespace std;

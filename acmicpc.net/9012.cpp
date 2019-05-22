@@ -1,5 +1,6 @@
 // 9012. 괄호
-// 2018.10.15
+// 2019.05.22
+// 스택
 #include<iostream>
 #include<stack>
 #include<string>
@@ -20,8 +21,8 @@ int main()
 		{
 			stack.push(a[i]);
 		}
-		int first = 0; //여는괄호 갯수
-		int second = 0;//닫는괄호 갯수
+		int first = 0; // 여는괄호 갯수
+		int second = 0; // 닫는괄호 갯수
 		for (int i = 0; i < a.size(); i++)
 		{
 			int tmp = stack.top();

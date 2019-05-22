@@ -1,5 +1,6 @@
 // 9372. 상근이의 여행
-// 2018.11.30
+// 2019.05.22
+// 최소 스패닝 트리, BFS
 #include<iostream>
 
 using namespace std;

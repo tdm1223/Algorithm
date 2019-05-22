@@ -1,5 +1,6 @@
-// 2019.03.02
 // 16917. 양념 반 후라이드 반
+// 2019.05.22
+// rngus
 #include<iostream>
 #include<algorithm>
 

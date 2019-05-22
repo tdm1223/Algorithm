@@ -1,5 +1,6 @@
 // 10822. 더하기
-// 2019.02.02
+// 2019.05.22
+// 입문용
 #include<iostream>
 #include<string>
 

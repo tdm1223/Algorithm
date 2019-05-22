@@ -1,11 +1,11 @@
 // 9461. 파도반 수열
-// 분류 : 다이나믹 프로그래밍
-// 2018.12.16
+// 2019.05.22
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
 
-long long d[101]; //d[i] : i에 대한 나선에 있는 정삼각형의 변의 길이
+long long d[101]; // d[i] : i에 대한 나선에 있는 정삼각형의 변의 길이
 int main()
 {
 	int t;

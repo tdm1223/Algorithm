@@ -1,6 +1,6 @@
 // 9506. 약수들의 합
-// 분류 : 수학
-// 2018.11.18
+// 2019.05.22
+// 수학
 #include<iostream>
 #include<vector>
 #include<algorithm>

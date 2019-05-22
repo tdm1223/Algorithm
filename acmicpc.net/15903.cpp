@@ -1,5 +1,6 @@
-//15903. 카드 합체 놀이
-// 2018.10.16
+// 15903. 카드 합체 놀이
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<algorithm>
 #include<deque>
@@ -33,7 +34,6 @@ int main()
 		long long sum = first + second;
 		dq.push_back(sum);
 		dq.push_back(sum);
-
 	}
 
 	long long ans = 0;

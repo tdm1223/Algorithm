@@ -1,5 +1,6 @@
 // 12813. 이진수 연산
-// 2019.02.02
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<string>
 

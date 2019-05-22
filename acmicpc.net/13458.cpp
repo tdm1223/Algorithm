@@ -1,5 +1,6 @@
-// 2019.03.02
 // 13458. 시험 감독
+// 2019.05.22
+// 구현
 #include<iostream>
 #include<algorithm>
 
@@ -35,7 +36,7 @@ int main()
 			}
 		}
 	}
-
+	// 결과 출력
 	cout << ans << endl;
 	return 0;
 }

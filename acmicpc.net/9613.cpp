@@ -1,10 +1,11 @@
 // 9613. GCD 합
-// 2018.10.17
+// 2019.05.22
+// 수학
 #include<iostream>
 #include<vector>
 
 using namespace std;
-
+// 재귀로 최대 공약수를 구하는 함수
 int Gcd(int a, int b)
 {
 	if (b == 0)
@@ -24,7 +25,6 @@ int main()
 		int n;
 		cin >> n;
 		vector<int> v(n);
-
 		long long sum = 0;
 		for (int i = 0; i < n; i++)
 		{

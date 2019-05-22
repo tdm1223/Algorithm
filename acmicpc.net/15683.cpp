@@ -1,5 +1,6 @@
 // 15683. 감시
-// 2019.04.01
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<vector>
 #include<queue>
@@ -28,7 +29,7 @@ void go(int cnt)
 		return;
 	}
 
-	//cctv를 모두 배치하고 사각지대의 크기를 구함
+	// cctv를 모두 배치하고 사각지대의 크기를 구함
 	if (cnt == cctvs.size())
 	{
 		int res = 0;
@@ -51,7 +52,8 @@ void go(int cnt)
 		int y = cctvs[cnt].y;
 		switch (cctvs[cnt].type)
 		{
-		case 1: // 한쪽 방향
+		// 한쪽 방향
+		case 1:
 			for (int i = 0; i < 4; i++)
 			{
 				int mul = 1;
@@ -89,7 +91,8 @@ void go(int cnt)
 				}
 			}
 			break;
-		case 2: // 좌우, 상하 방향
+		// 좌우, 상하 방향
+		case 2:
 			for (int i = 0; i < 2; i++)
 			{
 				int mul = 1;

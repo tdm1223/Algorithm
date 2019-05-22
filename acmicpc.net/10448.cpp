@@ -1,5 +1,6 @@
 // 10448. 유레카 이론
-// 2018.12.31
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 
 using namespace std;

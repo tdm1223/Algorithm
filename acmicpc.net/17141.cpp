@@ -1,5 +1,6 @@
 // 17141. 연구소 2
-// 2019.04.14
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<vector>
 #include<algorithm>

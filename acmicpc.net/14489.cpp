@@ -1,5 +1,6 @@
 // 14489. 치킨 두 마리(...)
-// 2019.03.08
+// 2019.05.22
+// 입문용
 #include<iostream>
 
 using namespace std;

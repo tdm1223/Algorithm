@@ -1,5 +1,6 @@
 // 10844. 쉬운 계단 수
-// 2018.12.20
+// 2019.05.22
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;

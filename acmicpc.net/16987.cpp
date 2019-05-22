@@ -1,5 +1,6 @@
 // 16987. 계란으로 계란치기
-// 2019.03.04
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<algorithm>
 

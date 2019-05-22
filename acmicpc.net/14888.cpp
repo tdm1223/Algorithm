@@ -1,5 +1,6 @@
 // 14888. 연산자 끼워넣기
-// 2019.02.26
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<stack>
 
@@ -97,18 +98,15 @@ int main()
   {
     cin>>arr[i];
   }
-
   for(int i=0;i<4;i++)
   {
     cin>>op[i];
   }
-
   // 순서대로 스택에 저장
   for(int i=n-1;i>-1;i--)
   {
     s.push(arr[i]);
   }
-
   go(0,0,0);
   cout<<ansMax<<endl<<ansMin<<endl;
   return 0;

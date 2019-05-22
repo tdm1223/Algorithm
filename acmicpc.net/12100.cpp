@@ -1,5 +1,6 @@
 // 12100. 2048(Easy)
-// 2019.04.04
+// 2019.05.22
+// 브루트 포스
 #include<iostream>
 #include<algorithm>
 #include<queue>
@@ -32,7 +33,8 @@ void go(int cnt)
 		{
 			switch (arr[i])
 			{
-			case 0: // 상 (아래에서 위로)
+			// 상 (아래에서 위로)
+			case 0:
 				for (int j = 0; j < n; j++)
 				{
 					queue<int> q;
@@ -69,7 +71,8 @@ void go(int cnt)
 					}
 				}
 				break;
-			case 1: // 하 (위에서 아래로)
+			// 하 (위에서 아래로)
+			case 1:
 				for (int j = 0; j < n; j++)
 				{
 					queue<int> q;
@@ -106,7 +109,8 @@ void go(int cnt)
 					}
 				}
 				break;
-			case 2: // 좌 (오른쪽에서 왼쪽으로)
+			// 좌 (오른쪽에서 왼쪽으로)
+			case 2:
 				for (int j = 0; j < n; j++)
 				{
 					queue<int> q;
@@ -143,7 +147,8 @@ void go(int cnt)
 					}
 				}
 				break;
-			case 3: // 우 (왼쪽에서 오른쪽으로)
+			// 우 (왼쪽에서 오른쪽으로)
+			case 3:
 				for (int j = 0; j < n; j++)
 				{
 					queue<int> q;
@@ -182,7 +187,6 @@ void go(int cnt)
 				break;
 			}
 		}
-
 		// 최댓값 갱신
 		for (int i = 0; i < n; i++)
 		{
@@ -210,9 +214,7 @@ int main()
 			cin >> map[i][j];
 		}
 	}
-
 	go(0);
-
 	cout << ans << endl;
 	return 0;
 }

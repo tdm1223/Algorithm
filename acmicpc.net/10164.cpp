@@ -1,11 +1,11 @@
 // 10164. 격자상의 경로
-// 분류 : Dynamic Programming
-// 2018.11.25
+// 2019.05.22
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
 
-int d[16][16];
+int d[16][16]; // d[i][j] : 맨 처음 위치에서 i,j위치에 도달하는 경우의 수
 int main()
 {
 	int n, m, k;

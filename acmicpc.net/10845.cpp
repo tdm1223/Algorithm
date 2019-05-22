@@ -1,5 +1,6 @@
 // 10845. 큐
-// 2018.10.15
+// 2019.05.22
+// 큐
 #include<iostream>
 
 using namespace std;
@@ -16,14 +17,15 @@ int main()
 		n--;
 		string s;
 		cin >> s;
-
-		if (s == "push")//push
+		// push
+		if (s == "push")
 		{
 			int k;
 			cin >> k;
 			arr[front++] = k;
 		}
-		else if (s == "pop")//pop
+		// pop
+		else if (s == "pop")
 		{
 			if (front == rear)
 			{
@@ -34,11 +36,13 @@ int main()
 				cout << arr[rear++] << endl;
 			}
 		}
-		else if (s == "size")//size
+		// size
+		else if (s == "size")
 		{
 			cout << front - rear << endl;
 		}
-		else if (s == "empty")//empty
+		// empty
+		else if (s == "empty")
 		{
 			if (front == rear)
 			{
@@ -49,9 +53,11 @@ int main()
 				cout << "0" << endl;
 			}
 		}
-		else if (s == "front")//front
+		// front
+		else if (s == "front")
 		{
-			if (front == rear) //비었음
+			// 비었음
+			if (front == rear)
 			{
 				cout << "-1" << endl;
 			}
@@ -60,9 +66,11 @@ int main()
 				cout << arr[rear] << endl;
 			}
 		}
-		else if (s == "back")//back
+		// back
+		else if (s == "back")
 		{
-			if (front == rear) //비었음
+			// 비었음
+			if (front == rear)
 			{
 				cout << "-1" << endl;
 			}
@@ -72,6 +80,5 @@ int main()
 			}
 		}
 	}
-
 	return 0;
 }

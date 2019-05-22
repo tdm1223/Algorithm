@@ -1,5 +1,6 @@
 // 14502. 연구소
-// 2018.12.01
+// 2019.05.22
+// BFS, DFS, 브루트 포스
 #include<iostream>
 #include<algorithm>
 #include<queue>

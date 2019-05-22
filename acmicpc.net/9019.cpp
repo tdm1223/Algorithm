@@ -1,5 +1,6 @@
 // 9019. DSLR
-// 2018.12.01
+// 2019.05.22
+// BFS
 #include<iostream>
 #include<algorithm>
 #include<queue>
@@ -30,7 +31,7 @@ int main()
 		cin >> a >> b;
 		Init();
 		visit[a] = true;
-		//dist[a] = 0;
+		// dist[a] = 0;
 		from[a] = -1;
 		queue<int> q;
 		q.push(a);

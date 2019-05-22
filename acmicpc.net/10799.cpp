@@ -1,5 +1,6 @@
 // 10799. 쇠막대기
-// 2018.10.15
+// 2019.05.22
+// 스택
 #include<iostream>
 #include<stack>
 #include<string>
@@ -21,7 +22,8 @@ int main()
 		else if (s[i] == ')')
 		{
 			a.pop();
-			if (s[i - 1] == '(')//레이저일땐 스택의 크기만큼 더함
+			// 레이저일땐 스택의 크기만큼 더함
+			if (s[i - 1] == '(')
 			{
 				ans += a.size();
 			}
@@ -31,7 +33,7 @@ int main()
 			}
 		}
 	}
-
+	// 결과 출력
 	cout << ans << endl;
 	return 0;
 }

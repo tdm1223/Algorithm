@@ -1,11 +1,12 @@
 // 11559. Puyo Puyo
-// 2018.11.21
+// 2019.05.22
+// BFS, DFS, 시뮬레이션
 #include<iostream>
 #include<queue>
 
 using namespace std;
 
-queue<pair<int,int>> boomPosition; //터진것들을 .으로 바꿔주기 위해 터진 것들의 좌표를 저장하는 큐
+queue<pair<int,int>> boomPosition; // 터진것들을 .으로 바꿔주기 위해 터진 것들의 좌표를 저장하는 큐
 char map[12][6];
 bool visit[12][6];
 int dx[4] = { 1,-1,0,0 };
@@ -35,7 +36,7 @@ int DFS(int x, int y, char c)
 	return cnt;
 }
 
-// 뿌요판 재정렬
+// puyo puyo판 재정렬
 queue<char> q;
 void Rearange()
 {
@@ -52,7 +53,7 @@ void Rearange()
 	{
 		for (int j = 0; j < 12; j++) // 가로
 		{
-			//아래서 위로 순회하면서 .이 아닌 뿌요들을 큐에 푸시
+			// 아래서 위로 순회하면서 .이 아닌 뿌요들을 큐에 푸시
 			if (map[j][i] != '.')
 			{
 				q.push({ map[j][i] });

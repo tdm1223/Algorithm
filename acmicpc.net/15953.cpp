@@ -1,5 +1,6 @@
 // 15953. 상금 헌터
-// 2019.02.02
+// 2019.05.22
+// 구현
 #include<iostream>
 
 using namespace std;

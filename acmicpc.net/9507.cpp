@@ -1,5 +1,6 @@
 // 9507. Generations of Tribbles
-// 2018.12.16
+// 2019.05.22
+// 다이나믹 프로그래밍
 #include<iostream>
 
 using namespace std;
@@ -25,6 +26,5 @@ int main()
 		}
 		cout << d[n] << endl;
 	}
-
 	return 0;
 }
