@@ -34,6 +34,7 @@
 |  37  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [cpp](acmicpc.net/2669.cpp)  |  38  |           [평균](https://www.acmicpc.net/problem/1546)           | [cpp](acmicpc.net/1546.cpp)  |
 |  39  |                  [합](https://www.acmicpc.net/problem/8393)                  | [cpp](acmicpc.net/8393.cpp)  |  40  |         [나머지](https://www.acmicpc.net/problem/10430)          | [cpp](acmicpc.net/10430.cpp) |
 |  41  |                [세 수](https://www.acmicpc.net/problem/10817)                | [cpp](acmicpc.net/10817.cpp) |  42  |        [사칙연산](https://www.acmicpc.net/problem/10869)         | [cpp](acmicpc.net/10869.cpp) |
+|  43  |            [삼각형 외우기](https://www.acmicpc.net/problem/10101)            | [cpp](acmicpc.net/10101.cpp) |      |                                                                  |                              |
 
 </details>
 
@@ -130,7 +131,7 @@ N과 M
 |  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       | [cpp](acmicpc.net/10709.cpp) |  56  |     [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)     | [cpp](acmicpc.net/1244.cpp)  |
 |  57  |       [회전 초밥](https://www.acmicpc.net/problem/15961)        | [cpp](acmicpc.net/15961.cpp) |  58  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)        | [cpp](acmicpc.net/9324.cpp)  |
 |  59  |       [자석 체인](https://www.acmicpc.net/problem/17201)        | [cpp](acmicpc.net/17201.cpp) |  60  |          [OX퀴즈](https://www.acmicpc.net/problem/8958)          | [cpp](acmicpc.net/8958.cpp)  |
-|  61  |         [A와 B](https://www.acmicpc.net/problem/12904)          | [cpp](acmicpc.net/12904.cpp) |      |                                                                  |                              |
+|  61  |         [A와 B](https://www.acmicpc.net/problem/12904)          | [cpp](acmicpc.net/12904.cpp) |  62  |        [선 그리기](https://www.acmicpc.net/problem/16396)        | [cpp](acmicpc.net/16396.cpp) |
 
 </details>
 
@@ -411,6 +412,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  23  |        [AC](https://www.acmicpc.net/problem/5430)        | [cpp](acmicpc.net/5430.cpp)  |  24  |             [덱](https://www.acmicpc.net/problem/10866)             | [cpp](acmicpc.net/10866.cpp) |
 |  25  |      [키로거](https://www.acmicpc.net/problem/5397)      | [cpp](acmicpc.net/5397.cpp)  |  26  |            [집합](https://www.acmicpc.net/problem/11723)            | [cpp](acmicpc.net/11723.cpp) |
 |  27  |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](acmicpc.net/3986.cpp)  |  28  |       [이진 검색 트리](https://www.acmicpc.net/problem/5639)        | [cpp](acmicpc.net/5639.cpp)  |
+|  29  |      [제로](https://www.acmicpc.net/problem/10773)       | [cpp](acmicpc.net/10773.cpp) |      |                                                                     |                              |
 
 </details>
 
