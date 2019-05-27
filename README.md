@@ -196,7 +196,8 @@ N과 M
 |  17  |     [치킨 배달](https://www.acmicpc.net/problem/15686)     | [cpp](acmicpc.net/15686.cpp) |  18  |   [2048 (Easy)](https://www.acmicpc.net/problem/12100)   | [cpp](acmicpc.net/12100.cpp) |
 |  19  |       [스도쿠](https://www.acmicpc.net/problem/2580)       | [cpp](acmicpc.net/2580.cpp)  |  20  | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)  | [cpp](acmicpc.net/1213.cpp)  |
 |  21  |   [색종이 붙이기](https://www.acmicpc.net/problem/17136)   | [cpp](acmicpc.net/17136.cpp) |  22  |   [방 배정하기](https://www.acmicpc.net/problem/14697)   | [cpp](acmicpc.net/14697.cpp) |
-|  23  |     [캠프 준비](https://www.acmicpc.net/problem/16938)     | [cpp](acmicpc.net/16938.cpp) |      |                                                          |                              |
+|  23  |     [캠프 준비](https://www.acmicpc.net/problem/16938)     | [cpp](acmicpc.net/16938.cpp) |  24  |  [차량 번호판 1](https://www.acmicpc.net/problem/16968)  | [cpp](acmicpc.net/16968.cpp) |
+|  25  |      [A -> B](https://www.acmicpc.net/problem/16953)       | [cpp](acmicpc.net/16953.cpp) |      |                                                          |                              |
 
 </details>
 
