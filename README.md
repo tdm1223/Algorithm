@@ -269,6 +269,7 @@ N과 M
 |  23  |     [카이사르 암호](https://www.acmicpc.net/problem/5598)      | [cpp](acmicpc.net/5598.cpp)  |  24  |       [Java vs C++](https://www.acmicpc.net/problem/3613)        | [cpp](acmicpc.net/3613.cpp)  |
 |  25  |      [!밀비 급일](https://www.acmicpc.net/problem/11365)       | [cpp](acmicpc.net/11365.cpp) |  26  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 |  27  |   [핸드폰 번호 궁함](https://www.acmicpc.net/problem/17202)    | [cpp](acmicpc.net/17202.cpp) |  28  |        [유학 금지](https://www.acmicpc.net/problem/2789)         | [cpp](acmicpc.net/2789.cpp)  |
+|  29  |      [알파벳 거리](https://www.acmicpc.net/problem/5218)       | [cpp](acmicpc.net/5218.cpp)  |  30  |           [FBI](https://www.acmicpc.net/problem/2857)            | [cpp](acmicpc.net/2857.cpp)  |
 
 </details>
 
