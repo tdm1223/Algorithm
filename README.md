@@ -464,6 +464,7 @@ Level 2
 |  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      | [cpp](programmers/2-7.cpp)  |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
 |  9   |         [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         | [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
 |  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |  12  |     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [cpp](programmers/2-12.cpp) |
+|  13  |        [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)         | [cpp](programmers/2-13.cpp) |      |                                                                              |                             |
 
 </details>
 

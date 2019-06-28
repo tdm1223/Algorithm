@@ -1,5 +1,6 @@
 // 124 나라의 숫자
-#include <string>
+// 2019.06.28
+#include<string>
 
 using namespace std;
 
@@ -17,6 +18,5 @@ string solution(int n)
 			n--;
 		}
 	}
-
 	return answer;
 }

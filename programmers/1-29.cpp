@@ -1,5 +1,5 @@
 // 시저 암호
-// 2019.03.08
+// 2019.06.28
 #include<string>
 
 using namespace std;
@@ -12,7 +12,7 @@ string solution(string s, int n)
 		{
 			continue;
 		}
-		//대소문자 판별
+		// 대소문자 판별
 		char b = isupper(s[i]) ? 'A' : 'a';
 		s[i] = b + (s[i] - b + n) % 26;
 	}

@@ -1,5 +1,5 @@
 // 같은 숫자는 싫어
-// 2019.03.08
+// 2019.06.28
 #include<vector>
 #include<iostream>
 
@@ -11,7 +11,7 @@ vector<int> solution(vector<int> arr)
     answer.push_back(arr[0]);
     for(int i=1;i<arr.size();i++)
     {
-        if(arr[i-1]==arr[i]) //이전 글자와 같은 글자라면
+        if(arr[i-1]==arr[i]) // 이전 글자와 같은 글자라면
         {
             continue;
         }

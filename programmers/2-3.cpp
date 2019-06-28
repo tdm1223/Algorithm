@@ -1,5 +1,6 @@
-//JadenCase 문자열 만들기
-#include <string>
+// JadenCase 문자열 만들기
+// 2019.06.28
+#include<string>
 
 using namespace std;
 
@@ -17,6 +18,5 @@ string solution(string s)
 			s[i] = tolower(s[i]);
 		}
 	}
-
 	return s;
 }

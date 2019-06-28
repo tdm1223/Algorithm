@@ -1,10 +1,10 @@
 // 최대공약수와 최소공배수
-// 2019.03.08
+// 2019.06.28
 #include<vector>
 
 using namespace std;
 
-//최대 공약수 구하기
+// 최대 공약수 구하기(재귀)
 int Gcd(int a, int b)
 {
 	if (b == 0)

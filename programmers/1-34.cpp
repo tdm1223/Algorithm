@@ -1,10 +1,10 @@
 // 방문길이
-// 2019.03.08
+// 2019.06.28
 #include<string>
 
 using namespace std;
 
-int map[11][11][11][11];//map[x][y][w][z] : x,y에서 w,z의 이동을 했는지
+int map[11][11][11][11]; // map[x][y][w][z] : x,y에서 w,z의 이동을 했는지
 int dx[4] = { 0,0,1,-1 };
 int dy[4] = { 1,-1,0,0 };
 int solution(string dirs)

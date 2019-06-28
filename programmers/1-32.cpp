@@ -1,5 +1,5 @@
 // 완주하지 못한 선수
-// 2018.10.29
+// 2019.06.28
 #include<string>
 #include<vector>
 #include<map>
@@ -10,7 +10,7 @@ map<string, int> m;
 string solution(vector<string> participant, vector<string> completion)
 {
 	string answer = "";
-	//삽입, 동명이인 허용
+	// 삽입, 동명이인 허용
 	for (int i = 0; i<participant.size(); i++)
 	{
 		string tmp = participant[i];
@@ -24,7 +24,7 @@ string solution(vector<string> participant, vector<string> completion)
 		}
 	}
 
-	//검색
+	// 검색
 	for (int i = 0; i<completion.size(); i++)
 	{
 		string tmp = completion[i];

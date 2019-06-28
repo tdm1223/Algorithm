@@ -1,5 +1,6 @@
 // 올바른 괄호
-// 2018.10.29
+// 2019.06.28
+// 스택
 #include<string>
 
 using namespace std;
@@ -19,7 +20,7 @@ bool solution(string s)
 		{
 			close++;
 		}
-		if (close > open) //닫는 괄호의 수가 더 많아졌다면 잘못된 괄호
+		if (close > open) // 닫는 괄호의 수가 더 많아졌다면 잘못된 괄호
 		{
 			break;
 		}

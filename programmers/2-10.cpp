@@ -1,12 +1,9 @@
 // 땅따먹기
-#include <vector>
+// 2019.06.28
+#include<vector>
+#include<algorithm>
 
 using namespace std;
-
-int max(int a, int b)
-{
-	return a>b ? a : b;
-}
 
 int d[100001][4]; // d[i][j] : i행에서 j칸을 밟았을때 최댓값
 int solution(vector<vector<int> > land)
@@ -16,7 +13,7 @@ int solution(vector<vector<int> > land)
 		d[0][i] = land[0][i];
 	}
 
-	for (int i = 0; i <land.size(); i++)
+	for (int i = 0; i < land.size(); i++)
 	{
 		for (int j = 0; j < 4; j++)
 		{

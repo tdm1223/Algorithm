@@ -1,5 +1,5 @@
 // 약수의 합
-// 2018.10.29
+// 2019.06.28
 int solution(int n)
 {
 	int answer = 0;
