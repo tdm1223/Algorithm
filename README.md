@@ -34,7 +34,7 @@
 |  37  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [cpp](acmicpc.net/2669.cpp)  |  38  |           [평균](https://www.acmicpc.net/problem/1546)           | [cpp](acmicpc.net/1546.cpp)  |
 |  39  |                  [합](https://www.acmicpc.net/problem/8393)                  | [cpp](acmicpc.net/8393.cpp)  |  40  |         [나머지](https://www.acmicpc.net/problem/10430)          | [cpp](acmicpc.net/10430.cpp) |
 |  41  |                [세 수](https://www.acmicpc.net/problem/10817)                | [cpp](acmicpc.net/10817.cpp) |  42  |        [사칙연산](https://www.acmicpc.net/problem/10869)         | [cpp](acmicpc.net/10869.cpp) |
-|  43  |            [삼각형 외우기](https://www.acmicpc.net/problem/10101)            | [cpp](acmicpc.net/10101.cpp) |  44  |                                                                  |                              |
+|  43  |            [삼각형 외우기](https://www.acmicpc.net/problem/10101)            | [cpp](acmicpc.net/10101.cpp) |  42  |           [윤년](https://www.acmicpc.net/problem/2753)           | [cpp](acmicpc.net/2753.cpp)  |
 
 </details>
 
@@ -534,22 +534,24 @@ Hard
 SW Expert Academy(swexpertacademy.com)
 ======================================
 
-문제를 보려면 로그인이 필요합니다.
-----------------------------------
+<h5>문제를 보려면 로그인이 필요합니다.<h5>
 
 D3
 --
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                                                                                      | 코드                                | 번호 | 문제                                                                                                                | 코드                                |
-|:----:|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|:----:|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
-|  1   |     [문제 제목 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIdD46A5EDFAXC)     | [cpp](swexpertacademy.com/7087.cpp) |  2   | [준홍이의 카드놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIlHWqBYcDFAXC)  | [cpp](swexpertacademy.com/7012.cpp) |
-|  3   | [동철이의 프로그래밍 대회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWicMVWKTuMDFAUL) | [cpp](swexpertacademy.com/6913.cpp) |  4   | [주혁이의 복권 당첨](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWh4FhG6Ei4DFAXp) | [cpp](swexpertacademy.com/6900.cpp) |
-|  5   |    [장애물 경주 난이도](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh)    | [cpp](swexpertacademy.com/6730.cpp) |  6   |  [희성이의 원근법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWd7qcdatpEDFAUh)   | [cpp](swexpertacademy.com/6718.cpp) |
-|  7   |    [다솔이의 월급 상자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn)    | [cpp](swexpertacademy.com/6692.cpp) |  8   | [삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn) | [cpp](swexpertacademy.com/6485.cpp) |
-|  9   |  [민석이의 과제 체크하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl3rWKDBYDFAXm)  | [cpp](swexpertacademy.com/5431.cpp) |  10  | [홀수일까 짝수일까](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWxpEDaAVoDFAW4)  | [cpp](swexpertacademy.com/5549.cpp) |
-|  11  |     [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)      | [cpp](swexpertacademy.com/5215.cpp) |  12  | [두가지 빵의 딜레마](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTaTDua3OoDFAVT) | [cpp](swexpertacademy.com/5162.cpp) |
-|  13  | [다솔이의 다이아몬드 장식](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNw5jKzwMDFAUr) | [cpp](swexpertacademy.com/4751.cpp) |  14  | [최대 성적표 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWOUfCJ6qVMDFAWg) | [cpp](swexpertacademy.com/4466.cpp) |
+| 번호 | 문제                                                                                                                      | 코드                                | 번호 | 문제                                                                                                                    | 코드                                |
+|:----:|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|:----:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
+|  1   |     [문제 제목 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIdD46A5EDFAXC)     | [cpp](swexpertacademy.com/7087.cpp) |  2   |   [준홍이의 카드놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIlHWqBYcDFAXC)    | [cpp](swexpertacademy.com/7012.cpp) |
+|  3   | [동철이의 프로그래밍 대회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWicMVWKTuMDFAUL) | [cpp](swexpertacademy.com/6913.cpp) |  4   |   [주혁이의 복권 당첨](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWh4FhG6Ei4DFAXp)   | [cpp](swexpertacademy.com/6900.cpp) |
+|  5   |    [장애물 경주 난이도](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh)    | [cpp](swexpertacademy.com/6730.cpp) |  6   |    [희성이의 원근법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWd7qcdatpEDFAUh)     | [cpp](swexpertacademy.com/6718.cpp) |
+|  7   |    [다솔이의 월급 상자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn)    | [cpp](swexpertacademy.com/6692.cpp) |  8   |   [삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn)   | [cpp](swexpertacademy.com/6485.cpp) |
+|  9   |  [민석이의 과제 체크하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl3rWKDBYDFAXm)  | [cpp](swexpertacademy.com/5431.cpp) |  10  |   [홀수일까 짝수일까](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWxpEDaAVoDFAW4)    | [cpp](swexpertacademy.com/5549.cpp) |
+|  11  |     [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)      | [cpp](swexpertacademy.com/5215.cpp) |  12  |   [두가지 빵의 딜레마](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTaTDua3OoDFAVT)   | [cpp](swexpertacademy.com/5162.cpp) |
+|  13  | [다솔이의 다이아몬드 장식](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNw5jKzwMDFAUr) | [cpp](swexpertacademy.com/4751.cpp) |  14  |   [최대 성적표 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWOUfCJ6qVMDFAWg)   | [cpp](swexpertacademy.com/4466.cpp) |
+|  15  | [모음이 보이지 않는 사람](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcD_66pUEDFAV8)  | [cpp](swexpertacademy.com/4406.cpp) |  16  | [태혁이의 사랑은 타이밍](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv6mx6htoDFAVV) | [cpp](swexpertacademy.com/4299.cpp) |
+|  17  |   [영준이의 카드 카운팅](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN)   | [cpp](swexpertacademy.com/4047.cpp) |  18  |   [직사각형 길이 찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWFPmsqqALwDFAV0)   | [cpp](swexpertacademy.com/3456.cpp) |
+|  19  |    [준환이의 운동관리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE_ZXcqAAMDFAV2)     | [cpp](swexpertacademy.com/3431.cpp) |  20  |    [보충학습과 평균](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnA2jaxDsDFAWr)     | [cpp](swexpertacademy.com/3314.cpp) |
 
 </details>
