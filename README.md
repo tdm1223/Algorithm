@@ -140,10 +140,11 @@ N과 M
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                | 코드                        | 번호 | 문제                                                         | 코드                         |
-|:----:|:---------------------------------------------------:|:---------------------------:|:----:|:------------------------------------------------------------:|:----------------------------:|
-|  1   |      [Z](https://www.acmicpc.net/problem/1074)      | [cpp](acmicpc.net/1074.cpp) |  2   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       | [cpp](acmicpc.net/1992.cpp)  |
-|  3   | [종이의 개수](https://www.acmicpc.net/problem/1780) | [cpp](acmicpc.net/1780.cpp) |  4   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [cpp](acmicpc.net/11729.cpp) |
+| 번호 | 문제                                                  | 코드                        | 번호 | 문제                                                         | 코드                         |
+|:----:|:-----------------------------------------------------:|:---------------------------:|:----:|:------------------------------------------------------------:|:----------------------------:|
+|  1   |       [Z](https://www.acmicpc.net/problem/1074)       | [cpp](acmicpc.net/1074.cpp) |  2   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       | [cpp](acmicpc.net/1992.cpp)  |
+|  3   |  [종이의 개수](https://www.acmicpc.net/problem/1780)  | [cpp](acmicpc.net/1780.cpp) |  4   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [cpp](acmicpc.net/11729.cpp) |
+|  5   | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [cpp](acmicpc.net/2630.cpp) |      |                                                              |                              |
 
 </details>
 
@@ -555,5 +556,7 @@ D3
 |  19  |    [준환이의 운동관리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE_ZXcqAAMDFAV2)     | [cpp](swexpertacademy.com/3431.cpp) |  20  |    [보충학습과 평균](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnA2jaxDsDFAWr)     | [cpp](swexpertacademy.com/3314.cpp) |
 |  21  | [영준이와 신비한 뿔의 숲](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6xWk6sbADFAWS)  | [cpp](swexpertacademy.com/3142.cpp) |  22  | [100만 이하의 모든 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6mRsasV8DFAWS) | [cpp](swexpertacademy.com/3131.cpp) |
 |  23  |     [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)      | [cpp](swexpertacademy.com/2805.cpp) |  24  |    [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc)     | [cpp](swexpertacademy.com/1873.cpp) |
+|  25  |  [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)  | [cpp](swexpertacademy.com/1289.cpp) |  26  |       [최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)        | [cpp](swexpertacademy.com/1244.cpp) |
+|  27  |    [단순 2진 암호코드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD)     | [cpp](swexpertacademy.com/1240.cpp) |  28  |        [비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD)        | [cpp](swexpertacademy.com/1234.cpp) |
 
 </details>
