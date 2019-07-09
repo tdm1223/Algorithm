@@ -245,7 +245,7 @@ N과 M
 |  67  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [cpp](acmicpc.net/2609.cpp)  |  68  |       [∑ΔEasyMAX](https://www.acmicpc.net/problem/17203)        | [cpp](acmicpc.net/17203.cpp) |
 |  69  |          [AxB](https://www.acmicpc.net/problem/10998)           | [cpp](acmicpc.net/10998.cpp) |  70  |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [cpp](acmicpc.net/15552.cpp) |
 |  71  | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | [cpp](acmicpc.net/15894.cpp) |  72  |          [행복](https://www.acmicpc.net/problem/15969)          | [cpp](acmicpc.net/15969.cpp) |
-|  73  |    [파스칼의 삼각형](https://www.acmicpc.net/problem/16395)     | [cpp](acmicpc.net/16395.cpp) |      |                                                                 |                              |
+|  73  |    [파스칼의 삼각형](https://www.acmicpc.net/problem/16395)     | [cpp](acmicpc.net/16395.cpp) |  74  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  | [cpp](acmicpc.net/2869.cpp)  |
 
 </details>
 
@@ -465,7 +465,7 @@ Level 2
 |  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      | [cpp](programmers/2-7.cpp)  |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
 |  9   |         [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         | [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
 |  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |  12  |     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [cpp](programmers/2-12.cpp) |
-|  13  |        [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)         | [cpp](programmers/2-13.cpp) |      |                                                                              |                             |
+|  13  |        [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)         | [cpp](programmers/2-13.cpp) |  14  | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)  | [cpp](programmers/2-14.cpp) |
 
 </details>
 
