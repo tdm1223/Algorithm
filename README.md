@@ -563,6 +563,7 @@ D3
 |  33  |           [View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh)           | [cpp](swexpertacademy.com/1206.cpp) |  34  |      [쥬스 나누기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGAylqcdYDFAUo)       | [cpp](swexpertacademy.com/5601.cpp) |
 |  35  |         [건초더미](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo)         | [cpp](swexpertacademy.com/5603.cpp) |  36  |          [조합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo)          | [cpp](swexpertacademy.com/5607.cpp) |
 |  37  |            [합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQm2SqdxkDFAUo)            | [cpp](swexpertacademy.com/5642.cpp) |  38  |        [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)         | [cpp](swexpertacademy.com/1208.cpp) |
+|  39  |       [다양성 측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG)        | [cpp](swexpertacademy.com/7728.cpp) |  40  |      [안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz)      | [cpp](swexpertacademy.com/7272.cpp) |
 
 </details>
 
@@ -578,9 +579,10 @@ D4
 |  5   |      [가능한 시험 점수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn)       | [cpp](swexpertacademy.com/3752.cpp) |  6   | [의석이의 우뚝 선 산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2h6AKBCoDFAVT)  | [cpp](swexpertacademy.com/4796.cpp) |
 |  7   |      [정식이의 은행업무](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd)      | [cpp](swexpertacademy.com/4366.cpp) |  8   |  [수진이의 팰린드롬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRKNev6fqYDFAV8)   | [cpp](swexpertacademy.com/4672.cpp) |
 |  9   |    [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)     | [cpp](swexpertacademy.com/4261.cpp) |  10  | [자기 방으로 돌아가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) | [cpp](swexpertacademy.com/4408.cpp) |
+|  11  |        [승자 예측하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWFPoj1qANoDFAV0)        | [cpp](swexpertacademy.com/3459.cpp) |  12  | [스타일리쉬 들여쓰기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWD3nB5q3T0DFAUZ)  | [cpp](swexpertacademy.com/3378.cpp) |
 
 </details>
 
 ---
 
-**Copyright &copy; 2019 Kang Jegyun**
+**Copyright &copy; 2018-2019 Kang Jegyun**
