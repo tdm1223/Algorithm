@@ -36,6 +36,7 @@
 |  41  |                [세 수](https://www.acmicpc.net/problem/10817)                | [cpp](acmicpc.net/10817.cpp) |  42  |        [사칙연산](https://www.acmicpc.net/problem/10869)         | [cpp](acmicpc.net/10869.cpp) |
 |  43  |            [삼각형 외우기](https://www.acmicpc.net/problem/10101)            | [cpp](acmicpc.net/10101.cpp) |  44  |           [윤년](https://www.acmicpc.net/problem/2753)           | [cpp](acmicpc.net/2753.cpp)  |
 |  45  |               [Doubles](https://www.acmicpc.net/problem/4641)                | [cpp](acmicpc.net/4641.cpp)  |  46  |          [e 계산](https://www.acmicpc.net/problem/6376)          | [cpp](acmicpc.net/6376.cpp)  |
+|  47  |             [완전 세제곱](https://www.acmicpc.net/problem/4690)              | [cpp](acmicpc.net/4690.cpp)  |      |                                                                  |                              |
 
 </details>
 
@@ -582,6 +583,7 @@ D4
 |  9   |    [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)     | [cpp](swexpertacademy.com/4261.cpp) |  10  |  [자기 방으로 돌아가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8)   | [cpp](swexpertacademy.com/4408.cpp) |
 |  11  |        [승자 예측하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWFPoj1qANoDFAV0)        | [cpp](swexpertacademy.com/3459.cpp) |  12  |   [스타일리쉬 들여쓰기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWD3nB5q3T0DFAUZ)   | [cpp](swexpertacademy.com/3378.cpp) |
 |  13  |      [준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw)      | [cpp](swexpertacademy.com/3234.cpp) |  14  | [가장 빠른 문자열 타이핑](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS) | [cpp](swexpertacademy.com/3143.cpp) |
+|  15  |  [격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB)  | [cpp](swexpertacademy.com/2819.cpp) |  16  |    [파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc)    | [cpp](swexpertacademy.com/1868.cpp) |
 
 </details>
 
