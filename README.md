@@ -225,7 +225,7 @@ N과 M
 |  23  |         [시그마](https://www.acmicpc.net/problem/2355)          | [cpp](acmicpc.net/2355.cpp)  |  24  |      [더하기 사이클](https://www.acmicpc.net/problem/1110)      | [cpp](acmicpc.net/1110.cpp)  |
 |  25  |        [소수 찾기](https://www.acmicpc.net/problem/1978)        | [cpp](acmicpc.net/1978.cpp)  |  26  |         [플러그](https://www.acmicpc.net/problem/2010)          | [cpp](acmicpc.net/2010.cpp)  |
 |  27  |       [완전제곱수](https://www.acmicpc.net/problem/1977)        | [cpp](acmicpc.net/1977.cpp)  |  28  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [cpp](acmicpc.net/1357.cpp)  |
-|  29  |         [방 번호](https://www.acmicpc.net/problem/1475)         | [cpp](acmicpc.net/1475.cpp)  |  30  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [cpp](acmicpc.net/1652.cpp)  |
+|  29  |         [방 번호](https://www.acmicpc.net/problem/1475)         | [cpp](aㅌcmicpc.net/1475.cpp)  |  30  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [cpp](acmicpc.net/1652.cpp)  |
 |  31  |    [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  32  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [cpp](acmicpc.net/1297.cpp)  |
 |  33  |       [약수들의 합](https://www.acmicpc.net/problem/9506)       | [cpp](acmicpc.net/9506.cpp)  |  34  |          [약수](https://www.acmicpc.net/problem/1037)           | [cpp](acmicpc.net/1037.cpp)  |
 |  35  |          [저항](https://www.acmicpc.net/problem/1076)           | [cpp](acmicpc.net/1076.cpp)  |  36  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [cpp](acmicpc.net/1788.cpp)  |
@@ -294,6 +294,7 @@ N과 M
 |  15  |     [사냥꾼](https://www.acmicpc.net/problem/8983)      | [cpp](acmicpc.net/8983.cpp)  |  16  |     [국영수](https://www.acmicpc.net/problem/10825)      | [cpp](acmicpc.net/10825.cpp) |
 |  17  |       [ABC](https://www.acmicpc.net/problem/3047)       | [cpp](acmicpc.net/3047.cpp)  |  18  |       [보물](https://www.acmicpc.net/problem/1026)       | [cpp](acmicpc.net/1026.cpp)  |
 |  19  |  [소트인사이드](https://www.acmicpc.net/problem/1427)   | [cpp](acmicpc.net/1427.cpp)  |  20  |     [줄세우기](https://www.acmicpc.net/problem/2605)     | [cpp](acmicpc.net/2605.cpp)  |
+|  21  |  [숫자 카드 2](https://www.acmicpc.net/problem/10816)   | [cpp](acmicpc.net/10816.cpp)  |      |                                                         |                             |
 
 </details>
 
