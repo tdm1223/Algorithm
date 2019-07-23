@@ -1,6 +1,7 @@
 // 16236. 아기상어
 // 2019.05.22
 // BFS
+// https://tdm1223.tistory.com/55
 #include<iostream>
 #include<queue>
 

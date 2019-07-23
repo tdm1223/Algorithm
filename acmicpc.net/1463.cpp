@@ -1,6 +1,7 @@
 // 1463. 1로 만들기
 // 2019.05.18
 // 다이나믹 프로그래밍
+// https://tdm1223.tistory.com/41
 #include<iostream>
 #include<algorithm>
 

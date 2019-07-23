@@ -1,6 +1,7 @@
 // 10799. 쇠막대기
 // 2019.05.22
 // 스택
+// https://tdm1223.tistory.com/63
 #include<iostream>
 #include<stack>
 #include<string>

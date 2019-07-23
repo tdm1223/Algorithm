@@ -1,6 +1,7 @@
 // 14888. 연산자 끼워넣기
 // 2019.05.22
 // 브루트 포스
+// https://tdm1223.tistory.com/67
 #include<iostream>
 #include<stack>
 

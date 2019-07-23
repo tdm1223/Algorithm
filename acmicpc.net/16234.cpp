@@ -1,6 +1,7 @@
 // 16234. 인구 이동
 // 2019.05.22
 // 시뮬레이션
+// https://tdm1223.tistory.com/39
 #include<iostream>
 #include<vector>
 #include<queue>

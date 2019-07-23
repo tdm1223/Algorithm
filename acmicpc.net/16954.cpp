@@ -1,6 +1,7 @@
 // 16954. 움직이는 미로 탈출
 // 2019.05.22
 // BFS
+// https://tdm1223.tistory.com/75
 #include<iostream>
 #include<queue>
 #include<algorithm>

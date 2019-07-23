@@ -1,6 +1,7 @@
 // 17143. 낚시왕
 // 2019.05.22
 // 시뮬레이션
+// https://tdm1223.tistory.com/3
 #include<iostream>
 #include<vector>
 #include<algorithm>

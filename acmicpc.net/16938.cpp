@@ -1,6 +1,7 @@
 // 16938. 캠프 준비
 // 2019.05.25
 // 브루트 포스
+// https://tdm1223.tistory.com/68
 #include<iostream>
 #include<algorithm>
 

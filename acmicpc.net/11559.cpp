@@ -1,6 +1,7 @@
 // 11559. Puyo Puyo
 // 2019.05.22
 // BFS, DFS, 시뮬레이션
+// https://tdm1223.tistory.com/74
 #include<iostream>
 #include<queue>
 

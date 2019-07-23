@@ -1,6 +1,7 @@
 // 14499. 주사위 굴리기
 // 2019.05.22
 // 시뮬레이션
+// https://tdm1223.tistory.com/56
 #include<iostream>
 
 using namespace std;

@@ -1,6 +1,7 @@
 // 16953. A -> B
 // 2019.05.26
 // 브루트 포스
+// https://tdm1223.tistory.com/66
 #include<iostream>
 
 using namespace std;

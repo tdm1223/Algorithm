@@ -1,6 +1,7 @@
 // 1406. 에디터
 // 2019.05.18
 // 링크드 리스트
+// https://tdm1223.tistory.com/62
 #include<iostream>
 #include<string>
 #include<list>

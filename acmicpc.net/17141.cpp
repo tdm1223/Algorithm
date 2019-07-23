@@ -1,6 +1,7 @@
 // 17141. 연구소 2
 // 2019.05.22
 // BFS
+// https://tdm1223.tistory.com/26
 #include<iostream>
 #include<vector>
 #include<algorithm>

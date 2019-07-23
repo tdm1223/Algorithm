@@ -1,6 +1,7 @@
 // 2630. 색종이 만들기
 // 2019.07.03
 // 분할정복
+// https://tdm1223.tistory.com/54
 #include<iostream>
 
 using namespace std;

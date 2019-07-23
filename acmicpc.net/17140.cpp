@@ -1,6 +1,7 @@
 // 17140. 이차원 배열과 연산
 // 2019.05.22
 // 시뮬레이션
+// https://tdm1223.tistory.com/6
 #include<iostream>
 #include<vector>
 #include<algorithm>

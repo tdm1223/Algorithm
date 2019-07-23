@@ -1,6 +1,7 @@
 // 15686. 치킨 배달
 // 2019.05.22
 // 브루트 포스
+// https://tdm1223.tistory.com/37
 #include<iostream>
 #include<queue>
 #include<algorithm>

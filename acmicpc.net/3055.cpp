@@ -1,6 +1,7 @@
 // 3055. 탈출
 // 2019.05.21
 // BFS, 시뮬레이션
+// https://tdm1223.tistory.com/73
 #include<iostream>
 #include<algorithm>
 #include<queue>
