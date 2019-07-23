@@ -590,6 +590,7 @@ D4
 |  17  |      [동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc)       | [cpp](swexpertacademy.com/1865.cpp) |  18  |       [정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)       | [cpp](swexpertacademy.com/1861.cpp) |
 |  19  |       [사랑의 카운슬러](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b_WPaAEIBBASw)       | [cpp](swexpertacademy.com/1494.cpp) |  20  | [혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)  | [cpp](swexpertacademy.com/1824.cpp) |
 |  21  |          [행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)           | [cpp](swexpertacademy.com/1258.cpp) |  22  |         [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD)         | [cpp](swexpertacademy.com/1238.cpp) |
+|  23  |            [미로2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD)            | [cpp](swexpertacademy.com/1227.cpp) |      |                                                                                                                          |                                     |
 
 </details>
 
