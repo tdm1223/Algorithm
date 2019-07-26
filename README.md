@@ -134,7 +134,7 @@ N과 M
 |  57  |       [회전 초밥](https://www.acmicpc.net/problem/15961)        | [cpp](acmicpc.net/15961.cpp) |  58  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)        | [cpp](acmicpc.net/9324.cpp)  |
 |  59  |       [자석 체인](https://www.acmicpc.net/problem/17201)        | [cpp](acmicpc.net/17201.cpp) |  60  |          [OX퀴즈](https://www.acmicpc.net/problem/8958)          | [cpp](acmicpc.net/8958.cpp)  |
 |  61  |         [A와 B](https://www.acmicpc.net/problem/12904)          | [cpp](acmicpc.net/12904.cpp) |  62  |        [선 그리기](https://www.acmicpc.net/problem/16396)        | [cpp](acmicpc.net/16396.cpp) |
-|  63  |        [사나운 개](https://www.acmicpc.net/problem/2991)        | [cpp](acmicpc.net/2991.cpp)  |      |                                                                  |                              |
+|  63  |        [사나운 개](https://www.acmicpc.net/problem/2991)        | [cpp](acmicpc.net/2991.cpp)  |   64  |        [귀여운 수~ε٩(๑> ₃ <)۶з](https://www.acmicpc.net/problem/17294)    | [cpp](acmicpc.net/17294.cpp) |
 
 </details>
 
