@@ -1,6 +1,7 @@
 // 12726. 2×n 타일링
 // 2019.05.22
 // 다이나믹 프로그래밍
+// https://tdm1223.tistory.com/82
 #include<iostream>
 
 using namespace std;

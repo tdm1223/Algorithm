@@ -1,6 +1,7 @@
 // 2193. 이친수
 // 2019.05.19
 // 다이나믹 프로그래밍
+// https://tdm1223.tistory.com/79
 #include<iostream>
 
 using namespace std;

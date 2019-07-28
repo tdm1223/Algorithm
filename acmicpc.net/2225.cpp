@@ -1,6 +1,7 @@
 // 2225. 합분해
 // 2019.05.20
 // 다이나믹 프로그래밍
+// https://tdm1223.tistory.com/81
 #include<iostream>
 
 using namespace std;
