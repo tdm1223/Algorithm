@@ -251,7 +251,7 @@ N과 M
 |  69  |          [AxB](https://www.acmicpc.net/problem/10998)           | [cpp](acmicpc.net/10998.cpp)  |  70  |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [cpp](acmicpc.net/15552.cpp) |
 |  71  | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | [cpp](acmicpc.net/15894.cpp)  |  72  |          [행복](https://www.acmicpc.net/problem/15969)          | [cpp](acmicpc.net/15969.cpp) |
 |  73  |    [파스칼의 삼각형](https://www.acmicpc.net/problem/16395)     | [cpp](acmicpc.net/16395.cpp)  |  74  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  | [cpp](acmicpc.net/2869.cpp)  |
-|  75  |  [오버플로우와 모듈러](https://www.acmicpc.net/problem/15818)   | [cpp](acmicpc.net/15818.cpp)  |      |                                                                 |                              |
+|  75  |  [오버플로우와 모듈러](https://www.acmicpc.net/problem/15818)   | [cpp](acmicpc.net/15818.cpp)  |  76  |          [수학](https://www.acmicpc.net/problem/9610)           | [cpp](acmicpc.net/9610.cpp)  |
 
 </details>
 
