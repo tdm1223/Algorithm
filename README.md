@@ -54,7 +54,7 @@
 |  9   |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [cpp](acmicpc.net/11719.cpp) |  10  |    [구구단](https://www.acmicpc.net/problem/2739)     | [cpp](acmicpc.net/2739.cpp)  |
 |  11  |        [고양이](https://www.acmicpc.net/problem/10171)         | [cpp](acmicpc.net/10171.cpp) |  12  | [피터팬 프레임](https://www.acmicpc.net/problem/3054) | [cpp](acmicpc.net/3054.cpp)  |
 |  13  |         [J박스](https://www.acmicpc.net/problem/5354)          | [cpp](acmicpc.net/5354.cpp)  |  14  |   [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237)    | [cpp](acmicpc.net/1237.cpp)  |
-|  15  |  [마이크로소프트 로고](https://www.acmicpc.net/problem/5338)   | [cpp](acmicpc.net/5338.cpp)  |      |                                                       |                              |
+|  15  |  [마이크로소프트 로고](https://www.acmicpc.net/problem/5338)   | [cpp](acmicpc.net/5338.cpp)  |  16  | [스타워즈 로고](https://www.acmicpc.net/problem/9653) | [cpp](acmicpc.net/9653.cpp)  |
 
 </details>
 
@@ -136,6 +136,7 @@ N과 M
 |  61  |         [A와 B](https://www.acmicpc.net/problem/12904)          | [cpp](acmicpc.net/12904.cpp) |  62  |         [선 그리기](https://www.acmicpc.net/problem/16396)         | [cpp](acmicpc.net/16396.cpp) |
 |  63  |        [사나운 개](https://www.acmicpc.net/problem/2991)        | [cpp](acmicpc.net/2991.cpp)  |  64  |  [귀여운 수~ε٩(๑> ₃ <)۶з](https://www.acmicpc.net/problem/17294)   | [cpp](acmicpc.net/17294.cpp) |
 |  65  |    [우유가 넘어지면?](https://www.acmicpc.net/problem/17363)    | [cpp](acmicpc.net/17363.cpp) |  66  | [수학은 체육과목 입니다 2 ](https://www.acmicpc.net/problem/17362) | [cpp](acmicpc.net/17362.cpp) |
+|  67  |     [전체 계산 횟수](https://www.acmicpc.net/problem/17174)     | [cpp](acmicpc.net/17174.cpp) |      |                                                                    |                              |
 
 </details>
 
@@ -278,6 +279,7 @@ N과 M
 |  27  |   [핸드폰 번호 궁함](https://www.acmicpc.net/problem/17202)    | [cpp](acmicpc.net/17202.cpp) |  28  |        [유학 금지](https://www.acmicpc.net/problem/2789)         | [cpp](acmicpc.net/2789.cpp)  |
 |  29  |      [알파벳 거리](https://www.acmicpc.net/problem/5218)       | [cpp](acmicpc.net/5218.cpp)  |  30  |           [FBI](https://www.acmicpc.net/problem/2857)            | [cpp](acmicpc.net/2857.cpp)  |
 |  31  |    [상근이의 체스판](https://www.acmicpc.net/problem/3076)     | [cpp](acmicpc.net/3076.cpp)  |  32  |       [너의 핸들은](https://www.acmicpc.net/problem/15819)       | [cpp](acmicpc.net/15819.cpp) |
+|  33  |      [암호해독기](https://www.acmicpc.net/problem/17176)       | [cpp](acmicpc.net/17176.cpp) |      |                                                                  |                              |
 
 </details>
 
