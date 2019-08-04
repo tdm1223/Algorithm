@@ -1,5 +1,7 @@
 // 1525. 퍼즐
 // 2019.05.18
+// BFS
+// https://tdm1223.tistory.com/91
 #include<iostream>
 #include<algorithm>
 #include<string>

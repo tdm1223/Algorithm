@@ -1,6 +1,7 @@
 // 13549. 숨바꼭질 3
 // 2019.05.22
 // BFS
+// https://tdm1223.tistory.com/93
 #include<iostream>
 #include<queue>
 

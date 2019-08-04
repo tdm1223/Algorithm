@@ -1,6 +1,7 @@
 // 13913. 숨바꼭질 4
 // 2019.08.04
 // BFS
+// https://tdm1223.tistory.com/89
 #include<iostream>
 #include<queue>
 
