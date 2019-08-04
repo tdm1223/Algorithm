@@ -279,7 +279,7 @@ N과 M
 |  27  |   [핸드폰 번호 궁함](https://www.acmicpc.net/problem/17202)    | [cpp](acmicpc.net/17202.cpp) |  28  |        [유학 금지](https://www.acmicpc.net/problem/2789)         | [cpp](acmicpc.net/2789.cpp)  |
 |  29  |      [알파벳 거리](https://www.acmicpc.net/problem/5218)       | [cpp](acmicpc.net/5218.cpp)  |  30  |           [FBI](https://www.acmicpc.net/problem/2857)            | [cpp](acmicpc.net/2857.cpp)  |
 |  31  |    [상근이의 체스판](https://www.acmicpc.net/problem/3076)     | [cpp](acmicpc.net/3076.cpp)  |  32  |       [너의 핸들은](https://www.acmicpc.net/problem/15819)       | [cpp](acmicpc.net/15819.cpp) |
-|  33  |      [암호해독기](https://www.acmicpc.net/problem/17176)       | [cpp](acmicpc.net/17176.cpp) |      |                                                                  |                              |
+|  33  |      [암호해독기](https://www.acmicpc.net/problem/17176)       | [cpp](acmicpc.net/17176.cpp) |  34  |    [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350)    | [cpp](acmicpc.net/17350.cpp) |
 
 </details>
 
@@ -383,6 +383,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 |  59  |        [양치기 꿍](https://www.acmicpc.net/problem/3187)         | [cpp](acmicpc.net/3187.cpp)  |  60  |       [토마토](https://www.acmicpc.net/problem/7576)       | [cpp](acmicpc.net/7576.cpp)  |
 |  61  |        [연구소 2](https://www.acmicpc.net/problem/17141)         | [cpp](acmicpc.net/17141.cpp) |  62  |     [연구소 3](https://www.acmicpc.net/problem/17142)      | [cpp](acmicpc.net/17142.cpp) |
 |  63  |       [데스 나이트](https://www.acmicpc.net/problem/16948)       | [cpp](acmicpc.net/16948.cpp) |  64  |        [치즈](https://www.acmicpc.net/problem/2638)        | [cpp](acmicpc.net/2638.cpp)  |
+|  65  |       [숨바꼭질 4](https://www.acmicpc.net/problem/13913)        | [cpp](acmicpc.net/13913.cpp) |      |                                                            |                              |
 
 </details>
 
