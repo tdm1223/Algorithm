@@ -1,7 +1,8 @@
 알고리즘 문제풀이
 =================
 
-[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com) 사이트의 알고리즘 문제 풀이입니다.
+-	[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com) 사이트의 알고리즘 문제 풀이입니다.
+-	주로 C++로 풀었고 Java로 푼 문제가 조금 있습니다.
 
 [백준 온라인저지](https://www.acmicpc.net)
 ------------------------------------------
@@ -42,7 +43,7 @@
 |  45  |               [Doubles](https://www.acmicpc.net/problem/4641)                |  [cpp](acmicpc.net/4641.cpp)   |  46  |          [e 계산](https://www.acmicpc.net/problem/6376)          |  [cpp](acmicpc.net/6376.cpp)   |
 |  47  |             [완전 세제곱](https://www.acmicpc.net/problem/4690)              |  [cpp](acmicpc.net/4690.cpp)   |  48  |         [대표값2](https://www.acmicpc.net/problem/2587)          |  [cpp](acmicpc.net/2587.cpp)   |
 |  49  |          [달달함이 넘쳐흘러](https://www.acmicpc.net/problem/17256)          | [java](acmicpc.net/17256.java) |  50  |        [Presents](https://www.acmicpc.net/problem/13771)         | [java](acmicpc.net/13771.java) |
-|  51  |                [Holes](https://www.acmicpc.net/problem/13772)                | [java](acmicpc.net/13772.java) |      |                                                                  |                                |
+|  51  |                [Holes](https://www.acmicpc.net/problem/13772)                | [java](acmicpc.net/13772.java) |  52  |     [와글와글 숭고한](https://www.acmicpc.net/problem/17388)     | [java](acmicpc.net/17388.java) |
 
 </details>
 
@@ -184,7 +185,7 @@
 |  35  |     [미로 만들기](https://www.acmicpc.net/problem/1347)      | [cpp](acmicpc.net/1347.cpp)  |  36  |  [영식이의 손가락](https://www.acmicpc.net/problem/1614)   | [cpp](acmicpc.net/1614.cpp)  |
 |  37  |         [체스](https://www.acmicpc.net/problem/1986)         | [cpp](acmicpc.net/1986.cpp)  |  38  |     [보이저 1호](https://www.acmicpc.net/problem/3987)     | [cpp](acmicpc.net/3987.cpp)  |
 |  39  | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  | [cpp](acmicpc.net/17140.cpp) |  40  |      [낚시왕](https://www.acmicpc.net/problem/17143)       | [cpp](acmicpc.net/17143.cpp) |
-|  41  |        [트럭](https://www.acmicpc.net/problem/13335)         | [cpp](acmicpc.net/13335.cpp) |      |                                                            |                              |
+|  41  |        [트럭](https://www.acmicpc.net/problem/13335)         | [cpp](acmicpc.net/13335.cpp) |  42  |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [cpp](acmicpc.net/17406.cpp) |
 
 </details>
 
@@ -345,7 +346,7 @@
 |  55  |            [조짜기](https://www.acmicpc.net/problem/2229)            | [cpp](acmicpc.net/2229.cpp)  |  56  |        [평범한 배낭](https://www.acmicpc.net/problem/12865)         | [cpp](acmicpc.net/12865.cpp) |
 |  57  |       [카드 구매하기 2](https://www.acmicpc.net/problem/16194)       | [cpp](acmicpc.net/16194.cpp) |  58  |           [동전 2](https://www.acmicpc.net/problem/2294)            | [cpp](acmicpc.net/2294.cpp)  |
 |  59  |          [팰린드롬?](https://www.acmicpc.net/problem/10942)          | [cpp](acmicpc.net/10942.cpp) |  60  | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | [cpp](acmicpc.net/11722.cpp) |
-|  61  |     [준석이의 수학 숙제](https://www.acmicpc.net/problem/17206)      | [cpp](acmicpc.net/17206.cpp) |      |                                                                     |                              |
+|  61  |     [준석이의 수학 숙제](https://www.acmicpc.net/problem/17206)      | [cpp](acmicpc.net/17206.cpp) |  62  |     [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)     | [cpp](acmicpc.net/17390.cpp) |
 
 </details>
 
@@ -388,7 +389,7 @@
 |  61  |        [연구소 2](https://www.acmicpc.net/problem/17141)         | [cpp](acmicpc.net/17141.cpp) |  62  |     [연구소 3](https://www.acmicpc.net/problem/17142)      | [cpp](acmicpc.net/17142.cpp) |
 |  63  |       [데스 나이트](https://www.acmicpc.net/problem/16948)       | [cpp](acmicpc.net/16948.cpp) |  64  |        [치즈](https://www.acmicpc.net/problem/2638)        | [cpp](acmicpc.net/2638.cpp)  |
 |  65  |        [아기상어](https://www.acmicpc.net/problem/16236)         | [cpp](acmicpc.net/16236.cpp) |  66  |     [미로 탐색](https://www.acmicpc.net/problem/2178)      | [cpp](acmicpc.net/2178.cpp)  |
-|  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |      |                                                            |                              |
+|  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |  68  |    [무한부스터](https://www.acmicpc.net/problem/17391)     | [cpp](acmicpc.net/17371.cpp) |
 
 </details>
 
@@ -439,7 +440,7 @@
 [프로그래머스](https://programmers.co.kr)
 -----------------------------------------
 
----
+-	사이트에서 제공하는 **Level** 별로 정리하였습니다. ---
 
 ### Level 1
 
@@ -495,7 +496,11 @@
 </details>
 
 [HackerRank](https://www.hackerrank.com)
-========================================
+----------------------------------------
+
+-	사이트에서 제공하는 **문제 난이도** 별로 정리하였습니다.
+
+---
 
 ### Easy
 
@@ -545,7 +550,10 @@
 [SW Expert Academy](https://swexpertacademy.com)
 ------------------------------------------------
 
-##### 문제를 보려면 로그인이 필요합니다.
+-	사이트에서 제공하는 **문제 난이도(D1~D7)** 별로 정리하였습니다.
+-	문제를 보려면 해당 사이트에 로그인이 필요합니다.
+
+---
 
 ### D3
 
