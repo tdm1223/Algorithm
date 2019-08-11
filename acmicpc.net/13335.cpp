@@ -1,6 +1,7 @@
 // 13335. 트럭
 // 2019.05.22
 // 시뮬레이션
+// https://tdm1223.tistory.com/99
 #include<string>
 #include<vector>
 #include<queue>

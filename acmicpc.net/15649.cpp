@@ -1,6 +1,7 @@
 // 15649. N과 M (1)
 // 2019.05.22
 // N과 M
+// https://tdm1223.tistory.com/96
 #include<iostream>
 
 using namespace std;

@@ -1,6 +1,7 @@
 // 12931. 두 배 더하기
 // 2019.08.10
 // 구현
+// https://tdm1223.tistory.com/103
 #include<iostream>
 #include<vector>
 

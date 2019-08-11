@@ -1,6 +1,7 @@
 // 10409. 서버
 // 2019.05.22
 // 구현
+// https://tdm1223.tistory.com/100
 #include<iostream>
 #include<vector>
 
@@ -16,7 +17,7 @@ int main()
 		cin >> v[i];
 	}
 	int ans = 0;
-  // FCFS(FIFO)
+	// FCFS(FIFO)
 	for (int i = 0; i < v.size(); i++)
 	{
 		if (v[i] <= t)
@@ -26,4 +27,5 @@ int main()
 		t -= v[i];
 	}
 	cout << ans << endl;
+	return 0;
 }

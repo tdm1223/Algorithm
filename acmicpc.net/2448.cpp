@@ -1,6 +1,7 @@
 // 2448. 별 찍기 - 11
 // 2019.05.20
 // 별 찍기
+// https://tdm1223.tistory.com/97
 #include<iostream>
 
 using namespace std;

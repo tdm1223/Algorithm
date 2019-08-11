@@ -1,5 +1,7 @@
 // 1676. 팩토리얼 0의 개수
 // 2019.05.18
+// 구현
+// https://tdm1223.tistory.com/102
 #include<iostream>
 
 using namespace std;

@@ -1,6 +1,7 @@
 // 5566. 주사위 게임
 // 2019.05.21
 // 시뮬레이션
+// https://tdm1223.tistory.com/101
 #include<iostream>
 #include<vector>
 
