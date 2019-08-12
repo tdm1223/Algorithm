@@ -143,7 +143,7 @@
 |  67  |     [전체 계산 횟수](https://www.acmicpc.net/problem/17174)     | [cpp](acmicpc.net/17174.cpp) |  68  |            [우유 축제](https://www.acmicpc.net/problem/14720)            | [cpp](acmicpc.net/14720.cpp) |
 |  69  |        [방 배정](https://www.acmicpc.net/problem/13304)         | [cpp](acmicpc.net/13304.cpp) |  70  | [고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673) | [cpp](acmicpc.net/16673.cpp) |
 |  71  |  [2018년을 되돌아보며](https://www.acmicpc.net/problem/16674)   | [cpp](acmicpc.net/16674.cpp) |  72  |            [속도 위반](https://www.acmicpc.net/problem/11971)            | [cpp](acmicpc.net/11971.cpp) |
-|  73  |      [두 배 더하기](https://www.acmicpc.net/problem/12931)      | [cpp](acmicpc.net/12931.cpp) |      |                                                                          |                              |
+|  73  |      [두 배 더하기](https://www.acmicpc.net/problem/12931)      | [cpp](acmicpc.net/12931.cpp) |  74  |           [수들의 합 2](https://www.acmicpc.net/problem/2003)            | [cpp](acmicpc.net/2003.cpp)  |
 
 </details>
 
@@ -390,6 +390,7 @@
 |  63  |       [데스 나이트](https://www.acmicpc.net/problem/16948)       | [cpp](acmicpc.net/16948.cpp) |  64  |        [치즈](https://www.acmicpc.net/problem/2638)        | [cpp](acmicpc.net/2638.cpp)  |
 |  65  |        [아기상어](https://www.acmicpc.net/problem/16236)         | [cpp](acmicpc.net/16236.cpp) |  66  |     [미로 탐색](https://www.acmicpc.net/problem/2178)      | [cpp](acmicpc.net/2178.cpp)  |
 |  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |  68  |    [무한부스터](https://www.acmicpc.net/problem/17391)     | [cpp](acmicpc.net/17371.cpp) |
+|  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |      |                                                            |                              |
 
 </details>
 
@@ -433,7 +434,8 @@
 |  25  |      [키로거](https://www.acmicpc.net/problem/5397)      | [cpp](acmicpc.net/5397.cpp)  |  26  |            [집합](https://www.acmicpc.net/problem/11723)            | [cpp](acmicpc.net/11723.cpp) |
 |  27  |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](acmicpc.net/3986.cpp)  |  28  |       [이진 검색 트리](https://www.acmicpc.net/problem/5639)        | [cpp](acmicpc.net/5639.cpp)  |
 |  29  |      [제로](https://www.acmicpc.net/problem/10773)       | [cpp](acmicpc.net/10773.cpp) |  30  |          [프린터 큐](https://www.acmicpc.net/problem/1966)          | [cpp](acmicpc.net/1966.cpp)  |
-|  31  |     [방 배정](https://www.acmicpc.net/problem/13300)     | [cpp](acmicpc.net/13300.cpp) |      |                                                                     |                              |
+|  31  |     [방 배정](https://www.acmicpc.net/problem/13300)     | [cpp](acmicpc.net/13300.cpp) |  32  |        [카드 역배치](https://www.acmicpc.net/problem/10804)         | [cpp](acmicpc.net/10804.cpp) |
+|  33  |      [차집합](https://www.acmicpc.net/problem/1822)      | [cpp](acmicpc.net/1822.cpp)  |      |                                                                     |                              |
 
 </details>
 
