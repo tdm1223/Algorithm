@@ -288,6 +288,7 @@
 |  33  |      [암호해독기](https://www.acmicpc.net/problem/17176)       |  [cpp](acmicpc.net/17176.cpp)  |  34  |    [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350)    |  [cpp](acmicpc.net/17350.cpp)  |
 |  35  |  [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)   | [java](acmicpc.net/13163.java) |  36  |           [반지](https://www.acmicpc.net/problem/5555)           |  [cpp](acmicpc.net/5555.cpp)   |
 |  37  |     [거울, 오! 거울](https://www.acmicpc.net/problem/4740)     | [java](acmicpc.net/4740.java)  |  38  |        [Equality](https://www.acmicpc.net/problem/13985)         | [java](acmicpc.net/13985.java) |
+|  39  |       [럭비 클럽](https://www.acmicpc.net/problem/2083)        | [java](acmicpc.net/2083.java)  |      |                                                                  |                                |
 
 </details>
 
@@ -437,7 +438,7 @@
 |  27  |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](acmicpc.net/3986.cpp)  |  28  |       [이진 검색 트리](https://www.acmicpc.net/problem/5639)        | [cpp](acmicpc.net/5639.cpp)  |
 |  29  |      [제로](https://www.acmicpc.net/problem/10773)       | [cpp](acmicpc.net/10773.cpp) |  30  |          [프린터 큐](https://www.acmicpc.net/problem/1966)          | [cpp](acmicpc.net/1966.cpp)  |
 |  31  |     [방 배정](https://www.acmicpc.net/problem/13300)     | [cpp](acmicpc.net/13300.cpp) |  32  |        [카드 역배치](https://www.acmicpc.net/problem/10804)         | [cpp](acmicpc.net/10804.cpp) |
-|  33  |      [차집합](https://www.acmicpc.net/problem/1822)      | [cpp](acmicpc.net/1822.cpp)  |      |                                                                     |                              |
+|  33  |      [차집합](https://www.acmicpc.net/problem/1822)      | [cpp](acmicpc.net/1822.cpp)  |  34  |    [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)    | [cpp](acmicpc.net/16165.cpp) |
 
 </details>
 
