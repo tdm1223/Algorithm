@@ -1,6 +1,6 @@
 // 13772. Holes
 // 2019.08.09
-// 입문용
+// 입문용, 영어 문제
 
 import java.io.BufferedReader;
 import java.io.IOException;

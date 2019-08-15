@@ -44,6 +44,7 @@
 |  47  |             [완전 세제곱](https://www.acmicpc.net/problem/4690)              |  [cpp](acmicpc.net/4690.cpp)   |  48  |         [대표값2](https://www.acmicpc.net/problem/2587)          |  [cpp](acmicpc.net/2587.cpp)   |
 |  49  |          [달달함이 넘쳐흘러](https://www.acmicpc.net/problem/17256)          | [java](acmicpc.net/17256.java) |  50  |        [Presents](https://www.acmicpc.net/problem/13771)         | [java](acmicpc.net/13771.java) |
 |  51  |                [Holes](https://www.acmicpc.net/problem/13772)                | [java](acmicpc.net/13772.java) |  52  |     [와글와글 숭고한](https://www.acmicpc.net/problem/17388)     | [java](acmicpc.net/17388.java) |
+|  53  |                 [Tax](https://www.acmicpc.net/problem/14182)                 | [java](acmicpc.net/14182.java) |      |                                                                  |                                |
 
 </details>
 
@@ -288,7 +289,7 @@
 |  33  |      [암호해독기](https://www.acmicpc.net/problem/17176)       |  [cpp](acmicpc.net/17176.cpp)  |  34  |    [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350)    |  [cpp](acmicpc.net/17350.cpp)  |
 |  35  |  [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)   | [java](acmicpc.net/13163.java) |  36  |           [반지](https://www.acmicpc.net/problem/5555)           |  [cpp](acmicpc.net/5555.cpp)   |
 |  37  |     [거울, 오! 거울](https://www.acmicpc.net/problem/4740)     | [java](acmicpc.net/4740.java)  |  38  |        [Equality](https://www.acmicpc.net/problem/13985)         | [java](acmicpc.net/13985.java) |
-|  39  |       [럭비 클럽](https://www.acmicpc.net/problem/2083)        | [java](acmicpc.net/2083.java)  |      |                                                                  |                                |
+|  39  |       [럭비 클럽](https://www.acmicpc.net/problem/2083)        | [java](acmicpc.net/2083.java)  |  40  |     [The Cow-Signal](https://www.acmicpc.net/problem/14175)      |  [cpp](acmicpc.net/14175.cpp)  |
 
 </details>
 
@@ -393,7 +394,7 @@
 |  63  |       [데스 나이트](https://www.acmicpc.net/problem/16948)       | [cpp](acmicpc.net/16948.cpp) |  64  |        [치즈](https://www.acmicpc.net/problem/2638)        | [cpp](acmicpc.net/2638.cpp)  |
 |  65  |        [아기상어](https://www.acmicpc.net/problem/16236)         | [cpp](acmicpc.net/16236.cpp) |  66  |     [미로 탐색](https://www.acmicpc.net/problem/2178)      | [cpp](acmicpc.net/2178.cpp)  |
 |  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |  68  |    [무한부스터](https://www.acmicpc.net/problem/17391)     | [cpp](acmicpc.net/17371.cpp) |
-|  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |      |                                                            |                              |
+|  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |  70  |   [체스판 여행 1](https://www.acmicpc.net/problem/16959)   | [cpp](acmicpc.net/16959.cpp) |
 
 </details>
 
@@ -586,6 +587,8 @@
 |  35  |         [건초더미](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo)         | [cpp](swexpertacademy.com/5603.cpp) |  36  |          [조합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo)          | [cpp](swexpertacademy.com/5607.cpp) |
 |  37  |            [합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQm2SqdxkDFAUo)            | [cpp](swexpertacademy.com/5642.cpp) |  38  |        [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)         | [cpp](swexpertacademy.com/1208.cpp) |
 |  39  |       [다양성 측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG)        | [cpp](swexpertacademy.com/7728.cpp) |  40  |      [안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz)      | [cpp](swexpertacademy.com/7272.cpp) |
+|  41  |    [2016년 요일 맞추기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWOwecaFrIDFAV4)    | [cpp](swexpertacademy.com/5515.cpp) |  42  |      [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)       | [cpp](swexpertacademy.com/3499.cpp) |
+|  43  |    [현주의 상자 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)    | [cpp](swexpertacademy.com/5789.cpp) |      |                                                                                                                         |                                     |
 
 </details>
 
