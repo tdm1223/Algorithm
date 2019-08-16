@@ -145,7 +145,8 @@
 |  69  |        [방 배정](https://www.acmicpc.net/problem/13304)         | [cpp](acmicpc.net/13304.cpp) |  70  | [고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673) | [cpp](acmicpc.net/16673.cpp) |
 |  71  |  [2018년을 되돌아보며](https://www.acmicpc.net/problem/16674)   | [cpp](acmicpc.net/16674.cpp) |  72  |            [속도 위반](https://www.acmicpc.net/problem/11971)            | [cpp](acmicpc.net/11971.cpp) |
 |  73  |      [두 배 더하기](https://www.acmicpc.net/problem/12931)      | [cpp](acmicpc.net/12931.cpp) |  74  |           [수들의 합 2](https://www.acmicpc.net/problem/2003)            | [cpp](acmicpc.net/2003.cpp)  |
-|  75  |         [부분합](https://www.acmicpc.net/problem/1806)          | [cpp](acmicpc.net/1806.cpp)  |      |                                                                          |                              |
+|  75  |         [부분합](https://www.acmicpc.net/problem/1806)          | [cpp](acmicpc.net/1806.cpp)  |  76  |            [지뢰 찾기](https://www.acmicpc.net/problem/1996)             | [cpp](acmicpc.net/1996.cpp)  |
+|  77  |     [겉넓이 구하기](https://www.acmicpc.net/problem/16931)      | [cpp](acmicpc.net/16931.cpp) |      |                                                                          |                              |
 
 </details>
 
@@ -261,6 +262,7 @@
 |  77  |        [반복수열](https://www.acmicpc.net/problem/2331)         |  [cpp](acmicpc.net/2331.cpp)   |  78  |       [Manhattan](https://www.acmicpc.net/problem/13221)        | [cpp](acmicpc.net/13221.cpp) |
 |  79  |       [큰 수 곱셈](https://www.acmicpc.net/problem/13227)       | [java](acmicpc.net/13227.java) |  80  |        [행렬 덧셈](https://www.acmicpc.net/problem/2738)        | [cpp](acmicpc.net/2738.cpp)  |
 |  81  |       [수들의 합 5](https://www.acmicpc.net/problem/2018)       |  [cpp](acmicpc.net/2018.cpp)   |  82  |       [합 구하기](https://www.acmicpc.net/problem/11441)        | [cpp](acmicpc.net/11441.cpp) |
+|  83  |       [완전 제곱수](https://www.acmicpc.net/problem/6131)       | [java](acmicpc.net/6131.java)  |      |                                                                 |                              |
 
 </details>
 
