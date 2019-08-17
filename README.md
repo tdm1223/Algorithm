@@ -146,7 +146,8 @@
 |  71  |  [2018년을 되돌아보며](https://www.acmicpc.net/problem/16674)   | [cpp](acmicpc.net/16674.cpp) |  72  |            [속도 위반](https://www.acmicpc.net/problem/11971)            | [cpp](acmicpc.net/11971.cpp) |
 |  73  |      [두 배 더하기](https://www.acmicpc.net/problem/12931)      | [cpp](acmicpc.net/12931.cpp) |  74  |           [수들의 합 2](https://www.acmicpc.net/problem/2003)            | [cpp](acmicpc.net/2003.cpp)  |
 |  75  |         [부분합](https://www.acmicpc.net/problem/1806)          | [cpp](acmicpc.net/1806.cpp)  |  76  |            [지뢰 찾기](https://www.acmicpc.net/problem/1996)             | [cpp](acmicpc.net/1996.cpp)  |
-|  77  |     [겉넓이 구하기](https://www.acmicpc.net/problem/16931)      | [cpp](acmicpc.net/16931.cpp) |      |                                                                          |                              |
+|  77  |     [겉넓이 구하기](https://www.acmicpc.net/problem/16931)      | [cpp](acmicpc.net/16931.cpp) |  78  |       [준오는 조류혐오야!!](https://www.acmicpc.net/problem/14647)       | [cpp](acmicpc.net/14647.cpp) |
+|  79  |      [쿼리 맛보기](https://www.acmicpc.net/problem/14648)       | [cpp](acmicpc.net/14648.cpp) |      |                                                                          |                              |
 
 </details>
 
@@ -262,7 +263,7 @@
 |  77  |        [반복수열](https://www.acmicpc.net/problem/2331)         |  [cpp](acmicpc.net/2331.cpp)   |  78  |       [Manhattan](https://www.acmicpc.net/problem/13221)        | [cpp](acmicpc.net/13221.cpp) |
 |  79  |       [큰 수 곱셈](https://www.acmicpc.net/problem/13227)       | [java](acmicpc.net/13227.java) |  80  |        [행렬 덧셈](https://www.acmicpc.net/problem/2738)        | [cpp](acmicpc.net/2738.cpp)  |
 |  81  |       [수들의 합 5](https://www.acmicpc.net/problem/2018)       |  [cpp](acmicpc.net/2018.cpp)   |  82  |       [합 구하기](https://www.acmicpc.net/problem/11441)        | [cpp](acmicpc.net/11441.cpp) |
-|  83  |       [완전 제곱수](https://www.acmicpc.net/problem/6131)       | [java](acmicpc.net/6131.java)  |      |                                                                 |                              |
+|  83  |       [완전 제곱수](https://www.acmicpc.net/problem/6131)       | [java](acmicpc.net/6131.java)  |  84  |     [골드바흐의 추측](https://www.acmicpc.net/problem/9020)     | [cpp](acmicpc.net/9020.cpp)  |
 
 </details>
 
@@ -292,6 +293,7 @@
 |  35  |  [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)   | [java](acmicpc.net/13163.java) |  36  |           [반지](https://www.acmicpc.net/problem/5555)           |  [cpp](acmicpc.net/5555.cpp)   |
 |  37  |     [거울, 오! 거울](https://www.acmicpc.net/problem/4740)     | [java](acmicpc.net/4740.java)  |  38  |        [Equality](https://www.acmicpc.net/problem/13985)         | [java](acmicpc.net/13985.java) |
 |  39  |       [럭비 클럽](https://www.acmicpc.net/problem/2083)        | [java](acmicpc.net/2083.java)  |  40  |     [The Cow-Signal](https://www.acmicpc.net/problem/14175)      |  [cpp](acmicpc.net/14175.cpp)  |
+|  41  |      [단어 뒤집기](https://www.acmicpc.net/problem/9093)       | [java](acmicpc.net/9093.java)  |      |                                                                  |                                |
 
 </details>
 
