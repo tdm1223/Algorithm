@@ -1,6 +1,7 @@
 // 1520. 내리막 길
 // 2019.05.18
 // 다이나믹 프로그래밍
+// https://tdm1223.tistory.com/107
 #include<iostream>
 
 using namespace std;

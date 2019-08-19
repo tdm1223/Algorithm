@@ -1,6 +1,7 @@
 // 16165. 걸그룹 마스터 준석이
 // 2019.08.14
 // 자료구조
+// https://tdm1223.tistory.com/115
 #include<iostream>
 #include<vector>
 #include<set>

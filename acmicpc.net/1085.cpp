@@ -1,6 +1,7 @@
 // 1085. 직사각형에서 탈출
 // 2019.05.14
 // 수학
+// https://tdm1223.tistory.com/113
 #include<iostream>
 #include<algorithm>
 

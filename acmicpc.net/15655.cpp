@@ -1,6 +1,7 @@
 // 15655. N과 M (6)
 // 2019.05.22
 // N과 M
+// https://tdm1223.tistory.com/111
 #include<iostream>
 #include<vector>
 #include<algorithm>

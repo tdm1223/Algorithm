@@ -1,6 +1,7 @@
 // 1500. 최대 곱
 // 2019.05.18
 // 수학
+// https://tdm1223.tistory.com/106
 #include<iostream>
 
 using namespace std;

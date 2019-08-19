@@ -1,6 +1,7 @@
 // 1964. 오각형, 오각형, 오각형…
 // 2019.05.19
 // 수학
+// https://tdm1223.tistory.com/112
 #include<iostream>
 
 using namespace std;

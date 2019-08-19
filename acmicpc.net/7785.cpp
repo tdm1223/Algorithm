@@ -1,6 +1,7 @@
 // 7785. 회사에 있는 사람
 // 2019.05.21
 // 자료구조
+// https://tdm1223.tistory.com/116
 #include<iostream>
 #include<map>
 #include<string>
