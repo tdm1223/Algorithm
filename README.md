@@ -14,7 +14,7 @@
 
 ### 입문용
 
-<h5>입문용으로 풀기 좋다고 생각하는 문제</h5><details open> <summary> 접기 / 펼치기 </summary>
+<h5>특정 알고리즘 적용 없이 쉽게 풀 수 있는 문제</h5><details open> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                                         | 코드                           | 번호 | 문제                                                             | 코드                           |
 |:----:|:----------------------------------------------------------------------------:|:------------------------------:|:----:|:----------------------------------------------------------------:|:------------------------------:|
@@ -49,6 +49,8 @@
 |  57  |             [Hard choice](https://www.acmicpc.net/problem/15059)             | [java](acmicpc.net/15059.java) |  58  |         [Angles](https://www.acmicpc.net/problem/15178)          | [java](acmicpc.net/15178.java) |
 |  59  |               [Pirates](https://www.acmicpc.net/problem/15238)               | [java](acmicpc.net/15238.java) |  60  |      [고급 레스토랑](https://www.acmicpc.net/problem/12756)      |  [cpp](acmicpc.net/12756.cpp)  |
 |  61  |               [카드놀이](https://www.acmicpc.net/problem/2511)               | [java](acmicpc.net/2511.java)  |  62  |          [최댓값](https://www.acmicpc.net/problem/2566)          |  [cpp](acmicpc.net/2566.cpp)   |
+|  63  |        [Telemarketer or not?](https://www.acmicpc.net/problem/16017)         | [java](acmicpc.net/16017.java) |  64  |        [제리와 톰](https://www.acmicpc.net/problem/16430)        | [java](acmicpc.net/16430.java) |
+|  65  |         [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820)         |  [cpp](acmicpc.net/15820.cpp)  |      |                                                                  |                                |
 
 </details>
 
@@ -413,6 +415,7 @@
 |  65  |        [아기상어](https://www.acmicpc.net/problem/16236)         | [cpp](acmicpc.net/16236.cpp) |  66  |     [미로 탐색](https://www.acmicpc.net/problem/2178)      | [cpp](acmicpc.net/2178.cpp)  |
 |  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |  68  |    [무한부스터](https://www.acmicpc.net/problem/17391)     | [cpp](acmicpc.net/17371.cpp) |
 |  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |  70  |   [체스판 여행 1](https://www.acmicpc.net/problem/16959)   | [cpp](acmicpc.net/16959.cpp) |
+|  71  |     [주디와 당근농장](https://www.acmicpc.net/problem/16433)     | [cpp](acmicpc.net/16433.cpp) |      |                                                            |                              |
 
 </details>
 
