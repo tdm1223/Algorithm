@@ -315,21 +315,22 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                    | 코드                          | 번호 | 문제                                                     | 코드                         |
-|:----:|:-------------------------------------------------------:|:-----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   |   [수 정렬하기](https://www.acmicpc.net/problem/2750)   |  [cpp](acmicpc.net/2750.cpp)  |  2   |   [수 정렬하기2](https://www.acmicpc.net/problem/2751)   | [cpp](acmicpc.net/2751.cpp)  |
-|  3   |  [수 정렬하기3](https://www.acmicpc.net/problem/10989)  | [cpp](acmicpc.net/10989.cpp)  |  4   |  [수 정렬하기4](https://www.acmicpc.net/problem/11931)   | [cpp](acmicpc.net/11931.cpp) |
-|  5   | [좌표 정렬 하기](https://www.acmicpc.net/problem/11650) | [cpp](acmicpc.net/11650.cpp)  |  6   | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [cpp](acmicpc.net/11651.cpp) |
-|  7   |   [숫자 카드](https://www.acmicpc.net/problem/10815)    | [cpp](acmicpc.net/10815.cpp)  |  8   |      [거북이](https://www.acmicpc.net/problem/2959)      | [cpp](acmicpc.net/2959.cpp)  |
-|  9   |    [K번째 수](https://www.acmicpc.net/problem/11004)    | [cpp](acmicpc.net/11004.cpp)  |  10  |    [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |
-|  11  |  [전화번호 목록](https://www.acmicpc.net/problem/5052)  |  [cpp](acmicpc.net/5052.cpp)  |  12  |     [수 찾기](https://www.acmicpc.net/problem/1920)      | [cpp](acmicpc.net/1920.cpp)  |
-|  13  |   [나무 자르기](https://www.acmicpc.net/problem/2805)   |  [cpp](acmicpc.net/2805.cpp)  |  14  |   [나이순 정렬](https://www.acmicpc.net/problem/10814)   | [cpp](acmicpc.net/10814.cpp) |
-|  15  |     [사냥꾼](https://www.acmicpc.net/problem/8983)      |  [cpp](acmicpc.net/8983.cpp)  |  16  |     [국영수](https://www.acmicpc.net/problem/10825)      | [cpp](acmicpc.net/10825.cpp) |
-|  17  |       [ABC](https://www.acmicpc.net/problem/3047)       |  [cpp](acmicpc.net/3047.cpp)  |  18  |       [보물](https://www.acmicpc.net/problem/1026)       | [cpp](acmicpc.net/1026.cpp)  |
-|  19  |  [소트인사이드](https://www.acmicpc.net/problem/1427)   |  [cpp](acmicpc.net/1427.cpp)  |  20  |     [줄세우기](https://www.acmicpc.net/problem/2605)     | [cpp](acmicpc.net/2605.cpp)  |
-|  21  |  [숫자 카드 2](https://www.acmicpc.net/problem/10816)   | [cpp](acmicpc.net/10816.cpp)  |  22  |   [등수 구하기](https://www.acmicpc.net/problem/1205)    | [cpp](acmicpc.net/1205.cpp)  |
-|  23  |   [N번째 큰 수](https://www.acmicpc.net/problem/2693)   |  [cpp](acmicpc.net/2693.cpp)  |  24  |    [단어 정렬](https://www.acmicpc.net/problem/1181)     | [cpp](acmicpc.net/1181.cpp)  |
-|  25  |     [통계학](https://www.acmicpc.net/problem/2108)      | [java](acmicpc.net/2108.java) |      |                                                          |                              |
+| 번호 | 문제                                                        | 코드                          | 번호 | 문제                                                     | 코드                         |
+|:----:|:-----------------------------------------------------------:|:-----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
+|  1   |     [수 정렬하기](https://www.acmicpc.net/problem/2750)     |  [cpp](acmicpc.net/2750.cpp)  |  2   |   [수 정렬하기2](https://www.acmicpc.net/problem/2751)   | [cpp](acmicpc.net/2751.cpp)  |
+|  3   |    [수 정렬하기3](https://www.acmicpc.net/problem/10989)    | [cpp](acmicpc.net/10989.cpp)  |  4   |  [수 정렬하기4](https://www.acmicpc.net/problem/11931)   | [cpp](acmicpc.net/11931.cpp) |
+|  5   |   [좌표 정렬 하기](https://www.acmicpc.net/problem/11650)   | [cpp](acmicpc.net/11650.cpp)  |  6   | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [cpp](acmicpc.net/11651.cpp) |
+|  7   |     [숫자 카드](https://www.acmicpc.net/problem/10815)      | [cpp](acmicpc.net/10815.cpp)  |  8   |      [거북이](https://www.acmicpc.net/problem/2959)      | [cpp](acmicpc.net/2959.cpp)  |
+|  9   |      [K번째 수](https://www.acmicpc.net/problem/11004)      | [cpp](acmicpc.net/11004.cpp)  |  10  |    [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |
+|  11  |    [전화번호 목록](https://www.acmicpc.net/problem/5052)    |  [cpp](acmicpc.net/5052.cpp)  |  12  |     [수 찾기](https://www.acmicpc.net/problem/1920)      | [cpp](acmicpc.net/1920.cpp)  |
+|  13  |     [나무 자르기](https://www.acmicpc.net/problem/2805)     |  [cpp](acmicpc.net/2805.cpp)  |  14  |   [나이순 정렬](https://www.acmicpc.net/problem/10814)   | [cpp](acmicpc.net/10814.cpp) |
+|  15  |       [사냥꾼](https://www.acmicpc.net/problem/8983)        |  [cpp](acmicpc.net/8983.cpp)  |  16  |     [국영수](https://www.acmicpc.net/problem/10825)      | [cpp](acmicpc.net/10825.cpp) |
+|  17  |         [ABC](https://www.acmicpc.net/problem/3047)         |  [cpp](acmicpc.net/3047.cpp)  |  18  |       [보물](https://www.acmicpc.net/problem/1026)       | [cpp](acmicpc.net/1026.cpp)  |
+|  19  |    [소트인사이드](https://www.acmicpc.net/problem/1427)     |  [cpp](acmicpc.net/1427.cpp)  |  20  |     [줄세우기](https://www.acmicpc.net/problem/2605)     | [cpp](acmicpc.net/2605.cpp)  |
+|  21  |    [숫자 카드 2](https://www.acmicpc.net/problem/10816)     | [cpp](acmicpc.net/10816.cpp)  |  22  |   [등수 구하기](https://www.acmicpc.net/problem/1205)    | [cpp](acmicpc.net/1205.cpp)  |
+|  23  |     [N번째 큰 수](https://www.acmicpc.net/problem/2693)     |  [cpp](acmicpc.net/2693.cpp)  |  24  |    [단어 정렬](https://www.acmicpc.net/problem/1181)     | [cpp](acmicpc.net/1181.cpp)  |
+|  25  |       [통계학](https://www.acmicpc.net/problem/2108)        | [java](acmicpc.net/2108.java) |  26  |  [키보드 이벤트](https://www.acmicpc.net/problem/17254)  | [cpp](acmicpc.net/17254.cpp) |
+|  27  | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | [cpp](acmicpc.net/17263.cpp)  |      |                                                          |                              |
 
 </details>
 
