@@ -496,7 +496,7 @@
 |  27  | [문자열 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12917) | [cpp](programmers/1-27.cpp) |  28  |     [이상한 문자 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12930)      | [cpp](programmers/1-28.cpp) |
 |  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
 |  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
-|  33  |            [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)             | [cpp](programmers/1-33.cpp) |  34  |           [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)            | [cpp](programmers/1-34.cpp) |
+|  33  |            [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)             | [cpp](programmers/1-33.cpp) |  34  |            [예산](https://www.welcomekakao.com/learn/courses/30/lessons/12982)             | [cpp](programmers/1-34.cpp) |
 
 </details>
 
@@ -513,6 +513,7 @@
 |  9   |         [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         | [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
 |  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |  12  |     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [cpp](programmers/2-12.cpp) |
 |  13  |        [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)         | [cpp](programmers/2-13.cpp) |  14  | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)  | [cpp](programmers/2-14.cpp) |
+|  15  |          [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)          | [cpp](programmers/2-15.cpp) |      |                                                                              |                             |
 
 </details>
 
@@ -520,10 +521,12 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                                  | 코드                           | 번호 | 문제                                                                              | 코드                       |
-|:----:|:---------------------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------------------------------------:|:--------------------------:|
-|  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |  2   |       [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)       | [cpp](programmers/3-1.cpp) |
-|  3   | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)  |   [cpp](programmers/3-2.cpp)   |  4   | [카카오 프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | [cpp](programmers/3-4.cpp) |
+| 번호 | 문제                                                                        | 코드                           | 번호 | 문제                                                                              | 코드                           |
+|:----:|:---------------------------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------------------------------------:|:------------------------------:|
+|  1   |    [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681)    | [cpp](programmers/kakao-1.cpp) |  2   |       [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)       |   [cpp](programmers/3-1.cpp)   |
+|  3   |    [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)     |   [cpp](programmers/3-2.cpp)   |  4   | [카카오 프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) |   [cpp](programmers/3-4.cpp)   |
+|  5   | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [cpp](programmers/4-1.cpp)   |  6   |       [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)       |   [cpp](programmers/3-5.cpp)   |
+|  7   |   [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)   | [cpp](programmers/kakao-2.cpp) |  8   |       [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)       | [cpp](programmers/kakao-3.cpp) |
 
 </details>
 
