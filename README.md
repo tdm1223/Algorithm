@@ -277,6 +277,8 @@
 |  85  |        [진짜 공간](https://www.acmicpc.net/problem/1350)        |  [cpp](acmicpc.net/1350.cpp)   |  86  |       [소수 구하기](https://www.acmicpc.net/problem/1929)       | [java](acmicpc.net/1929.java)  |
 |  87  |    [컵라면 측정하기](https://www.acmicpc.net/problem/16479)     |  [cpp](acmicpc.net/16479.cpp)  |  88  |      [덧셈과 곱셈](https://www.acmicpc.net/problem/14579)       | [java](acmicpc.net/14579.java) |
 |  89  |        [정사각형](https://www.acmicpc.net/problem/1485)         |  [cpp](acmicpc.net/1485.cpp)   |  90  |           [링](https://www.acmicpc.net/problem/3036)            |  [cpp](acmicpc.net/3036.cpp)   |
+|  91  |    [보이는 점의 개수](https://www.acmicpc.net/problem/2725)     |  [cpp](acmicpc.net/2725.cpp)   |  92  |       [최대공약수](https://www.acmicpc.net/problem/2824)        | [java](acmicpc.net/2824.java)  |
+|  93  |         [분수 합](https://www.acmicpc.net/problem/1735)         |  [cpp](acmicpc.net/1735.cpp)   |  94  |      [소수를 분수로](https://www.acmicpc.net/problem/5376)      |  [cpp](acmicpc.net/5376.cpp)   |
 
 </details>
 
