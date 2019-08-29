@@ -1,7 +1,9 @@
-// kakao1. 비밀 지도
-#include <string>
-#include <vector>
+// 비밀 지도
+// 2019.08.29
+#include<string>
+#include<vector>
 #include<algorithm>
+
 using namespace std;
 
 string change(int tmp, int n)
