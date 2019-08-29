@@ -419,7 +419,7 @@
 |  65  |        [아기상어](https://www.acmicpc.net/problem/16236)         | [cpp](acmicpc.net/16236.cpp) |  66  |     [미로 탐색](https://www.acmicpc.net/problem/2178)      | [cpp](acmicpc.net/2178.cpp)  |
 |  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |  68  |    [무한부스터](https://www.acmicpc.net/problem/17391)     | [cpp](acmicpc.net/17371.cpp) |
 |  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |  70  |   [체스판 여행 1](https://www.acmicpc.net/problem/16959)   | [cpp](acmicpc.net/16959.cpp) |
-|  71  |     [주디와 당근농장](https://www.acmicpc.net/problem/16433)     | [cpp](acmicpc.net/16433.cpp) |  72  |        [로봇](https://www.acmicpc.net/problem/1726)        | [cpp](acmicpc.net/1726.cpp)  |
+|  71  |     [주디와 당근농장](https://www.acmicpc.net/problem/16433)     | [cpp](acmicpc.net/16433.cpp) |      |                                                            |                              |
 
 </details>
 
@@ -497,7 +497,7 @@
 |  25  |    [문자열을 정수로 바꾸기](https://www.welcomekakao.com/learn/courses/30/lessons/12925)    | [cpp](programmers/1-25.cpp) |  26  |     [문자열 다루기 기본](https://www.welcomekakao.com/learn/courses/30/lessons/12918)      | [cpp](programmers/1-26.cpp) |
 |  27  | [문자열 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12917) | [cpp](programmers/1-27.cpp) |  28  |     [이상한 문자 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12930)      | [cpp](programmers/1-28.cpp) |
 |  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
-|  31  |           [K번째수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)            | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
+|  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
 |  33  |            [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)             | [cpp](programmers/1-33.cpp) |  34  |            [예산](https://www.welcomekakao.com/learn/courses/30/lessons/12982)             | [cpp](programmers/1-34.cpp) |
 
 </details>
@@ -529,9 +529,6 @@
 |  3   |    [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)     |   [cpp](programmers/3-2.cpp)   |  4   | [카카오 프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) |   [cpp](programmers/3-4.cpp)   |
 |  5   | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [cpp](programmers/4-1.cpp)   |  6   |       [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)       |   [cpp](programmers/3-5.cpp)   |
 |  7   |   [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)   | [cpp](programmers/kakao-2.cpp) |  8   |       [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)       | [cpp](programmers/kakao-3.cpp) |
-|  9   |   [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)    | [cpp](programmers/kakao-4.cpp) |  10  |        [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)         | [cpp](programmers/kakao-5.cpp) |
-|  11  |  [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)   | [cpp](programmers/kakao-6.cpp) |  12  |         [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | [cpp](programmers/kakao-7.cpp) |
-|  13  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [cpp](programmers/kakao-8.cpp) |      |                                                                                   |                                |
 
 </details>
 
