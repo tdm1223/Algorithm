@@ -499,6 +499,7 @@
 |  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
 |  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
 |  33  |            [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)             | [cpp](programmers/1-33.cpp) |  34  |            [예산](https://www.welcomekakao.com/learn/courses/30/lessons/12982)             | [cpp](programmers/1-34.cpp) |
+|  35  |             [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)              | [cpp](programmers/1-35.cpp) |  36  |          [모의고사](https://www.welcomekakao.com/learn/courses/30/lessons/42840)           | [cpp](programmers/1-36.cpp) |
 
 </details>
 
