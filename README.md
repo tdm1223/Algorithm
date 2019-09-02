@@ -280,7 +280,7 @@
 |  89  |        [정사각형](https://www.acmicpc.net/problem/1485)         |  [cpp](acmicpc.net/1485.cpp)   |  90  |           [링](https://www.acmicpc.net/problem/3036)            |  [cpp](acmicpc.net/3036.cpp)   |
 |  91  |    [보이는 점의 개수](https://www.acmicpc.net/problem/2725)     |  [cpp](acmicpc.net/2725.cpp)   |  92  |       [최대공약수](https://www.acmicpc.net/problem/2824)        | [java](acmicpc.net/2824.java)  |
 |  93  |         [분수 합](https://www.acmicpc.net/problem/1735)         |  [cpp](acmicpc.net/1735.cpp)   |  94  |      [소수를 분수로](https://www.acmicpc.net/problem/5376)      |  [cpp](acmicpc.net/5376.cpp)   |
-|  95  |       [창문 닫기](https://www.acmicpc.net/problem/13909)        |  [cpp](acmicpc.net/13909.cpp)  |      |                                                                 |                                |
+|  95  |       [창문 닫기](https://www.acmicpc.net/problem/13909)        |  [cpp](acmicpc.net/13909.cpp)  |  96  |  [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)   |  [cpp](acmicpc.net/1145.cpp)   |
 
 </details>
 
@@ -313,7 +313,8 @@
 |  41  |      [단어 뒤집기](https://www.acmicpc.net/problem/9093)       | [java](acmicpc.net/9093.java)  |  42  |          [Voting](https://www.acmicpc.net/problem/4581)          |  [cpp](acmicpc.net/4581.cpp)   |
 |  43  | [Rock, Paper, Scissors](https://www.acmicpc.net/problem/4593)  | [java](acmicpc.net/4593.java)  |  44  |     [Gnome Sequencing](https://www.acmicpc.net/problem/4589)     | [java](acmicpc.net/4589.java)  |
 |  45  |        [Quicksum](https://www.acmicpc.net/problem/4613)        | [java](acmicpc.net/4613.java)  |  46  |      [균형잡힌 세상](https://www.acmicpc.net/problem/4949)       | [java](acmicpc.net/4949.java)  |
-|  47  |       [사칙연산](https://www.acmicpc.net/problem/13420)        | [java](acmicpc.net/13420.java) |      |                                                                  |                                |
+|  47  |       [사칙연산](https://www.acmicpc.net/problem/13420)        | [java](acmicpc.net/13420.java) |  48  |       [이진수 덧셈](https://www.acmicpc.net/problem/1252)        |  [cpp](acmicpc.net/1252.cpp)   |
+|  49  |      [모음의 개수](https://www.acmicpc.net/problem/1264)       | [java](acmicpc.net/1264.java)  |      |                                                                  |                                |
 
 </details>
 
