@@ -52,6 +52,9 @@
 |  63  |        [Telemarketer or not?](https://www.acmicpc.net/problem/16017)         | [java](acmicpc.net/16017.java) |  64  |          [제리와 톰](https://www.acmicpc.net/problem/16430)          | [java](acmicpc.net/16430.java) |
 |  65  |         [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820)         |  [cpp](acmicpc.net/15820.cpp)  |  66  | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [java](acmicpc.net/3003.java)  |
 |  67  |             [체스판 조각](https://www.acmicpc.net/problem/3004)              | [java](acmicpc.net/3004.java)  |  68  |      [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988)       | [java](acmicpc.net/5988.java)  |
+|  69  |             [주사위 세개](https://www.acmicpc.net/problem/2480)              |  [cpp](acmicpc.net/2480.cpp)   |  70  |             [홀수](https://www.acmicpc.net/problem/2576)             |  [cpp](acmicpc.net/2576.cpp)   |
+|  71  |               [세수정렬](https://www.acmicpc.net/problem/2752)               | [java](acmicpc.net/2752.java)  |  72  |           [학점계산](https://www.acmicpc.net/problem/2754)           |  [cpp](acmicpc.net/2754.cpp)   |
+|  73  |        [이번학기 평점은 몇점?](https://www.acmicpc.net/problem/2755)         | [java](acmicpc.net/2755.java)  |      |                                                                      |                                |
 
 </details>
 
@@ -200,6 +203,7 @@
 |  37  |         [체스](https://www.acmicpc.net/problem/1986)         | [cpp](acmicpc.net/1986.cpp)  |  38  |     [보이저 1호](https://www.acmicpc.net/problem/3987)     | [cpp](acmicpc.net/3987.cpp)  |
 |  39  | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  | [cpp](acmicpc.net/17140.cpp) |  40  |      [낚시왕](https://www.acmicpc.net/problem/17143)       | [cpp](acmicpc.net/17143.cpp) |
 |  41  |        [트럭](https://www.acmicpc.net/problem/13335)         | [cpp](acmicpc.net/13335.cpp) |  42  |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [cpp](acmicpc.net/17406.cpp) |
+|  43  |    [지능형 기차 2](https://www.acmicpc.net/problem/2460)     | [cpp](acmicpc.net/2460.cpp)  |      |                                                            |                              |
 
 </details>
 
@@ -281,6 +285,7 @@
 |  91  |    [보이는 점의 개수](https://www.acmicpc.net/problem/2725)     |  [cpp](acmicpc.net/2725.cpp)   |  92  |       [최대공약수](https://www.acmicpc.net/problem/2824)        | [java](acmicpc.net/2824.java)  |
 |  93  |         [분수 합](https://www.acmicpc.net/problem/1735)         |  [cpp](acmicpc.net/1735.cpp)   |  94  |      [소수를 분수로](https://www.acmicpc.net/problem/5376)      |  [cpp](acmicpc.net/5376.cpp)   |
 |  95  |       [창문 닫기](https://www.acmicpc.net/problem/13909)        |  [cpp](acmicpc.net/13909.cpp)  |  96  |  [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)   |  [cpp](acmicpc.net/1145.cpp)   |
+|  97  |       [네 번째 수](https://www.acmicpc.net/problem/2997)        |  [cpp](acmicpc.net/2997.cpp)   |      |                                                                 |                                |
 
 </details>
 
@@ -314,7 +319,7 @@
 |  43  | [Rock, Paper, Scissors](https://www.acmicpc.net/problem/4593)  | [java](acmicpc.net/4593.java)  |  44  |     [Gnome Sequencing](https://www.acmicpc.net/problem/4589)     | [java](acmicpc.net/4589.java)  |
 |  45  |        [Quicksum](https://www.acmicpc.net/problem/4613)        | [java](acmicpc.net/4613.java)  |  46  |      [균형잡힌 세상](https://www.acmicpc.net/problem/4949)       | [java](acmicpc.net/4949.java)  |
 |  47  |       [사칙연산](https://www.acmicpc.net/problem/13420)        | [java](acmicpc.net/13420.java) |  48  |       [이진수 덧셈](https://www.acmicpc.net/problem/1252)        |  [cpp](acmicpc.net/1252.cpp)   |
-|  49  |      [모음의 개수](https://www.acmicpc.net/problem/1264)       | [java](acmicpc.net/1264.java)  |      |                                                                  |                                |
+|  49  |      [모음의 개수](https://www.acmicpc.net/problem/1264)       | [java](acmicpc.net/1264.java)  |  50  |     [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)      | [java](acmicpc.net/2744.java)  |
 
 </details>
 
