@@ -58,7 +58,7 @@
 |  75  |           [상근이의 친구들](https://www.acmicpc.net/problem/5717)            | [java](acmicpc.net/5717.java)  |  76  |        [Counting Sheep](https://www.acmicpc.net/problem/7366)        |  [cpp](acmicpc.net/7366.cpp)   |
 |  77  |                [숫자](https://www.acmicpc.net/problem/10093)                 |  [cpp](acmicpc.net/10093.cpp)  |  78  |         [분수좋아해?](https://www.acmicpc.net/problem/10474)         |  [cpp](acmicpc.net/10474.cpp)  |
 |  79  |              [개수 세기](https://www.acmicpc.net/problem/10807)              |  [cpp](acmicpc.net/10807.cpp)  |  80  |         [정수의 개수](https://www.acmicpc.net/problem/10821)         | [java](acmicpc.net/10821.java) |
-|  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  |      |                                                                      |                                |
+|  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  |  82  |       [양수 개수 세기](https://www.acmicpc.net/problem/14909)        |  [cpp](acmicpc.net/14909.cpp)  |
 
 </details>
 
@@ -262,7 +262,7 @@
 |  3   |         [A+B-3](https://www.acmicpc.net/problem/10950)          |  [cpp](acmicpc.net/10950.cpp)  |  4   |         [A+B-4](https://www.acmicpc.net/problem/10951)          |  [cpp](acmicpc.net/10951.cpp)  |
 |  5   |         [A+B-5](https://www.acmicpc.net/problem/10952)          |  [cpp](acmicpc.net/10952.cpp)  |  6   |         [A+B-6](https://www.acmicpc.net/problem/10953)          |  [cpp](acmicpc.net/10953.cpp)  |
 |  7   |         [A+B-7](https://www.acmicpc.net/problem/11021)          |  [cpp](acmicpc.net/11021.cpp)  |  8   |         [A+B-8](https://www.acmicpc.net/problem/11022)          |  [cpp](acmicpc.net/11022.cpp)  |
-|  9   |           [A-B](https://www.acmicpc.net/problem/1001)           |  [cpp](acmicpc.net/1001.cpp)   |  10  |         [나누기](https://www.acmicpc.net/problem/1075)          |  [cpp](acmicpc.net/1075.cpp)   |
+|  9   |         [A+B-9](https://www.acmicpc.net/problem/15740)          | [java](acmicpc.net/15740.java) |  10  |           [A-B](https://www.acmicpc.net/problem/1001)           |  [cpp](acmicpc.net/1001.cpp)   |
 |  11  |       [이게 분수?](https://www.acmicpc.net/problem/2863)        |  [cpp](acmicpc.net/2863.cpp)   |  12  |           [A/B](https://www.acmicpc.net/problem/1008)           |  [cpp](acmicpc.net/1008.cpp)   |
 |  13  |        [날짜 계산](https://www.acmicpc.net/problem/1476)        |  [cpp](acmicpc.net/1476.cpp)   |  14  |           [R2](https://www.acmicpc.net/problem/3046)            |  [cpp](acmicpc.net/3046.cpp)   |
 |  15  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)      |  [cpp](acmicpc.net/11006.cpp)  |  16  |         [다면체](https://www.acmicpc.net/problem/10569)         |  [cpp](acmicpc.net/10569.cpp)  |
@@ -309,6 +309,7 @@
 |  97  |       [네 번째 수](https://www.acmicpc.net/problem/2997)        |  [cpp](acmicpc.net/2997.cpp)   |  98  |       [쌍둥이 역설](https://www.acmicpc.net/problem/4706)       |  [cpp](acmicpc.net/4706.cpp)   |
 |  99  |     [Roaming Romans](https://www.acmicpc.net/problem/4705)      |  [cpp](acmicpc.net/4705.cpp)   | 100  |          [얼마?](https://www.acmicpc.net/problem/9325)          |  [cpp](acmicpc.net/9325.cpp)   |
 | 101  |       [큰 수 A+B](https://www.acmicpc.net/problem/10757)        | [java](acmicpc.net/10757.java) | 102  |     [조약돌 꺼내기](https://www.acmicpc.net/problem/13251)      |  [cpp](acmicpc.net/13251.cpp)  |
+| 103  |         [나누기](https://www.acmicpc.net/problem/1075)          |  [cpp](acmicpc.net/1075.cpp)   |      |                                                                 |                                |
 
 </details>
 
@@ -344,7 +345,7 @@
 |  47  |         [사칙연산](https://www.acmicpc.net/problem/13420)          | [java](acmicpc.net/13420.java) |  48  |       [이진수 덧셈](https://www.acmicpc.net/problem/1252)        |  [cpp](acmicpc.net/1252.cpp)   |
 |  49  |        [모음의 개수](https://www.acmicpc.net/problem/1264)         | [java](acmicpc.net/1264.java)  |  50  |     [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)      | [java](acmicpc.net/2744.java)  |
 |  51  | [The Seven Percent Solution](https://www.acmicpc.net/problem/4606) | [java](acmicpc.net/4606.java)  |  52  |      [문자가 몇갤까](https://www.acmicpc.net/problem/7600)       | [java](acmicpc.net/7600.java)  |
-|  53  |        [문자열 분석](https://www.acmicpc.net/problem/10820)        | [java](acmicpc.net/10820.java) |      |                                                                  |                                |
+|  53  |        [문자열 분석](https://www.acmicpc.net/problem/10820)        | [java](acmicpc.net/10820.java) |  54  |   [Hissing Microphone](https://www.acmicpc.net/problem/15272)    |  [cpp](acmicpc.net/15272.cpp)  |
 
 </details>
 
@@ -369,6 +370,7 @@
 |  25  |       [통계학](https://www.acmicpc.net/problem/2108)        | [java](acmicpc.net/2108.java) |  26  |  [키보드 이벤트](https://www.acmicpc.net/problem/17254)  | [cpp](acmicpc.net/17254.cpp) |
 |  27  | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | [cpp](acmicpc.net/17263.cpp)  |  28  |    [거리의 합](https://www.acmicpc.net/problem/2399)     | [cpp](acmicpc.net/2399.cpp)  |
 |  29  |   [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)   | [cpp](acmicpc.net/11098.cpp)  |  30  |     [Strfry](https://www.acmicpc.net/problem/11328)      | [cpp](acmicpc.net/11328.cpp) |
+|  31  |   [수 정렬하기 5](https://www.acmicpc.net/problem/15688)    | [cpp](acmicpc.net/15688.cpp)  |      |                                                          |                              |
 
 </details>
 
