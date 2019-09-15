@@ -581,6 +581,16 @@
 
 </details>
 
+### SQL
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                      | 코드                         | 번호 | 문제 | 코드 |
+|:----:|:-------------------------------------------------------------------------:|:----------------------------:|:----:|:----:|:----:|
+|  1   | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql](programmers/sql-1.sql) |      |      |      |
+
+</details>
+
 [HackerRank](https://www.hackerrank.com)
 ----------------------------------------
 
