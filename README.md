@@ -588,6 +588,7 @@
 | 번호 | 문제                                                                      | 코드                         | 번호 | 문제                                                                             | 코드                         |
 |:----:|:-------------------------------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------------------------------:|:----------------------------:|
 |  1   | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql](programmers/sql-1.sql) |  2   | [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034) | [sql](programmers/sql-2.sql) |
+|  3   | [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql](programmers/sql-3.sql) |      |                                                                                  |                              |
 
 </details>
 
