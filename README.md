@@ -589,7 +589,7 @@
 |:----:|:-------------------------------------------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------------------------------:|:----------------------------:|
 |  1   |       [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415)       | [sql](programmers/sql-1.sql) |  2   | [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034) | [sql](programmers/sql-2.sql) |
 |  3   |       [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)       | [sql](programmers/sql-3.sql) |  4   |    [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)    | [sql](programmers/sql-4.sql) |
-|  5   | [이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039) | [sql](programmers/sql-5.sql) |      |                                                                                  |                              |
+|  5   | [이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039) | [sql](programmers/sql-5.sql) |  6   |    [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)    | [sql](programmers/sql-6.sql) |
 
 </details>
 
