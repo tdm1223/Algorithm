@@ -649,7 +649,7 @@
 [SW Expert Academy](https://swexpertacademy.com)
 ------------------------------------------------
 
--	사이트에서 제공하는 **문제 난이도(D1~D7)** 별로 정리하였습니다.
+-	사이트에서 제공하는 **문제 난이도(D3~D7)** 별로 정리하였습니다.
 -	문제를 보려면 해당 사이트에 로그인이 필요합니다.
 
 ---
@@ -681,7 +681,7 @@
 |  37  |            [합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQm2SqdxkDFAUo)            | [cpp](swexpertacademy.com/5642.cpp) |  38  |        [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)         | [cpp](swexpertacademy.com/1208.cpp) |
 |  39  |       [다양성 측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG)        | [cpp](swexpertacademy.com/7728.cpp) |  40  |      [안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz)      | [cpp](swexpertacademy.com/7272.cpp) |
 |  41  |    [2016년 요일 맞추기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWOwecaFrIDFAV4)    | [cpp](swexpertacademy.com/5515.cpp) |  42  |      [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)       | [cpp](swexpertacademy.com/3499.cpp) |
-|  43  |    [현주의 상자 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)    | [cpp](swexpertacademy.com/5789.cpp) |      |                                                                                                                         |                                     |
+|  43  |    [현주의 상자 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)    | [cpp](swexpertacademy.com/5789.cpp) |  44  |       [Digit sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPiSYKAD0DFAUn)        | [cpp](swexpertacademy.com/3750.cpp) |
 
 </details>
 
