@@ -618,6 +618,7 @@
 |  19  |        [pickingNumbers](https://www.hackerrank.com/challenges/picking-numbers)         |    [cpp](hackerrank.com/pickingNumbers.cpp)     |  20  |     [beautifulDaysAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)     | [cpp](hackerrank.com/beautifulDaysAtTheMovies.cpp) |
 |  21  |     [viralAdvertising](https://www.hackerrank.com/challenges/strange-advertising)      |   [cpp](hackerrank.com/viralAdvertising.cpp)    |  22  |               [saveThePrisoner](https://www.hackerrank.com/challenges/save-the-prisoner)               |     [cpp](hackerrank.com/saveThePrisoner.cpp)      |
 |  23  | [circularArrayRotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [cpp](hackerrank.com/circularArrayRotation.cpp) |  24  |                    [findDigits](https://www.hackerrank.com/challenges/find-digits)                     |        [cpp](hackerrank.com/findDigits.cpp)        |
+|  25  |     [EqualizeTheArray](https://www.hackerrank.com/challenges/equality-in-a-array)      |   [cpp](hackerrank.com/EqualizeTheArray.cpp)    |      |                                                                                                        |                                                    |
 
 </details>
 
