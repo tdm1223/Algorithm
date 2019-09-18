@@ -252,6 +252,7 @@
 |  27  |         [찍기](https://www.acmicpc.net/problem/2966)         | [cpp](acmicpc.net/2966.cpp)  |  28  |           [꽃길](https://www.acmicpc.net/problem/14620)           | [cpp](acmicpc.net/14620.cpp) |
 |  29  | [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658) | [cpp](acmicpc.net/15658.cpp) |  30  |         [3의 배수](https://www.acmicpc.net/problem/16561)         | [cpp](acmicpc.net/16561.cpp) |
 |  31  |      [사탕 게임](https://www.acmicpc.net/problem/3085)       | [cpp](acmicpc.net/3085.cpp)  |  32  | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [cpp](acmicpc.net/2961.cpp)  |
+|  33  |        [가르침](https://www.acmicpc.net/problem/1062)        | [cpp](acmicpc.net/1062.cpp)  |      |                                                                   |                              |
 
 </details>
 
