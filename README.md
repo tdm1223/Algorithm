@@ -350,7 +350,7 @@
 |  49  |        [모음의 개수](https://www.acmicpc.net/problem/1264)         | [java](acmicpc.net/1264.java)  |  50  |     [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)      | [java](acmicpc.net/2744.java)  |
 |  51  | [The Seven Percent Solution](https://www.acmicpc.net/problem/4606) | [java](acmicpc.net/4606.java)  |  52  |      [문자가 몇갤까](https://www.acmicpc.net/problem/7600)       | [java](acmicpc.net/7600.java)  |
 |  53  |        [문자열 분석](https://www.acmicpc.net/problem/10820)        | [java](acmicpc.net/10820.java) |  54  |   [Hissing Microphone](https://www.acmicpc.net/problem/15272)    |  [cpp](acmicpc.net/15272.cpp)  |
-|  55  |        [문자열 집합](https://www.acmicpc.net/problem/14425)        |  [cpp](acmicpc.net/14425.cpp)  |      |                                                                  |                                |
+|  55  |        [문자열 집합](https://www.acmicpc.net/problem/14425)        |  [cpp](acmicpc.net/14425.cpp)  |  56  |          [ROT13](https://www.acmicpc.net/problem/11655)          | [java](acmicpc.net/11655.java) |
 
 </details>
 
