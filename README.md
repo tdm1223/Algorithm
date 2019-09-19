@@ -594,6 +594,7 @@
 |  7   |   [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)    | [sql](programmers/sql-7.sql)  |  8   |    [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)    | [sql](programmers/sql-8.sql)  |
 |  9   | [이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407) | [sql](programmers/sql-9.sql)  |  10  |       [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)        | [sql](programmers/sql-10.sql) |
 |  11  |     [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041)     | [sql](programmers/sql-11.sql) |  12  | [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [sql](programmers/sql-12.sql) |
+|  13  |       [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)       | [sql](programmers/sql-13.sql) |      |                                                                                          |                               |
 
 </details>
 
