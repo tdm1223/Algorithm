@@ -68,9 +68,9 @@
 
 | 번호 | 문제                                                 | 코드                         | 번호 | 문제                                                 | 코드                         |
 |:----:|:----------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------:|:----------------------------:|
-|  1   | [8진수 2진수](https://www.acmicpc.net/problem/1212)  | [cpp](acmicpc.net/1212.cpp)  |  2   |    [16진수](https://www.acmicpc.net/problem/1550)    | [cpp](acmicpc.net/1550.cpp)  |
+|  1   | [8진수 2진수](https://www.acmicpc.net/problem/1212)  | [cpp](acmicpc.net/1212.cpp)  |  2   | [2진수 8진수](https://www.acmicpc.net/problem/1373)  | [cpp](acmicpc.net/1373.cpp)  |
 |  3   |  [진법 변환](https://www.acmicpc.net/problem/2745)   | [cpp](acmicpc.net/2745.cpp)  |  4   | [진법 변환 2](https://www.acmicpc.net/problem/11005) | [cpp](acmicpc.net/11005.cpp) |
-|  5   | [이진수 변환](https://www.acmicpc.net/problem/10829) | [cpp](acmicpc.net/10829.cpp) |      |                                                      |                              |
+|  5   | [이진수 변환](https://www.acmicpc.net/problem/10829) | [cpp](acmicpc.net/10829.cpp) |  6   |    [16진수](https://www.acmicpc.net/problem/1550)    | [cpp](acmicpc.net/1550.cpp)  |
 
 </details>
 
