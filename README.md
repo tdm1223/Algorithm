@@ -375,7 +375,7 @@
 |  25  |       [통계학](https://www.acmicpc.net/problem/2108)        | [java](acmicpc.net/2108.java) |  26  |  [키보드 이벤트](https://www.acmicpc.net/problem/17254)  | [cpp](acmicpc.net/17254.cpp) |
 |  27  | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | [cpp](acmicpc.net/17263.cpp)  |  28  |    [거리의 합](https://www.acmicpc.net/problem/2399)     | [cpp](acmicpc.net/2399.cpp)  |
 |  29  |   [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)   | [cpp](acmicpc.net/11098.cpp)  |  30  |     [Strfry](https://www.acmicpc.net/problem/11328)      | [cpp](acmicpc.net/11328.cpp) |
-|  31  |   [수 정렬하기 5](https://www.acmicpc.net/problem/15688)    | [cpp](acmicpc.net/15688.cpp)  |      |                                                          |                              |
+|  31  |   [수 정렬하기 5](https://www.acmicpc.net/problem/15688)    | [cpp](acmicpc.net/15688.cpp)  |  32  |    [줄 세우기](https://www.acmicpc.net/problem/2252)     | [cpp](acmicpc.net/2252.cpp)  |
 
 </details>
 
