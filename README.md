@@ -465,7 +465,7 @@
 |  67  |       [순열 사이클](https://www.acmicpc.net/problem/10451)       | [cpp](acmicpc.net/10451.cpp) |  68  |    [무한부스터](https://www.acmicpc.net/problem/17391)     | [cpp](acmicpc.net/17371.cpp) |
 |  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |  70  |   [체스판 여행 1](https://www.acmicpc.net/problem/16959)   | [cpp](acmicpc.net/16959.cpp) |
 |  71  |     [주디와 당근농장](https://www.acmicpc.net/problem/16433)     | [cpp](acmicpc.net/16433.cpp) |  72  |        [로봇](https://www.acmicpc.net/problem/1726)        | [cpp](acmicpc.net/1726.cpp)  |
-|  73  |          [장군](https://www.acmicpc.net/problem/16509)           | [cpp](acmicpc.net/16509.cpp) |      |                                                            |                              |
+|  73  |          [장군](https://www.acmicpc.net/problem/16509)           | [cpp](acmicpc.net/16509.cpp) |  74  |    [게리맨더링](https://www.acmicpc.net/problem/17471)     | [cpp](acmicpc.net/17471.cpp) |
 
 </details>
 
