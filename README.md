@@ -515,6 +515,7 @@
 |  33  |      [차집합](https://www.acmicpc.net/problem/1822)      | [cpp](acmicpc.net/1822.cpp)  |  34  |    [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)    | [cpp](acmicpc.net/16165.cpp) |
 |  35  |   [후위 표기식2](https://www.acmicpc.net/problem/1935)   | [cpp](acmicpc.net/1935.cpp)  |  36  |        [카드 정렬하기](https://www.acmicpc.net/problem/1715)        | [cpp](acmicpc.net/1715.cpp)  |
 |  37  |   [N번째 큰 수](https://www.acmicpc.net/problem/2075)    | [cpp](acmicpc.net/2075.cpp)  |  38  |     [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)     | [cpp](acmicpc.net/10867.cpp) |
+|  39  |     [오큰수](https://www.acmicpc.net/problem/17298)      | [cpp](acmicpc.net/17298.cpp) |      |                                                                     |                              |
 
 </details>
 
