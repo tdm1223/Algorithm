@@ -487,7 +487,7 @@
 |  15  |    [뒤집기](https://www.acmicpc.net/problem/1439)    | [cpp](acmicpc.net/1439.cpp)  |  16  |      [DNA](https://www.acmicpc.net/problem/1969)      | [cpp](acmicpc.net/1969.cpp)  |
 |  17  |    [문자열](https://www.acmicpc.net/problem/1120)    | [cpp](acmicpc.net/1120.cpp)  |  18  |  [크게 만들기](https://www.acmicpc.net/problem/2812)  | [cpp](acmicpc.net/2812.cpp)  |
 |  19  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [cpp](acmicpc.net/1343.cpp)  |  20  |    [고득점](https://www.acmicpc.net/problem/3663)     | [cpp](acmicpc.net/3663.cpp)  |
-|  21  | [전자레인지](https://www.acmicpc.net/problem/10162)  | [cpp](acmicpc.net/10162.cpp) |      |                                                       |                              |
+|  21  | [전자레인지](https://www.acmicpc.net/problem/10162)  | [cpp](acmicpc.net/10162.cpp) |  22  |   [카우버거](https://www.acmicpc.net/problem/15720)   | [cpp](acmicpc.net/15720.cpp) |
 
 </details>
 
