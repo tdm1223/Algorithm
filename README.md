@@ -583,7 +583,7 @@
 |  7   |   [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)   | [cpp](programmers/kakao-2.cpp) |  8   |       [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)       | [cpp](programmers/kakao-3.cpp) |
 |  9   |   [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)    | [cpp](programmers/kakao-4.cpp) |  10  |        [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)         | [cpp](programmers/kakao-5.cpp) |
 |  11  |   [길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)   | [cpp](programmers/kakao-6.cpp) |  12  |         [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | [cpp](programmers/kakao-7.cpp) |
-|  13  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [cpp](programmers/kakao-8.cpp) |      |                                                                                   |                                |
+|  13  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [cpp](programmers/kakao-8.cpp) |  14  |      [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [cpp](programmers/kakao-9.cpp) |
 
 </details>
 
