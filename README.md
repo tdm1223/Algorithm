@@ -59,6 +59,7 @@
 |  77  |                [숫자](https://www.acmicpc.net/problem/10093)                 |  [cpp](acmicpc.net/10093.cpp)  |  78  |         [분수좋아해?](https://www.acmicpc.net/problem/10474)         |  [cpp](acmicpc.net/10474.cpp)  |
 |  79  |              [개수 세기](https://www.acmicpc.net/problem/10807)              |  [cpp](acmicpc.net/10807.cpp)  |  80  |         [정수의 개수](https://www.acmicpc.net/problem/10821)         | [java](acmicpc.net/10821.java) |
 |  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  |  82  |       [양수 개수 세기](https://www.acmicpc.net/problem/14909)        |  [cpp](acmicpc.net/14909.cpp)  |
+|  83  |               [세 부분](https://www.acmicpc.net/problem/2993)                |  [cpp](acmicpc.net/2993.cpp)   |      |                                                                      |                                |
 
 </details>
 
