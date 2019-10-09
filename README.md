@@ -572,6 +572,7 @@
 |  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |  12  |     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [cpp](programmers/2-12.cpp) |
 |  13  |        [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)         | [cpp](programmers/2-13.cpp) |  14  | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)  | [cpp](programmers/2-14.cpp) |
 |  15  |          [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)          | [cpp](programmers/2-15.cpp) |  16  |   [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)   | [cpp](programmers/2-16.cpp) |
+|  17  |       [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)       | [cpp](programmers/2-17.cpp) |      |                                                                              |                             |
 
 </details>
 
