@@ -589,6 +589,7 @@
 |  9   |   [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)    | [cpp](programmers/kakao-4.cpp) |  10  |        [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)         | [cpp](programmers/kakao-5.cpp) |
 |  11  |   [길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)   | [cpp](programmers/kakao-6.cpp) |  12  |         [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | [cpp](programmers/kakao-7.cpp) |
 |  13  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [cpp](programmers/kakao-8.cpp) |  14  |      [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [cpp](programmers/kakao-9.cpp) |
+|  15  |     [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)      |   [cpp](programmers/3-6.cpp)   |      |                                                                                   |                                |
 
 </details>
 
