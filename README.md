@@ -229,7 +229,7 @@
 |  37  |         [체스](https://www.acmicpc.net/problem/1986)         | [cpp](acmicpc.net/1986.cpp)  |  38  |     [보이저 1호](https://www.acmicpc.net/problem/3987)     | [cpp](acmicpc.net/3987.cpp)  |
 |  39  | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  | [cpp](acmicpc.net/17140.cpp) |  40  |      [낚시왕](https://www.acmicpc.net/problem/17143)       | [cpp](acmicpc.net/17143.cpp) |
 |  41  |        [트럭](https://www.acmicpc.net/problem/13335)         | [cpp](acmicpc.net/13335.cpp) |  42  |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [cpp](acmicpc.net/17406.cpp) |
-|  43  |    [지능형 기차 2](https://www.acmicpc.net/problem/2460)     | [cpp](acmicpc.net/2460.cpp)  |      |                                                            |                              |
+|  43  |    [지능형 기차 2](https://www.acmicpc.net/problem/2460)     | [cpp](acmicpc.net/2460.cpp)  |  44  |  [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)   | [cpp](acmicpc.net/17144.cpp) |
 
 </details>
 
