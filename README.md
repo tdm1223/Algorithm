@@ -701,6 +701,7 @@
 |  39  |       [다양성 측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG)        | [cpp](swexpertacademy.com/7728.cpp) |  40  |      [안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz)      | [cpp](swexpertacademy.com/7272.cpp) |
 |  41  |    [2016년 요일 맞추기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWOwecaFrIDFAV4)    | [cpp](swexpertacademy.com/5515.cpp) |  42  |      [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)       | [cpp](swexpertacademy.com/3499.cpp) |
 |  43  |    [현주의 상자 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)    | [cpp](swexpertacademy.com/5789.cpp) |  44  |       [Digit sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPiSYKAD0DFAUn)        | [cpp](swexpertacademy.com/3750.cpp) |
+|  45  |        [Summation](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1lwyh6WPwDFARC)         | [cpp](swexpertacademy.com/8658.cpp) |      |                                                                                                                         |                                     |
 
 </details>
 
