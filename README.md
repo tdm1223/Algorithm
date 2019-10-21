@@ -522,6 +522,7 @@
 |  35  |   [후위 표기식2](https://www.acmicpc.net/problem/1935)   | [cpp](acmicpc.net/1935.cpp)  |  36  |        [카드 정렬하기](https://www.acmicpc.net/problem/1715)        | [cpp](acmicpc.net/1715.cpp)  |
 |  37  |   [N번째 큰 수](https://www.acmicpc.net/problem/2075)    | [cpp](acmicpc.net/2075.cpp)  |  38  |     [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)     | [cpp](acmicpc.net/10867.cpp) |
 |  39  |     [오큰수](https://www.acmicpc.net/problem/17298)      | [cpp](acmicpc.net/17298.cpp) |  40  |       [가운데를 말해요](https://www.acmicpc.net/problem/1655)       | [cpp](acmicpc.net/1655.cpp)  |
+|  41  |     [막대기](https://www.acmicpc.net/problem/17608)      | [cpp](acmicpc.net/17608.cpp) |      |                                                                     |                              |
 
 </details>
 
