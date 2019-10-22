@@ -1,5 +1,5 @@
 // 17779. 게리맨더링 2
-// 2019.10.21
+// 2019.10.22
 // 구현
 #include<iostream>
 #include<algorithm>

@@ -449,7 +449,7 @@
 |  21  |        [플로이드](https://www.acmicpc.net/problem/11404)         | [cpp](acmicpc.net/11404.cpp) |  22  |       [저울](https://www.acmicpc.net/problem/10159)        | [cpp](acmicpc.net/10159.cpp) |
 |  23  |           [역사](https://www.acmicpc.net/problem/1613)           | [cpp](acmicpc.net/1613.cpp)  |  24  |      [키 순서](https://www.acmicpc.net/problem/2458)       | [cpp](acmicpc.net/2458.cpp)  |
 |  25  |           [운동](https://www.acmicpc.net/problem/1956)           | [cpp](acmicpc.net/1956.cpp)  |  26  |      [회장뽑기](https://www.acmicpc.net/problem/2660)      | [cpp](acmicpc.net/2660.cpp)  |
-|  27  |        [Puyo Puyo](https://www.acmicpc.net/problem/11559)        | [cpp](acmicpc.net/11559.cpp) |  28  |         [양](https://www.acmicpc.net/problem/3184)         | [cpp](acmicpc.net/3184.cpp)  |
+|  27  |        [Puyo Puyo](https://www.acmicpc.net/problem/11559)        | [cpp](acmicpc.net/11559.cpp) |  28  | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | [cpp](acmicpc.net/11725.cpp) |
 |  29  |         [돌다리](https://www.acmicpc.net/problem/12761)          | [cpp](acmicpc.net/12761.cpp) |  30  |       [보물섬](https://www.acmicpc.net/problem/2589)       | [cpp](acmicpc.net/2589.cpp)  |
 |  31  |           [물통](https://www.acmicpc.net/problem/2251)           | [cpp](acmicpc.net/2251.cpp)  |  32  |   [상근이의 여행](https://www.acmicpc.net/problem/9372)    | [cpp](acmicpc.net/9372.cpp)  |
 |  33  |       [Cow Contest](https://www.acmicpc.net/problem/6156)        | [cpp](acmicpc.net/6156.cpp)  |  34  |      [촌수계산](https://www.acmicpc.net/problem/2644)      | [cpp](acmicpc.net/2644.cpp)  |
@@ -473,7 +473,7 @@
 |  69  |        [핑거 스냅](https://www.acmicpc.net/problem/17394)        | [cpp](acmicpc.net/17394.cpp) |  70  |   [체스판 여행 1](https://www.acmicpc.net/problem/16959)   | [cpp](acmicpc.net/16959.cpp) |
 |  71  |     [주디와 당근농장](https://www.acmicpc.net/problem/16433)     | [cpp](acmicpc.net/16433.cpp) |  72  |        [로봇](https://www.acmicpc.net/problem/1726)        | [cpp](acmicpc.net/1726.cpp)  |
 |  73  |          [장군](https://www.acmicpc.net/problem/16509)           | [cpp](acmicpc.net/16509.cpp) |  74  |    [게리맨더링](https://www.acmicpc.net/problem/17471)     | [cpp](acmicpc.net/17471.cpp) |
-|  75  |      [다리 만들기 2](https://www.acmicpc.net/problem/17472)      | [cpp](acmicpc.net/17472.cpp) |  76  | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | [cpp](acmicpc.net/11725.cpp) |
+|  75  |      [다리 만들기 2](https://www.acmicpc.net/problem/17472)      | [cpp](acmicpc.net/17472.cpp) |      |                                                            |                              |
 
 </details>
 
