@@ -191,6 +191,7 @@
 | 101  |      [게리맨더링 2](https://www.acmicpc.net/problem/17779)      | [cpp](acmicpc.net/17779.cpp) | 102  |           [새로운 게임](https://www.acmicpc.net/problem/17780)           | [cpp](acmicpc.net/17780.cpp) |
 | 103  |       [수 이어가기](https://www.acmicpc.net/problem/2635)       | [cpp](acmicpc.net/2635.cpp)  | 104  |            [숫자 게임](https://www.acmicpc.net/problem/2303)             | [cpp](acmicpc.net/2303.cpp)  |
 | 105  |        [카드게임](https://www.acmicpc.net/problem/2621)         | [cpp](acmicpc.net/2621.cpp)  | 106  |            [Byte Coin](https://www.acmicpc.net/problem/17521)            | [cpp](acmicpc.net/17521.cpp) |
+| 107  |         [색종이](https://www.acmicpc.net/problem/10163)         | [cpp](acmicpc.net/10163.cpp) |      |                                                                          |                              |
 
 </details>
 
