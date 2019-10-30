@@ -433,6 +433,7 @@
 |  61  |     [준석이의 수학 숙제](https://www.acmicpc.net/problem/17206)      | [cpp](acmicpc.net/17206.cpp) |  62  |     [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)     | [cpp](acmicpc.net/17390.cpp) |
 |  63  |          [BOJ 거리](https://www.acmicpc.net/problem/12026)           | [cpp](acmicpc.net/12026.cpp) |  64  |            [괄호](https://www.acmicpc.net/problem/10422)            | [cpp](acmicpc.net/10422.cpp) |
 |  65  |         [자와 각도기](https://www.acmicpc.net/problem/2916)          | [cpp](acmicpc.net/2916.cpp)  |  66  |      [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)      | [cpp](acmicpc.net/15988.cpp) |
+|  67  |        [Four Squares](https://www.acmicpc.net/problem/17626)         | [cpp](acmicpc.net/17626.cpp) |      |                                                                     |                              |
 
 </details>
 
