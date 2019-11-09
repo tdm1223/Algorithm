@@ -61,6 +61,7 @@
 |  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  |  82  |       [양수 개수 세기](https://www.acmicpc.net/problem/14909)        |  [cpp](acmicpc.net/14909.cpp)  |
 |  83  |               [세 부분](https://www.acmicpc.net/problem/2993)                |  [cpp](acmicpc.net/2993.cpp)   |  84  |          [신기한 수](https://www.acmicpc.net/problem/17618)          |  [cpp](acmicpc.net/17618.cpp)  |
 |  85  |             [대표 자연수](https://www.acmicpc.net/problem/2548)              |  [cpp](acmicpc.net/2548.cpp)   |  86  |          [과자 사기](https://www.acmicpc.net/problem/17450)          |  [cpp](acmicpc.net/17450.cpp)  |
+|  87  |            [나의 학점은?](https://www.acmicpc.net/problem/17826)             |  [cpp](acmicpc.net/17826.cpp)  |      |                                                                      |                                |
 
 </details>
 
