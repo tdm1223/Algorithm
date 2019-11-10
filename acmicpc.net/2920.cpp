@@ -1,6 +1,6 @@
 // 2920. 음계
 // 2019.05.21
-// 자료구조
+// 배열
 #include<iostream>
 
 using namespace std;

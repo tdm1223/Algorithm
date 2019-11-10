@@ -1,6 +1,6 @@
 // 2953. 나는 요리사다
 // 2019.05.21
-// 자료구조
+// 배열
 #include<iostream>
 #include<algorithm>
 
