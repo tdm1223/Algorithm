@@ -65,6 +65,16 @@
 
 </details>
 
+### 배열
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                              | 코드                         | 번호 | 문제 | 코드 |
+|:----:|:-------------------------------------------------:|:----------------------------:|:----:|:----:|:----:|
+|  1   | [222-풀링](https://www.acmicpc.net/problem/17829) | [cpp](acmicpc.net/17829.cpp) |      |      |      |
+
+</details>
+
 ### 진법
 
 <details open> <summary> 접기 / 펼치기 </summary>
