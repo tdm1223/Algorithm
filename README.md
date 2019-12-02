@@ -1,5 +1,6 @@
 알고리즘 문제풀이
 =================
+
 ![Bower](https://img.shields.io/bower/l/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/tdm1223/algorithm) ![author](https://img.shields.io/static/v1?label=author&message=tdm1223&color=yellow)
 
 -	[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com) 사이트의 알고리즘 문제 풀이입니다.
@@ -352,7 +353,7 @@
 | 107  |            [무알콜 칵테일](https://www.acmicpc.net/problem/2896)             |  [cpp](acmicpc.net/2896.cpp)   | 108  |         [유진수](https://www.acmicpc.net/problem/1356)          |  [cpp](acmicpc.net/1356.cpp)   |
 | 109  | [2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667) |  [cpp](acmicpc.net/15667.cpp)  | 110  |       [정수 제곱근](https://www.acmicpc.net/problem/2417)       |  [cpp](acmicpc.net/2417.cpp)   |
 | 111  |              [이칙연산](https://www.acmicpc.net/problem/15726)               |  [cpp](acmicpc.net/15726.cpp)  | 112  |     [피보나치 수 4](https://www.acmicpc.net/problem/10826)      | [java](acmicpc.net/10826.java) |
-| 113  |              [통학의 신](https://www.acmicpc.net/problem/17945)              |  [cpp](acmicpc.net/17945.cpp)  |      |                                                                 |                                |
+| 113  |              [통학의 신](https://www.acmicpc.net/problem/17945)              |  [cpp](acmicpc.net/17945.cpp)  | 114  |         [제곱근](https://www.acmicpc.net/problem/13706)         | [java](acmicpc.net/13706.java) |
 
 </details>
 
