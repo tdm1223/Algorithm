@@ -646,7 +646,7 @@
 |  17  |     [루시와 엘라 찾기](https://programmers.co.kr/learn/courses/30/lessons/59046)      | [sql](programmers/sql-17.sql) |  18  |  [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)   | [sql](programmers/sql-18.sql) |
 |  19  |       [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)       | [sql](programmers/sql-19.sql) |  20  |        [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)        | [sql](programmers/sql-20.sql) |
 |  21  |    [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)    | [sql](programmers/sql-21.sql) |  22  |     [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)      | [sql](programmers/sql-22.sql) |
-|  23  | [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)  | [sql](programmers/sql-23.sql) |      |                                                                                            |                               |
+|  23  | [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)  | [sql](programmers/sql-23.sql) |  24  |    [보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)    | [sql](programmers/sql-24.sql) |
 
 </details>
 
