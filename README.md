@@ -289,6 +289,7 @@
 |  29  | [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658) | [cpp](acmicpc.net/15658.cpp) |  30  |         [3의 배수](https://www.acmicpc.net/problem/16561)         | [cpp](acmicpc.net/16561.cpp) |
 |  31  |      [사탕 게임](https://www.acmicpc.net/problem/3085)       | [cpp](acmicpc.net/3085.cpp)  |  32  | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [cpp](acmicpc.net/2961.cpp)  |
 |  33  |        [가르침](https://www.acmicpc.net/problem/1062)        | [cpp](acmicpc.net/1062.cpp)  |  34  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       | [cpp](acmicpc.net/15661.cpp) |
+|  35  |    [마지막 한마디](https://www.acmicpc.net/problem/1813)     | [cpp](acmicpc.net/1813.cpp)  |      |                                                                   |                              |
 
 </details>
 
