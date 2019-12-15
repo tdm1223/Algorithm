@@ -5,7 +5,6 @@
 
 using namespace std;
 
-int d[101];
 int main()
 {
     int n;
