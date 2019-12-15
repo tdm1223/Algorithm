@@ -418,7 +418,7 @@
 |  29  |   [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)   | [cpp](acmicpc.net/11098.cpp)  |  30  |            [Strfry](https://www.acmicpc.net/problem/11328)            | [cpp](acmicpc.net/11328.cpp) |
 |  31  |   [수 정렬하기 5](https://www.acmicpc.net/problem/15688)    | [cpp](acmicpc.net/15688.cpp)  |  32  |           [줄 세우기](https://www.acmicpc.net/problem/2252)           | [cpp](acmicpc.net/2252.cpp)  |
 |  33  |      [성 지키기](https://www.acmicpc.net/problem/1236)      |  [cpp](acmicpc.net/1236.cpp)  |  34  | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | [cpp](acmicpc.net/12738.cpp) |
-|  35  |         [새](https://www.acmicpc.net/problem/1568)          |  [cpp](acmicpc.net/1568.cpp)  |      |                                                                       |                              |
+|  35  |         [새](https://www.acmicpc.net/problem/1568)          |  [cpp](acmicpc.net/1568.cpp)  |  36  |             [리그](https://www.acmicpc.net/problem/5544)              | [cpp](acmicpc.net/5544.cpp)  |
 
 </details>
 
