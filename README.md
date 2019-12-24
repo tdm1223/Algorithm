@@ -60,7 +60,7 @@
 |  75  |           [상근이의 친구들](https://www.acmicpc.net/problem/5717)            | [java](acmicpc.net/5717.java)  |  76  |        [Counting Sheep](https://www.acmicpc.net/problem/7366)        |  [cpp](acmicpc.net/7366.cpp)   |
 |  77  |                [숫자](https://www.acmicpc.net/problem/10093)                 |  [cpp](acmicpc.net/10093.cpp)  |  78  |         [분수좋아해?](https://www.acmicpc.net/problem/10474)         |  [cpp](acmicpc.net/10474.cpp)  |
 |  79  |              [개수 세기](https://www.acmicpc.net/problem/10807)              |  [cpp](acmicpc.net/10807.cpp)  |  80  |         [정수의 개수](https://www.acmicpc.net/problem/10821)         | [java](acmicpc.net/10821.java) |
-|  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  | 82  |         [펭귄추락대책위원회](https://www.acmicpc.net/problem/18228)         | [cpp](acmicpc.net/18228.cpp) |
+|  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  |  82  |     [펭귄추락대책위원회](https://www.acmicpc.net/problem/18228)      |  [cpp](acmicpc.net/18228.cpp)  |
 
 </details>
 
@@ -81,14 +81,14 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                       | 코드                         | 번호 | 문제                                              | 코드                        |
-|:----:|:----------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------:|:---------------------------:|
-|  1   |     [222-풀링](https://www.acmicpc.net/problem/17829)      | [cpp](acmicpc.net/17829.cpp) |  2   |   [음계](https://www.acmicpc.net/problem/2920)    | [cpp](acmicpc.net/2920.cpp) |
-|  3   |       [나머지](https://www.acmicpc.net/problem/3052)       | [cpp](acmicpc.net/3052.cpp)  |  4   |  [블랙잭](https://www.acmicpc.net/problem/2798)   | [cpp](acmicpc.net/2798.cpp) |
-|  5   |   [나는 요리사다](https://www.acmicpc.net/problem/2953)    | [cpp](acmicpc.net/2953.cpp)  |  6   | [농구 경기](https://www.acmicpc.net/problem/1159) | [cpp](acmicpc.net/1159.cpp) |
-|  7   |     [오르막 길](https://www.acmicpc.net/problem/2846)      | [cpp](acmicpc.net/2846.cpp)  |  8   |  [키로거](https://www.acmicpc.net/problem/5397)   | [cpp](acmicpc.net/5397.cpp) |
-|  9   | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [cpp](acmicpc.net/2847.cpp)  |  10  |  [폭죽쇼](https://www.acmicpc.net/problem/1773)   | [cpp](acmicpc.net/1773.cpp) |
-|  11  |      [블라인드](https://www.acmicpc.net/problem/2799)      | [cpp](acmicpc.net/2799.cpp)  |      |                                                   |                             |
+| 번호 | 문제                                                       | 코드                         | 번호 | 문제                                                               | 코드                         |
+|:----:|:----------------------------------------------------------:|:----------------------------:|:----:|:------------------------------------------------------------------:|:----------------------------:|
+|  1   |     [222-풀링](https://www.acmicpc.net/problem/17829)      | [cpp](acmicpc.net/17829.cpp) |  2   |            [음계](https://www.acmicpc.net/problem/2920)            | [cpp](acmicpc.net/2920.cpp)  |
+|  3   |       [나머지](https://www.acmicpc.net/problem/3052)       | [cpp](acmicpc.net/3052.cpp)  |  4   |           [블랙잭](https://www.acmicpc.net/problem/2798)           | [cpp](acmicpc.net/2798.cpp)  |
+|  5   |   [나는 요리사다](https://www.acmicpc.net/problem/2953)    | [cpp](acmicpc.net/2953.cpp)  |  6   |         [농구 경기](https://www.acmicpc.net/problem/1159)          | [cpp](acmicpc.net/1159.cpp)  |
+|  7   |     [오르막 길](https://www.acmicpc.net/problem/2846)      | [cpp](acmicpc.net/2846.cpp)  |  8   |           [키로거](https://www.acmicpc.net/problem/5397)           | [cpp](acmicpc.net/5397.cpp)  |
+|  9   | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [cpp](acmicpc.net/2847.cpp)  |  10  |           [폭죽쇼](https://www.acmicpc.net/problem/1773)           | [cpp](acmicpc.net/1773.cpp)  |
+|  11  |      [블라인드](https://www.acmicpc.net/problem/2799)      | [cpp](acmicpc.net/2799.cpp)  |  12  | [내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) | [cpp](acmicpc.net/18229.cpp) |
 
 </details>
 
