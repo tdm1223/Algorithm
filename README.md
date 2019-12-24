@@ -60,7 +60,7 @@
 |  75  |           [상근이의 친구들](https://www.acmicpc.net/problem/5717)            | [java](acmicpc.net/5717.java)  |  76  |        [Counting Sheep](https://www.acmicpc.net/problem/7366)        |  [cpp](acmicpc.net/7366.cpp)   |
 |  77  |                [숫자](https://www.acmicpc.net/problem/10093)                 |  [cpp](acmicpc.net/10093.cpp)  |  78  |         [분수좋아해?](https://www.acmicpc.net/problem/10474)         |  [cpp](acmicpc.net/10474.cpp)  |
 |  79  |              [개수 세기](https://www.acmicpc.net/problem/10807)              |  [cpp](acmicpc.net/10807.cpp)  |  80  |         [정수의 개수](https://www.acmicpc.net/problem/10821)         | [java](acmicpc.net/10821.java) |
-|  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  |      |                                                                      |                                |
+|  81  |                [사과](https://www.acmicpc.net/problem/10833)                 |  [cpp](acmicpc.net/10833.cpp)  | 82  |         [펭귄추락대책위원회](https://www.acmicpc.net/problem/18228)         | [cpp](acmicpc.net/18228.cpp) |
 
 </details>
 
