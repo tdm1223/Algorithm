@@ -69,12 +69,13 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                    | 코드                        | 번호 | 문제                                                            | 코드                          |
-|:----:|:-------------------------------------------------------:|:---------------------------:|:----:|:---------------------------------------------------------------:|:-----------------------------:|
-|  1   |   [네 번째 수](https://www.acmicpc.net/problem/2997)    | [cpp](acmicpc.net/2997.cpp) |  2   | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |  [cpp](acmicpc.net/3040.cpp)  |
-|  3   |    [삼각 김밥](https://www.acmicpc.net/problem/2783)    | [cpp](acmicpc.net/2783.cpp) |  4   |       [체스판 조각](https://www.acmicpc.net/problem/3004)       | [java](acmicpc.net/3004.java) |
-|  5   | [상근이의 체스판](https://www.acmicpc.net/problem/3076) | [cpp](acmicpc.net/3076.cpp) |  6   |       [음식 평론가](https://www.acmicpc.net/problem/1188)       |  [cpp](acmicpc.net/1188.cpp)  |
-|  7   |      [BABBA](https://www.acmicpc.net/problem/9625)      | [cpp](acmicpc.net/9625.cpp) |  8   |         [세 부분](https://www.acmicpc.net/problem/2993)         |  [cpp](acmicpc.net/2993.cpp)  |
+| 번호 | 문제                                                        | 코드                           | 번호 | 문제                                                            | 코드                          |
+|:----:|:-----------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------------------:|:-----------------------------:|
+|  1   |     [네 번째 수](https://www.acmicpc.net/problem/2997)      |  [cpp](acmicpc.net/2997.cpp)   |  2   | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |  [cpp](acmicpc.net/3040.cpp)  |
+|  3   |      [삼각 김밥](https://www.acmicpc.net/problem/2783)      |  [cpp](acmicpc.net/2783.cpp)   |  4   |       [체스판 조각](https://www.acmicpc.net/problem/3004)       | [java](acmicpc.net/3004.java) |
+|  5   |   [상근이의 체스판](https://www.acmicpc.net/problem/3076)   |  [cpp](acmicpc.net/3076.cpp)   |  6   |       [음식 평론가](https://www.acmicpc.net/problem/1188)       |  [cpp](acmicpc.net/1188.cpp)  |
+|  7   |        [BABBA](https://www.acmicpc.net/problem/9625)        |  [cpp](acmicpc.net/9625.cpp)   |  8   |         [세 부분](https://www.acmicpc.net/problem/2993)         |  [cpp](acmicpc.net/2993.cpp)  |
+|  9   | [이상한 나라의 암호](https://www.acmicpc.net/problem/18245) | [java](acmicpc.net/18245.java) |      |                                                                 |                               |
 
 </details>
 
