@@ -359,7 +359,7 @@
 | 109  | [2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667) |  [cpp](acmicpc.net/15667.cpp)  | 110  |       [정수 제곱근](https://www.acmicpc.net/problem/2417)       |  [cpp](acmicpc.net/2417.cpp)   |
 | 111  |              [이칙연산](https://www.acmicpc.net/problem/15726)               |  [cpp](acmicpc.net/15726.cpp)  | 112  |     [피보나치 수 4](https://www.acmicpc.net/problem/10826)      | [java](acmicpc.net/10826.java) |
 | 113  |              [통학의 신](https://www.acmicpc.net/problem/17945)              |  [cpp](acmicpc.net/17945.cpp)  | 114  |         [제곱근](https://www.acmicpc.net/problem/13706)         | [java](acmicpc.net/13706.java) |
-| 115  |             [긴자리 계산](https://www.acmicpc.net/problem/2338)              | [java](acmicpc.net/2338.java)  |      |                                                                 |                                |
+| 115  |             [긴자리 계산](https://www.acmicpc.net/problem/2338)              | [java](acmicpc.net/2338.java)  | 116  |    [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)    |  [cpp](acmicpc.net/11659.cpp)  |
 
 </details>
 
