@@ -788,4 +788,19 @@
 
 </details>
 
-**Copyright &copy; 2018-2019 Kang Jegyun**
+[Codility](https://app.codility.com/programmers)
+------------------------------------------------
+
+-	사이트에서 제공하는 **Lesson** 문제들을 정리하였습니다.
+
+---
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                              | 코드                           | 번호 | 문제 | 코드 |
+|:----:|:---------------------------------------------------------------------------------:|:------------------------------:|:----:|:----:|:----:|
+|  1   | [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap) | [cpp](codility/binary_gap.cpp) |      |      |      |
+
+</details>
+
+**Copyright &copy; 2018-2020 Kang Jegyun**
