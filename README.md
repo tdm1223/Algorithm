@@ -793,9 +793,10 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                                              | 코드                          | 번호 | 문제                                                                                                    | 코드                                      |
-|:----:|:---------------------------------------------------------------------------------:|:-----------------------------:|:----:|:-------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
-|  1   | [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap) | [cpp](codility/BinaryGap.cpp) |  2   | [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array) | [cpp](codility/OddOccurrencesInArray.cpp) |
+| 번호 | 문제                                                                                    | 코드                               | 번호 | 문제                                                                                                    | 코드                                      |
+|:----:|:---------------------------------------------------------------------------------------:|:----------------------------------:|:----:|:-------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
+|  1   |    [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap)    |   [cpp](codility/BinaryGap.cpp)    |  2   | [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array) | [cpp](codility/OddOccurrencesInArray.cpp) |
+|  3   | [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation) | [cpp](codility/CyclicRotation.cpp) |      |                                                                                                         |                                           |
 
 </details>
 
