@@ -750,7 +750,7 @@
 |  43  |    [현주의 상자 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)    |  [cpp](swexpertacademy.com/5789.cpp)  |  44  |       [Digit sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPiSYKAD0DFAUn)        | [cpp](swexpertacademy.com/3750.cpp) |
 |  45  |        [Summation](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1lwyh6WPwDFARC)         |  [cpp](swexpertacademy.com/8658.cpp)  |  46  |     [코딩 토너먼트1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW2Jldrqlo4DFASu)     | [cpp](swexpertacademy.com/1673.cpp) |
 |  47  |         [두문자어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW2y6n3qPXQDFATy)         | [java](swexpertacademy.com/8741.java) |  48  |          [제로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW5jBWLq7jwDFATQ)          | [cpp](swexpertacademy.com/8931.cpp) |
-|  49  |       [적고 지우기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW37UDPKCgQDFATy)        |  [cpp](swexpertacademy.com/8821.cpp)  |      |                                                                                                                         |                                     |
+|  49  |       [적고 지우기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW37UDPKCgQDFATy)        |  [cpp](swexpertacademy.com/8821.cpp)  |  50  |    [알 덴테 스파게티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWzal4EKksEDFAVU)    | [cpp](swexpertacademy.com/8457.cpp) |
 
 </details>
 
