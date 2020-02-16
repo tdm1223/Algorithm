@@ -293,6 +293,7 @@
 |  33  |        [가르침](https://www.acmicpc.net/problem/1062)        | [cpp](acmicpc.net/1062.cpp)  |  34  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       | [cpp](acmicpc.net/15661.cpp) |
 |  35  |    [마지막 한마디](https://www.acmicpc.net/problem/1813)     | [cpp](acmicpc.net/1813.cpp)  |  36  |        [기숙사 바닥](https://www.acmicpc.net/problem/2858)        | [cpp](acmicpc.net/2858.cpp)  |
 |  37  |    [에너지 모으기](https://www.acmicpc.net/problem/16198)    | [cpp](acmicpc.net/16198.cpp) |  38  |      [크면서 작은 수](https://www.acmicpc.net/problem/2992)       | [cpp](acmicpc.net/2992.cpp)  |
+|  37  |       [근손실](https://www.acmicpc.net/problem/18429)        | [cpp](acmicpc.net/18429.cpp) |      |                                                                   |                              |
 
 </details>
 
