@@ -1,5 +1,5 @@
 // 17471. 게리맨더링
-// 2019.09.25
+// 2020.02.19
 // DFS, BFS, 그래프
 #include<iostream>
 #include<algorithm>
