@@ -1,7 +1,6 @@
 // 17135. 캐슬 디펜스
-// 2019.05.22
+// 2020.02.22
 // 시뮬레이션
-// https://tdm1223.tistory.com/2
 #include<iostream>
 #include<algorithm>
 #include<vector>
