@@ -1,7 +1,6 @@
 // 17140. 이차원 배열과 연산
-// 2019.05.22
+// 2020.02.26
 // 시뮬레이션
-// https://tdm1223.tistory.com/6
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -40,7 +39,7 @@ void mapInit()
 	}
 }
 // R연산
-void CalR()
+void OperationR()
 {
 	tmpMapInit();
 	int tmpX = 1;
@@ -99,7 +98,7 @@ void CalR()
 	}
 }
 // C연산
-void CalC()
+void OperationC()
 {
 	tmpMapInit();
 	int tmpY = 1;
@@ -189,12 +188,12 @@ int main()
 		// R연산
 		if (x >= y)
 		{
-			CalR();
+			OperationR();
 		}
 		// C연산
 		else
 		{
-			CalC();
+			OperationC();
 		}
 	}
 
