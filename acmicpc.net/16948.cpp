@@ -1,7 +1,6 @@
 // 16948. 데스 나이트
-// 2019.05.25
+// 2020.02.28
 // BFS
-// https://tdm1223.tistory.com/9
 #include<iostream>
 #include<queue>
 
