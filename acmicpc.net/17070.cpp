@@ -1,7 +1,6 @@
 // 17070. 파이프 옮기기 1
-// 2019.05.22
+// 2020.03.02
 // BFS
-// https://tdm1223.tistory.com/36
 #include<iostream>
 #include<queue>
 
@@ -27,10 +26,9 @@ int main()
 		}
 	}
 
-
+	// BFS
 	queue<pipe> q;
 	q.push({ 1,2,0 });
-
 	int ans = 0;
 	while (!q.empty())
 	{
@@ -89,7 +87,6 @@ int main()
 				q.push({ x + 1,y + 1,2 });
 			}
 		}
-
 	}
 	cout << ans << endl;
 	return 0;
