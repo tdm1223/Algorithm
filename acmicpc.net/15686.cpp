@@ -1,7 +1,6 @@
 // 15686. 치킨 배달
-// 2019.05.22
+// 2020.03.09
 // 브루트 포스
-// https://tdm1223.tistory.com/37
 #include<iostream>
 #include<queue>
 #include<algorithm>
@@ -13,7 +12,7 @@ int n, m;
 vector<pair<int, int>> chickens; // 치킨집들의 위치를 모아놓는 벡터
 vector<pair<int, int>> houses; // 집들의 위치를 모아놓는 벡터
 int arr[13];
-int visit[13];
+int visit[13]; // m개 고를때 중복을 방지하기 위한 배열
 int ans = 987654321;
 // 치킨집들중 m개를 고르기
 void go(int cnt, int start)
@@ -28,16 +27,14 @@ void go(int cnt, int start)
 			int tmp = 100000;
 			for (int j = 0; j < m; j++)
 			{
-        // 거리 계산
+				// 거리 계산
 				tmp = min(tmp, abs(chickens[arr[j]].first - houses[i].first) + abs(chickens[arr[j]].second - houses[i].second));
 			}
 			sum += tmp;
 		}
-
 		ans = min(ans, sum);
 		return;
 	}
-
 	for (int i = start; i < chickens.size(); i++)
 	{
 		if (!visit[i])
@@ -68,8 +65,7 @@ int main()
 			}
 		}
 	}
-
-	go(0,0);
+	go(0, 0);
 	cout << ans << endl;
 	return 0;
 }
