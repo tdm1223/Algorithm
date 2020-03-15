@@ -1,7 +1,6 @@
 // 3055. 탈출
-// 2019.05.21
+// 2020.03.15
 // BFS, 시뮬레이션
-// https://tdm1223.tistory.com/73
 #include<iostream>
 #include<algorithm>
 #include<queue>
@@ -22,6 +21,7 @@ int main()
 	{
 		cin >> map[i];
 	}
+	// 초기화
 	for (int i = 0; i < 50; i++)
 	{
 		fill(water[i], water[i] + 50, -1);
@@ -77,7 +77,6 @@ int main()
 			{
 				continue;
 			}
-
 			water[xx][yy] = water[x][y] + 1;
 			q.push({ xx, yy });
 		}
@@ -115,7 +114,6 @@ int main()
 			{
 				continue;
 			}
-
 			dist[xx][yy] = dist[x][y] + 1;
 			q.push({ xx, yy });
 		}
