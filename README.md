@@ -3,7 +3,7 @@
 
 ![Bower](https://img.shields.io/bower/l/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/tdm1223/algorithm) ![author](https://img.shields.io/static/v1?label=author&message=tdm1223&color=yellow)
 
--	[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com) 사이트의 알고리즘 문제 풀이입니다.
+-	[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com), [codility](https://app.codility.com/programmers), [goorm](https://level.goorm.io) 사이트의 알고리즘 문제 풀이입니다.
 -	주로 C++로 풀었고 Java로 푼 문제가 조금 있습니다.
 
 [백준 온라인저지](https://www.acmicpc.net)
@@ -799,6 +799,19 @@
 |:----:|:---------------------------------------------------------------------------------------:|:----------------------------------:|:----:|:-------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
 |  1   |    [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap)    |   [cpp](codility/BinaryGap.cpp)    |  2   | [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array) | [cpp](codility/OddOccurrencesInArray.cpp) |
 |  3   | [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation) | [cpp](codility/CyclicRotation.cpp) |      |                                                                                                         |                                           |
+
+</details>
+
+[goorm](https://app.codility.com/programmers)
+---------------------------------------------
+
+-	사이트에서 제공하는 **문제 난이도(1단계~5단계)** 별로 정리하였습니다.
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                                                                  | 코드                      | 번호 | 문제 | 코드 |
+|:----:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------:|:----:|:----:|:----:|
+|  1   | [비트연산 기본 2](https://level.goorm.io/exam/43173/%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0-%EA%B8%B0%EB%B3%B8-2/quiz/1) | [cpp](goorm.io/43173.cpp) |      |      |      |
 
 </details>
 
