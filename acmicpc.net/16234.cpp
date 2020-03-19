@@ -1,7 +1,6 @@
 // 16234. 인구 이동
-// 2019.05.22
+// 2020.03.20
 // 시뮬레이션
-// https://tdm1223.tistory.com/39
 #include<iostream>
 #include<vector>
 #include<queue>
@@ -32,14 +31,12 @@ int main()
 			cin >> map[i][j];
 		}
 	}
-
 	while (1)
 	{
 		for (int i = 0; i < n; i++)
 		{
 			fill(visit[i], visit[i] + n, 0);
 		}
-
 		queue<pair<int, int>> q;
 		int idx = 0;
 		vector<country> tmp; // 같은 연합을 이루는 나라들을 임시 저장하는 벡터
@@ -71,10 +68,8 @@ int main()
 							{
 								continue;
 							}
-
 							// 두 나라의 인구수 차이 계산
 							int diff = map[x][y] - map[xx][yy] > 0 ? map[x][y] - map[xx][yy] : map[xx][yy] - map[x][y];
-
 							// 인구수 차이가 l과 r사이이고 아직 방문하지 않은 곳이면 같은곳으로 저장(개방)
 							if (visit[xx][yy] == 0 && diff >= l && diff <= r)
 							{
