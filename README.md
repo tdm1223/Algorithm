@@ -6,7 +6,7 @@
 -	[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com), [codility](https://app.codility.com/programmers), [goorm](https://level.goorm.io) 사이트의 알고리즘 문제 풀이입니다.
 -	주로 C++로 풀었고 Java로 푼 문제가 조금 있습니다.
 
-### [백준 온라인 저지](acmicpc.net/README.md)
+### [백준 온라인 저지](https://github.com/tdm1223/Algorithm/tree/master/acmicpc.net)
 
 [프로그래머스](https://programmers.co.kr)
 -----------------------------------------
