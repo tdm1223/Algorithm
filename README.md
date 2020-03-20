@@ -10,58 +10,7 @@
 
 ### 2. [프로그래머스](https://programmers.co.kr)
 
-[HackerRank](https://www.hackerrank.com)
-----------------------------------------
-
--	사이트에서 제공하는 **문제 난이도** 별로 정리하였습니다.
-
----
-
-### Easy
-
-<details open> <summary> 접기 / 펼치기 </summary>
-
-| 번호 | 문제                                                                                   | 코드                                            | 번호 | 문제                                                                                                   | 코드                                               |
-|:----:|:--------------------------------------------------------------------------------------:|:-----------------------------------------------:|:----:|:------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-|  1   |        [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds)         |    [cpp](hackerrank.com/migratoryBirds.cpp)     |  2   |        [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)        |     [cpp](hackerrank.com/breakingRecords.cpp)      |
-|  3   |      [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar)       |   [cpp](hackerrank.com/birthdayChocolate.cpp)   |  4   |             [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)             |    [cpp](hackerrank.com/divisibleSumPairs.cpp)     |
-|  5   |            [bonAppetit](https://www.hackerrank.com/challenges/bon-appetit)             |      [cpp](hackerrank.com/bonAppetit.cpp)       |  6   |                    [twoStrings](https://www.hackerrank.com/challenges/two-strings)                     |        [cpp](hackerrank.com/twoStrings.cpp)        |
-|  7   | [alternatingCharacters](https://www.hackerrank.com/challenges/alternating-characters)  | [cpp](hackerrank.com/alternatingCharacters.cpp) |  8   |                   [markAndToys](https://www.hackerrank.com/challenges/mark-and-toys)                   |       [cpp](hackerrank.com/markAndToys.cpp)        |
-|  9   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)         |    [cpp](hackerrank.com/makingAnagrams.cpp)     |  10  |                  [ransomNote](https://www.hackerrank.com/challenges/ctci-ransom-note)                  |        [cpp](hackerrank.com/ransomNote.cpp)        |
-|  11  |     [leftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)     |     [cpp](hackerrank.com/leftRotation.cpp)      |  12  | [minAbsoluteDifference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  [cpp](hackerrank.com/minAbsoluteDifference.cpp)   |
-|  13  |          [sockMerchant](https://www.hackerrank.com/challenges/sock-merchant)           |     [cpp](hackerrank.com/sockMerchant.cpp)      |  14  |                   [luckBalance](https://www.hackerrank.com/challenges/luck-balance)                    |       [cpp](hackerrank.com/luckBalance.cpp)        |
-|  15  |           [utopianTree](https://www.hackerrank.com/challenges/utopian-tree)            |      [cpp](hackerrank.com/utopianTree.cpp)      |  16  |               [countingValleys](https://www.hackerrank.com/challenges/counting-valleys)                |     [cpp](hackerrank.com/countingValleys.cpp)      |
-|  17  |   [jumpingOnTheClouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)    |  [cpp](hackerrank.com/jumpingOnTheClouds.cpp)   |  18  |                [repeatedString](https://www.hackerrank.com/challenges/repeated-string)                 |      [cpp](hackerrank.com/repeatedString.cpp)      |
-|  19  |        [pickingNumbers](https://www.hackerrank.com/challenges/picking-numbers)         |    [cpp](hackerrank.com/pickingNumbers.cpp)     |  20  |     [beautifulDaysAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)     | [cpp](hackerrank.com/beautifulDaysAtTheMovies.cpp) |
-|  21  |     [viralAdvertising](https://www.hackerrank.com/challenges/strange-advertising)      |   [cpp](hackerrank.com/viralAdvertising.cpp)    |  22  |               [saveThePrisoner](https://www.hackerrank.com/challenges/save-the-prisoner)               |     [cpp](hackerrank.com/saveThePrisoner.cpp)      |
-|  23  | [circularArrayRotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [cpp](hackerrank.com/circularArrayRotation.cpp) |  24  |                    [findDigits](https://www.hackerrank.com/challenges/find-digits)                     |        [cpp](hackerrank.com/findDigits.cpp)        |
-|  25  |     [EqualizeTheArray](https://www.hackerrank.com/challenges/equality-in-a-array)      |   [cpp](hackerrank.com/EqualizeTheArray.cpp)    |  26  |                      [CamelCase](https://www.hackerrank.com/challenges/camelcase)                      |        [cpp](hackerrank.com/CamelCase.cpp)         |
-
-</details>
-
-### Medium
-
-<details open> <summary> 접기 / 펼치기 </summary>
-
-| 번호 | 문제                                                                                     | 코드                                             | 번호 | 문제                                                                                         | 코드                                                |
-|:----:|:----------------------------------------------------------------------------------------:|:------------------------------------------------:|:----:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
-|  1   |      [iceCreamParlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)       |     [cpp](hackerrank.com/iceCreamParlor.cpp)     |  2   |            [minimumSwaps2](https://www.hackerrank.com/challenges/minimum-swaps-2)            |       [cpp](hackerrank.com/minimumSwaps2.cpp)       |
-|  3   |           [newYearChaos](https://www.hackerrank.com/challenges/new-year-chaos)           |      [cpp](hackerrank.com/newYearChaos.cpp)      |  4   | [sherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [cpp](hackerrank.com/sherlockAndTheValidString.cpp) |
-|  5   |            [maxArraySum](https://www.hackerrank.com/challenges/max-array-sum)            |      [cpp](hackerrank.com/maxArraySum.cpp)       |  6   |                   [candies](https://www.hackerrank.com/challenges/candies)                   |          [cpp](hackerrank.com/candies.cpp)          |
-|  7   |              [maxMin](https://www.hackerrank.com/challenges/angry-children)              |         [cpp](hackerrank.com/maxMin.cpp)         |  8   |            [greedyFlorist](https://www.hackerrank.com/challenges/greedy-florist)             |       [cpp](hackerrank.com/greedyFlorist.cpp)       |
-|  9   | [climbingTheLeaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | [cpp](hackerrank.com/climbingTheLeaderboard.cpp) |      |                                                                                              |                                                     |
-
-</details>
-
-### Hard
-
-<details open> <summary> 접기 / 펼치기 </summary>
-
-| 번호 | 문제                                                             | 코드                                        | 번호 | 문제 | 코드 |
-|:----:|:----------------------------------------------------------------:|:-------------------------------------------:|:----:|:----:|:----:|
-|  1   | [arrayManipulation](https://www.hackerrank.com/challenges/crush) | [cpp](hackerrank.com/arrayManipulation.cpp) |      |      |      |
-
-</details>
+### 3. [HackerRank](https://www.hackerrank.com)
 
 [SW Expert Academy](https://swexpertacademy.com)
 ------------------------------------------------
