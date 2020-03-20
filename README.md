@@ -8,23 +8,13 @@
 
 ### 1. [백준 온라인 저지](https://github.com/tdm1223/Algorithm/tree/master/acmicpc.net)
 
-### 2. [프로그래머스](https://programmers.co.kr)
+### 2. [프로그래머스](https://github.com/tdm1223/Algorithm/tree/master/programmers)
 
-### 3. [HackerRank](https://www.hackerrank.com)
+### 3. [HackerRank](https://github.com/tdm1223/Algorithm/tree/master/hackerrank.com)
 
-### 4. [SW Expert Academy](https://swexpertacademy.com)
+### 4. [SW Expert Academy](https://github.com/tdm1223/Algorithm/tree/master/swexpertacademy.com)
 
-[Codility](https://app.codility.com/programmers)
-------------------------------------------------
-
-<details open> <summary> 접기 / 펼치기 </summary>
-
-| 번호 | 문제                                                                                    | 코드                               | 번호 | 문제                                                                                                    | 코드                                      |
-|:----:|:---------------------------------------------------------------------------------------:|:----------------------------------:|:----:|:-------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
-|  1   |    [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap)    |   [cpp](codility/BinaryGap.cpp)    |  2   | [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array) | [cpp](codility/OddOccurrencesInArray.cpp) |
-|  3   | [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation) | [cpp](codility/CyclicRotation.cpp) |      |                                                                                                         |                                           |
-
-</details>
+### 5. [Codility](https://github.com/tdm1223/Algorithm/tree/master/codility)
 
 [goorm](https://app.codility.com/programmers)
 ---------------------------------------------
