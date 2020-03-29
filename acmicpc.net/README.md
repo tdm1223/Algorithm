@@ -417,7 +417,7 @@
 |  33  |       [성 지키기](https://www.acmicpc.net/problem/1236)        |  [cpp](source/1236.cpp)  |  34  | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | [cpp](source/12738.cpp) |
 |  35  |           [새](https://www.acmicpc.net/problem/1568)           |  [cpp](source/1568.cpp)  |  36  |             [리그](https://www.acmicpc.net/problem/5544)              | [cpp](source/5544.cpp)  |
 |  37  | [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872) |  [cpp](source/2872.cpp)  |  38  |          [랜선 자르기](https://www.acmicpc.net/problem/1654)          | [cpp](source/1654.cpp)  |
-|  39  |       [베스트셀러](https://www.acmicpc.net/problem/1302)       |  [cpp](source/1302.cpp)  |      |                                                                       |                         |
+|  39  |       [베스트셀러](https://www.acmicpc.net/problem/1302)       |  [cpp](source/1302.cpp)  |  40  |          [트로피 진열](https://www.acmicpc.net/problem/1668)          | [cpp](source/1668.cpp)  |
 
 </details>
 
