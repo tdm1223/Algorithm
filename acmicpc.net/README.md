@@ -212,7 +212,7 @@
 |  99  |          [369](https://www.acmicpc.net/problem/17614)          | [cpp](source/17614.cpp) | 100  |     [소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)     | [cpp](source/14469.cpp) |
 | 101  |     [게리맨더링 2](https://www.acmicpc.net/problem/17779)      | [cpp](source/17779.cpp) | 102  |           [새로운 게임](https://www.acmicpc.net/problem/17780)           | [cpp](source/17780.cpp) |
 | 103  |      [수 이어가기](https://www.acmicpc.net/problem/2635)       | [cpp](source/2635.cpp)  | 104  |            [숫자 게임](https://www.acmicpc.net/problem/2303)             | [cpp](source/2303.cpp)  |
-| 105  |  [과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)  | [cpp](source/17952.cpp) |      |                                                                          |                         |
+| 105  |  [과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)  | [cpp](source/17952.cpp) | 106  |         [럭키 스트레이트](https://www.acmicpc.net/problem/18406)         | [cpp](source/18406.cpp) |
 
 </details>
 
@@ -417,6 +417,7 @@
 |  33  |       [성 지키기](https://www.acmicpc.net/problem/1236)        |  [cpp](source/1236.cpp)  |  34  | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | [cpp](source/12738.cpp) |
 |  35  |           [새](https://www.acmicpc.net/problem/1568)           |  [cpp](source/1568.cpp)  |  36  |             [리그](https://www.acmicpc.net/problem/5544)              | [cpp](source/5544.cpp)  |
 |  37  | [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872) |  [cpp](source/2872.cpp)  |  38  |          [랜선 자르기](https://www.acmicpc.net/problem/1654)          | [cpp](source/1654.cpp)  |
+|  39  |       [베스트셀러](https://www.acmicpc.net/problem/1302)       |  [cpp](source/1302.cpp)  |      |                                                                       |                         |
 
 </details>
 
