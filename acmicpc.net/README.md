@@ -507,7 +507,7 @@
 |  71  |     [주디와 당근농장](https://www.acmicpc.net/problem/16433)     | [cpp](source/16433.cpp) |  72  |        [로봇](https://www.acmicpc.net/problem/1726)        | [cpp](source/1726.cpp)  |
 |  73  |          [장군](https://www.acmicpc.net/problem/16509)           | [cpp](source/16509.cpp) |  74  |    [게리맨더링](https://www.acmicpc.net/problem/17471)     | [cpp](source/17471.cpp) |
 |  75  |      [다리 만들기 2](https://www.acmicpc.net/problem/17472)      | [cpp](source/17472.cpp) |  76  |   [음식물 피하기](https://www.acmicpc.net/problem/1743)    | [cpp](source/1743.cpp)  |
-|  77  |       [다리 만들기](https://www.acmicpc.net/problem/2146)        | [cpp](source/2146.cpp)  |  80  |       [Bitmap](https://www.acmicpc.net/problem/8061)       | [cpp](source/8061.cpp)  |
+|  77  |       [다리 만들기](https://www.acmicpc.net/problem/2146)        |                         |  80  |       [Bitmap](https://www.acmicpc.net/problem/8061)       | [cpp](source/8061.cpp)  |
 
 </details>
 
