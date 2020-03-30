@@ -1,5 +1,5 @@
 // 16922. 로마 숫자 만들기
-// 2020.03.21
+// 2020.03.30
 // 브루트 포스
 #include<iostream>
 
@@ -21,7 +21,6 @@ void go(int x, int cnt, int start)
         }
         return;
     }
-
     // 1, 5, 10, 50 순서대로 진행하고 1+10과 10+1은 같기 때문에 0이 아닌 start부터 시작한다.
     for (int i = start; i < 4; i++)
     {
