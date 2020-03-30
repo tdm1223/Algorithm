@@ -1,7 +1,6 @@
 // 16922. 로마 숫자 만들기
-// 2019.06.24
+// 2020.03.21
 // 브루트 포스
-// https://tdm1223.tistory.com/47
 #include<iostream>
 
 using namespace std;
@@ -13,26 +12,26 @@ int ans;
 // n개 고르기
 void go(int x, int cnt, int start)
 {
-	if (cnt == n)
-	{
-		if (!arr[x])
-		{
-			arr[x] = 1;
-			ans++;
-		}
-		return;
-	}
+    if (cnt == n)
+    {
+        if (!arr[x])
+        {
+            arr[x] = 1;
+            ans++;
+        }
+        return;
+    }
 
-	// 1,5,10,50순으로 진행하고 1+10이나 10+1이나 같기 때문에 0이 아닌 start부터 시작한다.
-	for (int i = start; i < 4; i++)
-	{
-		go(x + num[i], cnt + 1, i);
-	}
+    // 1, 5, 10, 50 순서대로 진행하고 1+10과 10+1은 같기 때문에 0이 아닌 start부터 시작한다.
+    for (int i = start; i < 4; i++)
+    {
+        go(x + num[i], cnt + 1, i);
+    }
 }
 int main()
 {
-	cin >> n;
-	go(0, 0, 0);
-	cout << ans << "\n";
-	return 0;
+    cin >> n;
+    go(0, 0, 0);
+    cout << ans << "\n";
+    return 0;
 }
