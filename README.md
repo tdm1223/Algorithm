@@ -1,8 +1,6 @@
 알고리즘 문제풀이
 =================
 
-![Bower](https://img.shields.io/bower/l/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/tdm1223/algorithm) ![author](https://img.shields.io/static/v1?label=author&message=tdm1223&color=yellow)
-
 -	[백준 온라인저지](https://www.acmicpc.net), [프로그래머스](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com), [swexpertacademy](http://swexpertacademy.com), [codility](https://app.codility.com/programmers), [goorm](https://level.goorm.io) 사이트의 알고리즘 문제 풀이입니다.
 -	주로 `C++`로 풀었고 `Java`로 푼 문제가 조금 있습니다.
 -	아래 사이트 이름을 클릭하면 해당 사이트의 문제풀이를 진행한 위치로 이동합니다.
