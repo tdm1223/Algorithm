@@ -77,6 +77,16 @@
 
 </details>
 
+### 카카오 개발자 겨울 인턴십
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                             | 코드                       | 번호 | 문제 | 코드 |
+|:----:|:--------------------------------------------------------------------------------:|:--------------------------:|:----:|:----:|:----:|
+|  1   | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [cpp](source/kakao-10.cpp) |      |      |      |
+
+</details>
+
 ### SQL
 
 <details open> <summary> 접기 / 펼치기 </summary>
