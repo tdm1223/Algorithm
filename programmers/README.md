@@ -2,6 +2,7 @@
 -----------------------------------------
 
 -	사이트에서 제공하는 **Level** 별로 정리하였습니다.
+-	특별한 문제들은 **문제 모음** 별로 정리하였습니다.
 
 ---
 
@@ -54,16 +55,25 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                                        | 코드                      | 번호 | 문제                                                                              | 코드                      |
-|:----:|:---------------------------------------------------------------------------:|:-------------------------:|:----:|:---------------------------------------------------------------------------------:|:-------------------------:|
-|  1   |    [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681)    | [cpp](source/kakao-1.cpp) |  2   |       [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)       |   [cpp](source/3-1.cpp)   |
-|  3   |    [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)     |   [cpp](source/3-2.cpp)   |  4   | [카카오 프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) |   [cpp](source/3-4.cpp)   |
-|  5   | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [cpp](source/4-1.cpp)   |  6   |       [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)       |   [cpp](source/3-5.cpp)   |
-|  7   |   [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)   | [cpp](source/kakao-2.cpp) |  8   |       [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)       | [cpp](source/kakao-3.cpp) |
-|  9   |   [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)    | [cpp](source/kakao-4.cpp) |  10  |        [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)         | [cpp](source/kakao-5.cpp) |
-|  11  |   [길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)   | [cpp](source/kakao-6.cpp) |  12  |         [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | [cpp](source/kakao-7.cpp) |
-|  13  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [cpp](source/kakao-8.cpp) |  14  |      [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [cpp](source/kakao-9.cpp) |
-|  15  |     [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)      |   [cpp](source/3-6.cpp)   |      |                                                                                   |                           |
+| 번호 | 문제                                                                        | 코드                  | 번호 | 문제                                                                              | 코드                  |
+|:----:|:---------------------------------------------------------------------------:|:---------------------:|:----:|:---------------------------------------------------------------------------------:|:---------------------:|
+|  1   |    [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)    | [cpp](source/3-1.cpp) |  2   |       [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)        | [cpp](source/3-2.cpp) |
+|  3   |     [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)      | [cpp](source/3-6.cpp) |  4   | [카카오 프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | [cpp](source/3-4.cpp) |
+|  5   | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [cpp](source/4-1.cpp) |  6   |       [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)       | [cpp](source/3-5.cpp) |
+
+</details>
+
+### KAKAO BLIND RECRUITMENT
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                    | 코드                      | 번호 | 문제                                                                        | 코드                      |
+|:----:|:-----------------------------------------------------------------------:|:-------------------------:|:----:|:---------------------------------------------------------------------------:|:-------------------------:|
+|  1   |  [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681)  | [cpp](source/kakao-1.cpp) |  2   |   [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)   | [cpp](source/kakao-2.cpp) |
+|  3   |  [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)  | [cpp](source/kakao-3.cpp) |  4   |   [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)    | [cpp](source/kakao-4.cpp) |
+|  5   |   [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)    | [cpp](source/kakao-5.cpp) |  6   |   [길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)   | [cpp](source/kakao-6.cpp) |
+|  7   |    [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)     | [cpp](source/kakao-7.cpp) |  8   | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [cpp](source/kakao-8.cpp) |
+|  9   | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [cpp](source/kakao-9.cpp) |      |                                                                             |                           |
 
 </details>
 
