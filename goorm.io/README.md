@@ -15,7 +15,7 @@
 |  7   |                         [최소값](https://level.goorm.io/exam/43125/%EC%B5%9C%EC%86%8C%EA%B0%92/quiz/1)                         | [cpp](source/43125.cpp) |  8   |      [앵무새 꼬꼬](https://level.goorm.io/exam/49053/%EC%95%B5%EB%AC%B4%EC%83%88-%EA%BC%AC%EA%BC%AC/quiz/1)       | [cpp](source/49053.cpp) |
 |  9   | [뱀이 지나간 자리](https://level.goorm.io/exam/51353/%EB%B1%80%EC%9D%B4-%EC%A7%80%EB%82%98%EA%B0%84-%EC%9E%90%EB%A6%AC/quiz/1) | [cpp](source/51353.cpp) |  10  |      [공백 없애기](https://level.goorm.io/exam/43259/%EA%B3%B5%EB%B0%B1-%EC%97%86%EC%95%A0%EA%B8%B0/quiz/1)       | [cpp](source/43259.cpp) |
 |  11  |                             [Hello Goorm !](https://level.goorm.io/exam/43267/hello-goorm/quiz/1)                              | [cpp](source/43267.cpp) |  12  | [삼각형의 넓이](https://level.goorm.io/exam/43251/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98-%EB%84%93%EC%9D%B4/quiz/1) | [cpp](source/43251.cpp) |
-|  13  |                              [Bubble Sort](https://level.goorm.io/exam/43243/bubble-sort/quiz/1)                               | [cpp](source/43243.cpp) |      |                                                                                                                   |                         |
+|  13  |                              [Bubble Sort](https://level.goorm.io/exam/43243/bubble-sort/quiz/1)                               | [cpp](source/43243.cpp) |  14  |                      [16진수](https://level.goorm.io/exam/43226/16%EC%A7%84%EC%88%98/quiz/1)                      | [cpp](source/43226.cpp) |
 
 </details>
 
