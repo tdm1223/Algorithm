@@ -1,16 +1,15 @@
 // 3985. 롤 케이크
-// 2019.05.21
+// 2020.06.15
 // 시뮬레이션
-// https://tdm1223.tistory.com/98
 #include<iostream>
 #include<vector>
 
 using namespace std;
 
-int cake[1001]; // 케이크
-int audience[1001]; // 방청객이 획득한 조각
+int cake[1001];
+int audience[1001];
 vector<pair<int, int>> v;
-int first; // 가장 많은 조각을 받을 것으로 기대하고 있던 방청객의 번호
+int first; // 가장 많은 조각을 받을 거승로 기대하고 있던 방청객의 번호
 int second; // 실제로 가장 많은 조각을 받은 방청객의 번호
 int tmp;
 int main()
@@ -22,11 +21,11 @@ int main()
         int a, b;
         cin >> a >> b;
         v.push_back({ a,b });
-        int cnt = b - a + 1;
-        if (cnt > tmp)
+        int c = b - a + 1;
+        if (c > tmp)
         {
             first = i;
-            tmp = cnt;
+            tmp = c;
         }
     }
 
@@ -45,6 +44,7 @@ int main()
         audience[cake[i]]++;
     }
 
+    int cnt = 0;
     for (int i = 1; i <= n; i++)
     {
         if (audience[i] > cnt)
