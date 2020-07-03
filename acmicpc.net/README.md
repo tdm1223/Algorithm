@@ -357,6 +357,7 @@
 | 115  |             [긴자리 계산](https://www.acmicpc.net/problem/2338)              |   [java](source/2338.java)    | 116  |    [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)    |  [cpp](source/11659.cpp)  |
 | 117  |              [점프 점프](https://www.acmicpc.net/problem/18512)              |    [cpp](source/18512.cpp)    | 118  |         [전봇대](https://www.acmicpc.net/problem/8986)          |  [cpp](source/8986.cpp)   |
 | 119  |             [배수와 약수](https://www.acmicpc.net/problem/5086)              |    [cpp](source/5086.cpp)     | 120  |          [검문](https://www.acmicpc.net/problem/2981)           |  [cpp](source/2981.cpp)   |
+| 121  |              [소수 단어](https://www.acmicpc.net/problem/2153)               |    [cpp](source/2153.cpp)     |      |                                                                 |                           |
 
 </details>
 
