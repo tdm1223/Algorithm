@@ -217,6 +217,7 @@
 | 107  |         [시각](https://www.acmicpc.net/problem/18312)          | [cpp](source/18312.cpp) | 108  |            [행렬 곱셈](https://www.acmicpc.net/problem/2740)             | [cpp](source/2740.cpp)  |
 | 109  |         [과자](https://www.acmicpc.net/problem/10156)          | [cpp](source/10156.cpp) | 110  |           [히스토그램](https://www.acmicpc.net/problem/13752)            | [cpp](source/13752.cpp) |
 | 111  |       [여우 사인](https://www.acmicpc.net/problem/14709)       | [cpp](source/14709.cpp) | 112  |            [N M 찍기](https://www.acmicpc.net/problem/18883)             | [cpp](source/18883.cpp) |
+| 113  |         [N-퍼즐](https://www.acmicpc.net/problem/3041)         | [cpp](source/3041.cpp)  |      |                                                                          |                         |
 
 </details>
 
