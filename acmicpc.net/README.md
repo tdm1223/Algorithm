@@ -368,7 +368,7 @@
 | 131  |              [사파리월드](https://www.acmicpc.net/problem/2420)              |    [cpp](source/2420.cpp)     | 132  |         [더하기](https://www.acmicpc.net/problem/9085)          |  [cpp](source/9085.cpp)   |
 | 133  |              [카드 게임](https://www.acmicpc.net/problem/5522)               |    [cpp](source/5522.cpp)     | 134  |      [주사위 게임](https://www.acmicpc.net/problem/10103)       |  [cpp](source/10103.cpp)  |
 | 135  |              [꼬마 정민](https://www.acmicpc.net/problem/11382)              |    [cpp](source/11382.cpp)    | 136  |       [주사위 게임](https://www.acmicpc.net/problem/2476)       |  [cpp](source/2476.cpp)   |
-| 137  |            [할로윈의 사탕](https://www.acmicpc.net/problem/10178)            |    [cpp](source/10178.cpp)    |      |                                                                 |                           |
+| 137  |            [할로윈의 사탕](https://www.acmicpc.net/problem/10178)            |    [cpp](source/10178.cpp)    | 138  |      [헬멧과 조끼](https://www.acmicpc.net/problem/15781)       |  [cpp](source/15781.cpp)  |
 
 </details>
 
