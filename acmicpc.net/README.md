@@ -365,7 +365,7 @@
 | 125  |              [헛간 청약](https://www.acmicpc.net/problem/19698)              |    [cpp](source/19698.cpp)    | 126  |        [Baseball](https://www.acmicpc.net/problem/10214)        |  [cpp](source/10214.cpp)  |
 | 127  |             [쿠키애호가](https://www.acmicpc.net/problem/11134)              |    [cpp](source/11134.cpp)    | 128  |      [짝수를 찾아라](https://www.acmicpc.net/problem/3058)      |  [cpp](source/3058.cpp)   |
 | 129  |             [이상한 기호](https://www.acmicpc.net/problem/15964)             |    [cpp](source/15964.cpp)    | 130  |          [크냐?](https://www.acmicpc.net/problem/4101)          |  [cpp](source/4101.cpp)   |
-| 131  |              [사파리월드](https://www.acmicpc.net/problem/2420)              |    [cpp](source/2420.cpp)     |      |                                                                 |                           |
+| 131  |              [사파리월드](https://www.acmicpc.net/problem/2420)              |    [cpp](source/2420.cpp)     | 132  |         [더하기](https://www.acmicpc.net/problem/9085)          |  [cpp](source/9085.cpp)   |
 
 </details>
 
