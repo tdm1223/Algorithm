@@ -266,6 +266,7 @@
 |  41  |        [트럭](https://www.acmicpc.net/problem/13335)         | [cpp](source/13335.cpp) |  42  |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [cpp](source/17406.cpp) |
 |  43  |    [지능형 기차 2](https://www.acmicpc.net/problem/2460)     | [cpp](source/2460.cpp)  |  44  |  [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)   | [cpp](source/17144.cpp) |
 |  45  |     [원판 돌리기](https://www.acmicpc.net/problem/17822)     | [cpp](source/17822.cpp) |  46  |    [청소년 상어](https://www.acmicpc.net/problem/19236)    | [cpp](source/19236.cpp) |
+|  47  |      [어른 상어](https://www.acmicpc.net/problem/19237)      | [cpp](source/19237.cpp) |      |                                                            |                         |
 
 </details>
 
