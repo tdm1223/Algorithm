@@ -241,32 +241,33 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                         | 코드                    | 번호 | 문제                                                             | 코드                    |
-|:----:|:------------------------------------------------------------:|:-----------------------:|:----:|:----------------------------------------------------------------:|:-----------------------:|
-|  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [cpp](source/1592.cpp)  |  2   |       [지능형 기차](https://www.acmicpc.net/problem/2455)        | [cpp](source/2455.cpp)  |
-|  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [cpp](source/1094.cpp)  |  4   |         [토너먼트](https://www.acmicpc.net/problem/1057)         | [cpp](source/1057.cpp)  |
-|  5   |          [공](https://www.acmicpc.net/problem/1547)          | [cpp](source/1547.cpp)  |  6   |    [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](source/1018.cpp)  |
-|  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [cpp](source/2161.cpp)  |  8   |        [방학 숙제](https://www.acmicpc.net/problem/5532)         | [cpp](source/5532.cpp)  |
-|  9   |        [카드2](https://www.acmicpc.net/problem/2164)         | [cpp](source/2164.cpp)  |  10  |        [트럭 주차](https://www.acmicpc.net/problem/2979)         | [cpp](source/2979.cpp)  |
-|  11  |       [달팽이2](https://www.acmicpc.net/problem/1952)        | [cpp](source/1952.cpp)  |  12  |           [경매](https://www.acmicpc.net/problem/2238)           | [cpp](source/2238.cpp)  |
-|  13  |    [가장 큰 금민수](https://www.acmicpc.net/problem/1526)    | [cpp](source/1526.cpp)  |  14  |           [운동](https://www.acmicpc.net/problem/1173)           | [cpp](source/1173.cpp)  |
-|  15  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517) | [cpp](source/9517.cpp)  |  16  |       [로봇 청소기](https://www.acmicpc.net/problem/14503)       | [cpp](source/14503.cpp) |
-|  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [cpp](source/1551.cpp)  |  18  |        [그림 비교](https://www.acmicpc.net/problem/2160)         | [cpp](source/2160.cpp)  |
-|  19  |     [나무 재테크](https://www.acmicpc.net/problem/16235)     | [cpp](source/16235.cpp) |  20  |            [뱀](https://www.acmicpc.net/problem/3190)            | [cpp](source/3190.cpp)  |
-|  21  |       [봄버맨](https://www.acmicpc.net/problem/16918)        | [cpp](source/16918.cpp) |  22  |            [킹](https://www.acmicpc.net/problem/1063)            | [cpp](source/1063.cpp)  |
-|  23  |      [톱니바퀴](https://www.acmicpc.net/problem/14891)       | [cpp](source/14891.cpp) |  24  |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)       | [cpp](source/17135.cpp) |
-|  25  |   [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)    | [cpp](source/2174.cpp)  |  26  |      [주사위 굴리기](https://www.acmicpc.net/problem/14499)      | [cpp](source/14499.cpp) |
-|  27  |      [인구 이동](https://www.acmicpc.net/problem/16234)      | [cpp](source/16234.cpp) |  28  |       [회전하는 큐](https://www.acmicpc.net/problem/1021)        | [cpp](source/1021.cpp)  |
-|  29  |    [도로와 신호등](https://www.acmicpc.net/problem/2980)     | [cpp](source/2980.cpp)  |  30  |       [주사위 게임](https://www.acmicpc.net/problem/5566)        | [cpp](source/5566.cpp)  |
-|  31  |      [롤 케이크](https://www.acmicpc.net/problem/3985)       | [cpp](source/3985.cpp)  |  32  |       [나이트 투어](https://www.acmicpc.net/problem/1331)        | [cpp](source/1331.cpp)  |
-|  33  |  [Annoying Mosquitos](https://www.acmicpc.net/problem/5371)  | [cpp](source/5371.cpp)  |  34  |       [드래곤 커브](https://www.acmicpc.net/problem/15685)       | [cpp](source/15685.cpp) |
-|  35  |     [미로 만들기](https://www.acmicpc.net/problem/1347)      | [cpp](source/1347.cpp)  |  36  |     [영식이의 손가락](https://www.acmicpc.net/problem/1614)      | [cpp](source/1614.cpp)  |
-|  37  |         [체스](https://www.acmicpc.net/problem/1986)         | [cpp](source/1986.cpp)  |  38  |        [보이저 1호](https://www.acmicpc.net/problem/3987)        | [cpp](source/3987.cpp)  |
-|  39  | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  | [cpp](source/17140.cpp) |  40  |         [낚시왕](https://www.acmicpc.net/problem/17143)          | [cpp](source/17143.cpp) |
-|  41  |        [트럭](https://www.acmicpc.net/problem/13335)         | [cpp](source/13335.cpp) |  42  |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)      | [cpp](source/17406.cpp) |
-|  43  |    [지능형 기차 2](https://www.acmicpc.net/problem/2460)     | [cpp](source/2460.cpp)  |  44  |     [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)      | [cpp](source/17144.cpp) |
-|  45  |     [원판 돌리기](https://www.acmicpc.net/problem/17822)     | [cpp](source/17822.cpp) |  46  |       [청소년 상어](https://www.acmicpc.net/problem/19236)       | [cpp](source/19236.cpp) |
-|  47  |      [어른 상어](https://www.acmicpc.net/problem/19237)      | [cpp](source/19237.cpp) |  48  | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [cpp](source/20055.cpp) |
+| 번호 | 문제                                                            | 코드                    | 번호 | 문제                                                             | 코드                    |
+|:----:|:---------------------------------------------------------------:|:-----------------------:|:----:|:----------------------------------------------------------------:|:-----------------------:|
+|  1   |     [영식이와 친구들](https://www.acmicpc.net/problem/1592)     | [cpp](source/1592.cpp)  |  2   |       [지능형 기차](https://www.acmicpc.net/problem/2455)        | [cpp](source/2455.cpp)  |
+|  3   |         [막대기](https://www.acmicpc.net/problem/1094)          | [cpp](source/1094.cpp)  |  4   |         [토너먼트](https://www.acmicpc.net/problem/1057)         | [cpp](source/1057.cpp)  |
+|  5   |           [공](https://www.acmicpc.net/problem/1547)            | [cpp](source/1547.cpp)  |  6   |    [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    | [cpp](source/1018.cpp)  |
+|  7   |          [카드1](https://www.acmicpc.net/problem/2161)          | [cpp](source/2161.cpp)  |  8   |        [방학 숙제](https://www.acmicpc.net/problem/5532)         | [cpp](source/5532.cpp)  |
+|  9   |          [카드2](https://www.acmicpc.net/problem/2164)          | [cpp](source/2164.cpp)  |  10  |        [트럭 주차](https://www.acmicpc.net/problem/2979)         | [cpp](source/2979.cpp)  |
+|  11  |         [달팽이2](https://www.acmicpc.net/problem/1952)         | [cpp](source/1952.cpp)  |  12  |           [경매](https://www.acmicpc.net/problem/2238)           | [cpp](source/2238.cpp)  |
+|  13  |     [가장 큰 금민수](https://www.acmicpc.net/problem/1526)      | [cpp](source/1526.cpp)  |  14  |           [운동](https://www.acmicpc.net/problem/1173)           | [cpp](source/1173.cpp)  |
+|  15  |  [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517)   | [cpp](source/9517.cpp)  |  16  |       [로봇 청소기](https://www.acmicpc.net/problem/14503)       | [cpp](source/14503.cpp) |
+|  17  |       [수열의 변화](https://www.acmicpc.net/problem/1551)       | [cpp](source/1551.cpp)  |  18  |        [그림 비교](https://www.acmicpc.net/problem/2160)         | [cpp](source/2160.cpp)  |
+|  19  |      [나무 재테크](https://www.acmicpc.net/problem/16235)       | [cpp](source/16235.cpp) |  20  |            [뱀](https://www.acmicpc.net/problem/3190)            | [cpp](source/3190.cpp)  |
+|  21  |         [봄버맨](https://www.acmicpc.net/problem/16918)         | [cpp](source/16918.cpp) |  22  |            [킹](https://www.acmicpc.net/problem/1063)            | [cpp](source/1063.cpp)  |
+|  23  |        [톱니바퀴](https://www.acmicpc.net/problem/14891)        | [cpp](source/14891.cpp) |  24  |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)       | [cpp](source/17135.cpp) |
+|  25  |     [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)     | [cpp](source/2174.cpp)  |  26  |      [주사위 굴리기](https://www.acmicpc.net/problem/14499)      | [cpp](source/14499.cpp) |
+|  27  |       [인구 이동](https://www.acmicpc.net/problem/16234)        | [cpp](source/16234.cpp) |  28  |       [회전하는 큐](https://www.acmicpc.net/problem/1021)        | [cpp](source/1021.cpp)  |
+|  29  |      [도로와 신호등](https://www.acmicpc.net/problem/2980)      | [cpp](source/2980.cpp)  |  30  |       [주사위 게임](https://www.acmicpc.net/problem/5566)        | [cpp](source/5566.cpp)  |
+|  31  |        [롤 케이크](https://www.acmicpc.net/problem/3985)        | [cpp](source/3985.cpp)  |  32  |       [나이트 투어](https://www.acmicpc.net/problem/1331)        | [cpp](source/1331.cpp)  |
+|  33  |   [Annoying Mosquitos](https://www.acmicpc.net/problem/5371)    | [cpp](source/5371.cpp)  |  34  |       [드래곤 커브](https://www.acmicpc.net/problem/15685)       | [cpp](source/15685.cpp) |
+|  35  |       [미로 만들기](https://www.acmicpc.net/problem/1347)       | [cpp](source/1347.cpp)  |  36  |     [영식이의 손가락](https://www.acmicpc.net/problem/1614)      | [cpp](source/1614.cpp)  |
+|  37  |          [체스](https://www.acmicpc.net/problem/1986)           | [cpp](source/1986.cpp)  |  38  |        [보이저 1호](https://www.acmicpc.net/problem/3987)        | [cpp](source/3987.cpp)  |
+|  39  |   [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)   | [cpp](source/17140.cpp) |  40  |         [낚시왕](https://www.acmicpc.net/problem/17143)          | [cpp](source/17143.cpp) |
+|  41  |          [트럭](https://www.acmicpc.net/problem/13335)          | [cpp](source/13335.cpp) |  42  |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)      | [cpp](source/17406.cpp) |
+|  43  |      [지능형 기차 2](https://www.acmicpc.net/problem/2460)      | [cpp](source/2460.cpp)  |  44  |     [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)      | [cpp](source/17144.cpp) |
+|  45  |      [원판 돌리기](https://www.acmicpc.net/problem/17822)       | [cpp](source/17822.cpp) |  46  |       [청소년 상어](https://www.acmicpc.net/problem/19236)       | [cpp](source/19236.cpp) |
+|  47  |       [어른 상어](https://www.acmicpc.net/problem/19237)        | [cpp](source/19237.cpp) |  48  | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [cpp](source/20055.cpp) |
+|  49  | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [cpp](source/20056.cpp) |      |                                                                  |                         |
 
 </details>
 
