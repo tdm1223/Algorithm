@@ -411,7 +411,7 @@
 |  49  |        [모음의 개수](https://www.acmicpc.net/problem/1264)         | [java](source/1264.java)  |  50  |     [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)      | [java](source/2744.java)  |
 |  51  | [The Seven Percent Solution](https://www.acmicpc.net/problem/4606) | [java](source/4606.java)  |  52  |      [문자가 몇갤까](https://www.acmicpc.net/problem/7600)       | [java](source/7600.java)  |
 |  53  |        [문자열 분석](https://www.acmicpc.net/problem/10820)        | [java](source/10820.java) |  54  |   [Hissing Microphone](https://www.acmicpc.net/problem/15272)    |  [cpp](source/15272.cpp)  |
-|  55  |       [오타맨 고창영](https://www.acmicpc.net/problem/2711)        |  [cpp](source/2711.cpp)   |      |                                                                  |                           |
+|  55  |       [오타맨 고창영](https://www.acmicpc.net/problem/2711)        |  [cpp](source/2711.cpp)   |  56  |       [이상한 곱셈](https://www.acmicpc.net/problem/1255)        |  [cpp](source/1255.cpp)   |
 
 </details>
 
