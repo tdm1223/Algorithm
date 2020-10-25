@@ -221,7 +221,7 @@
 | 115  |         [콜센터](https://www.acmicpc.net/problem/5339)         | [cpp](source/5339.cpp)  | 116  |        [NFC West vs North](https://www.acmicpc.net/problem/10170)        | [cpp](source/10170.cpp) |
 | 117  |      [Hello Judge](https://www.acmicpc.net/problem/9316)       | [cpp](source/9316.cpp)  | 118  |             [집 주소](https://www.acmicpc.net/problem/1284)              | [cpp](source/1284.cpp)  |
 | 119  |     [나는 누구인가](https://www.acmicpc.net/problem/15733)     | [cpp](source/15733.cpp) | 120  |               [FA](https://www.acmicpc.net/problem/14935)                | [cpp](source/14935.cpp) |
-| 121  |        [공 넣기](https://www.acmicpc.net/problem/10810)        | [cpp](source/10810.cpp) |      |                                                                          |                         |
+| 121  |        [공 넣기](https://www.acmicpc.net/problem/10810)        | [cpp](source/10810.cpp) | 122  |             [DNA 해독](https://www.acmicpc.net/problem/1672)             | [cpp](source/1672.cpp)  |
 
 </details>
 
