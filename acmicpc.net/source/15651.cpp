@@ -1,7 +1,6 @@
 // 15651. N과 M (3)
-// 2019.05.22
+// 2020.11.03
 // N과 M
-// https://tdm1223.tistory.com/108
 #include<iostream>
 
 using namespace std;
@@ -10,26 +9,26 @@ int arr[7];
 int n, m;
 void go(int cnt)
 {
-	if (cnt == m)
-	{
-		for (int i = 0; i < cnt; i++)
-		{
-			printf("%d ", arr[i] + 1);
-		}
-		printf("\n");
-		return;
-	}
+    if (cnt == m)
+    {
+        for (int i = 0; i < cnt; i++)
+        {
+            printf("%d ", arr[i] + 1);
+        }
+        printf("\n");
+        return;
+    }
 
-	for (int i = 0; i < n; i++)
-	{
-		arr[cnt] = i;
-		go(cnt + 1);
-	}
+    for (int i = 0; i < n; i++)
+    {
+        arr[cnt] = i;
+        go(cnt + 1);
+    }
 }
 int main()
 {
-	scanf("%d %d", &n, &m);
-	go(0);
+    scanf("%d %d", &n, &m);
+    go(0);
 
-	return 0;
+    return 0;
 }
