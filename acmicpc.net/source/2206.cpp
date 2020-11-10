@@ -1,7 +1,6 @@
 // 2206. 벽 부수고 이동하기
-// 2019.05.20
+// 2020.11.11
 // BFS
-// https://tdm1223.tistory.com/95
 #include<iostream>
 #include<queue>
 
@@ -14,80 +13,80 @@ int dy[4] = { 1,-1,0,0 };
 
 struct info
 {
-	int x;
-	int y;
-	int count;
+    int x;
+    int y;
+    int count;
 };
 
 int main()
 {
-	int n, m;
-	scanf("%d %d", &n, &m);
-	for (int i = 0; i < n; i++)
-	{
-		for (int j = 0; j < m; j++)
-		{
-			scanf("%1d", &map[i][j]);
-		}
-	}
+    int n, m;
+    scanf("%d %d", &n, &m);
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < m; j++)
+        {
+            scanf("%1d", &map[i][j]);
+        }
+    }
 
-	queue<info> q;
-	dist[0][0][0] = 1;
-	q.push({ 0, 0, 0 });
-	while (!q.empty())
-	{
-		int x = q.front().x;
-		int y = q.front().y;
-		int count = q.front().count;
-		q.pop();
+    queue<info> q;
+    dist[0][0][0] = 1;
+    q.push({ 0, 0, 0 });
+    while (!q.empty())
+    {
+        int x = q.front().x;
+        int y = q.front().y;
+        int count = q.front().count;
+        q.pop();
 
-		for (int i = 0; i < 4; i++)
-		{
-			int xx = x + dx[i];
-			int yy = y + dy[i];
+        for (int i = 0; i < 4; i++)
+        {
+            int xx = x + dx[i];
+            int yy = y + dy[i];
 
-			if (xx < 0 || xx >= n || yy < 0 || yy >= m)
-			{
-				continue;
-			}
+            if (xx < 0 || xx >= n || yy < 0 || yy >= m)
+            {
+                continue;
+            }
 
-			// 벽을 부수지 않고 이동
-			if (map[xx][yy] == 0 && dist[xx][yy][count] == 0)
-			{
-				dist[xx][yy][count] = dist[x][y][count] + 1;
-				q.push({ xx, yy, count });
-			}
+            // 벽을 부수지 않고 이동
+            if (map[xx][yy] == 0 && dist[xx][yy][count] == 0)
+            {
+                dist[xx][yy][count] = dist[x][y][count] + 1;
+                q.push({ xx, yy, count });
+            }
 
-			// 벽을 부수고 이동
-			if (count == 0 && map[xx][yy] == 1 && dist[xx][yy][count + 1] == 0)
-			{
-				dist[xx][yy][count + 1] = dist[x][y][count] + 1;
-				q.push({ xx, yy, count + 1 });
-			}
-		}
-	}
+            // 벽을 부수고 이동
+            if (count == 0 && map[xx][yy] == 1 && dist[xx][yy][count + 1] == 0)
+            {
+                dist[xx][yy][count + 1] = dist[x][y][count] + 1;
+                q.push({ xx, yy, count + 1 });
+            }
+        }
+    }
 
-	// 결과 출력
-	// 0개 부수거나 1개 부수고 이동하기 가능
-	if (dist[n - 1][m - 1][0] != 0 && dist[n - 1][m - 1][1] != 0)
-	{
-		cout << min(dist[n - 1][m - 1][0], dist[n - 1][m - 1][1]);
-	}
-	// 0개 부수고 이동하기 가능
-	else if (dist[n - 1][m - 1][0] != 0)
-	{
-		cout << dist[n - 1][m - 1][0];
-	}
-	// 1개 부수고 이동하기 가능
-	else if (dist[n - 1][m - 1][1] != 0)
-	{
-		cout << dist[n - 1][m - 1][1];
-	}
-	// 불가능
-	else
-	{
-		cout << -1;
-	}
-	cout << endl;
-	return 0;
+    // 결과 출력
+    // 0개 부수거나 1개 부수고 이동하기 가능
+    if (dist[n - 1][m - 1][0] != 0 && dist[n - 1][m - 1][1] != 0)
+    {
+        cout << min(dist[n - 1][m - 1][0], dist[n - 1][m - 1][1]);
+    }
+    // 0개 부수고 이동하기 가능
+    else if (dist[n - 1][m - 1][0] != 0)
+    {
+        cout << dist[n - 1][m - 1][0];
+    }
+    // 1개 부수고 이동하기 가능
+    else if (dist[n - 1][m - 1][1] != 0)
+    {
+        cout << dist[n - 1][m - 1][1];
+    }
+    // 불가능
+    else
+    {
+        cout << -1;
+    }
+    cout << endl;
+    return 0;
 }
