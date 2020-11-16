@@ -224,6 +224,7 @@
 | 121  |        [공 넣기](https://www.acmicpc.net/problem/10810)        | [cpp](source/10810.cpp) | 122  |             [DNA 해독](https://www.acmicpc.net/problem/1672)             | [cpp](source/1672.cpp)  |
 | 123  |         [싸이클](https://www.acmicpc.net/problem/2526)         | [cpp](source/2526.cpp)  | 124  |           [파일 옮기기](https://www.acmicpc.net/problem/11943)           | [cpp](source/11943.cpp) |
 | 125  |       [질투진서](https://www.acmicpc.net/problem/15784)        | [cpp](source/15784.cpp) | 126  |              [CASIO](https://www.acmicpc.net/problem/15963)              | [cpp](source/15963.cpp) |
+| 127  |       [노래 악보](https://www.acmicpc.net/problem/1329)        | [cpp](source/1329.cpp)  |      |                                                                          |                         |
 
 </details>
 
