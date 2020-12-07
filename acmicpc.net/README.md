@@ -225,7 +225,7 @@
 | 123  |         [싸이클](https://www.acmicpc.net/problem/2526)         | [cpp](source/2526.cpp)  | 124  |           [파일 옮기기](https://www.acmicpc.net/problem/11943)           | [cpp](source/11943.cpp) |
 | 125  |       [질투진서](https://www.acmicpc.net/problem/15784)        | [cpp](source/15784.cpp) | 126  |              [CASIO](https://www.acmicpc.net/problem/15963)              | [cpp](source/15963.cpp) |
 | 127  |       [노래 악보](https://www.acmicpc.net/problem/1329)        | [cpp](source/1329.cpp)  | 128  |           [주사위 네개](https://www.acmicpc.net/problem/2484)            | [cpp](source/2484.cpp)  |
-| 129  |         [친구](https://www.acmicpc.net/problem/10864)          | [cpp](source/10864.cpp) |      |                                                                          |                         |
+| 129  |         [친구](https://www.acmicpc.net/problem/10864)          | [cpp](source/10864.cpp) | 130  |      [아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947)      | [cpp](source/15947.cpp) |
 
 </details>
 
