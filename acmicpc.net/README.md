@@ -592,5 +592,6 @@
 |  37  |   [N번째 큰 수](https://www.acmicpc.net/problem/2075)    | [cpp](source/2075.cpp)  |  38  |     [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)     | [cpp](source/10867.cpp) |
 |  39  |     [오큰수](https://www.acmicpc.net/problem/17298)      | [cpp](source/17298.cpp) |  40  |           [주유소](https://www.acmicpc.net/problem/13305)           | [cpp](source/13305.cpp) |
 |  41  |     [Hashing](https://www.acmicpc.net/problem/15829)     | [cpp](source/15829.cpp) |  42  |         [수들의 합 4](https://www.acmicpc.net/problem/2015)         | [cpp](source/2015.cpp)  |
+|  43  |   [창고 다각형](https://www.acmicpc.net/problem/2304)    | [cpp](source/2304.cpp)  |      |                                                                     |                         |
 
 </details>
