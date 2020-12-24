@@ -55,6 +55,7 @@
 |  81  |                 [사과](https://www.acmicpc.net/problem/10833)                  |  [cpp](source/10833.cpp)  |  82  |     [펭귄추락대책위원회](https://www.acmicpc.net/problem/18228)      |  [cpp](source/18228.cpp)  |
 |  83  | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) |  [cpp](source/18108.cpp)  |  84  |      [폰 노이만과 파리](https://www.acmicpc.net/problem/14924)       |  [cpp](source/14924.cpp)  |
 |  85  |             [사분면 고르기](https://www.acmicpc.net/problem/14681)             |  [cpp](source/14681.cpp)  |  86  |            [Rats](https://www.acmicpc.net/problem/18301)             |  [cpp](source/18301.cpp)  |
+|  87  |               [과목선택](https://www.acmicpc.net/problem/11948)                |  [cpp](source/11948.cpp)  |      |                                                                      |                           |
 
 </details>
 
