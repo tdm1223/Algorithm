@@ -56,7 +56,7 @@
 |  83  | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) |  [cpp](source/18108.cpp)  |  84  |      [폰 노이만과 파리](https://www.acmicpc.net/problem/14924)       |  [cpp](source/14924.cpp)  |
 |  85  |             [사분면 고르기](https://www.acmicpc.net/problem/14681)             |  [cpp](source/14681.cpp)  |  86  |            [Rats](https://www.acmicpc.net/problem/18301)             |  [cpp](source/18301.cpp)  |
 |  87  |               [과목선택](https://www.acmicpc.net/problem/11948)                |  [cpp](source/11948.cpp)  |  88  |       [Identifying tea](https://www.acmicpc.net/problem/11549)       |  [cpp](source/11549.cpp)  |
-|  89  |          [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656)          |  [cpp](source/14656.cpp)  |      |                                                                      |                           |
+|  89  |          [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656)          |  [cpp](source/14656.cpp)  |  90  |          [Hawk eyes](https://www.acmicpc.net/problem/13698)          |  [cpp](source/13698.cpp)  |
 
 </details>
 
