@@ -387,6 +387,7 @@
 | 137  |            [할로윈의 사탕](https://www.acmicpc.net/problem/10178)            |    [cpp](source/10178.cpp)    | 138  |      [헬멧과 조끼](https://www.acmicpc.net/problem/15781)       |  [cpp](source/15781.cpp)  |
 | 139  |              [더하기 3](https://www.acmicpc.net/problem/11023)               |    [cpp](source/11023.cpp)    | 140  |       [팀 나누기](https://www.acmicpc.net/problem/13866)        |  [cpp](source/13866.cpp)  |
 | 141  |          [나는 행복합니다~](https://www.acmicpc.net/problem/14652)           |    [cpp](source/14652.cpp)    | 142  |          [쿠폰](https://www.acmicpc.net/problem/10179)          |  [cpp](source/10179.cpp)  |
+| 143  |                [다음수](https://www.acmicpc.net/problem/4880)                |    [cpp](source/4880.cpp)     |      |                                                                 |                           |
 
 </details>
 
