@@ -58,6 +58,7 @@
 |  87  |               [과목선택](https://www.acmicpc.net/problem/11948)                |  [cpp](source/11948.cpp)  |  88  |       [Identifying tea](https://www.acmicpc.net/problem/11549)       |  [cpp](source/11549.cpp)  |
 |  89  |          [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656)          |  [cpp](source/14656.cpp)  |  90  |          [Hawk eyes](https://www.acmicpc.net/problem/13698)          |  [cpp](source/13698.cpp)  |
 |  91  |               [맥주 99병](https://www.acmicpc.net/problem/17293)               |  [cpp](source/17293.cpp)  |  92  |          [특별한 날](https://www.acmicpc.net/problem/10768)          |  [cpp](source/10768.cpp)  |
+|  93  |             [Winning Score](https://www.acmicpc.net/problem/17009)             |  [cpp](source/17009.cpp)  |      |                                                                      |                           |
 
 </details>
 
