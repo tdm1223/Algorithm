@@ -234,7 +234,7 @@
 | 133  |       [3n+1 수열](https://www.acmicpc.net/problem/14920)       | [cpp](source/14920.cpp) | 134  |            [점수 집계](https://www.acmicpc.net/problem/9076)             | [cpp](source/9076.cpp)  |
 | 135  |      [전자레인지](https://www.acmicpc.net/problem/14470)       | [cpp](source/14470.cpp) | 136  |              [지속](https://www.acmicpc.net/problem/11648)               | [cpp](source/11648.cpp) |
 | 137  |     [Judging Moose](https://www.acmicpc.net/problem/15025)     | [cpp](source/15025.cpp) | 138  |              [패리티](https://www.acmicpc.net/problem/4597)              | [cpp](source/4597.cpp)  |
-| 139  |        [애너그램](https://www.acmicpc.net/problem/6996)        | [cpp](source/6996.cpp)  |      |                                                                          |                         |
+| 139  |        [애너그램](https://www.acmicpc.net/problem/6996)        | [cpp](source/6996.cpp)  | 140  |         [태보태보 총난타](https://www.acmicpc.net/problem/17249)         | [cpp](source/17249.cpp) |
 
 </details>
 
