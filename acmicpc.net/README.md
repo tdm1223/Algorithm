@@ -395,7 +395,7 @@
 | 139  |              [더하기 3](https://www.acmicpc.net/problem/11023)               |    [cpp](source/11023.cpp)    | 140  |       [팀 나누기](https://www.acmicpc.net/problem/13866)        |  [cpp](source/13866.cpp)  |
 | 141  |          [나는 행복합니다~](https://www.acmicpc.net/problem/14652)           |    [cpp](source/14652.cpp)    | 142  |          [쿠폰](https://www.acmicpc.net/problem/10179)          |  [cpp](source/10179.cpp)  |
 | 143  |                [다음수](https://www.acmicpc.net/problem/4880)                |    [cpp](source/4880.cpp)     | 144  |     [베시와 데이지](https://www.acmicpc.net/problem/16431)      |  [cpp](source/16431.cpp)  |
-| 145  |            [삼각형과 세 변](https://www.acmicpc.net/problem/5073)            |    [cpp](source/5073.cpp)     |      |                                                                 |                           |
+| 145  |            [삼각형과 세 변](https://www.acmicpc.net/problem/5073)            |    [cpp](source/5073.cpp)     | 146  |     [신용카드 판별](https://www.acmicpc.net/problem/14726)      |  [cpp](source/14726.cpp)  |
 
 </details>
 
