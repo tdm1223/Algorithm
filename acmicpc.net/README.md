@@ -239,6 +239,7 @@
 | 143  |         [문자열](https://www.acmicpc.net/problem/9086)         | [cpp](source/9086.cpp)  | 144  |           [중간계 전쟁](https://www.acmicpc.net/problem/4435)            | [cpp](source/4435.cpp)  |
 | 145  |     [중복을 없애자](https://www.acmicpc.net/problem/4592)      | [cpp](source/4592.cpp)  | 146  |              [스캐너](https://www.acmicpc.net/problem/3035)              | [cpp](source/3035.cpp)  |
 | 147  |        [창영마을](https://www.acmicpc.net/problem/3028)        | [cpp](source/3028.cpp)  | 148  |     [팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581)      | [cpp](source/14581.cpp) |
+| 149  |         [2009년](https://www.acmicpc.net/problem/2948)         | [cpp](source/2948.cpp)  |      |                                                                          |                         |
 
 </details>
 
