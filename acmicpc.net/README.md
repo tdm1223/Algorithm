@@ -509,7 +509,7 @@
 |  63  |          [BOJ 거리](https://www.acmicpc.net/problem/12026)           | [cpp](source/12026.cpp) |  64  |            [괄호](https://www.acmicpc.net/problem/10422)            | [cpp](source/10422.cpp) |
 |  65  |         [자와 각도기](https://www.acmicpc.net/problem/2916)          | [cpp](source/2916.cpp)  |  66  |      [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)      | [cpp](source/15988.cpp) |
 |  67  |        [Four Squares](https://www.acmicpc.net/problem/17626)         | [cpp](source/17626.cpp) |  68  |      [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)      | [cpp](source/11660.cpp) |
-|  69  |      [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)       | [cpp](source/15989.cpp) |      |                                                                     |                         |
+|  69  |      [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)       | [cpp](source/15989.cpp) |  70  |           [개근상](https://www.acmicpc.net/problem/1563)            | [cpp](source/1563.cpp)  |
 
 </details>
 
