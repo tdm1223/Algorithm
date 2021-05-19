@@ -238,7 +238,7 @@
 | 141  |         [문자열](https://www.acmicpc.net/problem/9086)         | [cpp](source/9086.cpp)  | 142  |           [중간계 전쟁](https://www.acmicpc.net/problem/4435)            | [cpp](source/4435.cpp)  |
 | 143  |     [중복을 없애자](https://www.acmicpc.net/problem/4592)      | [cpp](source/4592.cpp)  | 144  |              [스캐너](https://www.acmicpc.net/problem/3035)              | [cpp](source/3035.cpp)  |
 | 145  |        [창영마을](https://www.acmicpc.net/problem/3028)        | [cpp](source/3028.cpp)  | 146  |     [팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581)      | [cpp](source/14581.cpp) |
-| 147  |   [나는 학급회장이다](https://www.acmicpc.net/problem/2456)    | [cpp](source/2456.cpp)  |      |                                                                          |                         |
+| 147  |   [나는 학급회장이다](https://www.acmicpc.net/problem/2456)    | [cpp](source/2456.cpp)  | 148  |             [쌍의 합](https://www.acmicpc.net/problem/5217)              | [cpp](source/5217.cpp)  |
 
 </details>
 
