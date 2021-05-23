@@ -561,6 +561,7 @@
 |  73  |          [장군](https://www.acmicpc.net/problem/16509)           | [cpp](source/16509.cpp) |  74  |    [게리맨더링](https://www.acmicpc.net/problem/17471)     | [cpp](source/17471.cpp) |
 |  75  |      [다리 만들기 2](https://www.acmicpc.net/problem/17472)      | [cpp](source/17472.cpp) |  76  |   [음식물 피하기](https://www.acmicpc.net/problem/1743)    | [cpp](source/1743.cpp)  |
 |  77  |       [스타트 택시](https://www.acmicpc.net/problem/19238)       | [cpp](source/19238.cpp) |  78  |       [Bitmap](https://www.acmicpc.net/problem/8061)       | [cpp](source/8061.cpp)  |
+|  79  |       [트리의 지름](https://www.acmicpc.net/problem/1167)        | [cpp](source/1167.cpp)  |      |                                                            |                         |
 
 </details>
 
