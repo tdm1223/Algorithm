@@ -593,7 +593,7 @@
 
 | 번호 | 문제                                                     | 코드                    | 번호 | 문제                                                                | 코드                    |
 |:----:|:--------------------------------------------------------:|:-----------------------:|:----:|:-------------------------------------------------------------------:|:-----------------------:|
-|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [cpp](source/10828.cpp) |  2   |             [큐](https://www.acmicpc.net/problem/1946)              | [cpp](source/10845.cpp) |
+|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [cpp](source/10828.cpp) |  2   |         [절댓값 힙](https://www.acmicpc.net/problem/11286)          | [cpp](source/11286.cpp) |
 |  3   |     [최소 힙](https://www.acmicpc.net/problem/1927)      | [cpp](source/1927.cpp)  |  4   |          [최대 힙](https://www.acmicpc.net/problem/11279)           | [cpp](source/11279.cpp) |
 |  5   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [cpp](source/10799.cpp) |  6   |            [괄호](https://www.acmicpc.net/problem/9012)             | [cpp](source/9012.cpp)  |
 |  7   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [cpp](source/1158.cpp)  |  8   |      [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866)       | [cpp](source/11866.cpp) |
@@ -614,7 +614,8 @@
 |  37  |   [N번째 큰 수](https://www.acmicpc.net/problem/2075)    | [cpp](source/2075.cpp)  |  38  |     [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)     | [cpp](source/10867.cpp) |
 |  39  |     [오큰수](https://www.acmicpc.net/problem/17298)      | [cpp](source/17298.cpp) |  40  |           [주유소](https://www.acmicpc.net/problem/13305)           | [cpp](source/13305.cpp) |
 |  41  |     [Hashing](https://www.acmicpc.net/problem/15829)     | [cpp](source/15829.cpp) |  42  |         [수들의 합 4](https://www.acmicpc.net/problem/2015)         | [cpp](source/2015.cpp)  |
-|  43  |   [창고 다각형](https://www.acmicpc.net/problem/2304)    | [cpp](source/2304.cpp)  |  44  |         [절댓값 힙](https://www.acmicpc.net/problem/11286)          | [cpp](source/11286.cpp) |
+|  43  |       [큐](https://www.acmicpc.net/problem/10845)        | [cpp](source/10845.cpp) |  44  |            [큐 2](https://www.acmicpc.net/problem/18258)            | [cpp](source/18258.cpp) |
+|  45  |   [창고 다각형](https://www.acmicpc.net/problem/2304)    | [cpp](source/2304.cpp)  |      |                                                                     |                         |
 
 </details>
 
