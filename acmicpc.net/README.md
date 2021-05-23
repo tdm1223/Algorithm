@@ -239,7 +239,7 @@
 | 143  |     [중복을 없애자](https://www.acmicpc.net/problem/4592)      | [cpp](source/4592.cpp)  | 144  |              [스캐너](https://www.acmicpc.net/problem/3035)              | [cpp](source/3035.cpp)  |
 | 145  |        [창영마을](https://www.acmicpc.net/problem/3028)        | [cpp](source/3028.cpp)  | 146  |     [팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581)      | [cpp](source/14581.cpp) |
 | 147  |   [나는 학급회장이다](https://www.acmicpc.net/problem/2456)    | [cpp](source/2456.cpp)  | 148  |             [쌍의 합](https://www.acmicpc.net/problem/5217)              | [cpp](source/5217.cpp)  |
-| 149  |       [단어 퍼즐](https://www.acmicpc.net/problem/9946)        | [cpp](source/9946.cpp)  |      |                                                                          |                         |
+| 149  |       [단어 퍼즐](https://www.acmicpc.net/problem/9946)        | [cpp](source/9946.cpp)  | 150  |     [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059)      | [cpp](source/3059.cpp)  |
 
 </details>
 
