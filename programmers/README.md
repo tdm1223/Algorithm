@@ -88,6 +88,16 @@
 
 </details>
 
+### 월간 코드 챌린지
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                             | 코드                    | 번호 | 문제 | 코드 |
+|:----:|:----------------------------------------------------------------:|:-----------------------:|:----:|:----:|:----:|
+|  1   | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | [cpp](source/70128.cpp) |  2   |      |      |
+
+</details>
+
 ### SQL
 
 <details open> <summary> 접기 / 펼치기 </summary>
