@@ -617,6 +617,7 @@
 |  43  |       [큐](https://www.acmicpc.net/problem/10845)        | [cpp](source/10845.cpp) |  44  |             [큐 2](https://www.acmicpc.net/problem/18258)             | [cpp](source/18258.cpp) |
 |  45  |   [창고 다각형](https://www.acmicpc.net/problem/2304)    | [cpp](source/2304.cpp)  |  46  |     [도키도키 간식드리미](https://www.acmicpc.net/problem/12789)      | [cpp](source/12789.cpp) |
 |  47  | [안정적인 문자열](https://www.acmicpc.net/problem/4889)  | [cpp](source/4889.cpp)  |  48  | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [cpp](source/11478.cpp) |
+|  49  |      [평행선](https://www.acmicpc.net/problem/2358)      | [cpp](source/2358.cpp)  |      |                                                                       |                         |
 
 </details>
 
