@@ -399,6 +399,7 @@
 | 143  |                [다음수](https://www.acmicpc.net/problem/4880)                |    [cpp](source/4880.cpp)     | 144  |     [베시와 데이지](https://www.acmicpc.net/problem/16431)      |  [cpp](source/16431.cpp)  |
 | 145  |            [삼각형과 세 변](https://www.acmicpc.net/problem/5073)            |    [cpp](source/5073.cpp)     | 146  |     [신용카드 판별](https://www.acmicpc.net/problem/14726)      |  [cpp](source/14726.cpp)  |
 | 147  |            [일반 화학 실험](https://www.acmicpc.net/problem/4766)            |    [cpp](source/4766.cpp)     | 148  |        [수 뒤집기](https://www.acmicpc.net/problem/3062)        |  [cpp](source/3062.cpp)   |
+| 149  |              [볼록 껍질](https://www.acmicpc.net/problem/1708)               |    [cpp](source/1708.cpp)     |      |                                                                 |                           |
 
 </details>
 
