@@ -98,6 +98,16 @@
 
 </details>
 
+### 기타
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                    | 코드                    | 번호 | 문제 | 코드 |
+|:----:|:-----------------------------------------------------------------------:|:-----------------------:|:----:|:----:|:----:|
+|  1   | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | [cpp](source/12946.cpp) |      |      |      |
+
+</details>
+
 ### SQL
 
 <details open> <summary> 접기 / 펼치기 </summary>
