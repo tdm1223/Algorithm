@@ -439,6 +439,7 @@
 |  55  |       [오타맨 고창영](https://www.acmicpc.net/problem/2711)        |  [cpp](source/2711.cpp)   |  56  |       [이상한 곱셈](https://www.acmicpc.net/problem/1255)        |  [cpp](source/1255.cpp)   |
 |  57  |       [가장 많은 글자](https://www.acmicpc.net/problem/1371)       |  [cpp](source/1371.cpp)   |  58  |     [도비의 영어 공부](https://www.acmicpc.net/problem/2386)     |  [cpp](source/2386.cpp)   |
 |  59  |     [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)     |  [cpp](source/4458.cpp)   |  60  |     [창영이의 일기장](https://www.acmicpc.net/problem/2954)      |  [cpp](source/2954.cpp)   |
+|  61  |         [박사 과정](https://www.acmicpc.net/problem/5026)          |  [cpp](source/5026.cpp)   |      |                                                                  |                           |
 
 </details>
 
