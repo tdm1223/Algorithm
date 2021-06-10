@@ -288,7 +288,7 @@
 |  45  |      [원판 돌리기](https://www.acmicpc.net/problem/17822)       | [cpp](source/17822.cpp) |  46  |       [청소년 상어](https://www.acmicpc.net/problem/19236)       | [cpp](source/19236.cpp) |
 |  47  |       [어른 상어](https://www.acmicpc.net/problem/19237)        | [cpp](source/19237.cpp) |  48  | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [cpp](source/20055.cpp) |
 |  49  | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [cpp](source/20056.cpp) |  50  |           [6174](https://www.acmicpc.net/problem/6174)           | [cpp](source/6174.cpp)  |
-|  51  |       [공 바꾸기](https://www.acmicpc.net/problem/10813)        | [cpp](source/10813.cpp) |      |                                                                  |                         |
+|  51  |       [공 바꾸기](https://www.acmicpc.net/problem/10813)        | [cpp](source/10813.cpp) |  52  |        [나무 조각](https://www.acmicpc.net/problem/2947)         | [cpp](source/2947.cpp)  |
 
 </details>
 
