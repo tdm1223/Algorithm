@@ -428,7 +428,7 @@
 |  25  |        [!밀비 급일](https://www.acmicpc.net/problem/11365)         |  [cpp](source/11365.cpp)  |  26  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      |  [cpp](source/1919.cpp)   |
 |  27  |     [핸드폰 번호 궁함](https://www.acmicpc.net/problem/17202)      |  [cpp](source/17202.cpp)  |  28  |        [유학 금지](https://www.acmicpc.net/problem/2789)         |  [cpp](source/2789.cpp)   |
 |  29  |        [알파벳 거리](https://www.acmicpc.net/problem/5218)         |  [cpp](source/5218.cpp)   |  30  |           [FBI](https://www.acmicpc.net/problem/2857)            |  [cpp](source/2857.cpp)   |
-|  55  |        [문자열 집합](https://www.acmicpc.net/problem/14425)        |  [cpp](source/14425.cpp)  |  32  |       [너의 핸들은](https://www.acmicpc.net/problem/15819)       |  [cpp](source/15819.cpp)  |
+|  31  |        [문자열 집합](https://www.acmicpc.net/problem/14425)        |  [cpp](source/14425.cpp)  |  32  |       [너의 핸들은](https://www.acmicpc.net/problem/15819)       |  [cpp](source/15819.cpp)  |
 |  33  |        [암호해독기](https://www.acmicpc.net/problem/17176)         |  [cpp](source/17176.cpp)  |  34  |    [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350)    |  [cpp](source/17350.cpp)  |
 |  35  |    [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)     | [java](source/13163.java) |  36  |           [반지](https://www.acmicpc.net/problem/5555)           |  [cpp](source/5555.cpp)   |
 |  37  |       [거울, 오! 거울](https://www.acmicpc.net/problem/4740)       | [java](source/4740.java)  |  38  |        [Equality](https://www.acmicpc.net/problem/13985)         | [java](source/13985.java) |
@@ -443,7 +443,7 @@
 |  55  |       [오타맨 고창영](https://www.acmicpc.net/problem/2711)        |  [cpp](source/2711.cpp)   |  56  |       [이상한 곱셈](https://www.acmicpc.net/problem/1255)        |  [cpp](source/1255.cpp)   |
 |  57  |       [가장 많은 글자](https://www.acmicpc.net/problem/1371)       |  [cpp](source/1371.cpp)   |  58  |     [도비의 영어 공부](https://www.acmicpc.net/problem/2386)     |  [cpp](source/2386.cpp)   |
 |  59  |     [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)     |  [cpp](source/4458.cpp)   |  60  |     [창영이의 일기장](https://www.acmicpc.net/problem/2954)      |  [cpp](source/2954.cpp)   |
-|  61  |         [박사 과정](https://www.acmicpc.net/problem/5026)          |  [cpp](source/5026.cpp)   |      |                                                                  |                           |
+|  61  |         [박사 과정](https://www.acmicpc.net/problem/5026)          |  [cpp](source/5026.cpp)   |  62  |   [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)   |  [cpp](source/2204.cpp)   |
 
 </details>
 
