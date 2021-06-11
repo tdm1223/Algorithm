@@ -242,6 +242,7 @@
 | 149  |       [단어 퍼즐](https://www.acmicpc.net/problem/9946)        | [cpp](source/9946.cpp)  | 150  |     [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059)      | [cpp](source/3059.cpp)  |
 | 151  |          [박스](https://www.acmicpc.net/problem/9455)          | [cpp](source/9455.cpp)  | 152  |           [아름다운 수](https://www.acmicpc.net/problem/2774)            | [cpp](source/2774.cpp)  |
 | 153  |       [동혁 피자](https://www.acmicpc.net/problem/6502)        | [cpp](source/6502.cpp)  | 154  |              [Aron](https://www.acmicpc.net/problem/15354)               | [cpp](source/15354.cpp) |
+| 155  |       [대회 자리](https://www.acmicpc.net/problem/5176)        | [cpp](source/5176.cpp)  |      |                                                                          |                         |
 
 </details>
 
