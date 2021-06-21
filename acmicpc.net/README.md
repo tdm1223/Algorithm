@@ -243,7 +243,7 @@
 | 151  |          [박스](https://www.acmicpc.net/problem/9455)          | [cpp](source/9455.cpp)  | 152  |           [아름다운 수](https://www.acmicpc.net/problem/2774)            | [cpp](source/2774.cpp)  |
 | 153  |       [동혁 피자](https://www.acmicpc.net/problem/6502)        | [cpp](source/6502.cpp)  | 154  |              [Aron](https://www.acmicpc.net/problem/15354)               | [cpp](source/15354.cpp) |
 | 155  |       [대회 자리](https://www.acmicpc.net/problem/5176)        | [cpp](source/5176.cpp)  | 156  |             [커맨드](https://www.acmicpc.net/problem/17838)              | [cpp](source/17838.cpp) |
-| 157  |    [연길이의 이상형](https://www.acmicpc.net/problem/20540)    | [cpp](source/20540.cpp) |      |                                                                          |                         |
+| 157  |    [연길이의 이상형](https://www.acmicpc.net/problem/20540)    | [cpp](source/20540.cpp) | 158  |            [대충 더해](https://www.acmicpc.net/problem/8949)             | [cpp](source/8949.cpp)  |
 
 </details>
 
