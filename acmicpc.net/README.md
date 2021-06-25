@@ -244,6 +244,7 @@
 | 153  |       [동혁 피자](https://www.acmicpc.net/problem/6502)        | [cpp](source/6502.cpp)  | 154  |              [Aron](https://www.acmicpc.net/problem/15354)               | [cpp](source/15354.cpp) |
 | 155  |       [대회 자리](https://www.acmicpc.net/problem/5176)        | [cpp](source/5176.cpp)  | 156  |             [커맨드](https://www.acmicpc.net/problem/17838)              | [cpp](source/17838.cpp) |
 | 157  |    [연길이의 이상형](https://www.acmicpc.net/problem/20540)    | [cpp](source/20540.cpp) | 158  |            [대충 더해](https://www.acmicpc.net/problem/8949)             | [cpp](source/8949.cpp)  |
+| 159  |     [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](source/1748.cpp)  | 160  |          [수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)          | [cpp](source/2154.cpp)  |
 
 </details>
 
@@ -302,7 +303,7 @@
 | 번호 | 문제                                                         | 코드                    | 번호 | 문제                                                              | 코드                    |
 |:----:|:------------------------------------------------------------:|:-----------------------:|:----:|:-----------------------------------------------------------------:|:-----------------------:|
 |  1   |         [덩치](https://www.acmicpc.net/problem/7568)         | [cpp](source/7568.cpp)  |  2   |       [부분집합의 합](https://www.acmicpc.net/problem/1182)       | [cpp](source/1182.cpp)  |
-|  3   |    [숫자 정사각형](https://www.acmicpc.net/problem/1051)     | [cpp](source/1051.cpp)  |  4   |       [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)       | [cpp](source/1748.cpp)  |
+|  3   |    [숫자 정사각형](https://www.acmicpc.net/problem/1051)     | [cpp](source/1051.cpp)  |  4   |        [단어 나누기](https://www.acmicpc.net/problem/1251)        | [cpp](source/1251.cpp)  |
 |  5   |        [분해합](https://www.acmicpc.net/problem/2231)        | [cpp](source/2231.cpp)  |  6   |      [스타트와 링크](https://www.acmicpc.net/problem/14889)       | [cpp](source/14889.cpp) |
 |  7   |     [유레카 이론](https://www.acmicpc.net/problem/10448)     | [cpp](source/10448.cpp) |  8   |          [N-Queen](https://www.acmicpc.net/problem/9663)          | [cpp](source/9663.cpp)  |
 |  9   |     [일곱 난쟁이](https://www.acmicpc.net/problem/2309)      | [cpp](source/2309.cpp)  |  10  |        [암호 만들기](https://www.acmicpc.net/problem/1759)        | [cpp](source/1759.cpp)  |
@@ -320,7 +321,7 @@
 |  33  |        [가르침](https://www.acmicpc.net/problem/1062)        | [cpp](source/1062.cpp)  |  34  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       | [cpp](source/15661.cpp) |
 |  35  |    [마지막 한마디](https://www.acmicpc.net/problem/1813)     | [cpp](source/1813.cpp)  |  36  |        [기숙사 바닥](https://www.acmicpc.net/problem/2858)        | [cpp](source/2858.cpp)  |
 |  37  |    [에너지 모으기](https://www.acmicpc.net/problem/16198)    | [cpp](source/16198.cpp) |  38  |      [크면서 작은 수](https://www.acmicpc.net/problem/2992)       | [cpp](source/2992.cpp)  |
-|  39  |       [근손실](https://www.acmicpc.net/problem/18429)        | [cpp](source/18429.cpp) |  40  |        [단어 나누기](https://www.acmicpc.net/problem/1251)        | [cpp](source/1251.cpp)  |
+|  39  |       [근손실](https://www.acmicpc.net/problem/18429)        | [cpp](source/18429.cpp) |      |                                                                   |                         |
 
 </details>
 
