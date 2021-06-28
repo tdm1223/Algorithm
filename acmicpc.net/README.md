@@ -410,7 +410,7 @@
 | 151  |               [암호제작](https://www.acmicpc.net/problem/1837)               |    [cpp](source/1837.cpp)     | 152  |        [고급 수학](https://www.acmicpc.net/problem/7510)        |  [cpp](source/7510.cpp)   |
 | 153  |                [대표값](https://www.acmicpc.net/problem/2592)                |    [cpp](source/2592.cpp)     | 154  |           [24](https://www.acmicpc.net/problem/1408)            |  [cpp](source/1408.cpp)   |
 | 155  |         [욱제는 효도쟁이야!!](https://www.acmicpc.net/problem/14487)         |    [cpp](source/14487.cpp)    | 156  |          [세금](https://www.acmicpc.net/problem/20492)          |  [cpp](source/20492.cpp)  |
-| 157  |             [이동하기 3](https://www.acmicpc.net/problem/18795)              |    [cpp](source/18795.cpp)    |      |                                                                 |                           |
+| 157  |             [이동하기 3](https://www.acmicpc.net/problem/18795)              |    [cpp](source/18795.cpp)    | 158  |       [삼각형 분류](https://www.acmicpc.net/problem/9366)       |  [cpp](source/9366.cpp)   |
 
 </details>
 
