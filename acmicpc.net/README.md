@@ -323,6 +323,7 @@
 |  35  |    [마지막 한마디](https://www.acmicpc.net/problem/1813)     | [cpp](source/1813.cpp)  |  36  |        [기숙사 바닥](https://www.acmicpc.net/problem/2858)        | [cpp](source/2858.cpp)  |
 |  37  |    [에너지 모으기](https://www.acmicpc.net/problem/16198)    | [cpp](source/16198.cpp) |  38  |      [크면서 작은 수](https://www.acmicpc.net/problem/2992)       | [cpp](source/2992.cpp)  |
 |  39  |       [근손실](https://www.acmicpc.net/problem/18429)        | [cpp](source/18429.cpp) |  40  | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)  | [cpp](source/19532.cpp) |
+|  41  |      [문서 검색](https://www.acmicpc.net/problem/1543)       | [cpp](source/1543.cpp)  |      |                                                                   |                         |
 
 </details>
 
