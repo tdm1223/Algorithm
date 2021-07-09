@@ -245,7 +245,7 @@
 | 155  |       [대회 자리](https://www.acmicpc.net/problem/5176)        | [cpp](source/5176.cpp)  | 156  |             [커맨드](https://www.acmicpc.net/problem/17838)              | [cpp](source/17838.cpp) |
 | 157  |    [연길이의 이상형](https://www.acmicpc.net/problem/20540)    | [cpp](source/20540.cpp) | 158  |            [대충 더해](https://www.acmicpc.net/problem/8949)             | [cpp](source/8949.cpp)  |
 | 159  |     [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](source/1748.cpp)  | 160  |          [수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)          | [cpp](source/2154.cpp)  |
-| 161  |       [팰린드롬](https://www.acmicpc.net/problem/13235)        | [cpp](source/13235.cpp) |      |                                                                          |                         |
+| 161  |       [팰린드롬](https://www.acmicpc.net/problem/13235)        | [cpp](source/13235.cpp) | 162  |            [3대 측정](https://www.acmicpc.net/problem/20299)             | [cpp](source/20299.cpp) |
 
 </details>
 
