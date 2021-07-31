@@ -247,7 +247,7 @@
 | 159  |     [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)      | [cpp](source/1748.cpp)  | 160  |          [수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)          | [cpp](source/2154.cpp)  |
 | 161  |       [팰린드롬](https://www.acmicpc.net/problem/13235)        | [cpp](source/13235.cpp) | 162  |            [3대 측정](https://www.acmicpc.net/problem/20299)             | [cpp](source/20299.cpp) |
 | 163  |          [그릇](https://www.acmicpc.net/problem/7567)          | [cpp](source/7567.cpp)  | 164  |         [숫자 맞추기 게임](https://www.acmicpc.net/problem/4892)         | [cpp](source/4892.cpp)  |
-| 165  |           [펫](https://www.acmicpc.net/problem/1362)           | [cpp](source/1362.cpp)  |      |                                                                          |                         |
+| 165  |           [펫](https://www.acmicpc.net/problem/1362)           | [cpp](source/1362.cpp)  | 166  |    [교수님 그림이 깨지는데요?](https://www.acmicpc.net/problem/20205)    | [cpp](source/20205.cpp) |
 
 </details>
 
