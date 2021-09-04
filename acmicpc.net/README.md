@@ -497,6 +497,7 @@
 |  41  |          [용액](https://www.acmicpc.net/problem/2467)          |  [cpp](source/2467.cpp)  |  42  |           [게임 개발](https://www.acmicpc.net/problem/1516)           | [cpp](source/1516.cpp)  |
 |  43  |      [영화감독 숌](https://www.acmicpc.net/problem/1436)       |  [cpp](source/1436.cpp)  |  44  |        [카드 바꿔치기](https://www.acmicpc.net/problem/18766)         | [cpp](source/18766.cpp) |
 |  45  |       [종이자르기](https://www.acmicpc.net/problem/2628)       |  [cpp](source/2628.cpp)  |  46  |         [배열 합치기](https://www.acmicpc.net/problem/11728)          | [cpp](source/11728.cpp) |
+|  47  |      [키 큰 사람](https://www.acmicpc.net/problem/11292)       | [cpp](source/11292.cpp)  |      |                                                                       |                         |
 
 </details>
 
