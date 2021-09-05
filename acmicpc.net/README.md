@@ -599,22 +599,23 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                   | 코드                    | 번호 | 문제                                                     | 코드                    |
-|:----:|:------------------------------------------------------:|:-----------------------:|:----:|:--------------------------------------------------------:|:-----------------------:|
-|  1   |   [신입 사원](https://www.acmicpc.net/problem/1946)    | [cpp](source/1946.cpp)  |  2   |     [거스름돈](https://www.acmicpc.net/problem/5585)     | [cpp](source/5585.cpp)  |
-|  3   |      [ATM](https://www.acmicpc.net/problem/11399)      | [cpp](source/11399.cpp) |  4   |    [회의실배정](https://www.acmicpc.net/problem/1931)    | [cpp](source/1931.cpp)  |
-|  5   |  [대회 or 인턴](https://www.acmicpc.net/problem/2875)  | [cpp](source/2875.cpp)  |  6   |       [로프](https://www.acmicpc.net/problem/2217)       | [cpp](source/2217.cpp)  |
-|  7   |      [30](https://www.acmicpc.net/problem/10610)       | [cpp](source/10610.cpp) |  8   |     [동전 0](https://www.acmicpc.net/problem/11047)      | [cpp](source/11047.cpp) |
-|  9   |     [기타줄](https://www.acmicpc.net/problem/1049)     | [cpp](source/1049.cpp)  |  10  |  [잃어버린 괄호](https://www.acmicpc.net/problem/1541)   | [cpp](source/1541.cpp)  |
-|  11  |  [등수 매기기](https://www.acmicpc.net/problem/2012)   | [cpp](source/2012.cpp)  |  12  |   [반도체 설계](https://www.acmicpc.net/problem/2352)    | [cpp](source/2352.cpp)  |
-|  13  |      [저울](https://www.acmicpc.net/problem/2437)      | [cpp](source/2437.cpp)  |  14  |   [한 줄로 서기](https://www.acmicpc.net/problem/1138)   | [cpp](source/1138.cpp)  |
-|  15  |     [뒤집기](https://www.acmicpc.net/problem/1439)     | [cpp](source/1439.cpp)  |  16  |       [DNA](https://www.acmicpc.net/problem/1969)        | [cpp](source/1969.cpp)  |
-|  17  |     [문자열](https://www.acmicpc.net/problem/1120)     | [cpp](source/1120.cpp)  |  18  |   [크게 만들기](https://www.acmicpc.net/problem/2812)    | [cpp](source/2812.cpp)  |
-|  19  |   [폴리오미노](https://www.acmicpc.net/problem/1343)   | [cpp](source/1343.cpp)  |  20  |      [고득점](https://www.acmicpc.net/problem/3663)      | [cpp](source/3663.cpp)  |
-|  21  |  [전자레인지](https://www.acmicpc.net/problem/10162)   | [cpp](source/10162.cpp) |  22  |    [카우버거](https://www.acmicpc.net/problem/15720)     | [cpp](source/15720.cpp) |
-|  23  | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | [cpp](source/2828.cpp)  |  24  |   [연료 채우기](https://www.acmicpc.net/problem/1826)    | [cpp](source/1826.cpp)  |
-|  25  |  [행복 유치원](https://www.acmicpc.net/problem/13164)  | [cpp](source/13164.cpp) |  26  |     [힙 정렬](https://www.acmicpc.net/problem/2220)      | [cpp](source/2220.cpp)  |
-|  27  |    [방탈출](https://www.acmicpc.net/problem/15729)     | [cpp](source/15729.cpp) |  28  | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | [cpp](source/2720.cpp)  |
+| 번호 | 문제                                                         | 코드                    | 번호 | 문제                                                     | 코드                    |
+|:----:|:------------------------------------------------------------:|:-----------------------:|:----:|:--------------------------------------------------------:|:-----------------------:|
+|  1   |      [신입 사원](https://www.acmicpc.net/problem/1946)       | [cpp](source/1946.cpp)  |  2   |     [거스름돈](https://www.acmicpc.net/problem/5585)     | [cpp](source/5585.cpp)  |
+|  3   |         [ATM](https://www.acmicpc.net/problem/11399)         | [cpp](source/11399.cpp) |  4   |    [회의실배정](https://www.acmicpc.net/problem/1931)    | [cpp](source/1931.cpp)  |
+|  5   |     [대회 or 인턴](https://www.acmicpc.net/problem/2875)     | [cpp](source/2875.cpp)  |  6   |       [로프](https://www.acmicpc.net/problem/2217)       | [cpp](source/2217.cpp)  |
+|  7   |         [30](https://www.acmicpc.net/problem/10610)          | [cpp](source/10610.cpp) |  8   |     [동전 0](https://www.acmicpc.net/problem/11047)      | [cpp](source/11047.cpp) |
+|  9   |        [기타줄](https://www.acmicpc.net/problem/1049)        | [cpp](source/1049.cpp)  |  10  |  [잃어버린 괄호](https://www.acmicpc.net/problem/1541)   | [cpp](source/1541.cpp)  |
+|  11  |     [등수 매기기](https://www.acmicpc.net/problem/2012)      | [cpp](source/2012.cpp)  |  12  |   [반도체 설계](https://www.acmicpc.net/problem/2352)    | [cpp](source/2352.cpp)  |
+|  13  |         [저울](https://www.acmicpc.net/problem/2437)         | [cpp](source/2437.cpp)  |  14  |   [한 줄로 서기](https://www.acmicpc.net/problem/1138)   | [cpp](source/1138.cpp)  |
+|  15  |        [뒤집기](https://www.acmicpc.net/problem/1439)        | [cpp](source/1439.cpp)  |  16  |       [DNA](https://www.acmicpc.net/problem/1969)        | [cpp](source/1969.cpp)  |
+|  17  |        [문자열](https://www.acmicpc.net/problem/1120)        | [cpp](source/1120.cpp)  |  18  |   [크게 만들기](https://www.acmicpc.net/problem/2812)    | [cpp](source/2812.cpp)  |
+|  19  |      [폴리오미노](https://www.acmicpc.net/problem/1343)      | [cpp](source/1343.cpp)  |  20  |      [고득점](https://www.acmicpc.net/problem/3663)      | [cpp](source/3663.cpp)  |
+|  21  |     [전자레인지](https://www.acmicpc.net/problem/10162)      | [cpp](source/10162.cpp) |  22  |    [카우버거](https://www.acmicpc.net/problem/15720)     | [cpp](source/15720.cpp) |
+|  23  |    [사과 담기 게임](https://www.acmicpc.net/problem/2828)    | [cpp](source/2828.cpp)  |  24  |   [연료 채우기](https://www.acmicpc.net/problem/1826)    | [cpp](source/1826.cpp)  |
+|  25  |     [행복 유치원](https://www.acmicpc.net/problem/13164)     | [cpp](source/13164.cpp) |  26  |     [힙 정렬](https://www.acmicpc.net/problem/2220)      | [cpp](source/2220.cpp)  |
+|  27  |       [방탈출](https://www.acmicpc.net/problem/15729)        | [cpp](source/15729.cpp) |  28  | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | [cpp](source/2720.cpp)  |
+|  29  | [욱제는 도박쟁이야!!](https://www.acmicpc.net/problem/14655) | [cpp](source/14655.cpp) |      |                                                          |                         |
 
 </details>
 
