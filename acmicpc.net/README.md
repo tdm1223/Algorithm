@@ -331,7 +331,7 @@
 |  39  |       [근손실](https://www.acmicpc.net/problem/18429)        | [cpp](source/18429.cpp) |  40  | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)  | [cpp](source/19532.cpp) |
 |  41  |      [문서 검색](https://www.acmicpc.net/problem/1543)       | [cpp](source/1543.cpp)  |  42  |        [블록 놀이](https://www.acmicpc.net/problem/16951)         | [cpp](source/16951.cpp) |
 |  43  |     [맥주 냉장고](https://www.acmicpc.net/problem/3595)      | [cpp](source/3595.cpp)  |  44  |      [Forbidden Zero](https://www.acmicpc.net/problem/15122)      | [cpp](source/15122.cpp) |
-|  45  |         [학번](https://www.acmicpc.net/problem/3711)         | [cpp](source/3711.cpp)  |      |                                                                   |                         |
+|  45  |         [학번](https://www.acmicpc.net/problem/3711)         | [cpp](source/3711.cpp)  |  46  |   [공간을 만들어 봅시다](https://www.acmicpc.net/problem/10471)   | [cpp](source/10471.cpp) |
 
 </details>
 
