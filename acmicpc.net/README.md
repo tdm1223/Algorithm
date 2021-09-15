@@ -417,7 +417,7 @@
 | 143  |                [다음수](https://www.acmicpc.net/problem/4880)                |    [cpp](source/4880.cpp)     | 144  |     [베시와 데이지](https://www.acmicpc.net/problem/16431)      |  [cpp](source/16431.cpp)  |
 | 145  |            [삼각형과 세 변](https://www.acmicpc.net/problem/5073)            |    [cpp](source/5073.cpp)     | 146  |     [신용카드 판별](https://www.acmicpc.net/problem/14726)      |  [cpp](source/14726.cpp)  |
 | 147  |            [일반 화학 실험](https://www.acmicpc.net/problem/4766)            |    [cpp](source/4766.cpp)     | 148  |        [수 뒤집기](https://www.acmicpc.net/problem/3062)        |  [cpp](source/3062.cpp)   |
-| 149  |              [볼록 껍질](https://www.acmicpc.net/problem/1708)               |    [cpp](source/1708.cpp)     | 150  |          [소수](https://www.acmicpc.net/problem/1312)           |  [cpp](source/1312.cpp)   |
+| 149  |              [5의 수난](https://www.acmicpc.net/problem/23037)               |    [cpp](source/23037.cpp)    | 150  |          [소수](https://www.acmicpc.net/problem/1312)           |  [cpp](source/1312.cpp)   |
 | 151  |               [암호제작](https://www.acmicpc.net/problem/1837)               |    [cpp](source/1837.cpp)     | 152  |        [고급 수학](https://www.acmicpc.net/problem/7510)        |  [cpp](source/7510.cpp)   |
 | 153  |                [대표값](https://www.acmicpc.net/problem/2592)                |    [cpp](source/2592.cpp)     | 154  |           [24](https://www.acmicpc.net/problem/1408)            |  [cpp](source/1408.cpp)   |
 | 155  |         [욱제는 효도쟁이야!!](https://www.acmicpc.net/problem/14487)         |    [cpp](source/14487.cpp)    | 156  |          [세금](https://www.acmicpc.net/problem/20492)          |  [cpp](source/20492.cpp)  |
@@ -430,7 +430,17 @@
 | 169  |           [잉여역수 구하기](https://www.acmicpc.net/problem/15995)           |    [cpp](source/15995.cpp)    | 170  |      [이런 반전이](https://www.acmicpc.net/problem/11947)       |  [cpp](source/11947.cpp)  |
 | 171  |       [The n Days of Christmas](https://www.acmicpc.net/problem/9488)        |    [cpp](source/9488.cpp)     | 172  |      [홀짝 칵테일](https://www.acmicpc.net/problem/21312)       |  [cpp](source/21312.cpp)  |
 | 173  |               [팩토리얼](https://www.acmicpc.net/problem/7489)               |    [cpp](source/7489.cpp)     | 174  |   [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553)    |  [cpp](source/2553.cpp)   |
-| 175  |             [아파트 임대](https://www.acmicpc.net/problem/5615)              |    [cpp](source/5615.cpp)     | 176  |        [5의 수난](https://www.acmicpc.net/problem/23037)        |  [cpp](source/23037.cpp)  |
+| 175  |             [아파트 임대](https://www.acmicpc.net/problem/5615)              |    [cpp](source/5615.cpp)     |      |                                                                 |                           |
+
+</details>
+
+### 볼록 껍질
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                              | 코드                   | 번호 | 문제                                                | 코드                   |
+|:----:|:-------------------------------------------------:|:----------------------:|:----:|:---------------------------------------------------:|:----------------------:|
+|  1   | [볼록 껍질](https://www.acmicpc.net/problem/1152) | [cpp](source/1152.cpp) |  2   | [로버트 후드](https://www.acmicpc.net/problem/9240) | [cpp](source/9240.cpp) |
 
 </details>
 
