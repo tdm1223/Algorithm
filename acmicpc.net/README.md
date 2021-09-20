@@ -486,6 +486,7 @@
 |  61  |         [박사 과정](https://www.acmicpc.net/problem/5026)          |  [cpp](source/5026.cpp)   |  62  |   [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)   |  [cpp](source/2204.cpp)   |
 |  63  |          [연속구간](https://www.acmicpc.net/problem/2495)          |  [cpp](source/2495.cpp)   |  64  |           [아!](https://www.acmicpc.net/problem/4999)            |  [cpp](source/4999.cpp)   |
 |  65  |          [피카츄](https://www.acmicpc.net/problem/14405)           |  [cpp](source/14405.cpp)  |  66  |        [Tautogram](https://www.acmicpc.net/problem/5698)         |  [cpp](source/5698.cpp)   |
+|  67  |  [선린인터넷고등학교 교가](https://www.acmicpc.net/problem/21964)  |  [cpp](source/21964.cpp)  |      |                                                                  |                           |
 
 </details>
 
