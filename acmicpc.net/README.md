@@ -451,42 +451,42 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                               | 코드                      | 번호 | 문제                                                             | 코드                      |
-|:----:|:------------------------------------------------------------------:|:-------------------------:|:----:|:----------------------------------------------------------------:|:-------------------------:|
-|  1   |        [단어의 개수](https://www.acmicpc.net/problem/1152)         |  [cpp](source/1152.cpp)   |  2   |        [단어 공부](https://www.acmicpc.net/problem/1157)         |  [cpp](source/1157.cpp)   |
-|  3   |            [상수](https://www.acmicpc.net/problem/2908)            |  [cpp](source/2908.cpp)   |  4   |       [5의 6의 차이](https://www.acmicpc.net/problem/2864)       |  [cpp](source/2864.cpp)   |
-|  5   |   [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)   |  [cpp](source/10988.cpp)  |  6   |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         |  [cpp](source/5586.cpp)   |
-|  7   |     [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)      |  [cpp](source/2941.cpp)   |  8   |          [컵홀더](https://www.acmicpc.net/problem/2810)          |  [cpp](source/2810.cpp)   |
-|  9   |           [듣보잡](https://www.acmicpc.net/problem/1764)           |  [cpp](source/1764.cpp)   |  10  |      [명령 프롬프트](https://www.acmicpc.net/problem/1032)       |  [cpp](source/1032.cpp)   |
-|  11  |        [아스키 코드](https://www.acmicpc.net/problem/11654)        |  [cpp](source/11654.cpp)  |  12  |      [단어 길이 재기](https://www.acmicpc.net/problem/2743)      |  [cpp](source/2743.cpp)   |
-|  13  |        [모음의 개수](https://www.acmicpc.net/problem/10987)        |  [cpp](source/10987.cpp)  |  14  | [지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586) |  [cpp](source/11586.cpp)  |
-|  15  |       [그룹 단어 체커](https://www.acmicpc.net/problem/1316)       |  [cpp](source/1316.cpp)   |  16  |          [ROT13](https://www.acmicpc.net/problem/11655)          | [java](source/11655.java) |
-|  17  |        [접미사 배열](https://www.acmicpc.net/problem/11656)        |  [cpp](source/11656.cpp)  |  18  |    [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)     |  [cpp](source/9933.cpp)   |
-|  19  |        [알파벳 개수](https://www.acmicpc.net/problem/10808)        |  [cpp](source/10808.cpp)  |  20  |          [다이얼](https://www.acmicpc.net/problem/5622)          |  [cpp](source/5622.cpp)   |
-|  21  |          [하얀 칸](https://www.acmicpc.net/problem/1100)           |  [cpp](source/1100.cpp)   |  22  |    [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)     |  [cpp](source/2902.cpp)   |
-|  23  |       [카이사르 암호](https://www.acmicpc.net/problem/5598)        |  [cpp](source/5598.cpp)   |  24  |       [Java vs C++](https://www.acmicpc.net/problem/3613)        |  [cpp](source/3613.cpp)   |
-|  25  |        [!밀비 급일](https://www.acmicpc.net/problem/11365)         |  [cpp](source/11365.cpp)  |  26  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      |  [cpp](source/1919.cpp)   |
-|  27  |     [핸드폰 번호 궁함](https://www.acmicpc.net/problem/17202)      |  [cpp](source/17202.cpp)  |  28  |        [유학 금지](https://www.acmicpc.net/problem/2789)         |  [cpp](source/2789.cpp)   |
-|  29  |        [알파벳 거리](https://www.acmicpc.net/problem/5218)         |  [cpp](source/5218.cpp)   |  30  |           [FBI](https://www.acmicpc.net/problem/2857)            |  [cpp](source/2857.cpp)   |
-|  31  |        [문자열 집합](https://www.acmicpc.net/problem/14425)        |  [cpp](source/14425.cpp)  |  32  |       [너의 핸들은](https://www.acmicpc.net/problem/15819)       |  [cpp](source/15819.cpp)  |
-|  33  |        [암호해독기](https://www.acmicpc.net/problem/17176)         |  [cpp](source/17176.cpp)  |  34  |    [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350)    |  [cpp](source/17350.cpp)  |
-|  35  |    [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)     | [java](source/13163.java) |  36  |           [반지](https://www.acmicpc.net/problem/5555)           |  [cpp](source/5555.cpp)   |
-|  37  |       [거울, 오! 거울](https://www.acmicpc.net/problem/4740)       | [java](source/4740.java)  |  38  |        [Equality](https://www.acmicpc.net/problem/13985)         | [java](source/13985.java) |
-|  39  |         [럭비 클럽](https://www.acmicpc.net/problem/2083)          | [java](source/2083.java)  |  40  |     [The Cow-Signal](https://www.acmicpc.net/problem/14175)      |  [cpp](source/14175.cpp)  |
-|  41  |        [단어 뒤집기](https://www.acmicpc.net/problem/9093)         | [java](source/9093.java)  |  42  |          [Voting](https://www.acmicpc.net/problem/4581)          |  [cpp](source/4581.cpp)   |
-|  43  |   [Rock, Paper, Scissors](https://www.acmicpc.net/problem/4593)    | [java](source/4593.java)  |  44  |     [Gnome Sequencing](https://www.acmicpc.net/problem/4589)     | [java](source/4589.java)  |
-|  45  |          [Quicksum](https://www.acmicpc.net/problem/4613)          | [java](source/4613.java)  |  46  |      [균형잡힌 세상](https://www.acmicpc.net/problem/4949)       | [java](source/4949.java)  |
-|  47  |         [사칙연산](https://www.acmicpc.net/problem/13420)          | [java](source/13420.java) |  48  |       [이진수 덧셈](https://www.acmicpc.net/problem/1252)        |  [cpp](source/1252.cpp)   |
-|  49  |        [모음의 개수](https://www.acmicpc.net/problem/1264)         | [java](source/1264.java)  |  50  |     [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)      | [java](source/2744.java)  |
-|  51  | [The Seven Percent Solution](https://www.acmicpc.net/problem/4606) | [java](source/4606.java)  |  52  |      [문자가 몇갤까](https://www.acmicpc.net/problem/7600)       | [java](source/7600.java)  |
-|  53  |        [문자열 분석](https://www.acmicpc.net/problem/10820)        | [java](source/10820.java) |  54  |   [Hissing Microphone](https://www.acmicpc.net/problem/15272)    |  [cpp](source/15272.cpp)  |
-|  55  |       [오타맨 고창영](https://www.acmicpc.net/problem/2711)        |  [cpp](source/2711.cpp)   |  56  |       [이상한 곱셈](https://www.acmicpc.net/problem/1255)        |  [cpp](source/1255.cpp)   |
-|  57  |       [가장 많은 글자](https://www.acmicpc.net/problem/1371)       |  [cpp](source/1371.cpp)   |  58  |     [도비의 영어 공부](https://www.acmicpc.net/problem/2386)     |  [cpp](source/2386.cpp)   |
-|  59  |     [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)     |  [cpp](source/4458.cpp)   |  60  |     [창영이의 일기장](https://www.acmicpc.net/problem/2954)      |  [cpp](source/2954.cpp)   |
-|  61  |         [박사 과정](https://www.acmicpc.net/problem/5026)          |  [cpp](source/5026.cpp)   |  62  |   [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)   |  [cpp](source/2204.cpp)   |
-|  63  |          [연속구간](https://www.acmicpc.net/problem/2495)          |  [cpp](source/2495.cpp)   |  64  |           [아!](https://www.acmicpc.net/problem/4999)            |  [cpp](source/4999.cpp)   |
-|  65  |          [피카츄](https://www.acmicpc.net/problem/14405)           |  [cpp](source/14405.cpp)  |  66  |        [Tautogram](https://www.acmicpc.net/problem/5698)         |  [cpp](source/5698.cpp)   |
-|  67  |  [선린인터넷고등학교 교가](https://www.acmicpc.net/problem/21964)  |  [cpp](source/21964.cpp)  |      |                                                                  |                           |
+| 번호 | 문제                                                               | 코드                      | 번호 | 문제                                                                  | 코드                      |
+|:----:|:------------------------------------------------------------------:|:-------------------------:|:----:|:---------------------------------------------------------------------:|:-------------------------:|
+|  1   |        [단어의 개수](https://www.acmicpc.net/problem/1152)         |  [cpp](source/1152.cpp)   |  2   |           [단어 공부](https://www.acmicpc.net/problem/1157)           |  [cpp](source/1157.cpp)   |
+|  3   |            [상수](https://www.acmicpc.net/problem/2908)            |  [cpp](source/2908.cpp)   |  4   |         [5의 6의 차이](https://www.acmicpc.net/problem/2864)          |  [cpp](source/2864.cpp)   |
+|  5   |   [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)   |  [cpp](source/10988.cpp)  |  6   |           [JOI와 IOI](https://www.acmicpc.net/problem/5586)           |  [cpp](source/5586.cpp)   |
+|  7   |     [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)      |  [cpp](source/2941.cpp)   |  8   |            [컵홀더](https://www.acmicpc.net/problem/2810)             |  [cpp](source/2810.cpp)   |
+|  9   |           [듣보잡](https://www.acmicpc.net/problem/1764)           |  [cpp](source/1764.cpp)   |  10  |         [명령 프롬프트](https://www.acmicpc.net/problem/1032)         |  [cpp](source/1032.cpp)   |
+|  11  |        [아스키 코드](https://www.acmicpc.net/problem/11654)        |  [cpp](source/11654.cpp)  |  12  |        [단어 길이 재기](https://www.acmicpc.net/problem/2743)         |  [cpp](source/2743.cpp)   |
+|  13  |        [모음의 개수](https://www.acmicpc.net/problem/10987)        |  [cpp](source/10987.cpp)  |  14  |   [지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586)    |  [cpp](source/11586.cpp)  |
+|  15  |       [그룹 단어 체커](https://www.acmicpc.net/problem/1316)       |  [cpp](source/1316.cpp)   |  16  |            [ROT13](https://www.acmicpc.net/problem/11655)             | [java](source/11655.java) |
+|  17  |        [접미사 배열](https://www.acmicpc.net/problem/11656)        |  [cpp](source/11656.cpp)  |  18  |       [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)       |  [cpp](source/9933.cpp)   |
+|  19  |        [알파벳 개수](https://www.acmicpc.net/problem/10808)        |  [cpp](source/10808.cpp)  |  20  |            [다이얼](https://www.acmicpc.net/problem/5622)             |  [cpp](source/5622.cpp)   |
+|  21  |          [하얀 칸](https://www.acmicpc.net/problem/1100)           |  [cpp](source/1100.cpp)   |  22  |       [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)       |  [cpp](source/2902.cpp)   |
+|  23  |       [카이사르 암호](https://www.acmicpc.net/problem/5598)        |  [cpp](source/5598.cpp)   |  24  |          [Java vs C++](https://www.acmicpc.net/problem/3613)          |  [cpp](source/3613.cpp)   |
+|  25  |        [!밀비 급일](https://www.acmicpc.net/problem/11365)         |  [cpp](source/11365.cpp)  |  26  |        [애너그램 만들기](https://www.acmicpc.net/problem/1919)        |  [cpp](source/1919.cpp)   |
+|  27  |     [핸드폰 번호 궁함](https://www.acmicpc.net/problem/17202)      |  [cpp](source/17202.cpp)  |  28  |           [유학 금지](https://www.acmicpc.net/problem/2789)           |  [cpp](source/2789.cpp)   |
+|  29  |        [알파벳 거리](https://www.acmicpc.net/problem/5218)         |  [cpp](source/5218.cpp)   |  30  |              [FBI](https://www.acmicpc.net/problem/2857)              |  [cpp](source/2857.cpp)   |
+|  31  |        [문자열 집합](https://www.acmicpc.net/problem/14425)        |  [cpp](source/14425.cpp)  |  32  |         [너의 핸들은](https://www.acmicpc.net/problem/15819)          |  [cpp](source/15819.cpp)  |
+|  33  |        [암호해독기](https://www.acmicpc.net/problem/17176)         |  [cpp](source/17176.cpp)  |  34  |      [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350)       |  [cpp](source/17350.cpp)  |
+|  35  |    [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)     | [java](source/13163.java) |  36  |             [반지](https://www.acmicpc.net/problem/5555)              |  [cpp](source/5555.cpp)   |
+|  37  |       [거울, 오! 거울](https://www.acmicpc.net/problem/4740)       | [java](source/4740.java)  |  38  |           [Equality](https://www.acmicpc.net/problem/13985)           | [java](source/13985.java) |
+|  39  |         [럭비 클럽](https://www.acmicpc.net/problem/2083)          | [java](source/2083.java)  |  40  |        [The Cow-Signal](https://www.acmicpc.net/problem/14175)        |  [cpp](source/14175.cpp)  |
+|  41  |        [단어 뒤집기](https://www.acmicpc.net/problem/9093)         | [java](source/9093.java)  |  42  |            [Voting](https://www.acmicpc.net/problem/4581)             |  [cpp](source/4581.cpp)   |
+|  43  |   [Rock, Paper, Scissors](https://www.acmicpc.net/problem/4593)    | [java](source/4593.java)  |  44  |       [Gnome Sequencing](https://www.acmicpc.net/problem/4589)        | [java](source/4589.java)  |
+|  45  |          [Quicksum](https://www.acmicpc.net/problem/4613)          | [java](source/4613.java)  |  46  |         [균형잡힌 세상](https://www.acmicpc.net/problem/4949)         | [java](source/4949.java)  |
+|  47  |         [사칙연산](https://www.acmicpc.net/problem/13420)          | [java](source/13420.java) |  48  |          [이진수 덧셈](https://www.acmicpc.net/problem/1252)          |  [cpp](source/1252.cpp)   |
+|  49  |        [모음의 개수](https://www.acmicpc.net/problem/1264)         | [java](source/1264.java)  |  50  |        [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)        | [java](source/2744.java)  |
+|  51  | [The Seven Percent Solution](https://www.acmicpc.net/problem/4606) | [java](source/4606.java)  |  52  |         [문자가 몇갤까](https://www.acmicpc.net/problem/7600)         | [java](source/7600.java)  |
+|  53  |        [문자열 분석](https://www.acmicpc.net/problem/10820)        | [java](source/10820.java) |  54  |      [Hissing Microphone](https://www.acmicpc.net/problem/15272)      |  [cpp](source/15272.cpp)  |
+|  55  |       [오타맨 고창영](https://www.acmicpc.net/problem/2711)        |  [cpp](source/2711.cpp)   |  56  |          [이상한 곱셈](https://www.acmicpc.net/problem/1255)          |  [cpp](source/1255.cpp)   |
+|  57  |       [가장 많은 글자](https://www.acmicpc.net/problem/1371)       |  [cpp](source/1371.cpp)   |  58  |       [도비의 영어 공부](https://www.acmicpc.net/problem/2386)        |  [cpp](source/2386.cpp)   |
+|  59  |     [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)     |  [cpp](source/4458.cpp)   |  60  |        [창영이의 일기장](https://www.acmicpc.net/problem/2954)        |  [cpp](source/2954.cpp)   |
+|  61  |         [박사 과정](https://www.acmicpc.net/problem/5026)          |  [cpp](source/5026.cpp)   |  62  |     [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)      |  [cpp](source/2204.cpp)   |
+|  63  |          [연속구간](https://www.acmicpc.net/problem/2495)          |  [cpp](source/2495.cpp)   |  64  |              [아!](https://www.acmicpc.net/problem/4999)              |  [cpp](source/4999.cpp)   |
+|  65  |          [피카츄](https://www.acmicpc.net/problem/14405)           |  [cpp](source/14405.cpp)  |  66  |           [Tautogram](https://www.acmicpc.net/problem/5698)           |  [cpp](source/5698.cpp)   |
+|  67  |  [선린인터넷고등학교 교가](https://www.acmicpc.net/problem/21964)  |  [cpp](source/21964.cpp)  |  68  | [가희야 거기서 자는 거 아니야](https://www.acmicpc.net/problem/21771) |  [cpp](source/21771.cpp)  |
 
 </details>
 
