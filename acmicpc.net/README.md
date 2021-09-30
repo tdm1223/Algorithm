@@ -432,7 +432,7 @@
 | 171  |       [The n Days of Christmas](https://www.acmicpc.net/problem/9488)        |    [cpp](source/9488.cpp)     | 172  |      [홀짝 칵테일](https://www.acmicpc.net/problem/21312)       |  [cpp](source/21312.cpp)  |
 | 173  |               [팩토리얼](https://www.acmicpc.net/problem/7489)               |    [cpp](source/7489.cpp)     | 174  |   [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553)    |  [cpp](source/2553.cpp)   |
 | 175  |             [아파트 임대](https://www.acmicpc.net/problem/5615)              |    [cpp](source/5615.cpp)     | 176  |       [이삿짐센터](https://www.acmicpc.net/problem/16237)       |  [cpp](source/16237.cpp)  |
-| 177  |           [사탕 선생 고창영](https://www.acmicpc.net/problem/2547)           |    [cpp](source/2547.cpp)     |      |                                                                 |                           |
+| 177  |           [사탕 선생 고창영](https://www.acmicpc.net/problem/2547)           |    [cpp](source/2547.cpp)     | 178  |     [희주의 수학시험](https://www.acmicpc.net/problem/8974)     |  [cpp](source/8974.cpp)   |
 
 </details>
 
