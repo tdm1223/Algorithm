@@ -251,6 +251,7 @@
 | 169  |       [종이접기](https://www.acmicpc.net/problem/16504)        | [cpp](source/16504.cpp) | 170  |            [풍선 놀이](https://www.acmicpc.net/problem/6246)             | [cpp](source/6246.cpp)  |
 | 171  |    [Occupy parking](https://www.acmicpc.net/problem/16018)     | [cpp](source/16018.cpp) | 172  |              [Sales](https://www.acmicpc.net/problem/8912)               | [cpp](source/8912.cpp)  |
 | 173  |     [숫자의 개수 2](https://www.acmicpc.net/problem/21567)     | [cpp](source/21567.cpp) | 174  |             [3의 배수](https://www.acmicpc.net/problem/1769)             | [cpp](source/1769.cpp)  |
+| 175  |       [그림 비교](https://www.acmicpc.net/problem/2160)        | [cpp](source/2160.cpp)  |      |                                                                          |                         |
 
 </details>
 
@@ -280,7 +281,7 @@
 |  11  |         [달팽이2](https://www.acmicpc.net/problem/1952)         | [cpp](source/1952.cpp)  |  12  |           [경매](https://www.acmicpc.net/problem/2238)           | [cpp](source/2238.cpp)  |
 |  13  |     [가장 큰 금민수](https://www.acmicpc.net/problem/1526)      | [cpp](source/1526.cpp)  |  14  |           [운동](https://www.acmicpc.net/problem/1173)           | [cpp](source/1173.cpp)  |
 |  15  |  [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517)   | [cpp](source/9517.cpp)  |  16  |       [로봇 청소기](https://www.acmicpc.net/problem/14503)       | [cpp](source/14503.cpp) |
-|  17  |       [수열의 변화](https://www.acmicpc.net/problem/1551)       | [cpp](source/1551.cpp)  |  18  |        [그림 비교](https://www.acmicpc.net/problem/2160)         | [cpp](source/2160.cpp)  |
+|  17  |       [수열의 변화](https://www.acmicpc.net/problem/1551)       | [cpp](source/1551.cpp)  |  18  |          [전구](https://www.acmicpc.net/problem/21918)           | [cpp](source/21918.cpp) |
 |  19  |      [나무 재테크](https://www.acmicpc.net/problem/16235)       | [cpp](source/16235.cpp) |  20  |            [뱀](https://www.acmicpc.net/problem/3190)            | [cpp](source/3190.cpp)  |
 |  21  |         [봄버맨](https://www.acmicpc.net/problem/16918)         | [cpp](source/16918.cpp) |  22  |            [킹](https://www.acmicpc.net/problem/1063)            | [cpp](source/1063.cpp)  |
 |  23  |        [톱니바퀴](https://www.acmicpc.net/problem/14891)        | [cpp](source/14891.cpp) |  24  |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)       | [cpp](source/17135.cpp) |
@@ -298,7 +299,6 @@
 |  47  |       [어른 상어](https://www.acmicpc.net/problem/19237)        | [cpp](source/19237.cpp) |  48  | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [cpp](source/20055.cpp) |
 |  49  | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [cpp](source/20056.cpp) |  50  |           [6174](https://www.acmicpc.net/problem/6174)           | [cpp](source/6174.cpp)  |
 |  51  |       [공 바꾸기](https://www.acmicpc.net/problem/10813)        | [cpp](source/10813.cpp) |  52  |        [나무 조각](https://www.acmicpc.net/problem/2947)         | [cpp](source/2947.cpp)  |
-|  53  |          [전구](https://www.acmicpc.net/problem/21918)          | [cpp](source/21918.cpp) |      |                                                                  |                         |
 
 </details>
 
