@@ -428,6 +428,7 @@
 | 165  |                 [gus](https://www.acmicpc.net/problem/3208)                  |   [cpp](source/3208.cpp)    | 166  |  [노솔브 방지문제야!!](https://www.acmicpc.net/problem/15917)   |  [cpp](source/15917.cpp)  |
 | 167  |      [등차수열에서 항 번호 찾기](https://www.acmicpc.net/problem/14913)      |   [cpp](source/14913.cpp)   | 168  |       [택시 거리](https://www.acmicpc.net/problem/17247)        |  [cpp](source/17247.cpp)  |
 | 169  |           [잉여역수 구하기](https://www.acmicpc.net/problem/15995)           |   [cpp](source/15995.cpp)   | 170  |        [초6 수학](https://www.acmicpc.net/problem/2702)         |  [cpp](source/2702.cpp)   |
+| 171  |               [귀찮음](https://www.acmicpc.net/problem/16208)                |   [cpp](source/16208.cpp)   |      |                                                                 |                           |
 
 </details>
 
