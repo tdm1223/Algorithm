@@ -333,7 +333,7 @@
 |  41  |      [문서 검색](https://www.acmicpc.net/problem/1543)       | [cpp](source/1543.cpp)  |  42  |        [블록 놀이](https://www.acmicpc.net/problem/16951)         | [cpp](source/16951.cpp) |
 |  43  |     [맥주 냉장고](https://www.acmicpc.net/problem/3595)      | [cpp](source/3595.cpp)  |  44  |      [Forbidden Zero](https://www.acmicpc.net/problem/15122)      | [cpp](source/15122.cpp) |
 |  45  |         [학번](https://www.acmicpc.net/problem/3711)         | [cpp](source/3711.cpp)  |  46  |   [공간을 만들어 봅시다](https://www.acmicpc.net/problem/10471)   | [cpp](source/10471.cpp) |
-|  47  |       [팰린드롬](https://www.acmicpc.net/problem/8892)       | [cpp](source/8892.cpp)  |      |                                                                   |                         |
+|  47  |       [팰린드롬](https://www.acmicpc.net/problem/8892)       | [cpp](source/8892.cpp)  |  48  |       [숫자 빈도수](https://www.acmicpc.net/problem/14912)        | [cpp](source/14912.cpp) |
 
 </details>
 
