@@ -7,6 +7,6 @@
 |:----:|:---------------------------------------------------------------------------------------------------:|:---------------------------------:|:----:|:-------------------------------------------------------------------------------------------------------:|:---------------------------------------:|
 |  1   |          [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap)          |    [cpp](source/BinaryGap.cpp)    |  2   | [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array) | [cpp](source/OddOccurrencesInArray.cpp) |
 |  3   |       [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation)       | [cpp](source/CyclicRotation.cpp)  |  4   |           [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp)            |        [cpp](source/FrogJmp.cpp)        |
-|  5   | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem) | [cpp](source/PermMissingElem.cpp) |      |                                                                                                         |                                         |
+|  5   | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem) | [cpp](source/PermMissingElem.cpp) |  6   |   [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium)    |    [cpp](source/TapeEquilibrium.cpp)    |
 
 </details>
