@@ -10,6 +10,6 @@
 |  5   | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem) |  [cpp](source/PermMissingElem.cpp)  |  6   |   [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium)    |    [cpp](source/TapeEquilibrium.cpp)    |
 |  7   |   [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one)   |   [cpp](source/FrogRiverOne.cpp)    |  8   |        [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check)         |       [cpp](source/PermCheck.cpp)       |
 |  9   |       [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars)        |    [cpp](source/PassingCars.cpp)    |  10  |               [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct)               |       [cpp](source/Distinct.cpp)        |
-|  11  |     [PassingCars](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three)      | [cpp](source/MaxProductOfThree.cpp) |      |                                                                                                         |                                         |
+|  11  |  [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three)   | [cpp](source/MaxProductOfThree.cpp) |  12  |              [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)               |       [cpp](source/Triangle.cpp)        |
 
 </details>
