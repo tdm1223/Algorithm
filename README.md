@@ -17,5 +17,3 @@
 ### 5. [Codility](https://github.com/tdm1223/Algorithm/tree/master/codility)
 
 ### 6. [goorm](https://github.com/tdm1223/Algorithm/tree/master/goorm.io)
-
-**Copyright &copy; 2018-2020 Kang Jegyun**
