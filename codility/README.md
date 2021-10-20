@@ -12,6 +12,6 @@
 |  9   |       [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars)        |    [cpp](source/PassingCars.cpp)    |  10  |               [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct)               |       [cpp](source/Distinct.cpp)        |
 |  11  |  [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three)   | [cpp](source/MaxProductOfThree.cpp) |  12  |               [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle)               |       [cpp](source/Triangle.cpp)        |
 |  13  |        [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets)        |     [cpp](source/Brackets.cpp)      |  14  |              [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish)              |         [cpp](source/Fish.cpp)          |
-|  15  |         [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting)         |      [cpp](source/Nesting.cpp)      |      |                                                                                                         |                                         |
+|  15  |         [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting)         |      [cpp](source/Nesting.cpp)      |  16  |        [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall)         |       [cpp](source/StoneWall.cpp)       |
 
 </details>
