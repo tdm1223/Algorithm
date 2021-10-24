@@ -450,7 +450,7 @@
 |  13  |    [동혁 피자](https://www.acmicpc.net/problem/6502)     | [cpp](source/6502.cpp)  |  14  |    [Manhattan](https://www.acmicpc.net/problem/13221)     | [cpp](source/13221.cpp) |
 |  15  |       [Art](https://www.acmicpc.net/problem/15449)       | [cpp](source/15449.cpp) |  16  |    [네 번째 점](https://www.acmicpc.net/problem/3009)     | [cpp](source/3009.cpp)  |
 |  17  |     [TV 크기](https://www.acmicpc.net/problem/1297)      | [cpp](source/1297.cpp)  |  18  |      [다면체](https://www.acmicpc.net/problem/10569)      | [cpp](source/10569.cpp) |
-|  19  |  [겉넓이 구하기](https://www.acmicpc.net/problem/16931)  | [cpp](source/16931.cpp) |      |                                                           |                         |
+|  19  |  [겉넓이 구하기](https://www.acmicpc.net/problem/16931)  | [cpp](source/16931.cpp) |  20  |  [운동장 한 바퀴](https://www.acmicpc.net/problem/16486)  | [cpp](source/16486.cpp) |
 
 </details>
 
