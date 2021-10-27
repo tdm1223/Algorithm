@@ -336,6 +336,7 @@
 |  45  |          [학번](https://www.acmicpc.net/problem/3711)           | [cpp](source/3711.cpp)  |  46  |   [공간을 만들어 봅시다](https://www.acmicpc.net/problem/10471)   | [cpp](source/10471.cpp) |
 |  47  |        [팰린드롬](https://www.acmicpc.net/problem/8892)         | [cpp](source/8892.cpp)  |  48  |       [숫자 빈도수](https://www.acmicpc.net/problem/14912)        | [cpp](source/14912.cpp) |
 |  49  | [사과와 바나나 나눠주기](https://www.acmicpc.net/problem/14914) | [cpp](source/14914.cpp) |  50  |      [거꾸로 구구단](https://www.acmicpc.net/problem/13410)       | [cpp](source/13410.cpp) |
+|  51  |       [숫자판 점프](https://www.acmicpc.net/problem/2210)       | [cpp](source/2210.cpp)  |      |                                                                   |                         |
 
 </details>
 
