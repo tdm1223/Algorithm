@@ -337,7 +337,7 @@
 |  47  |        [팰린드롬](https://www.acmicpc.net/problem/8892)         | [cpp](source/8892.cpp)  |  48  |       [숫자 빈도수](https://www.acmicpc.net/problem/14912)        | [cpp](source/14912.cpp) |
 |  49  | [사과와 바나나 나눠주기](https://www.acmicpc.net/problem/14914) | [cpp](source/14914.cpp) |  50  |      [거꾸로 구구단](https://www.acmicpc.net/problem/13410)       | [cpp](source/13410.cpp) |
 |  51  |       [숫자판 점프](https://www.acmicpc.net/problem/2210)       | [cpp](source/2210.cpp)  |  52  |       [수학적 호기심](https://www.acmicpc.net/problem/9094)       | [cpp](source/9094.cpp)  |
-|  53  |            [1](https://www.acmicpc.net/problem/4375)            | [cpp](source/4375.cpp)  |      |                                                                   |                         |
+|  53  |            [1](https://www.acmicpc.net/problem/4375)            | [cpp](source/4375.cpp)  |  54  |          [주사위](https://www.acmicpc.net/problem/1233)           | [cpp](source/1233.cpp)  |
 
 </details>
 
