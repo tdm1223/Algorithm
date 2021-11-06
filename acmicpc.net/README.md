@@ -339,6 +339,7 @@
 |  51  |       [숫자판 점프](https://www.acmicpc.net/problem/2210)       | [cpp](source/2210.cpp)  |  52  |       [수학적 호기심](https://www.acmicpc.net/problem/9094)       | [cpp](source/9094.cpp)  |
 |  53  |            [1](https://www.acmicpc.net/problem/4375)            | [cpp](source/4375.cpp)  |  54  |          [주사위](https://www.acmicpc.net/problem/1233)           | [cpp](source/1233.cpp)  |
 |  55  |       [몬스터 트럭](https://www.acmicpc.net/problem/2897)       | [cpp](source/2897.cpp)  |  56  |         [행운의 수](https://www.acmicpc.net/problem/9575)         | [cpp](source/9575.cpp)  |
+|  57  |     [외판원 순회 2](https://www.acmicpc.net/problem/10971)      | [cpp](source/10971.cpp) |      |                                                                   |                         |
 
 </details>
 
