@@ -262,11 +262,12 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                  | 코드                   | 번호 | 문제                                                         | 코드                    |
-|:----:|:-----------------------------------------------------:|:----------------------:|:----:|:------------------------------------------------------------:|:-----------------------:|
-|  1   |       [Z](https://www.acmicpc.net/problem/1074)       | [cpp](source/1074.cpp) |  2   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       | [cpp](source/1992.cpp)  |
-|  3   |  [종이의 개수](https://www.acmicpc.net/problem/1780)  | [cpp](source/1780.cpp) |  4   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [cpp](source/11729.cpp) |
-|  5   | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [cpp](source/2630.cpp) |  6   | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)  | [cpp](source/17478.cpp) |
+| 번호 | 문제                                                  | 코드                     | 번호 | 문제                                                         | 코드                    |
+|:----:|:-----------------------------------------------------:|:------------------------:|:----:|:------------------------------------------------------------:|:-----------------------:|
+|  1   |       [Z](https://www.acmicpc.net/problem/1074)       |  [cpp](source/1074.cpp)  |  2   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       | [cpp](source/1992.cpp)  |
+|  3   |  [종이의 개수](https://www.acmicpc.net/problem/1780)  |  [cpp](source/1780.cpp)  |  4   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [cpp](source/11729.cpp) |
+|  5   | [색종이 만들기](https://www.acmicpc.net/problem/2630) |  [cpp](source/2630.cpp)  |  6   | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)  | [cpp](source/17478.cpp) |
+|  7   |   [하노이 탑](https://www.acmicpc.net/problem/1914)   | [python](source/1914.py) |      |                                                              |                         |
 
 </details>
 
