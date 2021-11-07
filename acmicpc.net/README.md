@@ -341,7 +341,7 @@
 |  53  |            [1](https://www.acmicpc.net/problem/4375)            | [cpp](source/4375.cpp)  |  54  |                     [주사위](https://www.acmicpc.net/problem/1233)                     | [cpp](source/1233.cpp)  |
 |  55  |       [몬스터 트럭](https://www.acmicpc.net/problem/2897)       | [cpp](source/2897.cpp)  |  56  |                   [행운의 수](https://www.acmicpc.net/problem/9575)                    | [cpp](source/9575.cpp)  |
 |  57  |     [외판원 순회 2](https://www.acmicpc.net/problem/10971)      | [cpp](source/10971.cpp) |  58  | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) | [cpp](source/2422.cpp)  |
-|  59  |         [부등호](https://www.acmicpc.net/problem/2529)          | [cpp](source/2529.cpp)  |      |                                                                                        |                         |
+|  59  |         [부등호](https://www.acmicpc.net/problem/2529)          | [cpp](source/2529.cpp)  |  60  |                   [0의 개수](https://www.acmicpc.net/problem/11170)                    | [cpp](source/11170.cpp) |
 
 </details>
 
