@@ -677,33 +677,34 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                     | 코드                    | 번호 | 문제                                                                  | 코드                    |
-|:----:|:--------------------------------------------------------:|:-----------------------:|:----:|:---------------------------------------------------------------------:|:-----------------------:|
-|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [cpp](source/10828.cpp) |  2   |          [절댓값 힙](https://www.acmicpc.net/problem/11286)           | [cpp](source/11286.cpp) |
-|  3   |     [최소 힙](https://www.acmicpc.net/problem/1927)      | [cpp](source/1927.cpp)  |  4   |           [최대 힙](https://www.acmicpc.net/problem/11279)            | [cpp](source/11279.cpp) |
-|  5   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [cpp](source/10799.cpp) |  6   |             [괄호](https://www.acmicpc.net/problem/9012)              | [cpp](source/9012.cpp)  |
-|  7   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [cpp](source/1158.cpp)  |  8   |       [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866)        | [cpp](source/11866.cpp) |
-|  9   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [cpp](source/1874.cpp)  |  10  |          [후위 표기식](https://www.acmicpc.net/problem/1918)          | [cpp](source/1918.cpp)  |
-|  11  |        [탑](https://www.acmicpc.net/problem/2493)        | [cpp](source/2493.cpp)  |  12  |       [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)        | [cpp](source/7662.cpp)  |
-|  13  |    [괄호의 값](https://www.acmicpc.net/problem/2504)     | [cpp](source/2504.cpp)  |  14  |            [막대기](https://www.acmicpc.net/problem/17608)            | [cpp](source/17608.cpp) |
-|  15  |  [패션왕 신해빈](https://www.acmicpc.net/problem/9375)   | [cpp](source/9375.cpp)  |  16  |           [트리 순회](https://www.acmicpc.net/problem/1991)           | [cpp](source/1991.cpp)  |
-|  17  | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [cpp](source/7785.cpp)  |  18  |             [카드](https://www.acmicpc.net/problem/11652)             | [cpp](source/11652.cpp) |
-|  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)   | [cpp](source/14670.cpp) |  20  |  [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)  | [cpp](source/1620.cpp)  |
-|  21  |    [식사 예절](https://www.acmicpc.net/problem/3022)     | [cpp](source/3022.cpp)  |  22  |            [에디터](https://www.acmicpc.net/problem/1406)             | [cpp](source/1406.cpp)  |
-|  23  |        [AC](https://www.acmicpc.net/problem/5430)        | [cpp](source/5430.cpp)  |  24  |              [덱](https://www.acmicpc.net/problem/10866)              | [cpp](source/10866.cpp) |
-|  25  | [가운데를 말해요](https://www.acmicpc.net/problem/1655)  | [cpp](source/1655.cpp)  |  26  |             [집합](https://www.acmicpc.net/problem/11723)             | [cpp](source/11723.cpp) |
-|  27  |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](source/3986.cpp)  |  28  |        [이진 검색 트리](https://www.acmicpc.net/problem/5639)         | [cpp](source/5639.cpp)  |
-|  29  |      [제로](https://www.acmicpc.net/problem/10773)       | [cpp](source/10773.cpp) |  30  |           [프린터 큐](https://www.acmicpc.net/problem/1966)           | [cpp](source/1966.cpp)  |
-|  31  |     [방 배정](https://www.acmicpc.net/problem/13300)     | [cpp](source/13300.cpp) |  32  |         [카드 역배치](https://www.acmicpc.net/problem/10804)          | [cpp](source/10804.cpp) |
-|  33  |      [차집합](https://www.acmicpc.net/problem/1822)      | [cpp](source/1822.cpp)  |  34  |     [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)     | [cpp](source/16165.cpp) |
-|  35  |   [후위 표기식2](https://www.acmicpc.net/problem/1935)   | [cpp](source/1935.cpp)  |  36  |         [카드 정렬하기](https://www.acmicpc.net/problem/1715)         | [cpp](source/1715.cpp)  |
-|  37  |   [N번째 큰 수](https://www.acmicpc.net/problem/2075)    | [cpp](source/2075.cpp)  |  38  |      [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)      | [cpp](source/10867.cpp) |
-|  39  |     [오큰수](https://www.acmicpc.net/problem/17298)      | [cpp](source/17298.cpp) |  40  |            [주유소](https://www.acmicpc.net/problem/13305)            | [cpp](source/13305.cpp) |
-|  41  |     [Hashing](https://www.acmicpc.net/problem/15829)     | [cpp](source/15829.cpp) |  42  |          [수들의 합 4](https://www.acmicpc.net/problem/2015)          | [cpp](source/2015.cpp)  |
-|  43  |       [큐](https://www.acmicpc.net/problem/10845)        | [cpp](source/10845.cpp) |  44  |             [큐 2](https://www.acmicpc.net/problem/18258)             | [cpp](source/18258.cpp) |
-|  45  |   [창고 다각형](https://www.acmicpc.net/problem/2304)    | [cpp](source/2304.cpp)  |  46  |     [도키도키 간식드리미](https://www.acmicpc.net/problem/12789)      | [cpp](source/12789.cpp) |
-|  47  | [안정적인 문자열](https://www.acmicpc.net/problem/4889)  | [cpp](source/4889.cpp)  |  48  | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [cpp](source/11478.cpp) |
-|  49  |      [평행선](https://www.acmicpc.net/problem/2358)      | [cpp](source/2358.cpp)  |  50  |        [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)         | [cpp](source/11899.cpp) |
+| 번호 | 문제                                                      | 코드                    | 번호 | 문제                                                                  | 코드                    |
+|:----:|:---------------------------------------------------------:|:-----------------------:|:----:|:---------------------------------------------------------------------:|:-----------------------:|
+|  1   |       [스택](https://www.acmicpc.net/problem/10828)       | [cpp](source/10828.cpp) |  2   |          [절댓값 힙](https://www.acmicpc.net/problem/11286)           | [cpp](source/11286.cpp) |
+|  3   |      [최소 힙](https://www.acmicpc.net/problem/1927)      | [cpp](source/1927.cpp)  |  4   |           [최대 힙](https://www.acmicpc.net/problem/11279)            | [cpp](source/11279.cpp) |
+|  5   |     [쇠막대기](https://www.acmicpc.net/problem/10799)     | [cpp](source/10799.cpp) |  6   |             [괄호](https://www.acmicpc.net/problem/9012)              | [cpp](source/9012.cpp)  |
+|  7   |   [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [cpp](source/1158.cpp)  |  8   |       [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866)        | [cpp](source/11866.cpp) |
+|  9   |     [스택 수열](https://www.acmicpc.net/problem/1874)     | [cpp](source/1874.cpp)  |  10  |          [후위 표기식](https://www.acmicpc.net/problem/1918)          | [cpp](source/1918.cpp)  |
+|  11  |        [탑](https://www.acmicpc.net/problem/2493)         | [cpp](source/2493.cpp)  |  12  |       [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)        | [cpp](source/7662.cpp)  |
+|  13  |     [괄호의 값](https://www.acmicpc.net/problem/2504)     | [cpp](source/2504.cpp)  |  14  |            [막대기](https://www.acmicpc.net/problem/17608)            | [cpp](source/17608.cpp) |
+|  15  |   [패션왕 신해빈](https://www.acmicpc.net/problem/9375)   | [cpp](source/9375.cpp)  |  16  |           [트리 순회](https://www.acmicpc.net/problem/1991)           | [cpp](source/1991.cpp)  |
+|  17  | [회사에 있는 사람](https://www.acmicpc.net/problem/7785)  | [cpp](source/7785.cpp)  |  18  |             [카드](https://www.acmicpc.net/problem/11652)             | [cpp](source/11652.cpp) |
+|  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)    | [cpp](source/14670.cpp) |  20  |  [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)  | [cpp](source/1620.cpp)  |
+|  21  |     [식사 예절](https://www.acmicpc.net/problem/3022)     | [cpp](source/3022.cpp)  |  22  |            [에디터](https://www.acmicpc.net/problem/1406)             | [cpp](source/1406.cpp)  |
+|  23  |        [AC](https://www.acmicpc.net/problem/5430)         | [cpp](source/5430.cpp)  |  24  |              [덱](https://www.acmicpc.net/problem/10866)              | [cpp](source/10866.cpp) |
+|  25  |  [가운데를 말해요](https://www.acmicpc.net/problem/1655)  | [cpp](source/1655.cpp)  |  26  |             [집합](https://www.acmicpc.net/problem/11723)             | [cpp](source/11723.cpp) |
+|  27  |     [좋은 단어](https://www.acmicpc.net/problem/3986)     | [cpp](source/3986.cpp)  |  28  |        [이진 검색 트리](https://www.acmicpc.net/problem/5639)         | [cpp](source/5639.cpp)  |
+|  29  |       [제로](https://www.acmicpc.net/problem/10773)       | [cpp](source/10773.cpp) |  30  |           [프린터 큐](https://www.acmicpc.net/problem/1966)           | [cpp](source/1966.cpp)  |
+|  31  |     [방 배정](https://www.acmicpc.net/problem/13300)      | [cpp](source/13300.cpp) |  32  |         [카드 역배치](https://www.acmicpc.net/problem/10804)          | [cpp](source/10804.cpp) |
+|  33  |      [차집합](https://www.acmicpc.net/problem/1822)       | [cpp](source/1822.cpp)  |  34  |     [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)     | [cpp](source/16165.cpp) |
+|  35  |   [후위 표기식2](https://www.acmicpc.net/problem/1935)    | [cpp](source/1935.cpp)  |  36  |         [카드 정렬하기](https://www.acmicpc.net/problem/1715)         | [cpp](source/1715.cpp)  |
+|  37  |    [N번째 큰 수](https://www.acmicpc.net/problem/2075)    | [cpp](source/2075.cpp)  |  38  |      [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)      | [cpp](source/10867.cpp) |
+|  39  |      [오큰수](https://www.acmicpc.net/problem/17298)      | [cpp](source/17298.cpp) |  40  |            [주유소](https://www.acmicpc.net/problem/13305)            | [cpp](source/13305.cpp) |
+|  41  |     [Hashing](https://www.acmicpc.net/problem/15829)      | [cpp](source/15829.cpp) |  42  |          [수들의 합 4](https://www.acmicpc.net/problem/2015)          | [cpp](source/2015.cpp)  |
+|  43  |        [큐](https://www.acmicpc.net/problem/10845)        | [cpp](source/10845.cpp) |  44  |             [큐 2](https://www.acmicpc.net/problem/18258)             | [cpp](source/18258.cpp) |
+|  45  |    [창고 다각형](https://www.acmicpc.net/problem/2304)    | [cpp](source/2304.cpp)  |  46  |     [도키도키 간식드리미](https://www.acmicpc.net/problem/12789)      | [cpp](source/12789.cpp) |
+|  47  |  [안정적인 문자열](https://www.acmicpc.net/problem/4889)  | [cpp](source/4889.cpp)  |  48  | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [cpp](source/11478.cpp) |
+|  49  |      [평행선](https://www.acmicpc.net/problem/2358)       | [cpp](source/2358.cpp)  |  50  |        [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)         | [cpp](source/11899.cpp) |
+|  51  | [천재 수학자 성필](https://www.acmicpc.net/problem/15815) | [cpp](source/15815.cpp) |      |                                                                       |                         |
 
 </details>
 
