@@ -1,5 +1,5 @@
 // 6850. Cows
-// 2021.09.17
+// 2021.11.10
 // 볼록 껍질
 #include<iostream>
 #include<algorithm>
@@ -15,8 +15,9 @@ struct pos
 };
 
 vector<pos> v;
+
 // y -> x 오름차순
-bool Cmp(pos a, pos b)
+auto Cmp(pos a, pos b) -> bool
 {
     if (a.y != b.y)
     {
@@ -28,13 +29,13 @@ bool Cmp(pos a, pos b)
     }
 }
 
-long long CCW(pos a, pos b, pos c)
+auto CCW(pos a, pos b, pos c) -> long long
 {
     return (a.x * b.y + b.x * c.y + c.x * a.y) - (b.x * a.y + c.x * b.y + a.x * c.y);
 }
 
 // 0번째 점과 이루는 각도 순 정렬
-bool CmpCCW(pos a, pos b)
+auto CmpCCW(pos a, pos b) -> bool
 {
     long long cc = CCW(v[0], a, b);
     if (cc != 0)
@@ -47,15 +48,9 @@ bool CmpCCW(pos a, pos b)
     }
 }
 
-int area(const pos& a, const pos& b) {
-    return a.x * b.y - b.x * a.y;
-}
-
-long long GetDist(pos a, pos b)
+auto area(const pos& a, const pos& b) -> int
 {
-    long long dx = b.x - a.x;
-    long long dy = b.y - a.y;
-    return dx * dx + dy * dy;
+    return a.x * b.y - b.x * a.y;
 }
 
 int main()
