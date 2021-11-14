@@ -470,7 +470,7 @@
 
 | 번호 | 문제                                                      | 코드                   | 번호 | 문제                                                       | 코드                    |
 |:----:|:---------------------------------------------------------:|:----------------------:|:----:|:----------------------------------------------------------:|:-----------------------:|
-|  1   |     [볼록 껍질](https://www.acmicpc.net/problem/1152)     | [cpp](source/1152.cpp) |  2   |    [로버트 후드](https://www.acmicpc.net/problem/9240)     | [cpp](source/9240.cpp)  |
+|  1   |     [볼록 껍질](https://www.acmicpc.net/problem/1708)     | [cpp](source/1708.cpp) |  2   |    [로버트 후드](https://www.acmicpc.net/problem/9240)     | [cpp](source/9240.cpp)  |
 |  3   |    [달리기 코스](https://www.acmicpc.net/problem/1310)    | [cpp](source/1310.cpp) |  4   | [Wall construction](https://www.acmicpc.net/problem/10903) | [cpp](source/10903.cpp) |
 |  5   | [Building the Moat](https://www.acmicpc.net/problem/6194) | [cpp](source/6194.cpp) |  6   |        [Cows](https://www.acmicpc.net/problem/6850)        | [cpp](source/6850.cpp)  |
 

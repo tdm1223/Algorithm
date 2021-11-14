@@ -1,6 +1,6 @@
 // 1708. 볼록 껍질
-// 2021.05.31
-// 기하학
+// 2021.11.15
+// 볼록 껍질
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -13,55 +13,65 @@ struct pos
     long long x, y;
 };
 
-vector<pos> v;
-// y -> x 오름차순
-bool cmp(pos a, pos b)
+pos firstPos;
+
+long long CCW(pos p1, pos p2, pos p3)
 {
-    if (a.y != b.y)
-    {
-        return a.y < b.y;
-    }
-    else
-    {
-        return a.x < b.x;
-    }
+    return (p1.x * p2.y + p2.x * p3.y + p3.x * p1.y) - (p1.y * p2.x + p2.y * p3.x + p3.y * p1.x);
 }
 
-long long ccw(pos a, pos b, pos c)
+long long GetDistance(pos a, pos b)
 {
-    return (a.x * b.y + b.x * c.y + c.x * a.y) - (b.x * a.y + c.x * b.y + a.x * c.y);
+    return (a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y);
 }
 
 // 0번째 점과 이루는 각도 순 정렬
-bool cmpCcw(pos a, pos b)
+bool Compare(pos a, pos b)
 {
-    long long cc = ccw(v[0], a, b);
+    long long cc = CCW(firstPos, a, b);
     if (cc != 0)
     {
         return cc > 0;
     }
     else
     {
-        return (a.x + a.y) < (b.x + b.y);
+        return GetDistance(firstPos, a) < GetDistance(firstPos, b);
     }
 }
 
 int main()
 {
-    stack<pos> s;
     int n;
     cin >> n;
-    v.resize(n);
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; ++i)
     {
         cin >> v[i].x >> v[i].y;
     }
 
-    sort(v.begin(), v.end(), cmp);
-    sort(v.begin() + 1, v.end(), cmpCcw);
+    firstPos = v[0];
+
+    for (int i = 1; i < n; ++i)
+    {
+        if (v[i].y < firstPos.y)
+        {
+            firstPos = v[i];
+        }
+        else if (v[i].y == firstPos.y)
+        {
+            if (v[i].x < firstPos.x)
+            {
+                firstPos = v[i];
+            }
+        }
+    }
+
+    sort(v.begin(), v.end(), Compare);
+
+    stack<pos> s;
 
     s.push(v[0]);
     s.push(v[1]);
+
     pos first, second;
 
     for (int i = 2; i < n; i++)
@@ -71,16 +81,16 @@ int main()
             second = s.top();
             s.pop();
             first = s.top();
-            if (ccw(first, second, v[i]) > 0)
+
+            if (CCW(first, second, v[i]) > 0)
             {
                 s.push(second);
                 break;
             }
-
         }
         s.push(v[i]);
     }
 
-    cout << s.size();
+    cout << s.size() << endl;
     return 0;
 }
