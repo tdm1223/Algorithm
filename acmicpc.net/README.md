@@ -138,7 +138,7 @@
 |  17  | [별 찍기 - 17](https://www.acmicpc.net/problem/10992) | [cpp](source/10992.cpp) |  18  | [별 찍기 - 18](https://www.acmicpc.net/problem/10993) |                         |
 |  19  | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |                         |  20  | [별 찍기 - 20](https://www.acmicpc.net/problem/10995) | [cpp](source/10995.cpp) |
 |  21  | [별 찍기 - 21](https://www.acmicpc.net/problem/10996) | [cpp](source/10996.cpp) |  22  | [별 찍기 - 22](https://www.acmicpc.net/problem/10997) |                         |
-|  23  | [별 찍기 - 23](https://www.acmicpc.net/problem/13015) |                         |      |                                                       |                         |
+|  23  | [별 찍기 - 23](https://www.acmicpc.net/problem/13015) |                         |  24  |      [별](https://www.acmicpc.net/problem/16505)      | [cpp](source/16505.cpp) |
 
 </details>
 
