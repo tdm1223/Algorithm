@@ -714,10 +714,10 @@
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                              | 코드                    | 번호 | 문제                                               | 코드                    |
-|:----:|:-------------------------------------------------:|:-----------------------:|:----:|:--------------------------------------------------:|:-----------------------:|
-|  1   |  [돌 게임](https://www.acmicpc.net/problem/9655)  | [cpp](source/9655.cpp)  |  2   | [돌 게임 2](https://www.acmicpc.net/problem/9656)  | [cpp](source/9656.cpp)  |
-|  3   | [돌 게임 5](https://www.acmicpc.net/problem/9659) | [cpp](source/9659.cpp)  |  4   | [님 게임 2](https://www.acmicpc.net/problem/11868) | [cpp](source/11868.cpp) |
-|  5   |   [님블](https://www.acmicpc.net/problem/11869)   | [cpp](source/11869.cpp) |      |                                                    |                         |
+| 번호 | 문제                                              | 코드                    | 번호 | 문제                                                     | 코드                    |
+|:----:|:-------------------------------------------------:|:-----------------------:|:----:|:--------------------------------------------------------:|:-----------------------:|
+|  1   |  [돌 게임](https://www.acmicpc.net/problem/9655)  | [cpp](source/9655.cpp)  |  2   |    [돌 게임 2](https://www.acmicpc.net/problem/9656)     | [cpp](source/9656.cpp)  |
+|  3   | [돌 게임 5](https://www.acmicpc.net/problem/9659) | [cpp](source/9659.cpp)  |  4   |    [님 게임 2](https://www.acmicpc.net/problem/11868)    | [cpp](source/11868.cpp) |
+|  5   |   [님블](https://www.acmicpc.net/problem/11869)   | [cpp](source/11869.cpp) |  6   | [베스킨라빈스 31](https://www.acmicpc.net/problem/20004) | [cpp](source/20004.cpp) |
 
 </details>
