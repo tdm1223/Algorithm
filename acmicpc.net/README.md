@@ -720,5 +720,6 @@
 |  3   | [돌 게임 5](https://www.acmicpc.net/problem/9659) | [cpp](source/9659.cpp)  |  4   |    [님 게임 2](https://www.acmicpc.net/problem/11868)    | [cpp](source/11868.cpp) |
 |  5   |   [님블](https://www.acmicpc.net/problem/11869)   | [cpp](source/11869.cpp) |  6   | [베스킨라빈스 31](https://www.acmicpc.net/problem/20004) | [cpp](source/20004.cpp) |
 |  7   | [돌 게임 3](https://www.acmicpc.net/problem/9657) | [cpp](source/9657.cpp)  |  8   |    [돌 게임 4](https://www.acmicpc.net/problem/9658)     | [cpp](source/9658.cpp)  |
+|  9   | [돌 게임 6](https://www.acmicpc.net/problem/9660) | [cpp](source/9660.cpp)  |      |                                                          |                         |
 
 </details>
