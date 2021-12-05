@@ -118,6 +118,7 @@
 |  15  |  [마이크로소프트 로고](https://www.acmicpc.net/problem/5338)   |  [cpp](source/5338.cpp)   |  16  |      [스타워즈 로고](https://www.acmicpc.net/problem/9653)       | [cpp](source/9653.cpp)  |
 |  17  |      [전북대학교](https://www.acmicpc.net/problem/14624)       |  [cpp](source/14624.cpp)  |  18  |           [웰컴](https://www.acmicpc.net/problem/5337)           | [cpp](source/5337.cpp)  |
 |  19  |       [오늘 날짜](https://www.acmicpc.net/problem/10699)       | [java](source/10699.java) |  20  | [골뱅이 찍기 - 뒤집힌 ㄱ](https://www.acmicpc.net/problem/23802) | [cpp](source/23802.cpp) |
+|  21  |   [골뱅이 찍기 - ㄴ](https://www.acmicpc.net/problem/23803)    |  [cpp](source/23803.cpp)  |      |                                                                  |                         |
 
 </details>
 
