@@ -119,6 +119,7 @@
 |  17  |      [전북대학교](https://www.acmicpc.net/problem/14624)       |  [cpp](source/14624.cpp)  |  18  |           [웰컴](https://www.acmicpc.net/problem/5337)           | [cpp](source/5337.cpp)  |
 |  19  |       [오늘 날짜](https://www.acmicpc.net/problem/10699)       | [java](source/10699.java) |  20  | [골뱅이 찍기 - 뒤집힌 ㄱ](https://www.acmicpc.net/problem/23802) | [cpp](source/23802.cpp) |
 |  21  |   [골뱅이 찍기 - ㄴ](https://www.acmicpc.net/problem/23803)    |  [cpp](source/23803.cpp)  |  22  |    [골뱅이 찍기 - ㄷ](https://www.acmicpc.net/problem/23804)     | [cpp](source/23804.cpp) |
+|  23  |   [골뱅이 찍기 - ㅁ](https://www.acmicpc.net/problem/23806)    |  [cpp](source/23806.cpp)  |      |                                                                  |                         |
 
 </details>
 
