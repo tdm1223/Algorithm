@@ -679,6 +679,7 @@
 |  25  |     [행복 유치원](https://www.acmicpc.net/problem/13164)     | [cpp](source/13164.cpp) |  26  |     [힙 정렬](https://www.acmicpc.net/problem/2220)      | [cpp](source/2220.cpp)  |
 |  27  |       [방탈출](https://www.acmicpc.net/problem/15729)        | [cpp](source/15729.cpp) |  28  | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | [cpp](source/2720.cpp)  |
 |  29  | [욱제는 도박쟁이야!!](https://www.acmicpc.net/problem/14655) | [cpp](source/14655.cpp) |  30  |  [Project Teams](https://www.acmicpc.net/problem/20044)  | [cpp](source/20044.cpp) |
+|  31  |       [책 정리](https://www.acmicpc.net/problem/1434)        | [cpp](source/1434.cpp)  |      |                                                          |                         |
 
 </details>
 
