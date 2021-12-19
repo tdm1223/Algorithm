@@ -119,7 +119,7 @@
 |  17  |      [전북대학교](https://www.acmicpc.net/problem/14624)       |  [cpp](source/14624.cpp)  |  18  |           [웰컴](https://www.acmicpc.net/problem/5337)           | [cpp](source/5337.cpp)  |
 |  19  |       [오늘 날짜](https://www.acmicpc.net/problem/10699)       | [java](source/10699.java) |  20  | [골뱅이 찍기 - 뒤집힌 ㄱ](https://www.acmicpc.net/problem/23802) | [cpp](source/23802.cpp) |
 |  21  |   [골뱅이 찍기 - ㄴ](https://www.acmicpc.net/problem/23803)    |  [cpp](source/23803.cpp)  |  22  |    [골뱅이 찍기 - ㄷ](https://www.acmicpc.net/problem/23804)     | [cpp](source/23804.cpp) |
-|  23  |   [골뱅이 찍기 - ㅁ](https://www.acmicpc.net/problem/23806)    |  [cpp](source/23806.cpp)  |  24  | [골뱅이 찍기 - 돌아간 ㄹ](https://www.acmicpc.net/problem/23805) | [cpp](source/23805.cpp) |
+|  23  |   [골뱅이 찍기 - ㅁ](https://www.acmicpc.net/problem/23806)    |  [cpp](source/23806.cpp)  |  24  |  [골뱅이 찍기 - 돌아간 ](https://www.acmicpc.net/problem/23804)  | [cpp](source/23804.cpp) |
 
 </details>
 
@@ -258,9 +258,7 @@
 | 179  |                 [최소, 최대](https://www.acmicpc.net/problem/10818)                  | [cpp](source/10818.cpp) | 180  |                [최소, 최대 2](https://www.acmicpc.net/problem/20053)                 | [cpp](source/20053.cpp) |
 | 181  |                 [피시방 알바](https://www.acmicpc.net/problem/1453)                  | [cpp](source/1453.cpp)  | 182  |                 [접두사 배열](https://www.acmicpc.net/problem/13322)                 | [cpp](source/13322.cpp) |
 | 183  |                 [매직스퀘어](https://www.acmicpc.net/problem/15739)                  | [cpp](source/15739.cpp) | 184  |                     [카약](https://www.acmicpc.net/problem/2890)                     | [cpp](source/2890.cpp)  |
-| 185  |                  [K 2K 게임](https://www.acmicpc.net/problem/21603)                  | [cpp](source/21603.cpp) | 186  |     [사장님 도박은 재미로 하셔야 합니다](https://www.acmicpc.net/problem/23795)      | [cpp](source/23795.cpp) |
-| 187  |                [팀 이름 정하기](https://www.acmicpc.net/problem/1296)                | [cpp](source/1296.cpp)  | 188  |                 [미국 스타일](https://www.acmicpc.net/problem/2712)                  | [cpp](source/2712.cpp)  |
-| 189  |                  [학생 번호](https://www.acmicpc.net/problem/1235)                   | [cpp](source/1235.cpp)  |      |                                                                                      |                         |
+| 185  |                  [K 2K 게임](https://www.acmicpc.net/problem/21603)                  | [cpp](source/21603.cpp) |      |                                                                                      |                         |
 
 </details>
 
@@ -348,7 +346,6 @@
 |  55  |       [몬스터 트럭](https://www.acmicpc.net/problem/2897)       | [cpp](source/2897.cpp)  |  56  |                   [행운의 수](https://www.acmicpc.net/problem/9575)                    | [cpp](source/9575.cpp)  |
 |  57  |     [외판원 순회 2](https://www.acmicpc.net/problem/10971)      | [cpp](source/10971.cpp) |  58  | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) | [cpp](source/2422.cpp)  |
 |  59  |         [부등호](https://www.acmicpc.net/problem/2529)          | [cpp](source/2529.cpp)  |  60  |                   [0의 개수](https://www.acmicpc.net/problem/11170)                    | [cpp](source/11170.cpp) |
-|  61  |        [좋은 구간](https://www.acmicpc.net/problem/1059)        | [cpp](source/1059.cpp)  |      |                                                                                        |                         |
 
 </details>
 
@@ -526,6 +523,7 @@
 |  67  |  [선린인터넷고등학교 교가](https://www.acmicpc.net/problem/21964)  |  [cpp](source/21964.cpp)  |  68  | [가희야 거기서 자는 거 아니야](https://www.acmicpc.net/problem/21771) |  [cpp](source/21771.cpp)  |
 |  69  |           [버그왕](https://www.acmicpc.net/problem/3447)           |  [cpp](source/3447.cpp)   |  70  |     [Darius님 한타 안 함?](https://www.acmicpc.net/problem/20499)     |  [cpp](source/20499.cpp)  |
 |  71  |           [줄번호](https://www.acmicpc.net/problem/4470)           |  [cpp](source/4470.cpp)   |  72  |       [단어순서 뒤집기](https://www.acmicpc.net/problem/12605)        |  [cpp](source/12605.cpp)  |
+|  73  |        [Cryptoquote](https://www.acmicpc.net/problem/2703)         |  [cpp](source/2703.cpp)   |      |                                                                       |                           |
 
 </details>
 
@@ -560,7 +558,6 @@
 |  45  |       [종이자르기](https://www.acmicpc.net/problem/2628)       |  [cpp](source/2628.cpp)  |  46  |         [배열 합치기](https://www.acmicpc.net/problem/11728)          | [cpp](source/11728.cpp) |
 |  47  |      [키 큰 사람](https://www.acmicpc.net/problem/11292)       | [cpp](source/11292.cpp)  |  48  |          [좌표 압축](https://www.acmicpc.net/problem/18870)           | [cpp](source/18870.cpp) |
 |  49  |       [두 수의 합](https://www.acmicpc.net/problem/3273)       |  [cpp](source/3273.cpp)  |  50  |         [게으른 백곰](https://www.acmicpc.net/problem/10025)          | [cpp](source/10025.cpp) |
-|  51  |       [수열 정렬](https://www.acmicpc.net/problem/1015)        |  [cpp](source/1015.cpp)  |      |                                                                       |                         |
 
 </details>
 
@@ -680,7 +677,6 @@
 |  25  |     [행복 유치원](https://www.acmicpc.net/problem/13164)     | [cpp](source/13164.cpp) |  26  |     [힙 정렬](https://www.acmicpc.net/problem/2220)      | [cpp](source/2220.cpp)  |
 |  27  |       [방탈출](https://www.acmicpc.net/problem/15729)        | [cpp](source/15729.cpp) |  28  | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | [cpp](source/2720.cpp)  |
 |  29  | [욱제는 도박쟁이야!!](https://www.acmicpc.net/problem/14655) | [cpp](source/14655.cpp) |  30  |  [Project Teams](https://www.acmicpc.net/problem/20044)  | [cpp](source/20044.cpp) |
-|  31  |       [책 정리](https://www.acmicpc.net/problem/1434)        | [cpp](source/1434.cpp)  |      |                                                          |                         |
 
 </details>
 
