@@ -259,6 +259,7 @@
 | 181  |                 [피시방 알바](https://www.acmicpc.net/problem/1453)                  | [cpp](source/1453.cpp)  | 182  |                 [접두사 배열](https://www.acmicpc.net/problem/13322)                 | [cpp](source/13322.cpp) |
 | 183  |                 [매직스퀘어](https://www.acmicpc.net/problem/15739)                  | [cpp](source/15739.cpp) | 184  |                     [카약](https://www.acmicpc.net/problem/2890)                     | [cpp](source/2890.cpp)  |
 | 185  |                  [K 2K 게임](https://www.acmicpc.net/problem/21603)                  | [cpp](source/21603.cpp) | 186  |                [뜨거운 붕어빵](https://www.acmicpc.net/problem/11945)                | [cpp](source/11945.cpp) |
+| 187  |                  [인생 게임](https://www.acmicpc.net/problem/15351)                  | [cpp](source/15351.cpp) |      |                                                                                      |                         |
 
 </details>
 
