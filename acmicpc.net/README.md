@@ -264,6 +264,7 @@
 | 191  |                [가계부 (Easy)](https://www.acmicpc.net/problem/12836)                | [cpp](source/12836.cpp) | 192  |                  [숫자 놀이](https://www.acmicpc.net/problem/2145)                   | [cpp](source/2145.cpp)  |
 | 193  |                [꿍의 우주여행](https://www.acmicpc.net/problem/9501)                 | [cpp](source/9501.cpp)  | 194  |                  [감정이입](https://www.acmicpc.net/problem/14623)                   | [cpp](source/14623.cpp) |
 | 195  |             [뉴비의 기준은 뭘까?](https://www.acmicpc.net/problem/19944)             | [cpp](source/19944.cpp) | 196  |   [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)    | [cpp](source/24264.cpp) |
+| 197  |   [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)    | [cpp](source/24262.cpp) |      |                                                                                      |                         |
 
 </details>
 
