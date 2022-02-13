@@ -120,7 +120,7 @@
 |  19  |       [오늘 날짜](https://www.acmicpc.net/problem/10699)        | [java](source/10699.java) |  20  | [골뱅이 찍기 - 뒤집힌 ㄱ](https://www.acmicpc.net/problem/23802) | [cpp](source/23802.cpp) |
 |  21  |    [골뱅이 찍기 - ㄴ](https://www.acmicpc.net/problem/23803)    |  [cpp](source/23803.cpp)  |  22  |    [골뱅이 찍기 - ㄷ](https://www.acmicpc.net/problem/23804)     | [cpp](source/23804.cpp) |
 |  23  |    [골뱅이 찍기 - ㅁ](https://www.acmicpc.net/problem/23806)    |  [cpp](source/23806.cpp)  |  24  | [골뱅이 찍기 - 돌아간 ㄹ](https://www.acmicpc.net/problem/23805) | [cpp](source/23805.cpp) |
-|  25  | [골뱅이 찍기 - 정사각형](https://www.acmicpc.net/problem/23794) |  [cpp](source/23794.cpp)  |      |                                                                  |                         |
+|  25  | [골뱅이 찍기 - 정사각형](https://www.acmicpc.net/problem/23794) |  [cpp](source/23794.cpp)  |  26  | [골뱅이 찍기 - 돌아간 ㄹ](https://www.acmicpc.net/problem/23808) | [cpp](source/23808.cpp) |
 
 </details>
 
