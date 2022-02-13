@@ -458,23 +458,23 @@
 
 </details>
 
-### 기하
+### 기하학
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제                                                     | 코드                    | 번호 | 문제                                                      | 코드                    |
-|:----:|:--------------------------------------------------------:|:-----------------------:|:----:|:---------------------------------------------------------:|:-----------------------:|
-|  1   |  [사분면 고르기](https://www.acmicpc.net/problem/14681)  | [cpp](source/14681.cpp) |  2   | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [cpp](source/1085.cpp)  |
-|  3   |       [터렛](https://www.acmicpc.net/problem/1002)       | [cpp](source/1002.cpp)  |  4   |    [직각삼각형](https://www.acmicpc.net/problem/4153)     | [cpp](source/4153.cpp)  |
-|  5   |   [택시 기하학](https://www.acmicpc.net/problem/3053)    | [cpp](source/3053.cpp)  |  6   |     [어린 왕자](https://www.acmicpc.net/problem/1004)     | [cpp](source/1004.cpp)  |
-|  7   |  [삼각형 외우기](https://www.acmicpc.net/problem/10101)  | [cpp](source/10101.cpp) |  8   |       [CCW](https://www.acmicpc.net/problem/11758)        | [cpp](source/11758.cpp) |
-|  9   |    [고급 수학](https://www.acmicpc.net/problem/7510)     | [cpp](source/7510.cpp)  |  10  |     [정사각형](https://www.acmicpc.net/problem/1485)      | [cpp](source/1485.cpp)  |
-|  11  | [컵라면 측정하기](https://www.acmicpc.net/problem/16479) | [cpp](source/16479.cpp) |  12  |   [접시 안의 원](https://www.acmicpc.net/problem/16483)   | [cpp](source/16483.cpp) |
-|  13  |    [동혁 피자](https://www.acmicpc.net/problem/6502)     | [cpp](source/6502.cpp)  |  14  |    [Manhattan](https://www.acmicpc.net/problem/13221)     | [cpp](source/13221.cpp) |
-|  15  |       [Art](https://www.acmicpc.net/problem/15449)       | [cpp](source/15449.cpp) |  16  |    [네 번째 점](https://www.acmicpc.net/problem/3009)     | [cpp](source/3009.cpp)  |
-|  17  |     [TV 크기](https://www.acmicpc.net/problem/1297)      | [cpp](source/1297.cpp)  |  18  |      [다면체](https://www.acmicpc.net/problem/10569)      | [cpp](source/10569.cpp) |
-|  19  |  [겉넓이 구하기](https://www.acmicpc.net/problem/16931)  | [cpp](source/16931.cpp) |  20  |  [운동장 한 바퀴](https://www.acmicpc.net/problem/16486)  | [cpp](source/16486.cpp) |
-|  21  |  [다각형의 면적](https://www.acmicpc.net/problem/2166)   | [cpp](source/2166.cpp)  |      |                                                           |                         |
+| 번호 | 문제                                                     | 코드                    | 번호 | 문제                                                         | 코드                    |
+|:----:|:--------------------------------------------------------:|:-----------------------:|:----:|:------------------------------------------------------------:|:-----------------------:|
+|  1   |  [사분면 고르기](https://www.acmicpc.net/problem/14681)  | [cpp](source/14681.cpp) |  2   |  [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)   | [cpp](source/1085.cpp)  |
+|  3   |       [터렛](https://www.acmicpc.net/problem/1002)       | [cpp](source/1002.cpp)  |  4   |      [직각삼각형](https://www.acmicpc.net/problem/4153)      | [cpp](source/4153.cpp)  |
+|  5   |   [택시 기하학](https://www.acmicpc.net/problem/3053)    | [cpp](source/3053.cpp)  |  6   |      [어린 왕자](https://www.acmicpc.net/problem/1004)       | [cpp](source/1004.cpp)  |
+|  7   |  [삼각형 외우기](https://www.acmicpc.net/problem/10101)  | [cpp](source/10101.cpp) |  8   |         [CCW](https://www.acmicpc.net/problem/11758)         | [cpp](source/11758.cpp) |
+|  9   |    [고급 수학](https://www.acmicpc.net/problem/7510)     | [cpp](source/7510.cpp)  |  10  |       [정사각형](https://www.acmicpc.net/problem/1485)       | [cpp](source/1485.cpp)  |
+|  11  | [컵라면 측정하기](https://www.acmicpc.net/problem/16479) | [cpp](source/16479.cpp) |  12  |    [접시 안의 원](https://www.acmicpc.net/problem/16483)     | [cpp](source/16483.cpp) |
+|  13  |    [동혁 피자](https://www.acmicpc.net/problem/6502)     | [cpp](source/6502.cpp)  |  14  |      [Manhattan](https://www.acmicpc.net/problem/13221)      | [cpp](source/13221.cpp) |
+|  15  |       [Art](https://www.acmicpc.net/problem/15449)       | [cpp](source/15449.cpp) |  16  |      [네 번째 점](https://www.acmicpc.net/problem/3009)      | [cpp](source/3009.cpp)  |
+|  17  |     [TV 크기](https://www.acmicpc.net/problem/1297)      | [cpp](source/1297.cpp)  |  18  |       [다면체](https://www.acmicpc.net/problem/10569)        | [cpp](source/10569.cpp) |
+|  19  |  [겉넓이 구하기](https://www.acmicpc.net/problem/16931)  | [cpp](source/16931.cpp) |  20  |   [운동장 한 바퀴](https://www.acmicpc.net/problem/16486)    | [cpp](source/16486.cpp) |
+|  21  |  [다각형의 면적](https://www.acmicpc.net/problem/2166)   | [cpp](source/2166.cpp)  |  22  | [백발백준하는 명사수](https://www.acmicpc.net/problem/22938) | [cpp](source/22938.cpp) |
 
 </details>
 
