@@ -407,7 +407,7 @@
 |  73  |           [파스칼의 삼각형](https://www.acmicpc.net/problem/16395)           |   [cpp](source/16395.cpp)   |  74  |    [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)    |  [cpp](source/2869.cpp)   |
 |  75  |         [오버플로우와 모듈러](https://www.acmicpc.net/problem/15818)         |   [cpp](source/15818.cpp)   |  76  |            [사분면](https://www.acmicpc.net/problem/9610)            |  [cpp](source/9610.cpp)   |
 |  77  |               [반복수열](https://www.acmicpc.net/problem/2331)               |   [cpp](source/2331.cpp)    |  78  |       [사탕 선생 고창영](https://www.acmicpc.net/problem/2547)       |  [cpp](source/2547.cpp)   |
-|  79  |             [큰 수 곱셈](https://www.acmicpc.net/problem/13227)              |  [java](source/13227.java)  |  80  |          [행렬 덧셈](https://www.acmicpc.net/problem/2738)           |  [cpp](source/2738.cpp)   |
+|  79  |             [큰 수 곱셈](https://www.acmicpc.net/problem/13277)              |  [java](source/13277.java)  |  80  |          [행렬 덧셈](https://www.acmicpc.net/problem/2738)           |  [cpp](source/2738.cpp)   |
 |  81  |             [수들의 합 5](https://www.acmicpc.net/problem/2018)              |   [cpp](source/2018.cpp)    |  82  |          [합 구하기](https://www.acmicpc.net/problem/11441)          |  [cpp](source/11441.cpp)  |
 |  83  |             [완전 제곱수](https://www.acmicpc.net/problem/6131)              |  [java](source/6131.java)   |  84  |             [gus](https://www.acmicpc.net/problem/3208)              |  [cpp](source/3208.cpp)   |
 |  85  |              [진짜 공간](https://www.acmicpc.net/problem/1350)               |   [cpp](source/1350.cpp)    |  86  |            [개미](https://www.acmicpc.net/problem/10158)             |  [cpp](source/10158.cpp)  |
