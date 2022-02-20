@@ -447,6 +447,7 @@
 | 153  |                [대표값](https://www.acmicpc.net/problem/2592)                |   [cpp](source/2592.cpp)    | 154  |              [24](https://www.acmicpc.net/problem/1408)              |  [cpp](source/1408.cpp)   |
 | 155  |         [욱제는 효도쟁이야!!](https://www.acmicpc.net/problem/14487)         |   [cpp](source/14487.cpp)   | 156  |            [세금](https://www.acmicpc.net/problem/20492)             |  [cpp](source/20492.cpp)  |
 | 157  |             [악마의 제안](https://www.acmicpc.net/problem/23972)             |   [cpp](source/23972.cpp)   | 158  |           [스물셋](https://www.acmicpc.net/problem/23251)            |  [cpp](source/23251.cpp)  |
+| 159  |            [고고학자 예린](https://www.acmicpc.net/problem/20953)            |   [cpp](source/20953.cpp)   |      |                                                                      |                           |
 
 </details>
 
