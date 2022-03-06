@@ -469,6 +469,7 @@
 |  17  |     [TV 크기](https://www.acmicpc.net/problem/1297)      | [cpp](source/1297.cpp)  |  18  |       [다면체](https://www.acmicpc.net/problem/10569)        | [cpp](source/10569.cpp) |
 |  19  |  [겉넓이 구하기](https://www.acmicpc.net/problem/16931)  | [cpp](source/16931.cpp) |  20  |   [운동장 한 바퀴](https://www.acmicpc.net/problem/16486)    | [cpp](source/16486.cpp) |
 |  21  |  [다각형의 면적](https://www.acmicpc.net/problem/2166)   | [cpp](source/2166.cpp)  |  22  | [백발백준하는 명사수](https://www.acmicpc.net/problem/22938) | [cpp](source/22938.cpp) |
+|  23  |    [평행사변형](https://www.acmicpc.net/problem/1064)    | [cpp](source/1064.cpp)  |      |                                                              |                         |
 
 </details>
 
