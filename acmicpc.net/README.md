@@ -121,7 +121,7 @@
 |  21  |    [골뱅이 찍기 - ㄴ](https://www.acmicpc.net/problem/23803)     |  [cpp](source/23803.cpp)  |  22  |    [골뱅이 찍기 - ㄷ](https://www.acmicpc.net/problem/23804)     | [cpp](source/23804.cpp) |
 |  23  |    [골뱅이 찍기 - ㅁ](https://www.acmicpc.net/problem/23806)     |  [cpp](source/23806.cpp)  |  24  | [골뱅이 찍기 - 돌아간 ㄹ](https://www.acmicpc.net/problem/23805) | [cpp](source/23805.cpp) |
 |  25  | [골뱅이 찍기 - 정사각형](https://www.acmicpc.net/problem/23794)  |  [cpp](source/23794.cpp)  |  26  |    [골뱅이 찍기 - ㅂ](https://www.acmicpc.net/problem/23808)     | [cpp](source/23808.cpp) |
-|  27  | [골뱅이 찍기 - 뒤집힌 ㅋ](https://www.acmicpc.net/problem/23810) |  [cpp](source/23810.cpp)  |      |                                                                  |                         |
+|  27  | [골뱅이 찍기 - 뒤집힌 ㅋ](https://www.acmicpc.net/problem/23810) |  [cpp](source/23810.cpp)  |  28  | [골뱅이 찍기 - 돌아간 ㅍ](https://www.acmicpc.net/problem/23812) | [cpp](source/23812.cpp) |
 
 </details>
 
