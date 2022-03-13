@@ -742,7 +742,7 @@
 |  47  |  [안정적인 문자열](https://www.acmicpc.net/problem/4889)  | [cpp](source/4889.cpp)  |  48  | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [cpp](source/11478.cpp) |
 |  49  |      [평행선](https://www.acmicpc.net/problem/2358)       | [cpp](source/2358.cpp)  |  50  |        [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)         | [cpp](source/11899.cpp) |
 |  51  | [천재 수학자 성필](https://www.acmicpc.net/problem/15815) | [cpp](source/15815.cpp) |  52  |          [파일 정리](https://www.acmicpc.net/problem/20291)           | [cpp](source/20291.cpp) |
-|  53  |  [Olympiad Pizza](https://www.acmicpc.net/problem/15235)  | [cpp](source/15235.cpp) |      |                                                                       |                         |
+|  53  |  [Olympiad Pizza](https://www.acmicpc.net/problem/15235)  | [cpp](source/15235.cpp) |  54  |            [암기왕](https://www.acmicpc.net/problem/2776)             | [cpp](source/2776.cpp)  |
 
 </details>
 
