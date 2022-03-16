@@ -743,7 +743,7 @@
 |  49  |      [평행선](https://www.acmicpc.net/problem/2358)       | [cpp](source/2358.cpp)  |  50  |        [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)         | [cpp](source/11899.cpp) |
 |  51  | [천재 수학자 성필](https://www.acmicpc.net/problem/15815) | [cpp](source/15815.cpp) |  52  |          [파일 정리](https://www.acmicpc.net/problem/20291)           | [cpp](source/20291.cpp) |
 |  53  |  [Olympiad Pizza](https://www.acmicpc.net/problem/15235)  | [cpp](source/15235.cpp) |  54  |            [암기왕](https://www.acmicpc.net/problem/2776)             | [cpp](source/2776.cpp)  |
-|  55  |     [Prosjek](https://www.acmicpc.net/problem/15577)      | [cpp](source/15577.cpp) |      |                                                                       |                         |
+|  55  |     [Prosjek](https://www.acmicpc.net/problem/15577)      | [cpp](source/15577.cpp) |  56  |        [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)         | [cpp](source/17413.cpp) |
 
 </details>
 
