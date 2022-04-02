@@ -271,7 +271,7 @@
 | 201  |                 [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)                  | [cpp](source/1357.cpp)  | 202  |              [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)              | [cpp](source/1652.cpp)  |
 | 203  |   [알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)    | [cpp](source/24265.cpp) | 204  |                   [콘서트](https://www.acmicpc.net/problem/16466)                    | [cpp](source/16466.cpp) |
 | 205  |                     [저항](https://www.acmicpc.net/problem/1076)                     | [cpp](source/1076.cpp)  | 206  |                [공사장 표지판](https://www.acmicpc.net/problem/23055)                | [cpp](source/23055.cpp) |
-| 207  |                  [Ресторан](https://www.acmicpc.net/problem/23738)                   | [cpp](source/23738.cpp) |      |                                                                                      |                         |
+| 207  |                  [Ресторан](https://www.acmicpc.net/problem/23738)                   | [cpp](source/23738.cpp) | 208  |                  [자동완성](https://www.acmicpc.net/problem/24883)                   | [cpp](source/24883.cpp) |
 
 </details>
 
