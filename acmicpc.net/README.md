@@ -587,7 +587,7 @@
 |  45  |       [종이자르기](https://www.acmicpc.net/problem/2628)       |  [cpp](source/2628.cpp)  |  46  |         [배열 합치기](https://www.acmicpc.net/problem/11728)          | [cpp](source/11728.cpp) |
 |  47  |      [키 큰 사람](https://www.acmicpc.net/problem/11292)       | [cpp](source/11292.cpp)  |  48  |          [좌표 압축](https://www.acmicpc.net/problem/18870)           | [cpp](source/18870.cpp) |
 |  49  |       [두 수의 합](https://www.acmicpc.net/problem/3273)       |  [cpp](source/3273.cpp)  |  50  |         [게으른 백곰](https://www.acmicpc.net/problem/10025)          | [cpp](source/10025.cpp) |
-|  51  |          [약속](https://www.acmicpc.net/problem/1183)          |  [cpp](source/1183.cpp)  |      |                                                                       |                         |
+|  51  |          [약속](https://www.acmicpc.net/problem/1183)          |  [cpp](source/1183.cpp)  |  52  |       [효정과 새 모니터](https://www.acmicpc.net/problem/20949)       | [cpp](source/20949.cpp) |
 
 </details>
 
