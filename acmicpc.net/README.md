@@ -453,6 +453,7 @@
 | 157  |             [악마의 제안](https://www.acmicpc.net/problem/23972)             |   [cpp](source/23972.cpp)   | 158  |           [스물셋](https://www.acmicpc.net/problem/23251)            |  [cpp](source/23251.cpp)  |
 | 159  |            [고고학자 예린](https://www.acmicpc.net/problem/20953)            |   [cpp](source/20953.cpp)   | 160  |         [Next in line](https://www.acmicpc.net/problem/6749)         |  [cpp](source/6749.cpp)   |
 | 161  |           [Balanced String](https://www.acmicpc.net/problem/17520)           |   [cpp](source/17520.cpp)   | 162  |          [괴짜 교수](https://www.acmicpc.net/problem/11109)          |  [cpp](source/11109.cpp)  |
+| 163  |                [주사위](https://www.acmicpc.net/problem/9295)                |   [cpp](source/9295.cpp)    |      |                                                                      |                           |
 
 </details>
 
