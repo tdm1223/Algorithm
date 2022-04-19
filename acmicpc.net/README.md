@@ -635,7 +635,7 @@
 |  67  |        [Four Squares](https://www.acmicpc.net/problem/17626)         | [cpp](source/17626.cpp) |  68  |      [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)      | [cpp](source/11660.cpp) |
 |  69  |      [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)       | [cpp](source/15989.cpp) |  70  |           [개근상](https://www.acmicpc.net/problem/1563)            | [cpp](source/1563.cpp)  |
 |  71  |       [파이프 옮기기 2](https://www.acmicpc.net/problem/17069)       | [cpp](source/17069.cpp) |  72  |          [거스름돈](https://www.acmicpc.net/problem/14916)          | [cpp](source/14916.cpp) |
-|  73  |       [신나는 함수 실행](https://www.acmicpc.net/problem/9184)       | [cpp](source/9184.cpp)  |      |                                                                     |                         |
+|  73  |       [신나는 함수 실행](https://www.acmicpc.net/problem/9184)       | [cpp](source/9184.cpp)  |  74  |           [점화식](https://www.acmicpc.net/problem/13699)           | [cpp](source/13699.cpp) |
 
 </details>
 
