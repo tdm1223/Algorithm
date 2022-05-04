@@ -454,6 +454,7 @@
 | 159  |            [고고학자 예린](https://www.acmicpc.net/problem/20953)            |   [cpp](source/20953.cpp)   | 160  |         [Next in line](https://www.acmicpc.net/problem/6749)         |  [cpp](source/6749.cpp)   |
 | 161  |           [Balanced String](https://www.acmicpc.net/problem/17520)           |   [cpp](source/17520.cpp)   | 162  |          [괴짜 교수](https://www.acmicpc.net/problem/11109)          |  [cpp](source/11109.cpp)  |
 | 163  |                [주사위](https://www.acmicpc.net/problem/9295)                |   [cpp](source/9295.cpp)    | 164  |           [열 순서](https://www.acmicpc.net/problem/16495)           |  [cpp](source/16495.cpp)  |
+| 165  |              [녹색거탑](https://www.acmicpc.net/problem/24723)               |   [cpp](source/24723.cpp)   |      |                                                                      |                           |
 
 </details>
 
