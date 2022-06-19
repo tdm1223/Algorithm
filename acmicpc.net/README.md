@@ -273,6 +273,7 @@
 | 205  |                     [저항](https://www.acmicpc.net/problem/1076)                     | [cpp](source/1076.cpp)  | 206  |                [공사장 표지판](https://www.acmicpc.net/problem/23055)                | [cpp](source/23055.cpp) |
 | 207  |                  [Ресторан](https://www.acmicpc.net/problem/23738)                   | [cpp](source/23738.cpp) | 208  |                  [자동완성](https://www.acmicpc.net/problem/24883)                   | [cpp](source/24883.cpp) |
 | 209  |                  [팰린드롬](https://www.acmicpc.net/problem/10174)                   | [cpp](source/10174.cpp) | 210  |                  [냉동식품](https://www.acmicpc.net/problem/14625)                   | [cpp](source/14625.cpp) |
+| 211  |                  [문어 숫자](https://www.acmicpc.net/problem/1864)                   | [cpp](source/1864.cpp)  |      |                                                                                      |                         |
 
 </details>
 
