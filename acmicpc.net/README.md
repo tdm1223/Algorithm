@@ -714,7 +714,7 @@
 |  27  |       [방탈출](https://www.acmicpc.net/problem/15729)        | [cpp](source/15729.cpp) |  28  | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | [cpp](source/2720.cpp)  |
 |  29  | [욱제는 도박쟁이야!!](https://www.acmicpc.net/problem/14655) | [cpp](source/14655.cpp) |  30  |  [Project Teams](https://www.acmicpc.net/problem/20044)  | [cpp](source/20044.cpp) |
 |  31  |      [수강변경](https://www.acmicpc.net/problem/23305)       | [cpp](source/23305.cpp) |  32  |   [온라인 판매](https://www.acmicpc.net/problem/1246)    | [cpp](source/1246.cpp)  |
-|  33  |         [캠핑](https://www.acmicpc.net/problem/4796)         | [cpp](source/4796.cpp)  |      |                                                          |                         |
+|  33  |         [캠핑](https://www.acmicpc.net/problem/4796)         | [cpp](source/4796.cpp)  |  34  |   [배수 스위치](https://www.acmicpc.net/problem/12927)   | [cpp](source/12927.cpp) |
 
 </details>
 
