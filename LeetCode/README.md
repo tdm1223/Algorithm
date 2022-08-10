@@ -7,6 +7,6 @@
 |:----:|:-------------------------------------------------------------------:|:----------------------------------:|:----:|:--------------------------------------------------------------------------------:|:---------------------------------------:|
 |  1   |           [TwoSum](https://leetcode.com/problems/two-sum)           |      [cpp](source/TwoSum.cpp)      |  2   |       [PalindromeNumber](https://leetcode.com/problems/palindrome-number)        |   [cpp](source/PalindromeNumber.cpp)    |
 |  3   | [ValidParentheses](https://leetcode.com/problems/valid-parentheses) | [cpp](source/ValidParentheses.cpp) |  4   | [MiddleOfTheLinkedList](https://leetcode.com/problems/middle-of-the-linked-list) | [cpp](source/MiddleOfTheLinkedList.cpp) |
-|  5   |          [PlusOne](https://leetcode.com/problems/plus-one)          |     [cpp](source/PlusOne.cpp)      |      |                                                                                  |                                         |
+|  5   |          [PlusOne](https://leetcode.com/problems/plus-one)          |     [cpp](source/PlusOne.cpp)      |  6   |               [MinStack](https://leetcode.com/problems/min-stack)                | [cpp](source/MiddleOfTheLinkedList.cpp) |
 
 </details>
